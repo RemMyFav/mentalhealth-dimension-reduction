@@ -23,12 +23,12 @@ The output of this step is a mapping from **original survey questions to wellnes
 
 #### Possible Implementation Methods
 
-| Method / Model                     | Accuracy (TBD) | Status       | Description |
-|-----------------------------------|----------------|--------------|-------------|
-| Semantic Dimension Mapping        | TBD            | In progress  | Use a pretrained language encoder to convert each survey question and each wellness-dimension keyword/example into vector embeddings, then group questions by computing cosine similarity within the shared embedding space. |
-| LLM API with Prompt               | TBD            | Planned      | Use a large language model API with prompt-based instructions to assign survey questions to one or more wellness dimensions, primarily as a baseline and comparison method. |
-| Weakly Supervised Multi-Label Classification | TBD | Planned | Use a small set of manually labeled questions to train a lightweight multi-label classifier on top of fixed embeddings, allowing each question to be associated with multiple wellness dimensions. |
-|...|...|...|...|
+| Method / Model                                   | Accuracy (TBD) | Status       | Description |
+|-------------------------------------------------|----------------|--------------|-------------|
+| **Prototype-Based Semantic Mapping (Baseline)** | TBD            | Completed    | Use a small set of predefined wellness dimension descriptions as semantic anchors. Each survey question is embedded using a pretrained language model and mapped to the closest dimension prototypes based on cosine similarity. This method requires no labeled training data and provides an interpretable, concept-driven baseline for dimension assignment. |
+| Unsupervised Semantic Clustering                 | TBD            | In progress  | Apply unsupervised clustering (e.g., K-means) on question embeddings to discover latent semantic groupings without predefined dimension anchors. Cluster interpretations are analyzed post hoc by comparing cluster contents to the wellness dimensions. This method explores whether natural semantic structure aligns with or diverges from the predefined taxonomy. |
+| Supervised Multi-Label Classification            | TBD            | Planned     | Train a supervised multi-label classifier on top of fixed semantic embeddings using a limited set of manually annotated questions. This approach allows each question to be assigned to one or more wellness dimensions and serves as a data-driven refinement over the baseline mapping. |
+| LLM Prompt-Based Classification                  | TBD            | Planned     | Use a large language model with prompt-based instructions to assign survey questions to one or more wellness dimensions. This method is used primarily as a qualitative and comparative reference rather than a deployable system. |
 ---
 
 ### Step 2: Dimension-Level Scoring and Analysis
@@ -66,11 +66,11 @@ The definitions below are adapted from Georgia Tech materials, informed by work 
 | **Spiritual** | Seeking purpose and meaning in life, practicing self-reflection and gratitude, extending compassion toward others, and cultivating harmony with personal values and the broader world. |
 
 ## Datasets
-| Dataset | # Questions |
-|----------------------------|-------------|
-| UCLA Loneliness Scale | 20 |
-| PERMA Profiler (2016) | 23 |
-| Psychological Well-Being Scale (18 items) | 18 | 
-| Pittsburgh Sleep Quality Index (PSQI) | 10 |
-| Perceived Wellness Survey | 36 |
-| Connor–Davidson Resilience Scale (CD-RISC) | 25 |
+| Dataset | Code | # Questions |
+|----------------------------|----------|-------------|
+| UCLA Loneliness Scale | UCLA | 20 |
+| PERMA Profiler (2016) | PERMA | 23 |
+| Psychological Well-Being Scale (18 items) | PWB | 18 |
+| Pittsburgh Sleep Quality Index (PSQI) | PSS | 23 |
+| Perceived Wellness Survey | PWS | 36 |
+| Connor–Davidson Resilience Scale (CD-RISC) | CD_RISC | 25 |
