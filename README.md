@@ -49,6 +49,7 @@ These dimension-level scores are then used for analysis, such as identifying pat
 ---
 
 ## Project Structure
+```text
 .
 ├── dataloader/            # Data loading and standardization utilities
 │
@@ -72,6 +73,7 @@ These dimension-level scores are then used for analysis, such as identifying pat
 ├── README.md
 ├── requirements.txt
 └── .venv/                 # Local virtual environment
+```
 
 ## The Eight Dimensions of Wellness (Georgia Tech)
 
