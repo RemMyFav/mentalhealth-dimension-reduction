@@ -1,0 +1,146 @@
+qid,dataset,text,cluster_id,sim_to_center
+PSS_5_10,PSS,"During the past month, how often have you had trouble sleeping because of other reasons?",0,0.9185233
+PSS_5_2,PSS,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",0,0.90209275
+PSS_5_1,PSS,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",0,0.85761005
+PSS_5_8,PSS,"During the past month, how often have you had trouble sleeping because you have bad dreams?",0,0.845484
+PSS_2,PSS,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",0,0.8321174
+PSS_5_9,PSS,"During the past month, how often have you had trouble sleeping because you have pain?",0,0.8279098
+PSS_5_4,PSS,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",0,0.82742494
+PSS_5_3,PSS,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",0,0.8254268
+PSS_5_5,PSS,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",0,0.81796503
+PSS_5_6,PSS,"During the past month, how often have you had trouble sleeping because you feel too cold?",0,0.81606364
+PSS_4,PSS,"During the past month, how many hours of actual sleep did you get at night?",0,0.810354
+PSS_10_5,PSS,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",0,0.8097801
+PSS_5_7,PSS,"During the past month, how often have you had trouble sleeping because you feel too hot?",0,0.8029641
+PSS_1,PSS,"During the past month, what time have you usually gone to bed at night?",0,0.7711802
+PSS_7,PSS,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",0,0.75634897
+PSS_10_4,PSS,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",0,0.7519065
+PSS_6,PSS,"During the past month, how would you rate your sleep quality overall?",0,0.75120544
+PSS_10_1,PSS,"During the past month, how often has your bed partner or room mate reported loud snoring?",0,0.71629703
+PSS_8,PSS,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",0,0.7090033
+PSS_10_2,PSS,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",0,0.7083204
+PSS_10_3,PSS,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",0,0.68257135
+PSS_3,PSS,"During the past month, what time have you usually gotten up in the morning?",0,0.6725155
+CD_RISC_21,CD-RISC,I have a strong sense of purpose in life.,1,0.84671456
+PWS_35,PWS,It seems that my life has always had purpose.,1,0.8223536
+PWS_5,PWS,I believe there is a real purpose for my life.,1,0.8018999
+PERMA3_1,PERMA,To what extent do you lead a purposeful and meaningful life?,1,0.75611776
+PWS_6,PWS,I will always seek out activities that challenge me to think and reason.,1,0.7215538
+CD_RISC_3,CD-RISC,Sometimes fate or God helps me.,1,0.6997405
+CD_RISC_24,CD-RISC,I work to attain goals.,1,0.669772
+PWS_23,PWS,I feel a sense of mission about my future.,1,0.64543176
+CD_RISC_9,CD-RISC,I believe most things happen for a reason.,1,0.6082703
+PWS_13,PWS,I always look on the bright side of things.,1,0.5673382
+CD_RISC_20,CD-RISC,I have to act on a hunch.,1,0.46380797
+UCLA_16,UCLA,I feel isolated from others,2,0.7999954
+UCLA_19,UCLA,I feel shut out and excluded by others,2,0.72683805
+UCLA_11,UCLA,I feel completely alone,2,0.70758355
+UCLA_3,UCLA,I cannot tolerate being so alone,2,0.705943
+UCLA_20,UCLA,People are around me but not with me,2,0.7029298
+UCLA_4,UCLA,I lack companionship,2,0.6818063
+UCLA_8,UCLA,I am no longer close to anyone,2,0.67292213
+UCLA_5,UCLA,I feel as if nobody really understands me,2,0.64844966
+UCLA_1,UCLA,I am unhappy doing so many things alone,2,0.64189684
+UCLA_18,UCLA,It is difficult for me to make friends,2,0.62896395
+UCLA_17,UCLA,I am unhappy being so withdrawn,2,0.611223
+PWB_3,PWB,"Some people wander aimlessly through life, but I am not one of them.",2,0.58802164
+PWS_27,PWS,"In the past, I have not always had friends with whom I could share my joys and sorrows.",2,0.5837405
+PWB_6,PWB,Maintaining close relationships has been difficult and frustrating for me.,2,0.5776286
+PWS_2,PWS,There have been times when I felt inferior to most of the people I knew.,2,0.5676672
+PWB_16,PWB,I have not experienced many warm and trusting relationships with others.,2,0.56759965
+UCLA_13,UCLA,My social relationships are superficial,2,0.56351376
+UCLA_10,UCLA,I feel left out,2,0.5509443
+UCLA_9,UCLA,My interests and ideas are not shared by those around me,2,0.5460165
+PWS_32,PWS,"In the past, I have felt sure of myself among strangers.",2,0.54281974
+UCLA_2,UCLA,I have nobody to talk to,2,0.542611
+UCLA_12,UCLA,I am unable to reach out and communicate with those around me,2,0.520295
+UCLA_15,UCLA,No one really knows me well,2,0.51342964
+CD_RISC_22,CD-RISC,I feel like I am in control.,2,0.5078827
+UCLA_14,UCLA,I feel starved for company,2,0.4916154
+PWS_16,PWS,My physical health is excellent.,3,0.8883558
+PWS_22,PWS,"Compared to people I know, my past physical health has been excellent.",3,0.85758793
+PWS_34,PWS,I expect my physical health to get worse.,3,0.83946824
+PERMA4_1,PERMA,How satisfied are you with your current physical health?,3,0.8182156
+PWS_28,PWS,I expect to always be physically healthy.,3,0.80868113
+PWS_10,PWS,My body seems to resist physical illness very well.,3,0.78505945
+PERMA2_1,PERMA,How would you say your health is?,3,0.75451857
+PWS_4,PWS,My physical health has restricted me in the past.,3,0.7476345
+PERMA6_1,PERMA,"Compared to others of your same age and sex, how is your health?",3,0.71131724
+PERMA1_3,PERMA,How often do you feel joyful?,4,0.813984
+PERMA5_1,PERMA,How often do you feel positive?,4,0.78983516
+PERMA5_4,PERMA,How often do you feel sad?,4,0.732255
+PERMA1_1,PERMA,How much of the time do you feel you are making progress towards accomplishing your goals?,4,0.70672894
+PWS_18,PWS,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",4,0.6948561
+PERMA5_2,PERMA,How often do you feel angry?,4,0.6937703
+PERMA1_4,PERMA,How often do you feel anxious?,4,0.6900205
+PERMA3_5,PERMA,How lonely do you feel in your daily life?,4,0.68773925
+PERMA3_4,PERMA,To what extent do you feel excited and interested in things?,4,0.6817174
+PERMA1_5,PERMA,How often do you achieve the important goals you have set for yourself?,4,0.68050516
+PERMA7_4,PERMA,To what extent do you feel contented?,4,0.66396004
+PERMA7_3,PERMA,To what extent do you feel loved?,4,0.65330297
+PERMA1_2,PERMA,How often do you become absorbed in what you are doing?,4,0.6526418
+PERMA5_5,PERMA,How often do you lose track of time while doing something you enjoy?,4,0.63938403
+PERMA5_3,PERMA,How often are you able to handle your responsibilities?,4,0.63882077
+PSS_9,PSS,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",4,0.62546
+PERMA7_2,PERMA,How satisfied are you with your personal relationships?,4,0.59402096
+PERMA8_1,PERMA,"Taking all things together, how happy would you say you are?",4,0.5927478
+PWS_24,PWS,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,4,0.5819051
+PWS_36,PWS,My life has often seemed void of positive mental stimulation.,4,0.57845926
+PWS_7,PWS,I rarely count on good things happening to me.,4,0.574821
+PWB_11,PWB,"For me, life has been a continuous process of learning, changing, and growth.",5,0.74448216
+PWB_10,PWB,I sometimes feel as if I've done all there is to do in life.,5,0.74419606
+PWS_29,PWS,I have felt in the past that my life was meaningless.,5,0.7326896
+PWS_11,PWS,Life does not hold much future promise for me.,5,0.70128095
+PWS_25,PWS,"In the past, I hardly ever expected things to go my way.",5,0.69884145
+PWB_5,PWB,In many ways I feel disappointed about my achievements in life.,5,0.6797878
+PWB_14,PWB,I gave up trying to make big improvements or changes in my life a long time ago.,5,0.6740259
+PERMA3_3,PERMA,To what extent do you feel that what you do in your life is valuable and worthwhile?,5,0.67328787
+PWB_2,PWB,"When I look at the story of my life, I am pleased with how things have turned out so far.",5,0.67047095
+PWB_7,PWB,I live life one day at a time and don't really think about the future.,5,0.66601944
+PWB_4,PWB,The demands of everyday life often get me down.,5,0.657241
+PWS_1,PWS,I am always optimistic about my future.,5,0.6333991
+CD_RISC_12,CD-RISC,"Even when hopeless, I do not give up.",5,0.6329335
+PERMA7_1,PERMA,To what extent do you feel you have a sense of direction in your life?,5,0.6181886
+PWS_17,PWS,Sometimes I don't understand what life is all about.,5,0.6105367
+PWS_31,PWS,Things will not work out the way I want them to in the future.,5,0.5473057
+PWS_19,PWS,"In the past, I have expected the best.",5,0.45966104
+CD_RISC_17,CD-RISC,I think of myself as a strong person when dealing with life's challenges and difficulties.,6,0.78596026
+PWS_8,PWS,"In general, I feel confident about my abilities.",6,0.70748407
+PWB_12,PWB,I think it is important to have new experiences that challenge how I think about myself and the world.,6,0.67439544
+PWS_30,PWS,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",6,0.64789504
+CD_RISC_11,CD-RISC,"I believe I can achieve my goals, even if there are obstacles.",6,0.6423262
+CD_RISC_4,CD-RISC,I can deal with whatever comes my way.,6,0.63860065
+PWB_9,PWB,I am good at managing the responsibilities of daily life.,6,0.62141687
+CD_RISC_16,CD-RISC,I am not easily discouraged by failure.,6,0.6203421
+CD_RISC_18,CD-RISC,I make unpopular or difficult decisions.,6,0.61658645
+CD_RISC_19,CD-RISC,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",6,0.6131627
+PWS_20,PWS,I am uncertain about my ability to do things well in the future.,6,0.6078764
+CD_RISC_7,CD-RISC,Having to cope with stress can make me stronger.,6,0.5786122
+PWB_8,PWB,"In general, I feel I am in charge of the situation in which I live.",6,0.57450974
+PWB_15,PWB,I tend to be influenced by people with strong opinions.,6,0.5650476
+CD_RISC_10,CD-RISC,"I make my best effort, no matter what.",6,0.55843174
+CD_RISC_14,CD-RISC,"Under pressure, I stay focused and think clearly.",6,0.55810624
+CD_RISC_6,CD-RISC,I try to see the humorous side of things when I am faced with problems.,6,0.5558528
+CD_RISC_25,CD-RISC,I take pride in my achievements.,6,0.55368805
+PWS_14,PWS,I sometimes think I am a worthless individual.,6,0.5437961
+PWB_17,PWB,"I have confidence in my own opinions, even if they are different from the way most other people think.",6,0.54307413
+PWB_1,PWB,I like most parts of my personality.,6,0.5394659
+PWB_18,PWB,"I judge myself by what I think is important, not by the values of what others think is important.",6,0.5384594
+CD_RISC_5,CD-RISC,Past successes give me confidence.,6,0.5347811
+CD_RISC_15,CD-RISC,I prefer to take the lead in problem-solving.,6,0.5310412
+PWS_26,PWS,I will always be secure with who I am.,6,0.5277492
+PWS_12,PWS,I avoid activities which require me to concentrate.,6,0.50170803
+CD_RISC_1,CD-RISC,I am able to adapt when changes occur.,6,0.4957647
+CD_RISC_8,CD-RISC,"I tend to bounce back after illness, injury, or other hardships.",6,0.48364386
+CD_RISC_23,CD-RISC,I like challenges.,6,0.47322136
+PWB_13,PWB,"People would describe me as a giving person, willing to share my time with others.",6,0.4718362
+CD_RISC_13,CD-RISC,"In times of stress, I know where to find help.",6,0.4203933
+PWS_3,PWS,Members of my family come to me for support.,7,0.804515
+PWS_21,PWS,My family has been available to support me in the past.,7,0.7711259
+PWS_33,PWS,My friends will be there for me when I need help.,7,0.7250931
+PWS_9,PWS,Sometimes I wonder if my family will really be there for me when I am in need.,7,0.7163917
+PERMA3_2,PERMA,To what extent do you receive help and support from others when you need it?,7,0.6767772
+UCLA_6,UCLA,I find myself waiting for people to call or write,7,0.574665
+PWS_15,PWS,My friends know they can always confide in me and ask me for advice.,7,0.5420861
+CD_RISC_2,CD-RISC,I have one close and secure relationship.,7,0.49576876
+UCLA_7,UCLA,There is no one I can turn to,7,0.46373814

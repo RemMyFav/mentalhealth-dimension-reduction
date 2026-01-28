@@ -48,6 +48,31 @@ These dimension-level scores are then used for analysis, such as identifying pat
 |...|...|
 ---
 
+## Project Structure
+.
+├── dataloader/            # Data loading and standardization utilities
+│
+├── model/                 # Modeling and semantic representation methods
+│   ├── classification/    # (Planned) Supervised / multi-label classification
+│   ├── clustering/        # Unsupervised semantic clustering
+│   └── mapping/           # Prototype-based semantic dimension mapping
+│
+├── question_database/     # Survey question corpus at different processing stages
+│   ├── raw/               # Original survey questions
+│   ├── preprocess/        # Cleaned and normalized questions
+│   ├── processed/         # Modeling-ready questions
+│   └── source/            # Survey metadata and references
+│
+├── results/               # Experimental outputs and analysis results
+│   ├── clustering/
+│   └── mapping/
+│
+├── logs/                  # Experiment logs and diagnostics
+│
+├── README.md
+├── requirements.txt
+└── .venv/                 # Local virtual environment
+
 ## The Eight Dimensions of Wellness (Georgia Tech)
 
 This project adopts the **Eight Dimensions of Wellness framework used by Georgia Tech** to guide the semantic reduction of mental health survey questions. The framework encourages a holistic view of wellness, recognizing that well-being spans emotional, physical, social, and contextual domains, and that individual wellness must be understood in relation to broader environments and systems.
@@ -74,3 +99,4 @@ The definitions below are adapted from Georgia Tech materials, informed by work 
 | Pittsburgh Sleep Quality Index (PSQI) | PSS | 23 |
 | Perceived Wellness Survey | PWS | 36 |
 | Connor–Davidson Resilience Scale (CD-RISC) | CD_RISC | 25 |
+
