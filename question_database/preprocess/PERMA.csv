@@ -1,0 +1,24 @@
+question,source
+"How much of the time do you feel you are making progress towards accomplishing your goals?",PERMA1_1
+"How often do you become absorbed in what you are doing?",PERMA1_2
+"How often do you feel joyful?",PERMA1_3
+"How often do you feel anxious?",PERMA1_4
+"How often do you achieve the important goals you have set for yourself?",PERMA1_5
+"How would you say your health is?",PERMA2_1
+"To what extent do you lead a purposeful and meaningful life?",PERMA3_1
+"To what extent do you receive help and support from others when you need it?",PERMA3_2
+"To what extent do you feel that what you do in your life is valuable and worthwhile?",PERMA3_3
+"To what extent do you feel excited and interested in things?",PERMA3_4
+"How lonely do you feel in your daily life?",PERMA3_5
+"How satisfied are you with your current physical health?",PERMA4_1
+"How often do you feel positive?",PERMA5_1
+"How often do you feel angry?",PERMA5_2
+"How often are you able to handle your responsibilities?",PERMA5_3
+"How often do you feel sad?",PERMA5_4
+"How often do you lose track of time while doing something you enjoy?",PERMA5_5
+"Compared to others of your same age and sex, how is your health?",PERMA6_1
+"To what extent do you feel you have a sense of direction in your life?",PERMA7_1
+"How satisfied are you with your personal relationships?",PERMA7_2
+"To what extent do you feel loved?",PERMA7_3
+"To what extent do you feel contented?",PERMA7_4
+"Taking all things together, how happy would you say you are?",PERMA8_1

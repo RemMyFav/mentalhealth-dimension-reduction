@@ -1,0 +1,146 @@
+qid,dataset,text,dim_top1,dim_top1_score,dim_multi,dim_multi_scores
+CD_RISC_1,CD-RISC,I am able to adapt when changes occur.,Intellectual,0.16210978,"['Intellectual', 'Occupational']","[0.16210977733135223, 0.13327734172344208]"
+CD_RISC_2,CD-RISC,I have one close and secure relationship.,Social,0.24629848,['Social'],[0.24629847705364227]
+CD_RISC_3,CD-RISC,Sometimes fate or God helps me.,Spiritual,0.33445626,['Spiritual'],[0.33445626497268677]
+CD_RISC_4,CD-RISC,I can deal with whatever comes my way.,Social,0.25344187,"['Social', 'Environmental']","[0.25344187021255493, 0.21439789235591888]"
+CD_RISC_5,CD-RISC,Past successes give me confidence.,Occupational,0.22219299,['Occupational'],[0.22219298779964447]
+CD_RISC_6,CD-RISC,I try to see the humorous side of things when I am faced with problems.,Intellectual,0.19524841,"['Intellectual', 'Emotional']","[0.19524841010570526, 0.18635015189647675]"
+CD_RISC_7,CD-RISC,Having to cope with stress can make me stronger.,Emotional,0.34134805,['Emotional'],[0.3413480520248413]
+CD_RISC_8,CD-RISC,"I tend to bounce back after illness, injury, or other hardships.",Physical,0.26813182,['Physical'],[0.268131822347641]
+CD_RISC_9,CD-RISC,I believe most things happen for a reason.,Spiritual,0.15325081,"['Spiritual', 'Emotional']","[0.1532508134841919, 0.14529845118522644]"
+CD_RISC_10,CD-RISC,"I make my best effort, no matter what.",Occupational,0.23859227,"['Occupational', 'Intellectual']","[0.238592267036438, 0.21458716690540314]"
+CD_RISC_11,CD-RISC,"I believe I can achieve my goals, even if there are obstacles.",Occupational,0.2930573,"['Occupational', 'Spiritual']","[0.29305729269981384, 0.2585805058479309]"
+CD_RISC_12,CD-RISC,"Even when hopeless, I do not give up.",Emotional,0.19630536,"['Emotional', 'Occupational']","[0.19630536437034607, 0.17285574972629547]"
+CD_RISC_13,CD-RISC,"In times of stress, I know where to find help.",Emotional,0.3311177,['Emotional'],[0.3311176896095276]
+CD_RISC_14,CD-RISC,"Under pressure, I stay focused and think clearly.",Intellectual,0.28108034,['Intellectual'],[0.28108033537864685]
+CD_RISC_15,CD-RISC,I prefer to take the lead in problem-solving.,Intellectual,0.4306301,['Intellectual'],[0.430630087852478]
+CD_RISC_16,CD-RISC,I am not easily discouraged by failure.,Occupational,0.23191649,"['Occupational', 'Intellectual']","[0.23191648721694946, 0.2186332643032074]"
+CD_RISC_17,CD-RISC,I think of myself as a strong person when dealing with life's challenges and difficulties.,Emotional,0.40590182,"['Emotional', 'Spiritual']","[0.40590181946754456, 0.3825744092464447]"
+CD_RISC_18,CD-RISC,I make unpopular or difficult decisions.,Emotional,0.11806891,"['Emotional', 'Financial']","[0.11806891113519669, 0.10957948863506317]"
+CD_RISC_19,CD-RISC,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",Emotional,0.47617176,['Emotional'],[0.4761717617511749]
+CD_RISC_20,CD-RISC,I have to act on a hunch.,Social,0.13629419,"['Social', 'Physical']","[0.1362941861152649, 0.11993560194969177]"
+CD_RISC_21,CD-RISC,I have a strong sense of purpose in life.,Spiritual,0.42030883,['Spiritual'],[0.42030882835388184]
+CD_RISC_22,CD-RISC,I feel like I am in control.,Emotional,0.13204403,"['Emotional', 'Social']","[0.13204403221607208, 0.11052579432725906]"
+CD_RISC_23,CD-RISC,I like challenges.,Environmental,0.18829484,"['Environmental', 'Intellectual']","[0.18829484283924103, 0.17057128250598907]"
+CD_RISC_24,CD-RISC,I work to attain goals.,Occupational,0.48105428,['Occupational'],[0.48105427622795105]
+CD_RISC_25,CD-RISC,I take pride in my achievements.,Occupational,0.33956105,['Occupational'],[0.3395610451698303]
+PERMA1_1,PERMA,How much of the time do you feel you are making progress towards accomplishing your goals?,Occupational,0.30465963,['Occupational'],[0.3046596348285675]
+PERMA1_2,PERMA,How often do you become absorbed in what you are doing?,Occupational,0.3071052,['Occupational'],[0.3071052134037018]
+PERMA1_3,PERMA,How often do you feel joyful?,Emotional,0.27369648,"['Emotional', 'Spiritual']","[0.2736964821815491, 0.23308789730072021]"
+PERMA1_4,PERMA,How often do you feel anxious?,Emotional,0.31268772,['Emotional'],[0.3126877248287201]
+PERMA1_5,PERMA,How often do you achieve the important goals you have set for yourself?,Occupational,0.35776758,['Occupational'],[0.35776758193969727]
+PERMA2_1,PERMA,How would you say your health is?,Physical,0.488391,['Physical'],[0.4883910119533539]
+PERMA3_1,PERMA,To what extent do you lead a purposeful and meaningful life?,Spiritual,0.54844546,['Spiritual'],[0.548445463180542]
+PERMA3_2,PERMA,To what extent do you receive help and support from others when you need it?,Social,0.45567968,['Social'],[0.45567968487739563]
+PERMA3_3,PERMA,To what extent do you feel that what you do in your life is valuable and worthwhile?,Occupational,0.5448938,['Occupational'],[0.5448938012123108]
+PERMA3_4,PERMA,To what extent do you feel excited and interested in things?,Emotional,0.34673446,"['Emotional', 'Occupational']","[0.3467344641685486, 0.32618364691734314]"
+PERMA3_5,PERMA,How lonely do you feel in your daily life?,Emotional,0.28641284,"['Emotional', 'Social']","[0.2864128351211548, 0.28035545349121094]"
+PERMA4_1,PERMA,How satisfied are you with your current physical health?,Physical,0.50651914,['Physical'],[0.5065191388130188]
+PERMA5_1,PERMA,How often do you feel positive?,Emotional,0.24494468,"['Emotional', 'Spiritual']","[0.24494467675685883, 0.23924311995506287]"
+PERMA5_2,PERMA,How often do you feel angry?,Emotional,0.29849964,['Emotional'],[0.2984996438026428]
+PERMA5_3,PERMA,How often are you able to handle your responsibilities?,Occupational,0.27843466,"['Occupational', 'Financial']","[0.2784346640110016, 0.25181543827056885]"
+PERMA5_4,PERMA,How often do you feel sad?,Emotional,0.31326464,['Emotional'],[0.3132646381855011]
+PERMA5_5,PERMA,How often do you lose track of time while doing something you enjoy?,Occupational,0.23917963,"['Occupational', 'Intellectual']","[0.23917962610721588, 0.2153955101966858]"
+PERMA6_1,PERMA,"Compared to others of your same age and sex, how is your health?",Physical,0.310792,['Physical'],[0.3107919991016388]
+PERMA7_1,PERMA,To what extent do you feel you have a sense of direction in your life?,Spiritual,0.31080428,"['Spiritual', 'Intellectual']","[0.3108042776584625, 0.2705245316028595]"
+PERMA7_2,PERMA,How satisfied are you with your personal relationships?,Emotional,0.2589761,"['Emotional', 'Social']","[0.2589761018753052, 0.252469003200531]"
+PERMA7_3,PERMA,To what extent do you feel loved?,Emotional,0.39413172,['Emotional'],[0.39413172006607056]
+PERMA7_4,PERMA,To what extent do you feel contented?,Emotional,0.36825708,['Emotional'],[0.368257075548172]
+PERMA8_1,PERMA,"Taking all things together, how happy would you say you are?",Emotional,0.2881245,"['Emotional', 'Occupational']","[0.2881245017051697, 0.26325905323028564]"
+PSS_1,PSS,"During the past month, what time have you usually gone to bed at night?",Physical,0.060254745,"['Physical', 'Spiritual']","[0.060254745185375214, 0.0557960607111454]"
+PSS_2,PSS,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",Physical,0.037030656,"['Physical', 'Emotional']","[0.0370306558907032, 0.02941420115530491]"
+PSS_3,PSS,"During the past month, what time have you usually gotten up in the morning?",Physical,0.061311487,"['Physical', 'Occupational']","[0.06131148710846901, 0.04639473930001259]"
+PSS_4,PSS,"During the past month, how many hours of actual sleep did you get at night?",Emotional,0.072778456,"['Emotional', 'Physical']","[0.07277845591306686, 0.06688401848077774]"
+PSS_5_1,PSS,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",Physical,0.053286582,"['Physical', 'Emotional']","[0.053286582231521606, 0.007117320783436298]"
+PSS_5_2,PSS,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",Physical,0.030563792,"['Physical', 'Emotional']","[0.03056379221379757, 0.019567742943763733]"
+PSS_5_3,PSS,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",Physical,0.08484376,['Physical'],[0.08484376221895218]
+PSS_5_4,PSS,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",Emotional,0.0725808,"['Emotional', 'Physical']","[0.07258079946041107, 0.07133246213197708]"
+PSS_5_5,PSS,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",Emotional,0.026046531,['Emotional'],[0.02604653127491474]
+PSS_5_6,PSS,"During the past month, how often have you had trouble sleeping because you feel too cold?",Emotional,0.060958054,['Emotional'],[0.060958053916692734]
+PSS_5_7,PSS,"During the past month, how often have you had trouble sleeping because you feel too hot?",Emotional,0.07340012,"['Emotional', 'Physical']","[0.073400117456913, 0.06311289221048355]"
+PSS_5_8,PSS,"During the past month, how often have you had trouble sleeping because you have bad dreams?",Emotional,0.06299344,['Emotional'],[0.06299343705177307]
+PSS_5_9,PSS,"During the past month, how often have you had trouble sleeping because you have pain?",Emotional,0.06272097,"['Emotional', 'Physical']","[0.06272096931934357, 0.05319614335894585]"
+PSS_5_10,PSS,"During the past month, how often have you had trouble sleeping because of other reasons?",Physical,0.05756942,"['Physical', 'Emotional']","[0.05756942182779312, 0.05601472407579422]"
+PSS_6,PSS,"During the past month, how would you rate your sleep quality overall?",Physical,0.21071269,['Physical'],[0.21071268618106842]
+PSS_7,PSS,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",Physical,0.07858546,"['Physical', 'Emotional']","[0.07858546078205109, 0.04711337015032768]"
+PSS_8,PSS,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",Physical,0.25039035,['Physical'],[0.25039035081863403]
+PSS_9,PSS,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",Emotional,0.22181347,"['Emotional', 'Intellectual']","[0.22181347012519836, 0.2134215235710144]"
+PSS_10_1,PSS,"During the past month, how often has your bed partner or room mate reported loud snoring?",Physical,0.001973629,"['Physical', 'Emotional']","[0.0019736289978027344, -0.03529447689652443]"
+PSS_10_2,PSS,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",Emotional,0.035377096,"['Emotional', 'Physical']","[0.03537709638476372, 0.014515072107315063]"
+PSS_10_3,PSS,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",Physical,0.033809144,['Physical'],[0.03380914404988289]
+PSS_10_4,PSS,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",Emotional,0.030852394,"['Emotional', 'Physical']","[0.030852394178509712, 0.002244344213977456]"
+PSS_10_5,PSS,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",Emotional,0.023788013,"['Emotional', 'Physical']","[0.02378801256418228, 0.01596267893910408]"
+PWB_1,PWB,I like most parts of my personality.,Social,0.20046593,"['Social', 'Emotional']","[0.20046593248844147, 0.18656334280967712]"
+PWB_2,PWB,"When I look at the story of my life, I am pleased with how things have turned out so far.",Occupational,0.22757068,"['Occupational', 'Emotional']","[0.22757068276405334, 0.19317851960659027]"
+PWB_3,PWB,"Some people wander aimlessly through life, but I am not one of them.",Emotional,0.24843319,"['Emotional', 'Occupational']","[0.2484331876039505, 0.24074584245681763]"
+PWB_4,PWB,The demands of everyday life often get me down.,Occupational,0.31360325,['Occupational'],[0.3136032521724701]
+PWB_5,PWB,In many ways I feel disappointed about my achievements in life.,Occupational,0.29843238,['Occupational'],[0.2984323799610138]
+PWB_6,PWB,Maintaining close relationships has been difficult and frustrating for me.,Social,0.2182919,"['Social', 'Emotional']","[0.21829189360141754, 0.216188445687294]"
+PWB_7,PWB,I live life one day at a time and don't really think about the future.,Intellectual,0.24231414,"['Intellectual', 'Emotional']","[0.2423141449689865, 0.21928182244300842]"
+PWB_8,PWB,"In general, I feel I am in charge of the situation in which I live.",Emotional,0.25398368,"['Emotional', 'Environmental']","[0.25398367643356323, 0.20787352323532104]"
+PWB_9,PWB,I am good at managing the responsibilities of daily life.,Occupational,0.45505184,['Occupational'],[0.45505183935165405]
+PWB_10,PWB,I sometimes feel as if I've done all there is to do in life.,Occupational,0.37728897,['Occupational'],[0.37728896737098694]
+PWB_11,PWB,"For me, life has been a continuous process of learning, changing, and growth.",Intellectual,0.37903172,['Intellectual'],[0.3790317177772522]
+PWB_12,PWB,I think it is important to have new experiences that challenge how I think about myself and the world.,Spiritual,0.37774554,"['Spiritual', 'Intellectual']","[0.37774553894996643, 0.3776414096355438]"
+PWB_13,PWB,"People would describe me as a giving person, willing to share my time with others.",Spiritual,0.3632976,"['Spiritual', 'Social']","[0.36329761147499084, 0.32751286029815674]"
+PWB_14,PWB,I gave up trying to make big improvements or changes in my life a long time ago.,Occupational,0.27409488,['Occupational'],[0.2740948796272278]
+PWB_15,PWB,I tend to be influenced by people with strong opinions.,Social,0.22228092,['Social'],[0.22228091955184937]
+PWB_16,PWB,I have not experienced many warm and trusting relationships with others.,Social,0.30861467,['Social'],[0.30861467123031616]
+PWB_17,PWB,"I have confidence in my own opinions, even if they are different from the way most other people think.",Social,0.20281585,"['Social', 'Emotional']","[0.20281584560871124, 0.18666277825832367]"
+PWB_18,PWB,"I judge myself by what I think is important, not by the values of what others think is important.",Spiritual,0.30868772,['Spiritual'],[0.3086877167224884]
+PWS_1,PWS,I am always optimistic about my future.,Occupational,0.23824437,"['Occupational', 'Intellectual']","[0.23824436962604523, 0.22427868843078613]"
+PWS_2,PWS,There have been times when I felt inferior to most of the people I knew.,Social,0.20472604,"['Social', 'Emotional']","[0.20472604036331177, 0.20152057707309723]"
+PWS_3,PWS,Members of my family come to me for support.,Social,0.3287768,['Social'],[0.3287768065929413]
+PWS_4,PWS,My physical health has restricted me in the past.,Physical,0.45973873,['Physical'],[0.45973873138427734]
+PWS_5,PWS,I believe there is a real purpose for my life.,Spiritual,0.4280746,['Spiritual'],[0.42807459831237793]
+PWS_6,PWS,I will always seek out activities that challenge me to think and reason.,Occupational,0.38966396,"['Occupational', 'Spiritual']","[0.389663964509964, 0.37376147508621216]"
+PWS_7,PWS,I rarely count on good things happening to me.,Emotional,0.1591528,"['Emotional', 'Occupational']","[0.1591528058052063, 0.15754738450050354]"
+PWS_8,PWS,"In general, I feel confident about my abilities.",Emotional,0.31312636,['Emotional'],[0.3131263554096222]
+PWS_9,PWS,Sometimes I wonder if my family will really be there for me when I am in need.,Spiritual,0.22983466,['Spiritual'],[0.2298346608877182]
+PWS_10,PWS,My body seems to resist physical illness very well.,Physical,0.37070483,['Physical'],[0.3707048296928406]
+PWS_11,PWS,Life does not hold much future promise for me.,Occupational,0.20297964,"['Occupational', 'Emotional']","[0.20297963917255402, 0.2024499922990799]"
+PWS_12,PWS,I avoid activities which require me to concentrate.,Occupational,0.3390147,"['Occupational', 'Intellectual']","[0.3390147089958191, 0.293317049741745]"
+PWS_13,PWS,I always look on the bright side of things.,Occupational,0.19066471,"['Occupational', 'Emotional']","[0.19066470861434937, 0.17283104360103607]"
+PWS_14,PWS,I sometimes think I am a worthless individual.,Occupational,0.2880111,['Occupational'],[0.2880111038684845]
+PWS_15,PWS,My friends know they can always confide in me and ask me for advice.,Social,0.21368389,['Social'],[0.21368388831615448]
+PWS_16,PWS,My physical health is excellent.,Physical,0.56319314,['Physical'],[0.563193142414093]
+PWS_17,PWS,Sometimes I don't understand what life is all about.,Intellectual,0.2550465,"['Intellectual', 'Emotional']","[0.2550464868545532, 0.24933630228042603]"
+PWS_18,PWS,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",Intellectual,0.47063622,['Intellectual'],[0.4706362187862396]
+PWS_19,PWS,"In the past, I have expected the best.",Emotional,0.08215294,"['Emotional', 'Environmental']","[0.08215294033288956, 0.046376898884773254]"
+PWS_20,PWS,I am uncertain about my ability to do things well in the future.,Occupational,0.34847328,"['Occupational', 'Intellectual']","[0.34847328066825867, 0.32414889335632324]"
+PWS_21,PWS,My family has been available to support me in the past.,Social,0.24804266,['Social'],[0.24804265797138214]
+PWS_22,PWS,"Compared to people I know, my past physical health has been excellent.",Physical,0.45644772,['Physical'],[0.4564477205276489]
+PWS_23,PWS,I feel a sense of mission about my future.,Spiritual,0.3234043,"['Spiritual', 'Environmental']","[0.32340431213378906, 0.27999749779701233]"
+PWS_24,PWS,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,Occupational,0.22538437,"['Occupational', 'Financial']","[0.22538436949253082, 0.20588961243629456]"
+PWS_25,PWS,"In the past, I hardly ever expected things to go my way.",Occupational,0.17206895,['Occupational'],[0.17206895351409912]
+PWS_26,PWS,I will always be secure with who I am.,Social,0.17069131,"['Social', 'Emotional']","[0.17069131135940552, 0.15013112127780914]"
+PWS_27,PWS,"In the past, I have not always had friends with whom I could share my joys and sorrows.",Social,0.29801968,['Social'],[0.298019677400589]
+PWS_28,PWS,I expect to always be physically healthy.,Physical,0.49135843,['Physical'],[0.4913584291934967]
+PWS_29,PWS,I have felt in the past that my life was meaningless.,Occupational,0.31247628,"['Occupational', 'Spiritual']","[0.3124762773513794, 0.28600165247917175]"
+PWS_30,PWS,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",Intellectual,0.56417835,['Intellectual'],[0.5641783475875854]
+PWS_31,PWS,Things will not work out the way I want them to in the future.,Occupational,0.16734156,"['Occupational', 'Financial']","[0.16734156012535095, 0.13751716911792755]"
+PWS_32,PWS,"In the past, I have felt sure of myself among strangers.",Social,0.30956274,"['Social', 'Spiritual']","[0.3095627427101135, 0.26900458335876465]"
+PWS_33,PWS,My friends will be there for me when I need help.,Social,0.28001845,['Social'],[0.2800184488296509]
+PWS_34,PWS,I expect my physical health to get worse.,Physical,0.45597145,['Physical'],[0.45597144961357117]
+PWS_35,PWS,It seems that my life has always had purpose.,Occupational,0.37098336,"['Occupational', 'Spiritual']","[0.370983362197876, 0.3530731499195099]"
+PWS_36,PWS,My life has often seemed void of positive mental stimulation.,Spiritual,0.33773652,"['Spiritual', 'Occupational']","[0.3377365171909332, 0.3067057132720947]"
+UCLA_1,UCLA,I am unhappy doing so many things alone,Occupational,0.25402087,['Occupational'],[0.2540208697319031]
+UCLA_2,UCLA,I have nobody to talk to,Social,0.18311766,['Social'],[0.18311765789985657]
+UCLA_3,UCLA,I cannot tolerate being so alone,Social,0.25932163,['Social'],[0.2593216300010681]
+UCLA_4,UCLA,I lack companionship,Social,0.28112096,['Social'],[0.2811209559440613]
+UCLA_5,UCLA,I feel as if nobody really understands me,Social,0.2621275,"['Social', 'Spiritual']","[0.26212748885154724, 0.21528780460357666]"
+UCLA_6,UCLA,I find myself waiting for people to call or write,Social,0.2556571,['Social'],[0.2556571066379547]
+UCLA_7,UCLA,There is no one I can turn to,Spiritual,0.107304804,"['Spiritual', 'Social']","[0.10730480402708054, 0.08513367921113968]"
+UCLA_8,UCLA,I am no longer close to anyone,Social,0.22459458,['Social'],[0.2245945781469345]
+UCLA_9,UCLA,My interests and ideas are not shared by those around me,Intellectual,0.34970897,['Intellectual'],[0.3497089743614197]
+UCLA_10,UCLA,I feel left out,Social,0.23121002,"['Social', 'Intellectual']","[0.23121002316474915, 0.2199254184961319]"
+UCLA_11,UCLA,I feel completely alone,Social,0.238162,['Social'],[0.23816199600696564]
+UCLA_12,UCLA,I am unable to reach out and communicate with those around me,Social,0.25229287,['Social'],[0.2522928714752197]
+UCLA_13,UCLA,My social relationships are superficial,Social,0.3645834,['Social'],[0.36458340287208557]
+UCLA_14,UCLA,I feel starved for company,Financial,0.14033575,"['Financial', 'Occupational']","[0.14033575356006622, 0.1341245025396347]"
+UCLA_15,UCLA,No one really knows me well,Intellectual,0.13816299,"['Intellectual', 'Social']","[0.1381629854440689, 0.12123215198516846]"
+UCLA_16,UCLA,I feel isolated from others,Social,0.40780118,['Social'],[0.40780118107795715]
+UCLA_17,UCLA,I am unhappy being so withdrawn,Emotional,0.1407493,"['Emotional', 'Occupational']","[0.14074930548667908, 0.10527370125055313]"
+UCLA_18,UCLA,It is difficult for me to make friends,Social,0.3219709,['Social'],[0.3219709098339081]
+UCLA_19,UCLA,I feel shut out and excluded by others,Social,0.34164324,['Social'],[0.34164324402809143]
+UCLA_20,UCLA,People are around me but not with me,Social,0.2688487,['Social'],[0.2688486874103546]
