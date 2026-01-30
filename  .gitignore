@@ -1,0 +1,4 @@
+/model/mapping/temp_result/
+# Python cache
+__pycache__/
+*.pyc

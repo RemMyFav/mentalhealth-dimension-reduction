@@ -1,0 +1,146 @@
+qid,dataset,text,dimension_model,dimensions,scores
+CD_RISC_1,CD-RISC,I am able to adapt when changes occur.,Llama-4,"['Emotional', 'Spiritual', 'Intellectual']","[0.1995989829301834, 0.18018002808094025, 0.16907495260238647]"
+CD_RISC_2,CD-RISC,I have one close and secure relationship.,Llama-4,"['Financial', 'Social']","[0.361101895570755, 0.34001266956329346]"
+CD_RISC_3,CD-RISC,Sometimes fate or God helps me.,Llama-4,['Spiritual'],[0.38131383061408997]
+CD_RISC_4,CD-RISC,I can deal with whatever comes my way.,Llama-4,"['Financial', 'Emotional', 'Social', 'Environmental', 'Spiritual']","[0.22348552942276, 0.22175899147987366, 0.20180970430374146, 0.18787486851215363, 0.1853588968515396]"
+CD_RISC_5,CD-RISC,Past successes give me confidence.,Llama-4,"['Financial', 'Emotional', 'Occupational', 'Intellectual']","[0.1757482886314392, 0.1593998372554779, 0.1570024937391281, 0.15633037686347961]"
+CD_RISC_6,CD-RISC,I try to see the humorous side of things when I am faced with problems.,Llama-4,"['Emotional', 'Intellectual']","[0.2167554348707199, 0.18648585677146912]"
+CD_RISC_7,CD-RISC,Having to cope with stress can make me stronger.,Llama-4,['Emotional'],[0.4113124907016754]
+CD_RISC_8,CD-RISC,"I tend to bounce back after illness, injury, or other hardships.",Llama-4,"['Physical', 'Emotional']","[0.2871539890766144, 0.2707814872264862]"
+CD_RISC_9,CD-RISC,I believe most things happen for a reason.,Llama-4,['Spiritual'],[0.24306972324848175]
+CD_RISC_10,CD-RISC,"I make my best effort, no matter what.",Llama-4,"['Intellectual', 'Occupational', 'Physical']","[0.2510225474834442, 0.219404935836792, 0.2145041823387146]"
+CD_RISC_11,CD-RISC,"I believe I can achieve my goals, even if there are obstacles.",Llama-4,"['Spiritual', 'Occupational', 'Emotional', 'Intellectual']","[0.29566994309425354, 0.2854576110839844, 0.2779181897640228, 0.26930513978004456]"
+CD_RISC_12,CD-RISC,"Even when hopeless, I do not give up.",Llama-4,['Emotional'],[0.2724461853504181]
+CD_RISC_13,CD-RISC,"In times of stress, I know where to find help.",Llama-4,['Emotional'],[0.3473590612411499]
+CD_RISC_14,CD-RISC,"Under pressure, I stay focused and think clearly.",Llama-4,['Intellectual'],[0.27013513445854187]
+CD_RISC_15,CD-RISC,I prefer to take the lead in problem-solving.,Llama-4,['Intellectual'],[0.3979479968547821]
+CD_RISC_16,CD-RISC,I am not easily discouraged by failure.,Llama-4,"['Emotional', 'Intellectual']","[0.27343153953552246, 0.2357025146484375]"
+CD_RISC_17,CD-RISC,I think of myself as a strong person when dealing with life's challenges and difficulties.,Llama-4,['Emotional'],[0.5358250737190247]
+CD_RISC_18,CD-RISC,I make unpopular or difficult decisions.,Llama-4,"['Financial', 'Emotional', 'Intellectual', 'Social']","[0.19070954620838165, 0.16692490875720978, 0.16138191521167755, 0.1449572741985321]"
+CD_RISC_19,CD-RISC,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",Llama-4,['Emotional'],[0.5301554203033447]
+CD_RISC_20,CD-RISC,I have to act on a hunch.,Llama-4,"['Intellectual', 'Occupational', 'Physical', 'Environmental']","[0.12755675613880157, 0.12154428660869598, 0.08664131164550781, 0.0813540667295456]"
+CD_RISC_21,CD-RISC,I have a strong sense of purpose in life.,Llama-4,"['Occupational', 'Spiritual']","[0.4570368826389313, 0.456717848777771]"
+CD_RISC_22,CD-RISC,I feel like I am in control.,Llama-4,['Emotional'],[0.16678526997566223]
+CD_RISC_23,CD-RISC,I like challenges.,Llama-4,"['Emotional', 'Spiritual', 'Intellectual']","[0.18788482248783112, 0.1596839725971222, 0.15023265779018402]"
+CD_RISC_24,CD-RISC,I work to attain goals.,Llama-4,['Occupational'],[0.48982328176498413]
+CD_RISC_25,CD-RISC,I take pride in my achievements.,Llama-4,"['Intellectual', 'Occupational']","[0.29610177874565125, 0.2612949311733246]"
+PERMA1_1,PERMA,How much of the time do you feel you are making progress towards accomplishing your goals?,Llama-4,"['Occupational', 'Intellectual']","[0.2847771942615509, 0.2719663083553314]"
+PERMA1_2,PERMA,How often do you become absorbed in what you are doing?,Llama-4,"['Occupational', 'Intellectual', 'Physical']","[0.31155410408973694, 0.2726215720176697, 0.26246973872184753]"
+PERMA1_3,PERMA,How often do you feel joyful?,Llama-4,"['Emotional', 'Occupational']","[0.282819539308548, 0.23580507934093475]"
+PERMA1_4,PERMA,How often do you feel anxious?,Llama-4,['Emotional'],[0.27653756737709045]
+PERMA1_5,PERMA,How often do you achieve the important goals you have set for yourself?,Llama-4,"['Physical', 'Intellectual', 'Occupational']","[0.3298509418964386, 0.32850363850593567, 0.3019210398197174]"
+PERMA2_1,PERMA,How would you say your health is?,Llama-4,['Physical'],[0.5629093050956726]
+PERMA3_1,PERMA,To what extent do you lead a purposeful and meaningful life?,Llama-4,"['Spiritual', 'Occupational']","[0.513418436050415, 0.46696555614471436]"
+PERMA3_2,PERMA,To what extent do you receive help and support from others when you need it?,Llama-4,['Social'],[0.3943403959274292]
+PERMA3_3,PERMA,To what extent do you feel that what you do in your life is valuable and worthwhile?,Llama-4,['Occupational'],[0.5255707502365112]
+PERMA3_4,PERMA,To what extent do you feel excited and interested in things?,Llama-4,"['Intellectual', 'Occupational', 'Emotional']","[0.37555816769599915, 0.34874850511550903, 0.32587921619415283]"
+PERMA3_5,PERMA,How lonely do you feel in your daily life?,Llama-4,"['Emotional', 'Social']","[0.31317228078842163, 0.28542739152908325]"
+PERMA4_1,PERMA,How satisfied are you with your current physical health?,Llama-4,['Physical'],[0.5792338252067566]
+PERMA5_1,PERMA,How often do you feel positive?,Llama-4,"['Emotional', 'Spiritual']","[0.24419145286083221, 0.23519328236579895]"
+PERMA5_2,PERMA,How often do you feel angry?,Llama-4,['Emotional'],[0.30280911922454834]
+PERMA5_3,PERMA,How often are you able to handle your responsibilities?,Llama-4,"['Occupational', 'Intellectual']","[0.25299158692359924, 0.23230046033859253]"
+PERMA5_4,PERMA,How often do you feel sad?,Llama-4,['Emotional'],[0.32809099555015564]
+PERMA5_5,PERMA,How often do you lose track of time while doing something you enjoy?,Llama-4,"['Intellectual', 'Physical']","[0.28401491045951843, 0.25675061345100403]"
+PERMA6_1,PERMA,"Compared to others of your same age and sex, how is your health?",Llama-4,['Physical'],[0.39726755023002625]
+PERMA7_1,PERMA,To what extent do you feel you have a sense of direction in your life?,Llama-4,['Spiritual'],[0.3962049186229706]
+PERMA7_2,PERMA,How satisfied are you with your personal relationships?,Llama-4,"['Social', 'Financial']","[0.32908281683921814, 0.29621461033821106]"
+PERMA7_3,PERMA,To what extent do you feel loved?,Llama-4,['Emotional'],[0.38970136642456055]
+PERMA7_4,PERMA,To what extent do you feel contented?,Llama-4,"['Emotional', 'Occupational']","[0.31841304898262024, 0.29473409056663513]"
+PERMA8_1,PERMA,"Taking all things together, how happy would you say you are?",Llama-4,"['Emotional', 'Financial', 'Spiritual']","[0.30895763635635376, 0.2843545973300934, 0.2823180854320526]"
+PSS_1,PSS,"During the past month, what time have you usually gone to bed at night?",Llama-4,"['Environmental', 'Spiritual']","[0.08618004620075226, 0.06778182834386826]"
+PSS_2,PSS,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",Llama-4,"['Environmental', 'Spiritual', 'Emotional', 'Intellectual']","[0.034751541912555695, 0.030393842607736588, 0.013949478045105934, 0.008695503696799278]"
+PSS_3,PSS,"During the past month, what time have you usually gotten up in the morning?",Llama-4,"['Environmental', 'Spiritual']","[0.0936882272362709, 0.06411594897508621]"
+PSS_4,PSS,"During the past month, how many hours of actual sleep did you get at night?",Llama-4,"['Environmental', 'Emotional', 'Spiritual', 'Occupational', 'Intellectual']","[0.06898488104343414, 0.05014623701572418, 0.04438173025846481, 0.026824776083230972, 0.026273058727383614]"
+PSS_5_1,PSS,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",Llama-4,"['Environmental', 'Emotional']","[0.041054852306842804, 0.0361541248857975]"
+PSS_5_2,PSS,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",Llama-4,"['Environmental', 'Emotional']","[0.033538222312927246, 0.019814783707261086]"
+PSS_5_3,PSS,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",Llama-4,['Environmental'],[0.11148899793624878]
+PSS_5_4,PSS,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",Llama-4,"['Environmental', 'Emotional']","[0.11508805304765701, 0.07939912378787994]"
+PSS_5_5,PSS,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",Llama-4,"['Environmental', 'Emotional']","[0.03616948053240776, 0.028875192627310753]"
+PSS_5_6,PSS,"During the past month, how often have you had trouble sleeping because you feel too cold?",Llama-4,"['Emotional', 'Environmental']","[0.05543128401041031, 0.005560025107115507]"
+PSS_5_7,PSS,"During the past month, how often have you had trouble sleeping because you feel too hot?",Llama-4,['Emotional'],[0.07030165940523148]
+PSS_5_8,PSS,"During the past month, how often have you had trouble sleeping because you have bad dreams?",Llama-4,"['Emotional', 'Environmental']","[0.06746327877044678, 0.026318693533539772]"
+PSS_5_9,PSS,"During the past month, how often have you had trouble sleeping because you have pain?",Llama-4,"['Emotional', 'Spiritual']","[0.05231676623225212, 0.016594087705016136]"
+PSS_5_10,PSS,"During the past month, how often have you had trouble sleeping because of other reasons?",Llama-4,"['Environmental', 'Emotional', 'Financial']","[0.05100835859775543, 0.04733072593808174, 0.02086552605032921]"
+PSS_6,PSS,"During the past month, how would you rate your sleep quality overall?",Llama-4,"['Physical', 'Environmental']","[0.15620963275432587, 0.13928724825382233]"
+PSS_7,PSS,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",Llama-4,"['Emotional', 'Environmental', 'Intellectual', 'Spiritual']","[0.022741785272955894, 0.020214270800352097, -0.00507258391007781, -0.007511442061513662]"
+PSS_8,PSS,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",Llama-4,"['Social', 'Physical', 'Emotional', 'Environmental', 'Intellectual']","[0.1643410325050354, 0.15795296430587769, 0.13860617578029633, 0.13614243268966675, 0.11796922236680984]"
+PSS_9,PSS,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",Llama-4,"['Intellectual', 'Emotional']","[0.2360156923532486, 0.22049091756343842]"
+PSS_10_1,PSS,"During the past month, how often has your bed partner or room mate reported loud snoring?",Llama-4,"['Environmental', 'Social', 'Emotional']","[0.009532208554446697, 0.0012339845998212695, -0.03865201771259308]"
+PSS_10_2,PSS,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",Llama-4,"['Environmental', 'Social', 'Emotional']","[0.044290296733379364, 0.0047074900940060616, -0.0005842687678523362]"
+PSS_10_3,PSS,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",Llama-4,"['Social', 'Physical']","[0.01128577534109354, -0.00918064545840025]"
+PSS_10_4,PSS,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",Llama-4,"['Emotional', 'Environmental', 'Social', 'Intellectual', 'Physical']","[0.024307796731591225, 0.01527638453990221, 0.003479188308119774, -0.010728356428444386, -0.02328287996351719]"
+PSS_10_5,PSS,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",Llama-4,"['Social', 'Financial', 'Environmental', 'Emotional']","[0.032221678644418716, 0.0223060492426157, 0.014217636547982693, -0.000892745447345078]"
+PWB_1,PWB,I like most parts of my personality.,Llama-4,"['Physical', 'Social']","[0.28918081521987915, 0.24253049492835999]"
+PWB_2,PWB,"When I look at the story of my life, I am pleased with how things have turned out so far.",Llama-4,"['Emotional', 'Spiritual', 'Intellectual', 'Social', 'Occupational', 'Physical']","[0.1899903416633606, 0.18686534464359283, 0.18512214720249176, 0.17676442861557007, 0.1622142493724823, 0.14955927431583405]"
+PWB_3,PWB,"Some people wander aimlessly through life, but I am not one of them.",Llama-4,"['Emotional', 'Spiritual', 'Social', 'Intellectual', 'Occupational', 'Environmental']","[0.2582855224609375, 0.24670612812042236, 0.24390076100826263, 0.2430873066186905, 0.2230113446712494, 0.20875118672847748]"
+PWB_4,PWB,The demands of everyday life often get me down.,Llama-4,"['Emotional', 'Occupational']","[0.27431145310401917, 0.2451036125421524]"
+PWB_5,PWB,In many ways I feel disappointed about my achievements in life.,Llama-4,"['Occupational', 'Emotional', 'Intellectual']","[0.24418318271636963, 0.23813246190547943, 0.23492586612701416]"
+PWB_6,PWB,Maintaining close relationships has been difficult and frustrating for me.,Llama-4,['Social'],[0.30755090713500977]
+PWB_7,PWB,I live life one day at a time and don't really think about the future.,Llama-4,"['Intellectual', 'Environmental', 'Spiritual']","[0.25889962911605835, 0.24380971491336823, 0.2297506034374237]"
+PWB_8,PWB,"In general, I feel I am in charge of the situation in which I live.",Llama-4,"['Emotional', 'Spiritual']","[0.26168692111968994, 0.21362411975860596]"
+PWB_9,PWB,I am good at managing the responsibilities of daily life.,Llama-4,"['Occupational', 'Intellectual']","[0.406811386346817, 0.37294527888298035]"
+PWB_10,PWB,I sometimes feel as if I've done all there is to do in life.,Llama-4,['Occupational'],[0.393949419260025]
+PWB_11,PWB,"For me, life has been a continuous process of learning, changing, and growth.",Llama-4,['Intellectual'],[0.4378972053527832]
+PWB_12,PWB,I think it is important to have new experiences that challenge how I think about myself and the world.,Llama-4,"['Spiritual', 'Intellectual', 'Emotional']","[0.3862381875514984, 0.37528905272483826, 0.36027172207832336]"
+PWB_13,PWB,"People would describe me as a giving person, willing to share my time with others.",Llama-4,"['Spiritual', 'Social']","[0.3799630105495453, 0.37591516971588135]"
+PWB_14,PWB,I gave up trying to make big improvements or changes in my life a long time ago.,Llama-4,"['Emotional', 'Intellectual']","[0.2636575698852539, 0.2615314722061157]"
+PWB_15,PWB,I tend to be influenced by people with strong opinions.,Llama-4,['Social'],[0.29928845167160034]
+PWB_16,PWB,I have not experienced many warm and trusting relationships with others.,Llama-4,['Social'],[0.41797587275505066]
+PWB_17,PWB,"I have confidence in my own opinions, even if they are different from the way most other people think.",Llama-4,['Social'],[0.24755977094173431]
+PWB_18,PWB,"I judge myself by what I think is important, not by the values of what others think is important.",Llama-4,['Spiritual'],[0.3793553411960602]
+PWS_1,PWS,I am always optimistic about my future.,Llama-4,['Financial'],[0.31875136494636536]
+PWS_2,PWS,There have been times when I felt inferior to most of the people I knew.,Llama-4,"['Emotional', 'Social']","[0.26449665427207947, 0.25052112340927124]"
+PWS_3,PWS,Members of my family come to me for support.,Llama-4,['Social'],[0.28209856152534485]
+PWS_4,PWS,My physical health has restricted me in the past.,Llama-4,['Physical'],[0.4092381000518799]
+PWS_5,PWS,I believe there is a real purpose for my life.,Llama-4,"['Spiritual', 'Occupational']","[0.40670835971832275, 0.390420138835907]"
+PWS_6,PWS,I will always seek out activities that challenge me to think and reason.,Llama-4,['Intellectual'],[0.4326583445072174]
+PWS_7,PWS,I rarely count on good things happening to me.,Llama-4,"['Emotional', 'Spiritual']","[0.20418941974639893, 0.19482482969760895]"
+PWS_8,PWS,"In general, I feel confident about my abilities.",Llama-4,"['Emotional', 'Physical', 'Spiritual', 'Intellectual']","[0.3369334936141968, 0.3127546012401581, 0.2935124933719635, 0.2887796461582184]"
+PWS_9,PWS,Sometimes I wonder if my family will really be there for me when I am in need.,Llama-4,"['Spiritual', 'Social', 'Occupational']","[0.2538255751132965, 0.22086423635482788, 0.20616665482521057]"
+PWS_10,PWS,My body seems to resist physical illness very well.,Llama-4,['Physical'],[0.42995211482048035]
+PWS_11,PWS,Life does not hold much future promise for me.,Llama-4,"['Intellectual', 'Spiritual', 'Financial', 'Emotional', 'Occupational']","[0.21964359283447266, 0.21946601569652557, 0.2167777568101883, 0.18119318783283234, 0.17102347314357758]"
+PWS_12,PWS,I avoid activities which require me to concentrate.,Llama-4,['Intellectual'],[0.40038254857063293]
+PWS_13,PWS,I always look on the bright side of things.,Llama-4,"['Emotional', 'Spiritual', 'Occupational']","[0.2303335815668106, 0.2027106136083603, 0.19746994972229004]"
+PWS_14,PWS,I sometimes think I am a worthless individual.,Llama-4,"['Emotional', 'Spiritual', 'Occupational']","[0.24485346674919128, 0.2208753377199173, 0.21101775765419006]"
+PWS_15,PWS,My friends know they can always confide in me and ask me for advice.,Llama-4,['Social'],[0.3122516870498657]
+PWS_16,PWS,My physical health is excellent.,Llama-4,['Physical'],[0.6201238036155701]
+PWS_17,PWS,Sometimes I don't understand what life is all about.,Llama-4,"['Spiritual', 'Emotional', 'Social', 'Intellectual', 'Environmental']","[0.26269522309303284, 0.2573922276496887, 0.25235992670059204, 0.2479075789451599, 0.2316192239522934]"
+PWS_18,PWS,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",Llama-4,['Intellectual'],[0.5690968632698059]
+PWS_19,PWS,"In the past, I have expected the best.",Llama-4,['Emotional'],[0.11830522119998932]
+PWS_20,PWS,I am uncertain about my ability to do things well in the future.,Llama-4,['Intellectual'],[0.3885653614997864]
+PWS_21,PWS,My family has been available to support me in the past.,Llama-4,"['Financial', 'Social']","[0.2784591317176819, 0.2592824697494507]"
+PWS_22,PWS,"Compared to people I know, my past physical health has been excellent.",Llama-4,['Physical'],[0.5192360281944275]
+PWS_23,PWS,I feel a sense of mission about my future.,Llama-4,['Spiritual'],[0.33485883474349976]
+PWS_24,PWS,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,Llama-4,"['Intellectual', 'Occupational', 'Physical']","[0.23597614467144012, 0.23423521220684052, 0.2272447645664215]"
+PWS_25,PWS,"In the past, I hardly ever expected things to go my way.",Llama-4,"['Emotional', 'Intellectual', 'Social', 'Occupational', 'Spiritual']","[0.1555745005607605, 0.15015806257724762, 0.1445835381746292, 0.11698837578296661, 0.10582894831895828]"
+PWS_26,PWS,I will always be secure with who I am.,Llama-4,"['Financial', 'Social']","[0.2467048317193985, 0.22782862186431885]"
+PWS_27,PWS,"In the past, I have not always had friends with whom I could share my joys and sorrows.",Llama-4,['Social'],[0.4061615467071533]
+PWS_28,PWS,I expect to always be physically healthy.,Llama-4,['Physical'],[0.5930496454238892]
+PWS_29,PWS,I have felt in the past that my life was meaningless.,Llama-4,"['Emotional', 'Spiritual', 'Occupational']","[0.3217748999595642, 0.31679341197013855, 0.28605812788009644]"
+PWS_30,PWS,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",Llama-4,['Intellectual'],[0.5825426578521729]
+PWS_31,PWS,Things will not work out the way I want them to in the future.,Llama-4,['Financial'],[0.19714738428592682]
+PWS_32,PWS,"In the past, I have felt sure of myself among strangers.",Llama-4,"['Social', 'Spiritual']","[0.3400270342826843, 0.3085666596889496]"
+PWS_33,PWS,My friends will be there for me when I need help.,Llama-4,['Social'],[0.26867395639419556]
+PWS_34,PWS,I expect my physical health to get worse.,Llama-4,['Physical'],[0.5060238838195801]
+PWS_35,PWS,It seems that my life has always had purpose.,Llama-4,['Occupational'],[0.4287099242210388]
+PWS_36,PWS,My life has often seemed void of positive mental stimulation.,Llama-4,['Spiritual'],[0.3449772596359253]
+UCLA_1,UCLA,I am unhappy doing so many things alone,Llama-4,"['Occupational', 'Physical', 'Emotional']","[0.24051007628440857, 0.23292261362075806, 0.1925194412469864]"
+UCLA_2,UCLA,I have nobody to talk to,Llama-4,['Social'],[0.1441507637500763]
+UCLA_3,UCLA,I cannot tolerate being so alone,Llama-4,"['Social', 'Emotional']","[0.20545142889022827, 0.19853375852108002]"
+UCLA_4,UCLA,I lack companionship,Llama-4,['Social'],[0.31925642490386963]
+UCLA_5,UCLA,I feel as if nobody really understands me,Llama-4,"['Spiritual', 'Emotional']","[0.2579078674316406, 0.2569812834262848]"
+UCLA_6,UCLA,I find myself waiting for people to call or write,Llama-4,['Social'],[0.23062872886657715]
+UCLA_7,UCLA,There is no one I can turn to,Llama-4,['Spiritual'],[0.11839978396892548]
+UCLA_8,UCLA,I am no longer close to anyone,Llama-4,['Social'],[0.3012665808200836]
+UCLA_9,UCLA,My interests and ideas are not shared by those around me,Llama-4,['Intellectual'],[0.3562230169773102]
+UCLA_10,UCLA,I feel left out,Llama-4,"['Intellectual', 'Spiritual', 'Emotional', 'Physical']","[0.1931496560573578, 0.18428285419940948, 0.1705467700958252, 0.1652495115995407]"
+UCLA_11,UCLA,I feel completely alone,Llama-4,"['Spiritual', 'Emotional', 'Social']","[0.19084273278713226, 0.18981832265853882, 0.1657896786928177]"
+UCLA_12,UCLA,I am unable to reach out and communicate with those around me,Llama-4,['Social'],[0.22231405973434448]
+UCLA_13,UCLA,My social relationships are superficial,Llama-4,['Social'],[0.46425315737724304]
+UCLA_14,UCLA,I feel starved for company,Llama-4,"['Occupational', 'Financial']","[0.15457002818584442, 0.1068982183933258]"
+UCLA_15,UCLA,No one really knows me well,Llama-4,"['Social', 'Intellectual', 'Spiritual']","[0.15350794792175293, 0.14405852556228638, 0.1301199346780777]"
+UCLA_16,UCLA,I feel isolated from others,Llama-4,['Social'],[0.395344614982605]
+UCLA_17,UCLA,I am unhappy being so withdrawn,Llama-4,['Emotional'],[0.17630727589130402]
+UCLA_18,UCLA,It is difficult for me to make friends,Llama-4,['Social'],[0.3863789737224579]
+UCLA_19,UCLA,I feel shut out and excluded by others,Llama-4,['Social'],[0.3084937334060669]
+UCLA_20,UCLA,People are around me but not with me,Llama-4,['Social'],[0.3062284290790558]
