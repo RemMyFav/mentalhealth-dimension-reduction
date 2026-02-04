@@ -1,0 +1,146 @@
+qid,dataset,text,text_raw,cluster_id
+PSS_1,PSS,during time gone to bed at night,"During the past month, what time have you usually gone to bed at night?",0
+PSS_10_1,PSS,during your bed partner room mate reported loud snoring,"During the past month, how often has your bed partner or room mate reported loud snoring?",0
+PSS_10_2,PSS,during your bed partner room mate reported long pauses between breaths while asleep,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",0
+PSS_10_3,PSS,during your bed partner room mate reported legs twitching jerking while asleep,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",0
+PSS_10_4,PSS,during your bed partner room mate reported episodes of disorientation confusion during sleep,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",0
+PSS_10_5,PSS,during your bed partner room mate reported other restlessness while sleep,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",0
+PSS_2,PSS,during in taken you to fall night,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",0
+PSS_3,PSS,during time gotten up in morning,"During the past month, what time have you usually gotten up in the morning?",0
+PSS_4,PSS,during many hours of actual sleep get at night,"During the past month, how many hours of actual sleep did you get at night?",0
+PSS_5_1,PSS,during had trouble sleeping because cannot get to sleep within,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",0
+PSS_5_10,PSS,during had trouble sleeping because of other reasons,"During the past month, how often have you had trouble sleeping because of other reasons?",0
+PSS_5_2,PSS,during had trouble sleeping because wake up in middle of night,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",0
+PSS_5_3,PSS,during had trouble sleeping because have to get up to use bathroom,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",0
+PSS_5_4,PSS,during had trouble sleeping because cannot breathe,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",0
+PSS_5_5,PSS,during had trouble sleeping because cough snore,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",0
+PSS_5_6,PSS,during had trouble sleeping because feel cold,"During the past month, how often have you had trouble sleeping because you feel too cold?",0
+PSS_5_7,PSS,during had trouble sleeping because feel hot,"During the past month, how often have you had trouble sleeping because you feel too hot?",0
+PSS_5_8,PSS,during had trouble sleeping because have bad dreams,"During the past month, how often have you had trouble sleeping because you have bad dreams?",0
+PSS_5_9,PSS,during had trouble sleeping because have pain,"During the past month, how often have you had trouble sleeping because you have pain?",0
+PSS_6,PSS,during rate your sleep quality,"During the past month, how would you rate your sleep quality overall?",0
+PSS_7,PSS,during taken medicine to help you sleep prescribed over counter,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",0
+PSS_8,PSS,during had trouble staying while driving eating meals engaging in social activity,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",0
+CD_RISC_20,CD-RISC,have to act on hunch,I have to act on a hunch.,1
+CD_RISC_21,CD-RISC,have strong sense of purpose in life,I have a strong sense of purpose in life.,1
+CD_RISC_24,CD-RISC,work to attain goals,I work to attain goals.,1
+CD_RISC_3,CD-RISC,fate god helps me,Sometimes fate or God helps me.,1
+CD_RISC_9,CD-RISC,believe most things happen for reason,I believe most things happen for a reason.,1
+PERMA1_2,PERMA,become absorbed in what doing,How often do you become absorbed in what you are doing?,1
+PERMA1_5,PERMA,achieve important goals set for yourself,How often do you achieve the important goals you have set for yourself?,1
+PERMA3_1,PERMA,to extent lead purposeful meaningful life,To what extent do you lead a purposeful and meaningful life?,1
+PERMA3_3,PERMA,to extent feel that what do in your life valuable worthwhile,To what extent do you feel that what you do in your life is valuable and worthwhile?,1
+PERMA5_5,PERMA,lose track of time while doing something enjoy,How often do you lose track of time while doing something you enjoy?,1
+PERMA7_1,PERMA,to extent feel have sense of direction in your life,To what extent do you feel you have a sense of direction in your life?,1
+PWB_10,PWB,feel as if done all there is to do in life,I sometimes feel as if I've done all there is to do in life.,1
+PWB_11,PWB,for me life continuous process of learning changing growth,"For me, life has been a continuous process of learning, changing, and growth.",1
+PWB_18,PWB,judge myself by what think important not by values of what others think important,"I judge myself by what I think is important, not by the values of what others think is important.",1
+PWB_3,PWB,people wander through life not one of them,"Some people wander aimlessly through life, but I am not one of them.",1
+PWB_8,PWB,in general feel in charge of situation in which live,"In general, I feel I am in charge of the situation in which I live.",1
+PWB_9,PWB,good at managing responsibilities of daily life,I am good at managing the responsibilities of daily life.,1
+PWS_12,PWS,avoid activities which require me to concentrate,I avoid activities which require me to concentrate.,1
+PWS_13,PWS,look on bright side of things,I always look on the bright side of things.,1
+PWS_17,PWS,don't understand life about,Sometimes I don't understand what life is all about.,1
+PWS_29,PWS,felt in past that my life meaningless,I have felt in the past that my life was meaningless.,1
+PWS_35,PWS,seems that my life had purpose,It seems that my life has always had purpose.,1
+PWS_5,PWS,believe there is real purpose for my life,I believe there is a real purpose for my life.,1
+PWS_6,PWS,seek out activities that challenge me to think reason,I will always seek out activities that challenge me to think and reason.,1
+UCLA_9,UCLA,my interests ideas are not shared by those around me,My interests and ideas are not shared by those around me,1
+CD_RISC_12,CD-RISC,hopeless not give up,"Even when hopeless, I do not give up.",2
+CD_RISC_2,CD-RISC,have close secure relationship,I have one close and secure relationship.,2
+PERMA7_2,PERMA,satisfied with your personal relationships,How satisfied are you with your personal relationships?,2
+PWB_16,PWB,not experienced many warm trusting relationships with others,I have not experienced many warm and trusting relationships with others.,2
+PWB_6,PWB,maintaining close relationships difficult frustrating for me,Maintaining close relationships has been difficult and frustrating for me.,2
+UCLA_13,UCLA,my social relationships superficial,My social relationships are superficial,2
+UCLA_4,UCLA,lack companionship,I lack companionship,2
+UCLA_6,UCLA,find myself waiting for people to call write,I find myself waiting for people to call or write,2
+UCLA_7,UCLA,there is no one turn to,There is no one I can turn to,2
+CD_RISC_22,CD-RISC,feel like in control,I feel like I am in control.,3
+CD_RISC_4,CD-RISC,deal with whatever comes my way,I can deal with whatever comes my way.,3
+PERMA3_5,PERMA,lonely feel in your daily life,How lonely do you feel in your daily life?,3
+PWB_1,PWB,like most parts of my personality,I like most parts of my personality.,3
+PWB_13,PWB,people describe me as giving person willing to share my time with others,"People would describe me as a giving person, willing to share my time with others.",3
+PWB_15,PWB,tend to be influenced by people with strong opinions,I tend to be influenced by people with strong opinions.,3
+PWB_17,PWB,have confidence in my own opinions if different from way most other people think,"I have confidence in my own opinions, even if they are different from the way most other people think.",3
+PWS_15,PWS,my friends know confide in me ask me for advice,My friends know they can always confide in me and ask me for advice.,3
+PWS_2,PWS,there been times felt inferior to most of people knew,There have been times when I felt inferior to most of the people I knew.,3
+PWS_27,PWS,in past not had friends with whom share my joys sorrows,"In the past, I have not always had friends with whom I could share my joys and sorrows.",3
+PWS_3,PWS,members of my family come to me for support,Members of my family come to me for support.,3
+PWS_32,PWS,in past felt sure of myself among strangers,"In the past, I have felt sure of myself among strangers.",3
+PWS_33,PWS,my friends there for me need help,My friends will be there for me when I need help.,3
+UCLA_10,UCLA,feel left out,I feel left out,3
+UCLA_11,UCLA,feel alone,I feel completely alone,3
+UCLA_12,UCLA,unable to reach out communicate with those around me,I am unable to reach out and communicate with those around me,3
+UCLA_14,UCLA,feel starved for company,I feel starved for company,3
+UCLA_15,UCLA,no one knows me,No one really knows me well,3
+UCLA_16,UCLA,feel isolated from others,I feel isolated from others,3
+UCLA_17,UCLA,unhappy being withdrawn,I am unhappy being so withdrawn,3
+UCLA_18,UCLA,difficult for me to make friends,It is difficult for me to make friends,3
+UCLA_19,UCLA,feel shut out excluded by others,I feel shut out and excluded by others,3
+UCLA_2,UCLA,have nobody to talk,I have nobody to talk to,3
+UCLA_20,UCLA,people around me not with me,People are around me but not with me,3
+UCLA_3,UCLA,cannot tolerate alone,I cannot tolerate being so alone,3
+UCLA_5,UCLA,feel as if nobody understands me,I feel as if nobody really understands me,3
+UCLA_8,UCLA,close to anyone,I am no longer close to anyone,3
+PERMA1_3,PERMA,feel joyful,How often do you feel joyful?,4
+PERMA1_4,PERMA,feel anxious,How often do you feel anxious?,4
+PERMA3_4,PERMA,to extent feel excited interested in things,To what extent do you feel excited and interested in things?,4
+PERMA5_1,PERMA,feel positive,How often do you feel positive?,4
+PERMA5_2,PERMA,feel angry,How often do you feel angry?,4
+PERMA5_4,PERMA,feel sad,How often do you feel sad?,4
+PERMA7_3,PERMA,to extent feel loved,To what extent do you feel loved?,4
+PERMA7_4,PERMA,to extent feel contented,To what extent do you feel contented?,4
+PERMA8_1,PERMA,taking things happy say are,"Taking all things together, how happy would you say you are?",4
+PWB_5,PWB,in many ways feel disappointed about my achievements in life,In many ways I feel disappointed about my achievements in life.,4
+PWS_18,PWS,feel pleased with amount of intellectual stimulation receive in my daily life,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",4
+PWS_36,PWS,my life seemed void of positive mental stimulation,My life has often seemed void of positive mental stimulation.,4
+UCLA_1,UCLA,unhappy doing many things,I am unhappy doing so many things alone,4
+CD_RISC_8,CD-RISC,tend to bounce after illness injury other hardships,"I tend to bounce back after illness, injury, or other hardships.",5
+PERMA2_1,PERMA,say your health is,How would you say your health is?,5
+PERMA4_1,PERMA,satisfied are with your current physical health,How satisfied are you with your current physical health?,5
+PERMA6_1,PERMA,compared to others of your same age sex how your health,"Compared to others of your same age and sex, how is your health?",5
+PWS_10,PWS,my body seems to resist physical illness,My body seems to resist physical illness very well.,5
+PWS_16,PWS,my physical health excellent,My physical health is excellent.,5
+PWS_22,PWS,compared to people know my past physical health excellent,"Compared to people I know, my past physical health has been excellent.",5
+PWS_28,PWS,expect to healthy,I expect to always be physically healthy.,5
+PWS_34,PWS,expect my physical health to get worse,I expect my physical health to get worse.,5
+PWS_4,PWS,my physical health restricted me in past,My physical health has restricted me in the past.,5
+CD_RISC_1,CD-RISC,able to adapt changes occur,I am able to adapt when changes occur.,6
+CD_RISC_10,CD-RISC,make my best effort no matter what,"I make my best effort, no matter what.",6
+CD_RISC_11,CD-RISC,believe achieve my goals if there are obstacles,"I believe I can achieve my goals, even if there are obstacles.",6
+CD_RISC_13,CD-RISC,in times of stress know where to find help,"In times of stress, I know where to find help.",6
+CD_RISC_14,CD-RISC,under pressure stay focused think,"Under pressure, I stay focused and think clearly.",6
+CD_RISC_15,CD-RISC,prefer to take lead in problem solving,I prefer to take the lead in problem-solving.,6
+CD_RISC_16,CD-RISC,am not discouraged by failure,I am not easily discouraged by failure.,6
+CD_RISC_17,CD-RISC,think of myself as strong person dealing with life's challenges difficulties,I think of myself as a strong person when dealing with life's challenges and difficulties.,6
+CD_RISC_18,CD-RISC,make unpopular difficult decisions,I make unpopular or difficult decisions.,6
+CD_RISC_19,CD-RISC,able to handle unpleasant painful feelings like sadness fear anger,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",6
+CD_RISC_23,CD-RISC,like challenges,I like challenges.,6
+CD_RISC_25,CD-RISC,take pride in my achievements,I take pride in my achievements.,6
+CD_RISC_6,CD-RISC,try to see humorous side of things am faced with problems,I try to see the humorous side of things when I am faced with problems.,6
+CD_RISC_7,CD-RISC,having to cope with stress make me stronger,Having to cope with stress can make me stronger.,6
+PERMA3_2,PERMA,to extent receive help support from others need it,To what extent do you receive help and support from others when you need it?,6
+PERMA5_3,PERMA,able to handle your responsibilities,How often are you able to handle your responsibilities?,6
+PSS_9,PSS,during much of problem for you to keep up enough enthusiasm to get things done,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",6
+PWB_12,PWB,think important to have new experiences that challenge how think about myself world,I think it is important to have new experiences that challenge how I think about myself and the world.,6
+PWB_14,PWB,gave up trying to make big improvements changes in my life long time,I gave up trying to make big improvements or changes in my life a long time ago.,6
+PWB_4,PWB,demands of everyday life get me down,The demands of everyday life often get me down.,6
+PWS_14,PWS,think worthless individual,I sometimes think I am a worthless individual.,6
+PWS_30,PWS,in past found intellectual challenges to vital to my overall well being,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",6
+CD_RISC_5,CD-RISC,past successes give me confidence,Past successes give me confidence.,7
+PERMA1_1,PERMA,much of time feel making progress towards accomplishing your goals,How much of the time do you feel you are making progress towards accomplishing your goals?,7
+PWB_2,PWB,look at story of my life pleased with how things turned out,"When I look at the story of my life, I am pleased with how things have turned out so far.",7
+PWB_7,PWB,live life at time don't think about future,I live life one day at a time and don't really think about the future.,7
+PWS_1,PWS,optimistic about my future,I am always optimistic about my future.,7
+PWS_11,PWS,life not hold much future promise for me,Life does not hold much future promise for me.,7
+PWS_19,PWS,in past expected best,"In the past, I have expected the best.",7
+PWS_20,PWS,uncertain about my ability to do things in future,I am uncertain about my ability to do things well in the future.,7
+PWS_21,PWS,my family available to support me in past,My family has been available to support me in the past.,7
+PWS_23,PWS,feel sense of mission about my future,I feel a sense of mission about my future.,7
+PWS_24,PWS,amount of information that process in right for me not much not little,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,7
+PWS_25,PWS,in past expected things to go my way,"In the past, I hardly ever expected things to go my way.",7
+PWS_26,PWS,secure with who am,I will always be secure with who I am.,7
+PWS_31,PWS,things not work out way want them to in future,Things will not work out the way I want them to in the future.,7
+PWS_7,PWS,count on good things happening to me,I rarely count on good things happening to me.,7
+PWS_8,PWS,in general feel confident about my abilities,"In general, I feel confident about my abilities.",7
+PWS_9,PWS,wonder if my family there for me in need,Sometimes I wonder if my family will really be there for me when I am in need.,7
