@@ -2,6 +2,7 @@ import pandas as pd
 from pathlib import Path
 from typing import List, Dict, Optional
 from collections import Counter
+import numpy as np
 def load_questions(processed_dir="../../question_database/processed/"):
     """
     Load the canonical question table.
@@ -206,5 +207,106 @@ def compute_consensus_spectrum(all_results):
     # attach columns (from strict to loose is easier to read)
     for k in range(K, 0, -1):
         base[f'exact_{k}of{K}'] = buckets[k]
+
+    return base
+import numpy as np
+
+def compute_distribution_entropy(all_results, *, dims_vocab=None, normalize=True, return_mean_dist=False):
+    """
+    Compute per-question distribution entropy H(M) across models/annotators.
+
+    For each qid:
+      - Convert each model's (possibly multi-label) output dims into a distribution Pi over dims_vocab:
+          If dims=[d1,d2,...], assign 1/len(dims) to each.
+          If empty, assign uniform over V.
+      - Compute mean distribution M = average_i Pi
+      - Entropy = H(M) = -sum_j M(j) log2 M(j)
+
+    Args:
+      all_results: dict[str, pd.DataFrame]
+        key=model name, value has columns ['qid','dataset','text','dimensions'] (dimensions is list-like).
+      dims_vocab: list[str] | None
+        If None, use union of all dimensions appearing in all_results.
+      normalize: bool
+        If True, return entropy_norm = entropy / log2(V) in [0,1].
+      return_mean_dist: bool
+        If True, include meanprob_<dim> columns.
+
+    Returns:
+      pd.DataFrame with columns:
+        ['qid','dataset','text','entropy','entropy_norm'(optional)]
+      plus mean distribution columns if return_mean_dist=True.
+    """
+    model_names = list(all_results.keys())
+    K = len(model_names)
+    if K < 1:
+        raise ValueError("Need at least 1 model to compute entropy.")
+
+    base = all_results[model_names[0]][["qid", "dataset", "text"]].copy()
+    lookup = {m: all_results[m].set_index("qid") for m in model_names}
+
+    # Build vocabulary
+    if dims_vocab is None:
+        vocab = set()
+        for m in model_names:
+            for dims in all_results[m]["dimensions"]:
+                if isinstance(dims, (list, tuple, set)):
+                    vocab.update(dims)
+        dims_vocab = sorted(vocab)
+
+    V = len(dims_vocab)
+    if V == 0:
+        raise ValueError("dims_vocab is empty (no dimensions found).")
+
+    dim2idx = {d: i for i, d in enumerate(dims_vocab)}
+
+    def entropy(p):
+        p = np.asarray(p, dtype=float)
+        p = p[p > 0]
+        return float(-(p * np.log2(p)).sum())
+
+    ent_list = []
+    mean_dists = []
+
+    for _, row in base.iterrows():
+        qid = row["qid"]
+
+        # Build per-model distributions Pi over vocab
+        P = np.zeros((K, V), dtype=float)
+
+        for i, m in enumerate(model_names):
+            dims = lookup[m].loc[qid, "dimensions"]
+
+            # handle edge cases
+            if dims is None or (isinstance(dims, float) and np.isnan(dims)):
+                dims = []
+            if not isinstance(dims, (list, tuple, set)):
+                dims = [dims]
+
+            dims = [d for d in set(dims) if d in dim2idx]  # unique + in vocab
+
+            if len(dims) == 0:
+                P[i, :] = 1.0 / V
+            else:
+                w = 1.0 / len(dims)
+                for d in dims:
+                    P[i, dim2idx[d]] += w
+
+        # mean distribution
+        M = P.mean(axis=0)
+
+        ent_list.append(entropy(M))
+        if return_mean_dist:
+            mean_dists.append(M)
+
+    base["entropy"] = ent_list
+
+    if normalize:
+        base["entropy_norm"] = base["entropy"] / np.log2(V) if V > 1 else 0.0
+
+    if return_mean_dist:
+        md = np.vstack(mean_dists)
+        for j, d in enumerate(dims_vocab):
+            base[f"meanprob_{d}"] = md[:, j]
 
     return base
