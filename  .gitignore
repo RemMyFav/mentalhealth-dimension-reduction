@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+model/mapping/temp_result/
+model/clustering/temp_result/
