@@ -1,0 +1,146 @@
+qid,dataset,text,dimension_model,dimensions,scores
+CD_RISC_1,CD-RISC,I am able to adapt when changes occur.,ChatGPT-5.2,"['Emotional', 'Spiritual', 'Physical', 'Intellectual', 'Occupational', 'Social']","[0.1836039274930954, 0.17746786773204803, 0.17690694332122803, 0.16240713000297546, 0.14813588559627533, 0.14609646797180176]"
+CD_RISC_2,CD-RISC,I have one close and secure relationship.,ChatGPT-5.2,['Social'],[0.3431631624698639]
+CD_RISC_3,CD-RISC,Sometimes fate or God helps me.,ChatGPT-5.2,['Spiritual'],[0.37358129024505615]
+CD_RISC_4,CD-RISC,I can deal with whatever comes my way.,ChatGPT-5.2,"['Social', 'Financial', 'Environmental', 'Spiritual']","[0.22238369286060333, 0.21382500231266022, 0.18910850584506989, 0.1775287389755249]"
+CD_RISC_5,CD-RISC,Past successes give me confidence.,ChatGPT-5.2,"['Social', 'Occupational', 'Intellectual', 'Spiritual', 'Physical', 'Emotional']","[0.15198269486427307, 0.1442689448595047, 0.13463276624679565, 0.12880848348140717, 0.10842765867710114, 0.10207007080316544]"
+CD_RISC_6,CD-RISC,I try to see the humorous side of things when I am faced with problems.,ChatGPT-5.2,['Intellectual'],[0.24046717584133148]
+CD_RISC_7,CD-RISC,Having to cope with stress can make me stronger.,ChatGPT-5.2,['Emotional'],[0.32151758670806885]
+CD_RISC_8,CD-RISC,"I tend to bounce back after illness, injury, or other hardships.",ChatGPT-5.2,['Physical'],[0.319270521402359]
+CD_RISC_9,CD-RISC,I believe most things happen for a reason.,ChatGPT-5.2,"['Spiritual', 'Emotional']","[0.1907985657453537, 0.17562110722064972]"
+CD_RISC_10,CD-RISC,"I make my best effort, no matter what.",ChatGPT-5.2,"['Intellectual', 'Social', 'Occupational']","[0.26829400658607483, 0.2367631047964096, 0.23379984498023987]"
+CD_RISC_11,CD-RISC,"I believe I can achieve my goals, even if there are obstacles.",ChatGPT-5.2,"['Occupational', 'Intellectual', 'Spiritual', 'Physical', 'Social', 'Financial']","[0.2703671455383301, 0.2652232050895691, 0.25870025157928467, 0.2469138503074646, 0.24425823986530304, 0.2304193079471588]"
+CD_RISC_12,CD-RISC,"Even when hopeless, I do not give up.",ChatGPT-5.2,"['Financial', 'Emotional', 'Intellectual']","[0.17817066609859467, 0.17140723764896393, 0.160422682762146]"
+CD_RISC_13,CD-RISC,"In times of stress, I know where to find help.",ChatGPT-5.2,"['Emotional', 'Environmental']","[0.27583247423171997, 0.23300562798976898]"
+CD_RISC_14,CD-RISC,"Under pressure, I stay focused and think clearly.",ChatGPT-5.2,['Intellectual'],[0.37045586109161377]
+CD_RISC_15,CD-RISC,I prefer to take the lead in problem-solving.,ChatGPT-5.2,['Intellectual'],[0.44932249188423157]
+CD_RISC_16,CD-RISC,I am not easily discouraged by failure.,ChatGPT-5.2,['Intellectual'],[0.296265572309494]
+CD_RISC_17,CD-RISC,I think of myself as a strong person when dealing with life's challenges and difficulties.,ChatGPT-5.2,"['Emotional', 'Spiritual', 'Social']","[0.4227837324142456, 0.41550424695014954, 0.3740914463996887]"
+CD_RISC_18,CD-RISC,I make unpopular or difficult decisions.,ChatGPT-5.2,['Financial'],[0.25117647647857666]
+CD_RISC_19,CD-RISC,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",ChatGPT-5.2,['Emotional'],[0.527717649936676]
+CD_RISC_20,CD-RISC,I have to act on a hunch.,ChatGPT-5.2,"['Environmental', 'Occupational', 'Intellectual', 'Social', 'Physical']","[0.1380440592765808, 0.13540330529212952, 0.12658342719078064, 0.12338968366384506, 0.11925487220287323]"
+CD_RISC_21,CD-RISC,I have a strong sense of purpose in life.,ChatGPT-5.2,"['Occupational', 'Spiritual']","[0.42441877722740173, 0.3860417604446411]"
+CD_RISC_22,CD-RISC,I feel like I am in control.,ChatGPT-5.2,"['Financial', 'Emotional', 'Social', 'Intellectual']","[0.15301382541656494, 0.1356648951768875, 0.1257389485836029, 0.11391710489988327]"
+CD_RISC_23,CD-RISC,I like challenges.,ChatGPT-5.2,"['Intellectual', 'Spiritual']","[0.18677768111228943, 0.15501542389392853]"
+CD_RISC_24,CD-RISC,I work to attain goals.,ChatGPT-5.2,['Occupational'],[0.4324337840080261]
+CD_RISC_25,CD-RISC,I take pride in my achievements.,ChatGPT-5.2,"['Occupational', 'Intellectual', 'Social']","[0.2339554727077484, 0.21365630626678467, 0.21040567755699158]"
+PERMA1_1,PERMA,How much of the time do you feel you are making progress towards accomplishing your goals?,ChatGPT-5.2,"['Occupational', 'Intellectual', 'Physical']","[0.254533588886261, 0.24917137622833252, 0.2050991952419281]"
+PERMA1_2,PERMA,How often do you become absorbed in what you are doing?,ChatGPT-5.2,"['Physical', 'Occupational', 'Environmental']","[0.27503663301467896, 0.2605542540550232, 0.2265842854976654]"
+PERMA1_3,PERMA,How often do you feel joyful?,ChatGPT-5.2,"['Emotional', 'Occupational']","[0.29246553778648376, 0.260318398475647]"
+PERMA1_4,PERMA,How often do you feel anxious?,ChatGPT-5.2,['Emotional'],[0.28488823771476746]
+PERMA1_5,PERMA,How often do you achieve the important goals you have set for yourself?,ChatGPT-5.2,"['Occupational', 'Intellectual']","[0.30768248438835144, 0.26804378628730774]"
+PERMA2_1,PERMA,How would you say your health is?,ChatGPT-5.2,['Physical'],[0.5155024528503418]
+PERMA3_1,PERMA,To what extent do you lead a purposeful and meaningful life?,ChatGPT-5.2,"['Occupational', 'Spiritual']","[0.46428582072257996, 0.435263454914093]"
+PERMA3_2,PERMA,To what extent do you receive help and support from others when you need it?,ChatGPT-5.2,['Social'],[0.38689666986465454]
+PERMA3_3,PERMA,To what extent do you feel that what you do in your life is valuable and worthwhile?,ChatGPT-5.2,['Occupational'],[0.4805126190185547]
+PERMA3_4,PERMA,To what extent do you feel excited and interested in things?,ChatGPT-5.2,"['Intellectual', 'Emotional']","[0.37778037786483765, 0.36330029368400574]"
+PERMA3_5,PERMA,How lonely do you feel in your daily life?,ChatGPT-5.2,"['Occupational', 'Environmental', 'Social', 'Emotional']","[0.303117573261261, 0.3002617657184601, 0.29173338413238525, 0.26199236512184143]"
+PERMA4_1,PERMA,How satisfied are you with your current physical health?,ChatGPT-5.2,['Physical'],[0.5207710862159729]
+PERMA5_1,PERMA,How often do you feel positive?,ChatGPT-5.2,"['Emotional', 'Spiritual']","[0.24806620180606842, 0.24295221269130707]"
+PERMA5_2,PERMA,How often do you feel angry?,ChatGPT-5.2,['Emotional'],[0.30741503834724426]
+PERMA5_3,PERMA,How often are you able to handle your responsibilities?,ChatGPT-5.2,"['Occupational', 'Financial']","[0.2881869077682495, 0.2607598900794983]"
+PERMA5_4,PERMA,How often do you feel sad?,ChatGPT-5.2,['Emotional'],[0.3273494839668274]
+PERMA5_5,PERMA,How often do you lose track of time while doing something you enjoy?,ChatGPT-5.2,"['Physical', 'Occupational', 'Environmental', 'Intellectual']","[0.22092290222644806, 0.19852563738822937, 0.19666306674480438, 0.19137531518936157]"
+PERMA6_1,PERMA,"Compared to others of your same age and sex, how is your health?",ChatGPT-5.2,['Physical'],[0.29066237807273865]
+PERMA7_1,PERMA,To what extent do you feel you have a sense of direction in your life?,ChatGPT-5.2,['Spiritual'],[0.4718935489654541]
+PERMA7_2,PERMA,How satisfied are you with your personal relationships?,ChatGPT-5.2,['Social'],[0.32455238699913025]
+PERMA7_3,PERMA,To what extent do you feel loved?,ChatGPT-5.2,['Emotional'],[0.4157841205596924]
+PERMA7_4,PERMA,To what extent do you feel contented?,ChatGPT-5.2,"['Emotional', 'Occupational']","[0.3345937132835388, 0.30060335993766785]"
+PERMA8_1,PERMA,"Taking all things together, how happy would you say you are?",ChatGPT-5.2,"['Emotional', 'Occupational', 'Social']","[0.2875370979309082, 0.28270450234413147, 0.2466597855091095]"
+PSS_1,PSS,"During the past month, what time have you usually gone to bed at night?",ChatGPT-5.2,"['Environmental', 'Occupational', 'Spiritual']","[0.10499303787946701, 0.06323390454053879, 0.06313474476337433]"
+PSS_2,PSS,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",ChatGPT-5.2,"['Environmental', 'Spiritual']","[0.08221875131130219, 0.036056458950042725]"
+PSS_3,PSS,"During the past month, what time have you usually gotten up in the morning?",ChatGPT-5.2,"['Environmental', 'Spiritual', 'Occupational', 'Physical']","[0.10020558536052704, 0.056833405047655106, 0.05146848410367966, 0.050678689032793045]"
+PSS_4,PSS,"During the past month, how many hours of actual sleep did you get at night?",ChatGPT-5.2,"['Environmental', 'Occupational']","[0.11296441406011581, 0.07172440737485886]"
+PSS_5_1,PSS,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",ChatGPT-5.2,['Environmental'],[0.09680616110563278]
+PSS_5_2,PSS,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",ChatGPT-5.2,['Environmental'],[0.061315279453992844]
+PSS_5_3,PSS,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",ChatGPT-5.2,['Environmental'],[0.16948765516281128]
+PSS_5_4,PSS,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",ChatGPT-5.2,['Environmental'],[0.17077189683914185]
+PSS_5_5,PSS,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",ChatGPT-5.2,"['Environmental', 'Emotional', 'Spiritual']","[0.04196085035800934, 0.020151861011981964, 0.00012163769133621827]"
+PSS_5_6,PSS,"During the past month, how often have you had trouble sleeping because you feel too cold?",ChatGPT-5.2,"['Emotional', 'Environmental', 'Spiritual']","[0.05947504937648773, 0.04318490996956825, 0.01950385794043541]"
+PSS_5_7,PSS,"During the past month, how often have you had trouble sleeping because you feel too hot?",ChatGPT-5.2,"['Emotional', 'Environmental', 'Physical']","[0.085380919277668, 0.07740951329469681, 0.04648300260305405]"
+PSS_5_8,PSS,"During the past month, how often have you had trouble sleeping because you have bad dreams?",ChatGPT-5.2,"['Environmental', 'Emotional', 'Spiritual']","[0.04598565027117729, 0.03529492765665054, 0.021656543016433716]"
+PSS_5_9,PSS,"During the past month, how often have you had trouble sleeping because you have pain?",ChatGPT-5.2,"['Emotional', 'Environmental', 'Spiritual']","[0.04248601198196411, 0.040837567299604416, 0.02548128366470337]"
+PSS_5_10,PSS,"During the past month, how often have you had trouble sleeping because of other reasons?",ChatGPT-5.2,"['Environmental', 'Emotional']","[0.0790521651506424, 0.030005205422639847]"
+PSS_6,PSS,"During the past month, how would you rate your sleep quality overall?",ChatGPT-5.2,['Environmental'],[0.2242308259010315]
+PSS_7,PSS,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",ChatGPT-5.2,"['Environmental', 'Emotional', 'Spiritual']","[0.042752500623464584, 0.028902370482683182, 0.019479744136333466]"
+PSS_8,PSS,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",ChatGPT-5.2,"['Environmental', 'Physical']","[0.22279714047908783, 0.1960243433713913]"
+PSS_9,PSS,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",ChatGPT-5.2,['Intellectual'],[0.2652994394302368]
+PSS_10_1,PSS,"During the past month, how often has your bed partner or room mate reported loud snoring?",ChatGPT-5.2,['Environmental'],[0.05203782021999359]
+PSS_10_2,PSS,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",ChatGPT-5.2,['Environmental'],[0.09667760878801346]
+PSS_10_3,PSS,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",ChatGPT-5.2,"['Physical', 'Environmental']","[0.04847526550292969, 0.010706226341426373]"
+PSS_10_4,PSS,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",ChatGPT-5.2,['Environmental'],[0.1178676187992096]
+PSS_10_5,PSS,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",ChatGPT-5.2,['Environmental'],[0.08890100568532944]
+PWB_1,PWB,I like most parts of my personality.,ChatGPT-5.2,"['Social', 'Physical']","[0.2665674090385437, 0.2609877288341522]"
+PWB_2,PWB,"When I look at the story of my life, I am pleased with how things have turned out so far.",ChatGPT-5.2,"['Occupational', 'Spiritual', 'Intellectual', 'Emotional', 'Social', 'Physical']","[0.20206017792224884, 0.18957555294036865, 0.188953697681427, 0.16517363488674164, 0.15730831027030945, 0.1556791514158249]"
+PWB_3,PWB,"Some people wander aimlessly through life, but I am not one of them.",ChatGPT-5.2,"['Social', 'Environmental', 'Spiritual', 'Occupational', 'Intellectual', 'Emotional']","[0.2429322600364685, 0.23167091608047485, 0.21383613348007202, 0.20275093615055084, 0.19939519464969635, 0.19639724493026733]"
+PWB_4,PWB,The demands of everyday life often get me down.,ChatGPT-5.2,['Occupational'],[0.27014970779418945]
+PWB_5,PWB,In many ways I feel disappointed about my achievements in life.,ChatGPT-5.2,"['Occupational', 'Emotional', 'Intellectual', 'Social']","[0.1954711228609085, 0.17497552931308746, 0.170159250497818, 0.15585803985595703]"
+PWB_6,PWB,Maintaining close relationships has been difficult and frustrating for me.,ChatGPT-5.2,['Social'],[0.30260390043258667]
+PWB_7,PWB,I live life one day at a time and don't really think about the future.,ChatGPT-5.2,"['Intellectual', 'Financial', 'Occupational', 'Spiritual', 'Environmental', 'Physical']","[0.2023843675851822, 0.19619613885879517, 0.17096422612667084, 0.16751150786876678, 0.1629619300365448, 0.15408200025558472]"
+PWB_8,PWB,"In general, I feel I am in charge of the situation in which I live.",ChatGPT-5.2,"['Environmental', 'Emotional', 'Spiritual', 'Intellectual', 'Social', 'Financial']","[0.23567941784858704, 0.22592176496982574, 0.20501889288425446, 0.20455045998096466, 0.20042747259140015, 0.199458509683609]"
+PWB_9,PWB,I am good at managing the responsibilities of daily life.,ChatGPT-5.2,['Occupational'],[0.4817127585411072]
+PWB_10,PWB,I sometimes feel as if I've done all there is to do in life.,ChatGPT-5.2,['Occupational'],[0.37779754400253296]
+PWB_11,PWB,"For me, life has been a continuous process of learning, changing, and growth.",ChatGPT-5.2,['Intellectual'],[0.3767475485801697]
+PWB_12,PWB,I think it is important to have new experiences that challenge how I think about myself and the world.,ChatGPT-5.2,"['Intellectual', 'Spiritual']","[0.3937827944755554, 0.377108097076416]"
+PWB_13,PWB,"People would describe me as a giving person, willing to share my time with others.",ChatGPT-5.2,['Social'],[0.38302791118621826]
+PWB_14,PWB,I gave up trying to make big improvements or changes in my life a long time ago.,ChatGPT-5.2,"['Social', 'Intellectual', 'Financial', 'Emotional']","[0.2032206505537033, 0.2020619660615921, 0.18551315367221832, 0.16314539313316345]"
+PWB_15,PWB,I tend to be influenced by people with strong opinions.,ChatGPT-5.2,['Spiritual'],[0.26733869314193726]
+PWB_16,PWB,I have not experienced many warm and trusting relationships with others.,ChatGPT-5.2,['Social'],[0.3853897750377655]
+PWB_17,PWB,"I have confidence in my own opinions, even if they are different from the way most other people think.",ChatGPT-5.2,"['Social', 'Intellectual', 'Spiritual']","[0.25171732902526855, 0.23426881432533264, 0.23078718781471252]"
+PWB_18,PWB,"I judge myself by what I think is important, not by the values of what others think is important.",ChatGPT-5.2,"['Spiritual', 'Social']","[0.3448261618614197, 0.3205347955226898]"
+PWS_1,PWS,I am always optimistic about my future.,ChatGPT-5.2,['Financial'],[0.2523016929626465]
+PWS_2,PWS,There have been times when I felt inferior to most of the people I knew.,ChatGPT-5.2,['Social'],[0.29327288269996643]
+PWS_3,PWS,Members of my family come to me for support.,ChatGPT-5.2,['Social'],[0.24888154864311218]
+PWS_4,PWS,My physical health has restricted me in the past.,ChatGPT-5.2,['Physical'],[0.38307610154151917]
+PWS_5,PWS,I believe there is a real purpose for my life.,ChatGPT-5.2,['Occupational'],[0.36814767122268677]
+PWS_6,PWS,I will always seek out activities that challenge me to think and reason.,ChatGPT-5.2,"['Intellectual', 'Spiritual']","[0.39096876978874207, 0.35596174001693726]"
+PWS_7,PWS,I rarely count on good things happening to me.,ChatGPT-5.2,"['Environmental', 'Emotional', 'Spiritual']","[0.19086898863315582, 0.18229557573795319, 0.1480310708284378]"
+PWS_8,PWS,"In general, I feel confident about my abilities.",ChatGPT-5.2,"['Physical', 'Social', 'Emotional', 'Intellectual']","[0.3479606807231903, 0.32567524909973145, 0.3251194357872009, 0.31182560324668884]"
+PWS_9,PWS,Sometimes I wonder if my family will really be there for me when I am in need.,ChatGPT-5.2,"['Occupational', 'Social', 'Spiritual', 'Environmental']","[0.22104325890541077, 0.1953641027212143, 0.19415916502475739, 0.1776638925075531]"
+PWS_10,PWS,My body seems to resist physical illness very well.,ChatGPT-5.2,['Physical'],[0.3925744295120239]
+PWS_11,PWS,Life does not hold much future promise for me.,ChatGPT-5.2,['Financial'],[0.22797377407550812]
+PWS_12,PWS,I avoid activities which require me to concentrate.,ChatGPT-5.2,"['Intellectual', 'Environmental']","[0.29595962166786194, 0.2956632673740387]"
+PWS_13,PWS,I always look on the bright side of things.,ChatGPT-5.2,"['Emotional', 'Spiritual', 'Occupational']","[0.2409023493528366, 0.2183259129524231, 0.20697720348834991]"
+PWS_14,PWS,I sometimes think I am a worthless individual.,ChatGPT-5.2,['Occupational'],[0.23207031190395355]
+PWS_15,PWS,My friends know they can always confide in me and ask me for advice.,ChatGPT-5.2,['Social'],[0.22548002004623413]
+PWS_16,PWS,My physical health is excellent.,ChatGPT-5.2,['Physical'],[0.5276056528091431]
+PWS_17,PWS,Sometimes I don't understand what life is all about.,ChatGPT-5.2,"['Intellectual', 'Occupational', 'Spiritual']","[0.2811884582042694, 0.24099983274936676, 0.23600569367408752]"
+PWS_18,PWS,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",ChatGPT-5.2,['Intellectual'],[0.5015908479690552]
+PWS_19,PWS,"In the past, I have expected the best.",ChatGPT-5.2,"['Emotional', 'Social', 'Intellectual']","[0.0899612307548523, 0.05642019957304001, 0.045927003026008606]"
+PWS_20,PWS,I am uncertain about my ability to do things well in the future.,ChatGPT-5.2,"['Intellectual', 'Financial', 'Occupational']","[0.320896714925766, 0.3005672097206116, 0.2825916111469269]"
+PWS_21,PWS,My family has been available to support me in the past.,ChatGPT-5.2,"['Social', 'Financial']","[0.23124632239341736, 0.2249128669500351]"
+PWS_22,PWS,"Compared to people I know, my past physical health has been excellent.",ChatGPT-5.2,['Physical'],[0.4516797661781311]
+PWS_23,PWS,I feel a sense of mission about my future.,ChatGPT-5.2,"['Spiritual', 'Occupational', 'Intellectual']","[0.29485276341438293, 0.29275640845298767, 0.26347342133522034]"
+PWS_24,PWS,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,ChatGPT-5.2,"['Occupational', 'Intellectual']","[0.24283446371555328, 0.2092837244272232]"
+PWS_25,PWS,"In the past, I hardly ever expected things to go my way.",ChatGPT-5.2,"['Social', 'Spiritual', 'Environmental', 'Financial', 'Emotional', 'Intellectual', 'Occupational']","[0.1422506421804428, 0.1278923600912094, 0.12724168598651886, 0.12353695929050446, 0.11814860999584198, 0.10850262641906738, 0.10138813406229019]"
+PWS_26,PWS,I will always be secure with who I am.,ChatGPT-5.2,"['Social', 'Spiritual']","[0.22309352457523346, 0.17602495849132538]"
+PWS_27,PWS,"In the past, I have not always had friends with whom I could share my joys and sorrows.",ChatGPT-5.2,['Social'],[0.3116617202758789]
+PWS_28,PWS,I expect to always be physically healthy.,ChatGPT-5.2,['Physical'],[0.5436748266220093]
+PWS_29,PWS,I have felt in the past that my life was meaningless.,ChatGPT-5.2,['Occupational'],[0.30684754252433777]
+PWS_30,PWS,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",ChatGPT-5.2,['Intellectual'],[0.5881509780883789]
+PWS_31,PWS,Things will not work out the way I want them to in the future.,ChatGPT-5.2,['Financial'],[0.20595082640647888]
+PWS_32,PWS,"In the past, I have felt sure of myself among strangers.",ChatGPT-5.2,"['Spiritual', 'Social']","[0.3135627210140228, 0.308925598859787]"
+PWS_33,PWS,My friends will be there for me when I need help.,ChatGPT-5.2,"['Social', 'Spiritual']","[0.18275900185108185, 0.1349901258945465]"
+PWS_34,PWS,I expect my physical health to get worse.,ChatGPT-5.2,['Physical'],[0.4377829134464264]
+PWS_35,PWS,It seems that my life has always had purpose.,ChatGPT-5.2,['Occupational'],[0.37677642703056335]
+PWS_36,PWS,My life has often seemed void of positive mental stimulation.,ChatGPT-5.2,"['Spiritual', 'Environmental']","[0.2902333736419678, 0.24323350191116333]"
+UCLA_1,UCLA,I am unhappy doing so many things alone,ChatGPT-5.2,"['Occupational', 'Social', 'Emotional', 'Environmental', 'Physical']","[0.1885261982679367, 0.16417746245861053, 0.154910147190094, 0.14779150485992432, 0.14422175288200378]"
+UCLA_2,UCLA,I have nobody to talk to,ChatGPT-5.2,"['Social', 'Environmental']","[0.07401357591152191, 0.05679844692349434]"
+UCLA_3,UCLA,I cannot tolerate being so alone,ChatGPT-5.2,['Social'],[0.2930482029914856]
+UCLA_4,UCLA,I lack companionship,ChatGPT-5.2,['Social'],[0.36774590611457825]
+UCLA_5,UCLA,I feel as if nobody really understands me,ChatGPT-5.2,"['Spiritual', 'Intellectual', 'Social', 'Emotional']","[0.2667647898197174, 0.2615739405155182, 0.22960111498832703, 0.22784081101417542]"
+UCLA_6,UCLA,I find myself waiting for people to call or write,ChatGPT-5.2,['Social'],[0.20583413541316986]
+UCLA_7,UCLA,There is no one I can turn to,ChatGPT-5.2,"['Spiritual', 'Environmental', 'Social']","[0.08061277866363525, 0.044389620423316956, 0.038457974791526794]"
+UCLA_8,UCLA,I am no longer close to anyone,ChatGPT-5.2,"['Social', 'Environmental', 'Spiritual']","[0.206339493393898, 0.19370335340499878, 0.17329086363315582]"
+UCLA_9,UCLA,My interests and ideas are not shared by those around me,ChatGPT-5.2,['Intellectual'],[0.34226194024086]
+UCLA_10,UCLA,I feel left out,ChatGPT-5.2,"['Spiritual', 'Intellectual', 'Social', 'Environmental', 'Emotional']","[0.20514173805713654, 0.20152150094509125, 0.18838883936405182, 0.18687470257282257, 0.16472245752811432]"
+UCLA_11,UCLA,I feel completely alone,ChatGPT-5.2,"['Social', 'Emotional', 'Spiritual']","[0.21265843510627747, 0.17361459136009216, 0.16871531307697296]"
+UCLA_12,UCLA,I am unable to reach out and communicate with those around me,ChatGPT-5.2,"['Spiritual', 'Social']","[0.19998611509799957, 0.18043747544288635]"
+UCLA_13,UCLA,My social relationships are superficial,ChatGPT-5.2,['Social'],[0.4328184425830841]
+UCLA_14,UCLA,I feel starved for company,ChatGPT-5.2,"['Occupational', 'Financial']","[0.1724395751953125, 0.13613250851631165]"
+UCLA_15,UCLA,No one really knows me well,ChatGPT-5.2,"['Social', 'Intellectual', 'Spiritual', 'Occupational']","[0.11746890097856522, 0.11408524960279465, 0.10576242208480835, 0.0679895430803299]"
+UCLA_16,UCLA,I feel isolated from others,ChatGPT-5.2,['Social'],[0.41361451148986816]
+UCLA_17,UCLA,I am unhappy being so withdrawn,ChatGPT-5.2,"['Emotional', 'Intellectual', 'Social']","[0.14461852610111237, 0.0977146178483963, 0.0949004739522934]"
+UCLA_18,UCLA,It is difficult for me to make friends,ChatGPT-5.2,['Social'],[0.3201386630535126]
+UCLA_19,UCLA,I feel shut out and excluded by others,ChatGPT-5.2,['Social'],[0.3040681779384613]
+UCLA_20,UCLA,People are around me but not with me,ChatGPT-5.2,['Social'],[0.2342822253704071]

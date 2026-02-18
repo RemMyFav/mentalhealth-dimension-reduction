@@ -1,0 +1,146 @@
+qid,dataset,text,dimension_model,dimensions,scores
+CD_RISC_1,CD-RISC,I am able to adapt when changes occur.,gemini-3.0-pro,"['Spiritual', 'Occupational', 'Intellectual', 'Emotional']","[0.18419542908668518, 0.17043334245681763, 0.15175709128379822, 0.14256994426250458]"
+CD_RISC_2,CD-RISC,I have one close and secure relationship.,gemini-3.0-pro,['Social'],[0.37790554761886597]
+CD_RISC_3,CD-RISC,Sometimes fate or God helps me.,gemini-3.0-pro,"['Spiritual', 'Emotional']","[0.37080880999565125, 0.3546181321144104]"
+CD_RISC_4,CD-RISC,I can deal with whatever comes my way.,gemini-3.0-pro,"['Emotional', 'Social']","[0.26933860778808594, 0.2501189112663269]"
+CD_RISC_5,CD-RISC,Past successes give me confidence.,gemini-3.0-pro,['Occupational'],[0.2756332457065582]
+CD_RISC_6,CD-RISC,I try to see the humorous side of things when I am faced with problems.,gemini-3.0-pro,"['Emotional', 'Intellectual']","[0.2999243438243866, 0.25150439143180847]"
+CD_RISC_7,CD-RISC,Having to cope with stress can make me stronger.,gemini-3.0-pro,['Emotional'],[0.5505634546279907]
+CD_RISC_8,CD-RISC,"I tend to bounce back after illness, injury, or other hardships.",gemini-3.0-pro,['Emotional'],[0.3206448554992676]
+CD_RISC_9,CD-RISC,I believe most things happen for a reason.,gemini-3.0-pro,['Spiritual'],[0.2603176534175873]
+CD_RISC_10,CD-RISC,"I make my best effort, no matter what.",gemini-3.0-pro,"['Intellectual', 'Occupational']","[0.2771383821964264, 0.24708779156208038]"
+CD_RISC_11,CD-RISC,"I believe I can achieve my goals, even if there are obstacles.",gemini-3.0-pro,['Spiritual'],[0.34092187881469727]
+CD_RISC_12,CD-RISC,"Even when hopeless, I do not give up.",gemini-3.0-pro,['Emotional'],[0.28225529193878174]
+CD_RISC_13,CD-RISC,"In times of stress, I know where to find help.",gemini-3.0-pro,['Emotional'],[0.5167167782783508]
+CD_RISC_14,CD-RISC,"Under pressure, I stay focused and think clearly.",gemini-3.0-pro,"['Emotional', 'Intellectual']","[0.313558965921402, 0.2907754182815552]"
+CD_RISC_15,CD-RISC,I prefer to take the lead in problem-solving.,gemini-3.0-pro,['Intellectual'],[0.39025408029556274]
+CD_RISC_16,CD-RISC,I am not easily discouraged by failure.,gemini-3.0-pro,['Emotional'],[0.33649009466171265]
+CD_RISC_17,CD-RISC,I think of myself as a strong person when dealing with life's challenges and difficulties.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.4876912832260132, 0.4534256160259247]"
+CD_RISC_18,CD-RISC,I make unpopular or difficult decisions.,gemini-3.0-pro,"['Spiritual', 'Emotional', 'Intellectual']","[0.18179461359977722, 0.1670166403055191, 0.1426275074481964]"
+CD_RISC_19,CD-RISC,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",gemini-3.0-pro,['Emotional'],[0.5899076461791992]
+CD_RISC_20,CD-RISC,I have to act on a hunch.,gemini-3.0-pro,"['Social', 'Intellectual', 'Emotional']","[0.169004887342453, 0.15292659401893616, 0.1332453191280365]"
+CD_RISC_21,CD-RISC,I have a strong sense of purpose in life.,gemini-3.0-pro,['Spiritual'],[0.45552781224250793]
+CD_RISC_22,CD-RISC,I feel like I am in control.,gemini-3.0-pro,['Emotional'],[0.2391805499792099]
+CD_RISC_23,CD-RISC,I like challenges.,gemini-3.0-pro,"['Emotional', 'Intellectual', 'Spiritual']","[0.24259817600250244, 0.20840105414390564, 0.19654349982738495]"
+CD_RISC_24,CD-RISC,I work to attain goals.,gemini-3.0-pro,['Occupational'],[0.4774102568626404]
+CD_RISC_25,CD-RISC,I take pride in my achievements.,gemini-3.0-pro,['Occupational'],[0.3440733551979065]
+PERMA1_1,PERMA,How much of the time do you feel you are making progress towards accomplishing your goals?,gemini-3.0-pro,"['Occupational', 'Emotional', 'Intellectual']","[0.2780337929725647, 0.2485285848379135, 0.2315286099910736]"
+PERMA1_2,PERMA,How often do you become absorbed in what you are doing?,gemini-3.0-pro,['Occupational'],[0.32914555072784424]
+PERMA1_3,PERMA,How often do you feel joyful?,gemini-3.0-pro,"['Occupational', 'Emotional']","[0.3595053553581238, 0.3510691523551941]"
+PERMA1_4,PERMA,How often do you feel anxious?,gemini-3.0-pro,['Emotional'],[0.38892027735710144]
+PERMA1_5,PERMA,How often do you achieve the important goals you have set for yourself?,gemini-3.0-pro,"['Occupational', 'Spiritual', 'Emotional']","[0.33271849155426025, 0.33054476976394653, 0.3031294047832489]"
+PERMA2_1,PERMA,How would you say your health is?,gemini-3.0-pro,['Physical'],[0.5421504378318787]
+PERMA3_1,PERMA,To what extent do you lead a purposeful and meaningful life?,gemini-3.0-pro,['Spiritual'],[0.5224254727363586]
+PERMA3_2,PERMA,To what extent do you receive help and support from others when you need it?,gemini-3.0-pro,['Social'],[0.42294490337371826]
+PERMA3_3,PERMA,To what extent do you feel that what you do in your life is valuable and worthwhile?,gemini-3.0-pro,['Occupational'],[0.5110278725624084]
+PERMA3_4,PERMA,To what extent do you feel excited and interested in things?,gemini-3.0-pro,['Intellectual'],[0.4158326983451843]
+PERMA3_5,PERMA,How lonely do you feel in your daily life?,gemini-3.0-pro,"['Emotional', 'Occupational']","[0.3684298098087311, 0.3308979570865631]"
+PERMA4_1,PERMA,How satisfied are you with your current physical health?,gemini-3.0-pro,['Physical'],[0.5202718377113342]
+PERMA5_1,PERMA,How often do you feel positive?,gemini-3.0-pro,"['Emotional', 'Occupational']","[0.3152369260787964, 0.27439120411872864]"
+PERMA5_2,PERMA,How often do you feel angry?,gemini-3.0-pro,['Emotional'],[0.34974461793899536]
+PERMA5_3,PERMA,How often are you able to handle your responsibilities?,gemini-3.0-pro,"['Emotional', 'Occupational', 'Financial']","[0.30042967200279236, 0.28832554817199707, 0.27338308095932007]"
+PERMA5_4,PERMA,How often do you feel sad?,gemini-3.0-pro,['Emotional'],[0.43530160188674927]
+PERMA5_5,PERMA,How often do you lose track of time while doing something you enjoy?,gemini-3.0-pro,['Occupational'],[0.33145904541015625]
+PERMA6_1,PERMA,"Compared to others of your same age and sex, how is your health?",gemini-3.0-pro,"['Physical', 'Social']","[0.33380451798439026, 0.2994391918182373]"
+PERMA7_1,PERMA,To what extent do you feel you have a sense of direction in your life?,gemini-3.0-pro,"['Spiritual', 'Environmental']","[0.32956087589263916, 0.29450535774230957]"
+PERMA7_2,PERMA,How satisfied are you with your personal relationships?,gemini-3.0-pro,['Social'],[0.409557044506073]
+PERMA7_3,PERMA,To what extent do you feel loved?,gemini-3.0-pro,['Emotional'],[0.4348507225513458]
+PERMA7_4,PERMA,To what extent do you feel contented?,gemini-3.0-pro,"['Emotional', 'Occupational']","[0.38721898198127747, 0.3801595866680145]"
+PERMA8_1,PERMA,"Taking all things together, how happy would you say you are?",gemini-3.0-pro,['Occupational'],[0.32849550247192383]
+PSS_1,PSS,"During the past month, what time have you usually gone to bed at night?",gemini-3.0-pro,"['Occupational', 'Environmental', 'Physical', 'Emotional', 'Spiritual']","[0.07527506351470947, 0.06641429662704468, 0.05935552716255188, 0.05755795165896416, 0.04894038289785385]"
+PSS_2,PSS,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",gemini-3.0-pro,"['Emotional', 'Physical', 'Spiritual', 'Occupational', 'Environmental']","[0.0543258972465992, 0.03866370767354965, 0.028953375294804573, 0.02574080601334572, 0.0067717088386416435]"
+PSS_3,PSS,"During the past month, what time have you usually gotten up in the morning?",gemini-3.0-pro,"['Occupational', 'Environmental', 'Physical']","[0.10129483044147491, 0.07148013263940811, 0.06602565199136734]"
+PSS_4,PSS,"During the past month, how many hours of actual sleep did you get at night?",gemini-3.0-pro,"['Occupational', 'Physical', 'Emotional']","[0.10368921607732773, 0.10280511528253555, 0.06482720375061035]"
+PSS_5_1,PSS,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",gemini-3.0-pro,['Emotional'],[0.11751433461904526]
+PSS_5_2,PSS,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",gemini-3.0-pro,['Emotional'],[0.08207497745752335]
+PSS_5_3,PSS,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",gemini-3.0-pro,"['Emotional', 'Physical']","[0.0987234115600586, 0.04985128715634346]"
+PSS_5_4,PSS,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",gemini-3.0-pro,['Emotional'],[0.17704465985298157]
+PSS_5_5,PSS,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",gemini-3.0-pro,['Emotional'],[0.07389827072620392]
+PSS_5_6,PSS,"During the past month, how often have you had trouble sleeping because you feel too cold?",gemini-3.0-pro,['Emotional'],[0.15176145732402802]
+PSS_5_7,PSS,"During the past month, how often have you had trouble sleeping because you feel too hot?",gemini-3.0-pro,['Emotional'],[0.15395329892635345]
+PSS_5_8,PSS,"During the past month, how often have you had trouble sleeping because you have bad dreams?",gemini-3.0-pro,['Emotional'],[0.13783052563667297]
+PSS_5_9,PSS,"During the past month, how often have you had trouble sleeping because you have pain?",gemini-3.0-pro,['Emotional'],[0.1584796905517578]
+PSS_5_10,PSS,"During the past month, how often have you had trouble sleeping because of other reasons?",gemini-3.0-pro,['Emotional'],[0.14016997814178467]
+PSS_6,PSS,"During the past month, how would you rate your sleep quality overall?",gemini-3.0-pro,['Physical'],[0.22817708551883698]
+PSS_7,PSS,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",gemini-3.0-pro,"['Emotional', 'Physical']","[0.09383883327245712, 0.08716501295566559]"
+PSS_8,PSS,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",gemini-3.0-pro,"['Emotional', 'Occupational']","[0.24748985469341278, 0.21241910755634308]"
+PSS_9,PSS,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",gemini-3.0-pro,['Emotional'],[0.3802156150341034]
+PSS_10_1,PSS,"During the past month, how often has your bed partner or room mate reported loud snoring?",gemini-3.0-pro,"['Social', 'Emotional', 'Occupational']","[0.024758951738476753, 0.000356754579115659, -0.02437506802380085]"
+PSS_10_2,PSS,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.09016363322734833, 0.05024885758757591]"
+PSS_10_3,PSS,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",gemini-3.0-pro,"['Physical', 'Social', 'Spiritual', 'Emotional']","[0.03238312155008316, -0.008915756829082966, -0.009402144700288773, -0.013939404860138893]"
+PSS_10_4,PSS,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",gemini-3.0-pro,['Emotional'],[0.12780138850212097]
+PSS_10_5,PSS,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",gemini-3.0-pro,"['Emotional', 'Social', 'Spiritual', 'Occupational']","[0.051776956766843796, 0.019643059000372887, 0.014718247577548027, 0.013439420610666275]"
+PWB_1,PWB,I like most parts of my personality.,gemini-3.0-pro,"['Social', 'Physical', 'Environmental', 'Intellectual', 'Occupational', 'Spiritual']","[0.20790104568004608, 0.20224294066429138, 0.19583049416542053, 0.17870430648326874, 0.1784917116165161, 0.1719924360513687]"
+PWB_2,PWB,"When I look at the story of my life, I am pleased with how things have turned out so far.",gemini-3.0-pro,"['Social', 'Occupational']","[0.2736261487007141, 0.2726592421531677]"
+PWB_3,PWB,"Some people wander aimlessly through life, but I am not one of them.",gemini-3.0-pro,"['Spiritual', 'Emotional', 'Occupational', 'Social']","[0.261870414018631, 0.2521379292011261, 0.2470051646232605, 0.2222539484500885]"
+PWB_4,PWB,The demands of everyday life often get me down.,gemini-3.0-pro,['Emotional'],[0.4012555778026581]
+PWB_5,PWB,In many ways I feel disappointed about my achievements in life.,gemini-3.0-pro,['Occupational'],[0.31533384323120117]
+PWB_6,PWB,Maintaining close relationships has been difficult and frustrating for me.,gemini-3.0-pro,"['Emotional', 'Social']","[0.3861485421657562, 0.3617745637893677]"
+PWB_7,PWB,I live life one day at a time and don't really think about the future.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.25405943393707275, 0.20559929311275482]"
+PWB_8,PWB,"In general, I feel I am in charge of the situation in which I live.",gemini-3.0-pro,['Emotional'],[0.33124175667762756]
+PWB_9,PWB,I am good at managing the responsibilities of daily life.,gemini-3.0-pro,['Occupational'],[0.4282825291156769]
+PWB_10,PWB,I sometimes feel as if I've done all there is to do in life.,gemini-3.0-pro,"['Occupational', 'Emotional']","[0.3816174268722534, 0.3547319769859314]"
+PWB_11,PWB,"For me, life has been a continuous process of learning, changing, and growth.",gemini-3.0-pro,"['Emotional', 'Spiritual', 'Occupational']","[0.358536034822464, 0.3271069824695587, 0.3152068853378296]"
+PWB_12,PWB,I think it is important to have new experiences that challenge how I think about myself and the world.,gemini-3.0-pro,"['Spiritual', 'Social', 'Emotional']","[0.3954629898071289, 0.3865809440612793, 0.3861713409423828]"
+PWB_13,PWB,"People would describe me as a giving person, willing to share my time with others.",gemini-3.0-pro,"['Occupational', 'Spiritual', 'Social']","[0.3312530517578125, 0.30967116355895996, 0.28976374864578247]"
+PWB_14,PWB,I gave up trying to make big improvements or changes in my life a long time ago.,gemini-3.0-pro,"['Emotional', 'Occupational', 'Social']","[0.29350417852401733, 0.24750500917434692, 0.24442991614341736]"
+PWB_15,PWB,I tend to be influenced by people with strong opinions.,gemini-3.0-pro,"['Spiritual', 'Social', 'Intellectual']","[0.21781380474567413, 0.19391216337680817, 0.18240736424922943]"
+PWB_16,PWB,I have not experienced many warm and trusting relationships with others.,gemini-3.0-pro,['Social'],[0.46277350187301636]
+PWB_17,PWB,"I have confidence in my own opinions, even if they are different from the way most other people think.",gemini-3.0-pro,['Spiritual'],[0.2348329871892929]
+PWB_18,PWB,"I judge myself by what I think is important, not by the values of what others think is important.",gemini-3.0-pro,['Spiritual'],[0.42706263065338135]
+PWS_1,PWS,I am always optimistic about my future.,gemini-3.0-pro,"['Financial', 'Emotional', 'Occupational']","[0.24380771815776825, 0.22495490312576294, 0.2244768738746643]"
+PWS_2,PWS,There have been times when I felt inferior to most of the people I knew.,gemini-3.0-pro,"['Emotional', 'Social']","[0.2806670367717743, 0.23768560588359833]"
+PWS_3,PWS,Members of my family come to me for support.,gemini-3.0-pro,['Social'],[0.333231657743454]
+PWS_4,PWS,My physical health has restricted me in the past.,gemini-3.0-pro,['Physical'],[0.44845378398895264]
+PWS_5,PWS,I believe there is a real purpose for my life.,gemini-3.0-pro,['Spiritual'],[0.42216840386390686]
+PWS_6,PWS,I will always seek out activities that challenge me to think and reason.,gemini-3.0-pro,"['Intellectual', 'Spiritual', 'Emotional']","[0.3985929787158966, 0.39193227887153625, 0.383800208568573]"
+PWS_7,PWS,I rarely count on good things happening to me.,gemini-3.0-pro,"['Emotional', 'Occupational', 'Social']","[0.23894695937633514, 0.2131209671497345, 0.20118384063243866]"
+PWS_8,PWS,"In general, I feel confident about my abilities.",gemini-3.0-pro,"['Intellectual', 'Spiritual', 'Emotional', 'Occupational']","[0.3042188584804535, 0.26345157623291016, 0.26231834292411804, 0.2599942088127136]"
+PWS_9,PWS,Sometimes I wonder if my family will really be there for me when I am in need.,gemini-3.0-pro,"['Spiritual', 'Social', 'Emotional']","[0.25270164012908936, 0.2313372790813446, 0.22626720368862152]"
+PWS_10,PWS,My body seems to resist physical illness very well.,gemini-3.0-pro,['Physical'],[0.48092880845069885]
+PWS_11,PWS,Life does not hold much future promise for me.,gemini-3.0-pro,"['Spiritual', 'Emotional']","[0.2781408727169037, 0.24731455743312836]"
+PWS_12,PWS,I avoid activities which require me to concentrate.,gemini-3.0-pro,"['Occupational', 'Intellectual']","[0.3806750774383545, 0.3706919848918915]"
+PWS_13,PWS,I always look on the bright side of things.,gemini-3.0-pro,"['Environmental', 'Occupational', 'Emotional']","[0.24088981747627258, 0.2303321808576584, 0.20221717655658722]"
+PWS_14,PWS,I sometimes think I am a worthless individual.,gemini-3.0-pro,"['Occupational', 'Spiritual']","[0.27600759267807007, 0.27114027738571167]"
+PWS_15,PWS,My friends know they can always confide in me and ask me for advice.,gemini-3.0-pro,['Social'],[0.3087857663631439]
+PWS_16,PWS,My physical health is excellent.,gemini-3.0-pro,['Physical'],[0.6156313419342041]
+PWS_17,PWS,Sometimes I don't understand what life is all about.,gemini-3.0-pro,"['Emotional', 'Social', 'Spiritual']","[0.3136589527130127, 0.29548683762550354, 0.2706134617328644]"
+PWS_18,PWS,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",gemini-3.0-pro,['Intellectual'],[0.5536096096038818]
+PWS_19,PWS,"In the past, I have expected the best.",gemini-3.0-pro,"['Emotional', 'Occupational', 'Spiritual', 'Social']","[0.09926079958677292, 0.08619702607393265, 0.06552146375179291, 0.062142908573150635]"
+PWS_20,PWS,I am uncertain about my ability to do things well in the future.,gemini-3.0-pro,"['Intellectual', 'Financial', 'Occupational']","[0.3163756728172302, 0.3135567307472229, 0.29533857107162476]"
+PWS_21,PWS,My family has been available to support me in the past.,gemini-3.0-pro,['Social'],[0.2903672754764557]
+PWS_22,PWS,"Compared to people I know, my past physical health has been excellent.",gemini-3.0-pro,['Physical'],[0.47806254029273987]
+PWS_23,PWS,I feel a sense of mission about my future.,gemini-3.0-pro,"['Spiritual', 'Emotional']","[0.2975994348526001, 0.2569318413734436]"
+PWS_24,PWS,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,gemini-3.0-pro,"['Occupational', 'Intellectual', 'Emotional']","[0.27181509137153625, 0.23739539086818695, 0.23115792870521545]"
+PWS_25,PWS,"In the past, I hardly ever expected things to go my way.",gemini-3.0-pro,"['Occupational', 'Emotional', 'Social']","[0.22087454795837402, 0.2028915137052536, 0.1887175738811493]"
+PWS_26,PWS,I will always be secure with who I am.,gemini-3.0-pro,"['Social', 'Spiritual']","[0.21385593712329865, 0.18769359588623047]"
+PWS_27,PWS,"In the past, I have not always had friends with whom I could share my joys and sorrows.",gemini-3.0-pro,['Social'],[0.36550769209861755]
+PWS_28,PWS,I expect to always be physically healthy.,gemini-3.0-pro,['Physical'],[0.5743659734725952]
+PWS_29,PWS,I have felt in the past that my life was meaningless.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.37213730812072754, 0.3409944474697113]"
+PWS_30,PWS,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",gemini-3.0-pro,['Intellectual'],[0.5419159531593323]
+PWS_31,PWS,Things will not work out the way I want them to in the future.,gemini-3.0-pro,"['Financial', 'Emotional']","[0.25077831745147705, 0.21201471984386444]"
+PWS_32,PWS,"In the past, I have felt sure of myself among strangers.",gemini-3.0-pro,"['Social', 'Spiritual']","[0.3684111535549164, 0.32348382472991943]"
+PWS_33,PWS,My friends will be there for me when I need help.,gemini-3.0-pro,['Social'],[0.2344694882631302]
+PWS_34,PWS,I expect my physical health to get worse.,gemini-3.0-pro,['Physical'],[0.4699077606201172]
+PWS_35,PWS,It seems that my life has always had purpose.,gemini-3.0-pro,"['Occupational', 'Spiritual']","[0.38736385107040405, 0.37438690662384033]"
+PWS_36,PWS,My life has often seemed void of positive mental stimulation.,gemini-3.0-pro,"['Occupational', 'Emotional', 'Spiritual']","[0.356362521648407, 0.33537745475769043, 0.31192854046821594]"
+UCLA_1,UCLA,I am unhappy doing so many things alone,gemini-3.0-pro,"['Emotional', 'Occupational']","[0.329134464263916, 0.3275773823261261]"
+UCLA_2,UCLA,I have nobody to talk to,gemini-3.0-pro,['Social'],[0.1827744096517563]
+UCLA_3,UCLA,I cannot tolerate being so alone,gemini-3.0-pro,"['Social', 'Emotional']","[0.2650783658027649, 0.23108689486980438]"
+UCLA_4,UCLA,I lack companionship,gemini-3.0-pro,['Social'],[0.3512626588344574]
+UCLA_5,UCLA,I feel as if nobody really understands me,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.2877148687839508, 0.24814537167549133]"
+UCLA_6,UCLA,I find myself waiting for people to call or write,gemini-3.0-pro,['Social'],[0.25959280133247375]
+UCLA_7,UCLA,There is no one I can turn to,gemini-3.0-pro,['Spiritual'],[0.09250769019126892]
+UCLA_8,UCLA,I am no longer close to anyone,gemini-3.0-pro,['Social'],[0.2880607843399048]
+UCLA_9,UCLA,My interests and ideas are not shared by those around me,gemini-3.0-pro,['Intellectual'],[0.38385793566703796]
+UCLA_10,UCLA,I feel left out,gemini-3.0-pro,"['Emotional', 'Intellectual']","[0.24384140968322754, 0.2100575715303421]"
+UCLA_11,UCLA,I feel completely alone,gemini-3.0-pro,"['Emotional', 'Social']","[0.2579802870750427, 0.2181001603603363]"
+UCLA_12,UCLA,I am unable to reach out and communicate with those around me,gemini-3.0-pro,"['Social', 'Emotional']","[0.18404653668403625, 0.17567402124404907]"
+UCLA_13,UCLA,My social relationships are superficial,gemini-3.0-pro,['Social'],[0.4694691002368927]
+UCLA_14,UCLA,I feel starved for company,gemini-3.0-pro,"['Financial', 'Occupational']","[0.27506428956985474, 0.2337694764137268]"
+UCLA_15,UCLA,No one really knows me well,gemini-3.0-pro,"['Social', 'Intellectual', 'Spiritual']","[0.16275319457054138, 0.12871170043945312, 0.1254342645406723]"
+UCLA_16,UCLA,I feel isolated from others,gemini-3.0-pro,"['Social', 'Emotional']","[0.3478167951107025, 0.33900001645088196]"
+UCLA_17,UCLA,I am unhappy being so withdrawn,gemini-3.0-pro,['Emotional'],[0.2660680413246155]
+UCLA_18,UCLA,It is difficult for me to make friends,gemini-3.0-pro,['Social'],[0.3399004638195038]
+UCLA_19,UCLA,I feel shut out and excluded by others,gemini-3.0-pro,['Social'],[0.29242274165153503]
+UCLA_20,UCLA,People are around me but not with me,gemini-3.0-pro,['Social'],[0.22099651396274567]

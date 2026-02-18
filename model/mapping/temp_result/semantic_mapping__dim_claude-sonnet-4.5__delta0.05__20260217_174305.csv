@@ -1,0 +1,146 @@
+qid,dataset,text,dimension_model,dimensions,scores
+CD_RISC_1,CD-RISC,I am able to adapt when changes occur.,claude-sonnet-4.5,"['Emotional', 'Intellectual']","[0.20338718593120575, 0.1728212833404541]"
+CD_RISC_2,CD-RISC,I have one close and secure relationship.,claude-sonnet-4.5,['Social'],[0.4295330047607422]
+CD_RISC_3,CD-RISC,Sometimes fate or God helps me.,claude-sonnet-4.5,"['Emotional', 'Spiritual']","[0.3030388653278351, 0.30272582173347473]"
+CD_RISC_4,CD-RISC,I can deal with whatever comes my way.,claude-sonnet-4.5,"['Environmental', 'Social', 'Emotional']","[0.23452675342559814, 0.21004359424114227, 0.2086700052022934]"
+CD_RISC_5,CD-RISC,Past successes give me confidence.,claude-sonnet-4.5,"['Occupational', 'Social', 'Emotional']","[0.18004004657268524, 0.15487010776996613, 0.13201500475406647]"
+CD_RISC_6,CD-RISC,I try to see the humorous side of things when I am faced with problems.,claude-sonnet-4.5,"['Emotional', 'Intellectual']","[0.21719160676002502, 0.19901303946971893]"
+CD_RISC_7,CD-RISC,Having to cope with stress can make me stronger.,claude-sonnet-4.5,['Emotional'],[0.42123231291770935]
+CD_RISC_8,CD-RISC,"I tend to bounce back after illness, injury, or other hardships.",claude-sonnet-4.5,"['Physical', 'Emotional']","[0.28808268904685974, 0.2825136184692383]"
+CD_RISC_9,CD-RISC,I believe most things happen for a reason.,claude-sonnet-4.5,"['Emotional', 'Spiritual', 'Environmental']","[0.17283037304878235, 0.16573268175125122, 0.15739664435386658]"
+CD_RISC_10,CD-RISC,"I make my best effort, no matter what.",claude-sonnet-4.5,"['Intellectual', 'Occupational', 'Social']","[0.25221171975135803, 0.2353842556476593, 0.21572522819042206]"
+CD_RISC_11,CD-RISC,"I believe I can achieve my goals, even if there are obstacles.",claude-sonnet-4.5,"['Intellectual', 'Financial', 'Emotional']","[0.30036279559135437, 0.2825739085674286, 0.2652711868286133]"
+CD_RISC_12,CD-RISC,"Even when hopeless, I do not give up.",claude-sonnet-4.5,['Emotional'],[0.25820496678352356]
+CD_RISC_13,CD-RISC,"In times of stress, I know where to find help.",claude-sonnet-4.5,['Emotional'],[0.34266045689582825]
+CD_RISC_14,CD-RISC,"Under pressure, I stay focused and think clearly.",claude-sonnet-4.5,['Intellectual'],[0.33911362290382385]
+CD_RISC_15,CD-RISC,I prefer to take the lead in problem-solving.,claude-sonnet-4.5,['Intellectual'],[0.38336557149887085]
+CD_RISC_16,CD-RISC,I am not easily discouraged by failure.,claude-sonnet-4.5,"['Intellectual', 'Emotional']","[0.2608775794506073, 0.24331843852996826]"
+CD_RISC_17,CD-RISC,I think of myself as a strong person when dealing with life's challenges and difficulties.,claude-sonnet-4.5,['Emotional'],[0.4986703097820282]
+CD_RISC_18,CD-RISC,I make unpopular or difficult decisions.,claude-sonnet-4.5,"['Intellectual', 'Social', 'Financial']","[0.18140891194343567, 0.1519523561000824, 0.14701755344867706]"
+CD_RISC_19,CD-RISC,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",claude-sonnet-4.5,['Emotional'],[0.5490440130233765]
+CD_RISC_20,CD-RISC,I have to act on a hunch.,claude-sonnet-4.5,"['Environmental', 'Intellectual', 'Physical', 'Occupational', 'Social']","[0.10455446690320969, 0.09083691239356995, 0.08326920121908188, 0.07334784418344498, 0.06347378343343735]"
+CD_RISC_21,CD-RISC,I have a strong sense of purpose in life.,claude-sonnet-4.5,['Spiritual'],[0.3965386152267456]
+CD_RISC_22,CD-RISC,I feel like I am in control.,claude-sonnet-4.5,['Emotional'],[0.16565197706222534]
+CD_RISC_23,CD-RISC,I like challenges.,claude-sonnet-4.5,"['Emotional', 'Spiritual', 'Intellectual', 'Environmental', 'Physical']","[0.15235252678394318, 0.14190086722373962, 0.12712615728378296, 0.11303927004337311, 0.10857009887695312]"
+CD_RISC_24,CD-RISC,I work to attain goals.,claude-sonnet-4.5,"['Occupational', 'Intellectual']","[0.37296420335769653, 0.33212539553642273]"
+CD_RISC_25,CD-RISC,I take pride in my achievements.,claude-sonnet-4.5,['Occupational'],[0.3048102557659149]
+PERMA1_1,PERMA,How much of the time do you feel you are making progress towards accomplishing your goals?,claude-sonnet-4.5,"['Intellectual', 'Occupational']","[0.26990291476249695, 0.23272739350795746]"
+PERMA1_2,PERMA,How often do you become absorbed in what you are doing?,claude-sonnet-4.5,"['Occupational', 'Physical']","[0.27047455310821533, 0.22176112234592438]"
+PERMA1_3,PERMA,How often do you feel joyful?,claude-sonnet-4.5,['Emotional'],[0.3362022042274475]
+PERMA1_4,PERMA,How often do you feel anxious?,claude-sonnet-4.5,['Emotional'],[0.31303277611732483]
+PERMA1_5,PERMA,How often do you achieve the important goals you have set for yourself?,claude-sonnet-4.5,"['Intellectual', 'Occupational', 'Emotional', 'Financial']","[0.28317853808403015, 0.2492040991783142, 0.2438778132200241, 0.24167342483997345]"
+PERMA2_1,PERMA,How would you say your health is?,claude-sonnet-4.5,['Physical'],[0.531337559223175]
+PERMA3_1,PERMA,To what extent do you lead a purposeful and meaningful life?,claude-sonnet-4.5,['Spiritual'],[0.47589966654777527]
+PERMA3_2,PERMA,To what extent do you receive help and support from others when you need it?,claude-sonnet-4.5,['Social'],[0.4291006028652191]
+PERMA3_3,PERMA,To what extent do you feel that what you do in your life is valuable and worthwhile?,claude-sonnet-4.5,['Occupational'],[0.4738061726093292]
+PERMA3_4,PERMA,To what extent do you feel excited and interested in things?,claude-sonnet-4.5,"['Emotional', 'Intellectual']","[0.34992605447769165, 0.31796759366989136]"
+PERMA3_5,PERMA,How lonely do you feel in your daily life?,claude-sonnet-4.5,"['Emotional', 'Occupational', 'Social']","[0.34137481451034546, 0.2984996736049652, 0.2934825122356415]"
+PERMA4_1,PERMA,How satisfied are you with your current physical health?,claude-sonnet-4.5,['Physical'],[0.5165918469429016]
+PERMA5_1,PERMA,How often do you feel positive?,claude-sonnet-4.5,['Emotional'],[0.281203031539917]
+PERMA5_2,PERMA,How often do you feel angry?,claude-sonnet-4.5,['Emotional'],[0.32040104269981384]
+PERMA5_3,PERMA,How often are you able to handle your responsibilities?,claude-sonnet-4.5,"['Occupational', 'Financial']","[0.24830572307109833, 0.20086118578910828]"
+PERMA5_4,PERMA,How often do you feel sad?,claude-sonnet-4.5,['Emotional'],[0.37230807542800903]
+PERMA5_5,PERMA,How often do you lose track of time while doing something you enjoy?,claude-sonnet-4.5,"['Occupational', 'Physical']","[0.22059763967990875, 0.18237903714179993]"
+PERMA6_1,PERMA,"Compared to others of your same age and sex, how is your health?",claude-sonnet-4.5,"['Physical', 'Social']","[0.28213566541671753, 0.27732494473457336]"
+PERMA7_1,PERMA,To what extent do you feel you have a sense of direction in your life?,claude-sonnet-4.5,['Spiritual'],[0.34728145599365234]
+PERMA7_2,PERMA,How satisfied are you with your personal relationships?,claude-sonnet-4.5,['Social'],[0.4097127914428711]
+PERMA7_3,PERMA,To what extent do you feel loved?,claude-sonnet-4.5,['Emotional'],[0.41233184933662415]
+PERMA7_4,PERMA,To what extent do you feel contented?,claude-sonnet-4.5,['Emotional'],[0.36551332473754883]
+PERMA8_1,PERMA,"Taking all things together, how happy would you say you are?",claude-sonnet-4.5,"['Emotional', 'Occupational', 'Social']","[0.30741775035858154, 0.30048444867134094, 0.26313385367393494]"
+PSS_1,PSS,"During the past month, what time have you usually gone to bed at night?",claude-sonnet-4.5,"['Spiritual', 'Emotional']","[0.05991438776254654, 0.011031238362193108]"
+PSS_2,PSS,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",claude-sonnet-4.5,"['Spiritual', 'Emotional']","[0.015255477279424667, 0.011161635629832745]"
+PSS_3,PSS,"During the past month, what time have you usually gotten up in the morning?",claude-sonnet-4.5,"['Spiritual', 'Physical', 'Occupational', 'Emotional', 'Environmental']","[0.03511083871126175, 0.015863608568906784, 0.015492883510887623, 0.010830068029463291, 0.006900176405906677]"
+PSS_4,PSS,"During the past month, how many hours of actual sleep did you get at night?",claude-sonnet-4.5,"['Emotional', 'Spiritual', 'Occupational']","[0.052828848361968994, 0.05264831334352493, 0.03426971659064293]"
+PSS_5_1,PSS,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",claude-sonnet-4.5,"['Emotional', 'Spiritual']","[0.024631442502141, -0.020029399544000626]"
+PSS_5_2,PSS,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",claude-sonnet-4.5,['Emotional'],[0.002463844371959567]
+PSS_5_3,PSS,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",claude-sonnet-4.5,"['Environmental', 'Emotional', 'Physical']","[0.036488424986600876, 0.0135662741959095, -0.006326996721327305]"
+PSS_5_4,PSS,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",claude-sonnet-4.5,"['Emotional', 'Environmental']","[0.08526906371116638, 0.058968685567379]"
+PSS_5_5,PSS,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",claude-sonnet-4.5,['Emotional'],[0.021392999216914177]
+PSS_5_6,PSS,"During the past month, how often have you had trouble sleeping because you feel too cold?",claude-sonnet-4.5,['Emotional'],[0.06085260212421417]
+PSS_5_7,PSS,"During the past month, how often have you had trouble sleeping because you feel too hot?",claude-sonnet-4.5,['Emotional'],[0.07689803093671799]
+PSS_5_8,PSS,"During the past month, how often have you had trouble sleeping because you have bad dreams?",claude-sonnet-4.5,['Emotional'],[0.05168222263455391]
+PSS_5_9,PSS,"During the past month, how often have you had trouble sleeping because you have pain?",claude-sonnet-4.5,"['Emotional', 'Spiritual']","[0.05954200401902199, 0.010462847538292408]"
+PSS_5_10,PSS,"During the past month, how often have you had trouble sleeping because of other reasons?",claude-sonnet-4.5,['Emotional'],[0.046522919088602066]
+PSS_6,PSS,"During the past month, how would you rate your sleep quality overall?",claude-sonnet-4.5,"['Physical', 'Social', 'Environmental', 'Occupational']","[0.1261611431837082, 0.08709824830293655, 0.08539305627346039, 0.08262427896261215]"
+PSS_7,PSS,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",claude-sonnet-4.5,"['Emotional', 'Spiritual']","[0.037329260259866714, 0.004557871725410223]"
+PSS_8,PSS,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",claude-sonnet-4.5,"['Emotional', 'Social', 'Physical']","[0.15562796592712402, 0.1242917850613594, 0.11236550658941269]"
+PSS_9,PSS,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",claude-sonnet-4.5,"['Intellectual', 'Emotional']","[0.20945318043231964, 0.2062235176563263]"
+PSS_10_1,PSS,"During the past month, how often has your bed partner or room mate reported loud snoring?",claude-sonnet-4.5,"['Environmental', 'Social', 'Emotional']","[-0.01604696363210678, -0.029424075037240982, -0.06004675105214119]"
+PSS_10_2,PSS,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",claude-sonnet-4.5,"['Environmental', 'Emotional', 'Social']","[0.014003053307533264, -0.018346918746829033, -0.024335093796253204]"
+PSS_10_3,PSS,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",claude-sonnet-4.5,['Physical'],[0.0412408746778965]
+PSS_10_4,PSS,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",claude-sonnet-4.5,"['Emotional', 'Environmental', 'Social', 'Intellectual']","[0.011237718164920807, -0.00660195155069232, -0.015002163127064705, -0.0371723510324955]"
+PSS_10_5,PSS,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",claude-sonnet-4.5,"['Social', 'Emotional', 'Environmental']","[0.00990686658769846, -0.003687780350446701, -0.02689971588551998]"
+PWB_1,PWB,I like most parts of my personality.,claude-sonnet-4.5,['Social'],[0.2844589054584503]
+PWB_2,PWB,"When I look at the story of my life, I am pleased with how things have turned out so far.",claude-sonnet-4.5,"['Occupational', 'Emotional', 'Social']","[0.21098963916301727, 0.2025078982114792, 0.16986913979053497]"
+PWB_3,PWB,"Some people wander aimlessly through life, but I am not one of them.",claude-sonnet-4.5,"['Emotional', 'Social', 'Occupational']","[0.2512604594230652, 0.22645743191242218, 0.21558013558387756]"
+PWB_4,PWB,The demands of everyday life often get me down.,claude-sonnet-4.5,"['Emotional', 'Occupational']","[0.28911927342414856, 0.2663612961769104]"
+PWB_5,PWB,In many ways I feel disappointed about my achievements in life.,claude-sonnet-4.5,"['Occupational', 'Emotional']","[0.27327775955200195, 0.22923678159713745]"
+PWB_6,PWB,Maintaining close relationships has been difficult and frustrating for me.,claude-sonnet-4.5,['Social'],[0.33844584226608276]
+PWB_7,PWB,I live life one day at a time and don't really think about the future.,claude-sonnet-4.5,"['Financial', 'Intellectual', 'Spiritual']","[0.20549455285072327, 0.19172939658164978, 0.17859211564064026]"
+PWB_8,PWB,"In general, I feel I am in charge of the situation in which I live.",claude-sonnet-4.5,"['Emotional', 'Environmental']","[0.24882543087005615, 0.22841836512088776]"
+PWB_9,PWB,I am good at managing the responsibilities of daily life.,claude-sonnet-4.5,['Occupational'],[0.4050939083099365]
+PWB_10,PWB,I sometimes feel as if I've done all there is to do in life.,claude-sonnet-4.5,['Occupational'],[0.3477409780025482]
+PWB_11,PWB,"For me, life has been a continuous process of learning, changing, and growth.",claude-sonnet-4.5,"['Intellectual', 'Emotional']","[0.3855852484703064, 0.3360750377178192]"
+PWB_12,PWB,I think it is important to have new experiences that challenge how I think about myself and the world.,claude-sonnet-4.5,"['Emotional', 'Intellectual', 'Spiritual']","[0.3487386107444763, 0.3448428213596344, 0.333275705575943]"
+PWB_13,PWB,"People would describe me as a giving person, willing to share my time with others.",claude-sonnet-4.5,['Social'],[0.4035055935382843]
+PWB_14,PWB,I gave up trying to make big improvements or changes in my life a long time ago.,claude-sonnet-4.5,"['Emotional', 'Intellectual']","[0.2616886496543884, 0.23727993667125702]"
+PWB_15,PWB,I tend to be influenced by people with strong opinions.,claude-sonnet-4.5,"['Social', 'Intellectual']","[0.25580522418022156, 0.2440701425075531]"
+PWB_16,PWB,I have not experienced many warm and trusting relationships with others.,claude-sonnet-4.5,['Social'],[0.4558601677417755]
+PWB_17,PWB,"I have confidence in my own opinions, even if they are different from the way most other people think.",claude-sonnet-4.5,"['Social', 'Intellectual']","[0.26300525665283203, 0.21910201013088226]"
+PWB_18,PWB,"I judge myself by what I think is important, not by the values of what others think is important.",claude-sonnet-4.5,['Spiritual'],[0.32600119709968567]
+PWS_1,PWS,I am always optimistic about my future.,claude-sonnet-4.5,['Financial'],[0.2829189896583557]
+PWS_2,PWS,There have been times when I felt inferior to most of the people I knew.,claude-sonnet-4.5,"['Emotional', 'Social']","[0.2670981287956238, 0.2554316520690918]"
+PWS_3,PWS,Members of my family come to me for support.,claude-sonnet-4.5,['Social'],[0.274009108543396]
+PWS_4,PWS,My physical health has restricted me in the past.,claude-sonnet-4.5,['Physical'],[0.42064788937568665]
+PWS_5,PWS,I believe there is a real purpose for my life.,claude-sonnet-4.5,['Spiritual'],[0.3609929084777832]
+PWS_6,PWS,I will always seek out activities that challenge me to think and reason.,claude-sonnet-4.5,"['Intellectual', 'Spiritual', 'Emotional']","[0.34300845861434937, 0.3398076295852661, 0.3070541322231293]"
+PWS_7,PWS,I rarely count on good things happening to me.,claude-sonnet-4.5,"['Emotional', 'Environmental', 'Occupational']","[0.20250584185123444, 0.18105456233024597, 0.166651651263237]"
+PWS_8,PWS,"In general, I feel confident about my abilities.",claude-sonnet-4.5,"['Emotional', 'Intellectual', 'Social']","[0.31972643733024597, 0.28800851106643677, 0.28762516379356384]"
+PWS_9,PWS,Sometimes I wonder if my family will really be there for me when I am in need.,claude-sonnet-4.5,"['Emotional', 'Occupational', 'Social', 'Spiritual']","[0.20370231568813324, 0.18373528122901917, 0.17829230427742004, 0.17796416580677032]"
+PWS_10,PWS,My body seems to resist physical illness very well.,claude-sonnet-4.5,['Physical'],[0.39232689142227173]
+PWS_11,PWS,Life does not hold much future promise for me.,claude-sonnet-4.5,"['Financial', 'Intellectual', 'Social', 'Emotional', 'Occupational']","[0.2061615139245987, 0.20591822266578674, 0.1679297834634781, 0.16339100897312164, 0.16285920143127441]"
+PWS_12,PWS,I avoid activities which require me to concentrate.,claude-sonnet-4.5,"['Intellectual', 'Occupational']","[0.31176865100860596, 0.27867650985717773]"
+PWS_13,PWS,I always look on the bright side of things.,claude-sonnet-4.5,['Emotional'],[0.2345340996980667]
+PWS_14,PWS,I sometimes think I am a worthless individual.,claude-sonnet-4.5,"['Occupational', 'Emotional']","[0.24184291064739227, 0.2021317034959793]"
+PWS_15,PWS,My friends know they can always confide in me and ask me for advice.,claude-sonnet-4.5,['Social'],[0.28686293959617615]
+PWS_16,PWS,My physical health is excellent.,claude-sonnet-4.5,['Physical'],[0.5713838338851929]
+PWS_17,PWS,Sometimes I don't understand what life is all about.,claude-sonnet-4.5,"['Emotional', 'Environmental', 'Spiritual']","[0.25381627678871155, 0.21697813272476196, 0.21364259719848633]"
+PWS_18,PWS,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",claude-sonnet-4.5,['Intellectual'],[0.49645817279815674]
+PWS_19,PWS,"In the past, I have expected the best.",claude-sonnet-4.5,['Emotional'],[0.12131404131650925]
+PWS_20,PWS,I am uncertain about my ability to do things well in the future.,claude-sonnet-4.5,"['Financial', 'Intellectual', 'Occupational']","[0.34392380714416504, 0.32683295011520386, 0.29695525765419006]"
+PWS_21,PWS,My family has been available to support me in the past.,claude-sonnet-4.5,"['Social', 'Emotional']","[0.2565852403640747, 0.21399573981761932]"
+PWS_22,PWS,"Compared to people I know, my past physical health has been excellent.",claude-sonnet-4.5,['Physical'],[0.47566545009613037]
+PWS_23,PWS,I feel a sense of mission about my future.,claude-sonnet-4.5,['Spiritual'],[0.3055253326892853]
+PWS_24,PWS,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,claude-sonnet-4.5,"['Occupational', 'Intellectual']","[0.23076175153255463, 0.21120770275592804]"
+PWS_25,PWS,"In the past, I hardly ever expected things to go my way.",claude-sonnet-4.5,"['Emotional', 'Social', 'Occupational', 'Environmental']","[0.16053277254104614, 0.12715038657188416, 0.12463366240262985, 0.11603501439094543]"
+PWS_26,PWS,I will always be secure with who I am.,claude-sonnet-4.5,['Social'],[0.26404431462287903]
+PWS_27,PWS,"In the past, I have not always had friends with whom I could share my joys and sorrows.",claude-sonnet-4.5,['Social'],[0.36936816573143005]
+PWS_28,PWS,I expect to always be physically healthy.,claude-sonnet-4.5,['Physical'],[0.5087548494338989]
+PWS_29,PWS,I have felt in the past that my life was meaningless.,claude-sonnet-4.5,['Emotional'],[0.33607012033462524]
+PWS_30,PWS,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",claude-sonnet-4.5,['Intellectual'],[0.5783082842826843]
+PWS_31,PWS,Things will not work out the way I want them to in the future.,claude-sonnet-4.5,['Financial'],[0.20383617281913757]
+PWS_32,PWS,"In the past, I have felt sure of myself among strangers.",claude-sonnet-4.5,['Social'],[0.3177323341369629]
+PWS_33,PWS,My friends will be there for me when I need help.,claude-sonnet-4.5,['Social'],[0.21681831777095795]
+PWS_34,PWS,I expect my physical health to get worse.,claude-sonnet-4.5,['Physical'],[0.4647541344165802]
+PWS_35,PWS,It seems that my life has always had purpose.,claude-sonnet-4.5,"['Occupational', 'Spiritual', 'Environmental', 'Emotional']","[0.2964059114456177, 0.28218579292297363, 0.2814044654369354, 0.2747618854045868]"
+PWS_36,PWS,My life has often seemed void of positive mental stimulation.,claude-sonnet-4.5,"['Spiritual', 'Emotional', 'Occupational']","[0.29071396589279175, 0.2635402977466583, 0.2513585686683655]"
+UCLA_1,UCLA,I am unhappy doing so many things alone,claude-sonnet-4.5,"['Occupational', 'Emotional']","[0.26893165707588196, 0.2304907888174057]"
+UCLA_2,UCLA,I have nobody to talk to,claude-sonnet-4.5,"['Social', 'Environmental']","[0.08758395910263062, 0.039025306701660156]"
+UCLA_3,UCLA,I cannot tolerate being so alone,claude-sonnet-4.5,"['Social', 'Emotional']","[0.2410334199666977, 0.23285995423793793]"
+UCLA_4,UCLA,I lack companionship,claude-sonnet-4.5,['Social'],[0.3940981924533844]
+UCLA_5,UCLA,I feel as if nobody really understands me,claude-sonnet-4.5,"['Emotional', 'Intellectual']","[0.2760075628757477, 0.2321738600730896]"
+UCLA_6,UCLA,I find myself waiting for people to call or write,claude-sonnet-4.5,['Social'],[0.20408211648464203]
+UCLA_7,UCLA,There is no one I can turn to,claude-sonnet-4.5,"['Spiritual', 'Environmental', 'Social', 'Emotional']","[0.08268477767705917, 0.053316306322813034, 0.041687462478876114, 0.04122830927371979]"
+UCLA_8,UCLA,I am no longer close to anyone,claude-sonnet-4.5,['Social'],[0.26905688643455505]
+UCLA_9,UCLA,My interests and ideas are not shared by those around me,claude-sonnet-4.5,['Intellectual'],[0.3417065739631653]
+UCLA_10,UCLA,I feel left out,claude-sonnet-4.5,"['Emotional', 'Intellectual', 'Spiritual', 'Social']","[0.21647006273269653, 0.18698889017105103, 0.17972898483276367, 0.173973947763443]"
+UCLA_11,UCLA,I feel completely alone,claude-sonnet-4.5,['Emotional'],[0.239338219165802]
+UCLA_12,UCLA,I am unable to reach out and communicate with those around me,claude-sonnet-4.5,['Social'],[0.24057923257350922]
+UCLA_13,UCLA,My social relationships are superficial,claude-sonnet-4.5,['Social'],[0.5118425488471985]
+UCLA_14,UCLA,I feel starved for company,claude-sonnet-4.5,"['Financial', 'Occupational']","[0.1505969911813736, 0.14378589391708374]"
+UCLA_15,UCLA,No one really knows me well,claude-sonnet-4.5,"['Social', 'Intellectual']","[0.14972175657749176, 0.1467553675174713]"
+UCLA_16,UCLA,I feel isolated from others,claude-sonnet-4.5,['Social'],[0.40814051032066345]
+UCLA_17,UCLA,I am unhappy being so withdrawn,claude-sonnet-4.5,['Emotional'],[0.2250794619321823]
+UCLA_18,UCLA,It is difficult for me to make friends,claude-sonnet-4.5,['Social'],[0.3943099081516266]
+UCLA_19,UCLA,I feel shut out and excluded by others,claude-sonnet-4.5,['Social'],[0.30398061871528625]
+UCLA_20,UCLA,People are around me but not with me,claude-sonnet-4.5,['Social'],[0.28696775436401367]

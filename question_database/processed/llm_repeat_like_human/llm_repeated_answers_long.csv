@@ -1,0 +1,261 @@
+qid,text,answer,source
+CD_RISC_22,I feel like I am in control.,Financial,ChatGPT-5.2
+CD_RISC_22,I feel like I am in control.2,Social,ChatGPT-5.2
+CD_RISC_22,I feel like I am in control.3,Social,ChatGPT-5.2
+PWB_1,I like most parts of my personality.,Social,ChatGPT-5.2
+PWB_1,I like most parts of my personality.2,Social,ChatGPT-5.2
+PWB_1,I like most parts of my personality.3,Social,ChatGPT-5.2
+PWB_1,I like most parts of my personality.4,Social,ChatGPT-5.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.,Occupational,ChatGPT-5.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.2,Occupational,ChatGPT-5.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.3,Occupational,ChatGPT-5.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.4,Occupational,ChatGPT-5.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.5,Occupational,ChatGPT-5.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.",Occupational,ChatGPT-5.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.2",Occupational,ChatGPT-5.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.3",Occupational,ChatGPT-5.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.4",Occupational,ChatGPT-5.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.5",Intellectual,ChatGPT-5.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.",Social,ChatGPT-5.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.2",Social,ChatGPT-5.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.3",Social,ChatGPT-5.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.4",Social,ChatGPT-5.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.5",Environmental,ChatGPT-5.2
+PWB_4,The demands of everyday life often get me down.,Occupational,ChatGPT-5.2
+PWB_4,The demands of everyday life often get me down.2,Occupational,ChatGPT-5.2
+PWB_4,The demands of everyday life often get me down.3,Occupational,ChatGPT-5.2
+PWB_4,The demands of everyday life often get me down.4,Occupational,ChatGPT-5.2
+PWB_4,The demands of everyday life often get me down.5,Occupational,ChatGPT-5.2
+PWB_5,In many ways I feel disappointed about my achievements in life.,Occupational,ChatGPT-5.2
+PWB_5,In many ways I feel disappointed about my achievements in life.2,Occupational,ChatGPT-5.2
+PWB_5,In many ways I feel disappointed about my achievements in life.3,Occupational,ChatGPT-5.2
+PWB_5,In many ways I feel disappointed about my achievements in life.4,Occupational,ChatGPT-5.2
+PWB_5,In many ways I feel disappointed about my achievements in life.5,Occupational,ChatGPT-5.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.,Social,ChatGPT-5.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.2,Social,ChatGPT-5.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.3,Social,ChatGPT-5.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.4,Social,ChatGPT-5.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.5,Social,ChatGPT-5.2
+PWB_7,I live life one day at a time and don't really think about the future.,Intellectual,ChatGPT-5.2
+PWB_7,I live life one day at a time and don't really think about the future.2,Intellectual,ChatGPT-5.2
+PWB_7,I live life one day at a time and don't really think about the future.3,Occupational,ChatGPT-5.2
+PWB_7,I live life one day at a time and don't really think about the future.4,Occupational,ChatGPT-5.2
+PWB_7,I live life one day at a time and don't really think about the future.5,Intellectual,ChatGPT-5.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.",Environmental,ChatGPT-5.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.2",Environmental,ChatGPT-5.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.3",Environmental,ChatGPT-5.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.4",Environmental,ChatGPT-5.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.5",Intellectual,ChatGPT-5.2
+PWB_9,I am good at managing the responsibilities of daily life.,Occupational,ChatGPT-5.2
+PWB_9,I am good at managing the responsibilities of daily life.2,Occupational,ChatGPT-5.2
+PWB_9,I am good at managing the responsibilities of daily life.3,Occupational,ChatGPT-5.2
+PWB_9,I am good at managing the responsibilities of daily life.4,Occupational,ChatGPT-5.2
+PWB_9,I am good at managing the responsibilities of daily life.5,Occupational,ChatGPT-5.2
+CD_RISC_22,I feel like I am in control.,Emotional,DeepSeek-V3.2
+CD_RISC_22,I feel like I am in control.2,Emotional,DeepSeek-V3.2
+CD_RISC_22,I feel like I am in control.3,Emotional,DeepSeek-V3.2
+PWB_1,I like most parts of my personality.,Social,DeepSeek-V3.2
+PWB_1,I like most parts of my personality.2,Social,DeepSeek-V3.2
+PWB_1,I like most parts of my personality.3,Social,DeepSeek-V3.2
+PWB_1,I like most parts of my personality.4,Social,DeepSeek-V3.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.,Emotional,DeepSeek-V3.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.2,Emotional,DeepSeek-V3.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.3,Emotional,DeepSeek-V3.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.4,Emotional,DeepSeek-V3.2
+PWB_10,I sometimes feel as if I've done all there is to do in life.5,Emotional,DeepSeek-V3.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.",Social,DeepSeek-V3.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.2",Social,DeepSeek-V3.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.3",Social,DeepSeek-V3.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.4",Social,DeepSeek-V3.2
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.5",Social,DeepSeek-V3.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.",Social,DeepSeek-V3.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.2",Social,DeepSeek-V3.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.3",Social,DeepSeek-V3.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.4",Social,DeepSeek-V3.2
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.5",Social,DeepSeek-V3.2
+PWB_4,The demands of everyday life often get me down.,Financial,DeepSeek-V3.2
+PWB_4,The demands of everyday life often get me down.2,Financial,DeepSeek-V3.2
+PWB_4,The demands of everyday life often get me down.3,Emotional,DeepSeek-V3.2
+PWB_4,The demands of everyday life often get me down.4,Financial,DeepSeek-V3.2
+PWB_4,The demands of everyday life often get me down.5,Emotional,DeepSeek-V3.2
+PWB_5,In many ways I feel disappointed about my achievements in life.,Occupational,DeepSeek-V3.2
+PWB_5,In many ways I feel disappointed about my achievements in life.2,Occupational,DeepSeek-V3.2
+PWB_5,In many ways I feel disappointed about my achievements in life.3,Occupational,DeepSeek-V3.2
+PWB_5,In many ways I feel disappointed about my achievements in life.4,Occupational,DeepSeek-V3.2
+PWB_5,In many ways I feel disappointed about my achievements in life.5,Occupational,DeepSeek-V3.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.,Social,DeepSeek-V3.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.2,Social,DeepSeek-V3.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.3,Social,DeepSeek-V3.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.4,Social,DeepSeek-V3.2
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.5,Social,DeepSeek-V3.2
+PWB_7,I live life one day at a time and don't really think about the future.,Emotional,DeepSeek-V3.2
+PWB_7,I live life one day at a time and don't really think about the future.2,Emotional,DeepSeek-V3.2
+PWB_7,I live life one day at a time and don't really think about the future.3,Emotional,DeepSeek-V3.2
+PWB_7,I live life one day at a time and don't really think about the future.4,Emotional,DeepSeek-V3.2
+PWB_7,I live life one day at a time and don't really think about the future.5,Emotional,DeepSeek-V3.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.",Emotional,DeepSeek-V3.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.2",Emotional,DeepSeek-V3.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.3",Emotional,DeepSeek-V3.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.4",Emotional,DeepSeek-V3.2
+PWB_8,"In general, I feel I am in charge of the situation in which I live.5",Emotional,DeepSeek-V3.2
+PWB_9,I am good at managing the responsibilities of daily life.,Occupational,DeepSeek-V3.2
+PWB_9,I am good at managing the responsibilities of daily life.2,Financial,DeepSeek-V3.2
+PWB_9,I am good at managing the responsibilities of daily life.3,Occupational,DeepSeek-V3.2
+PWB_9,I am good at managing the responsibilities of daily life.4,Occupational,DeepSeek-V3.2
+PWB_9,I am good at managing the responsibilities of daily life.5,Occupational,DeepSeek-V3.2
+CD_RISC_22,I feel like I am in control.,Emotional,Llama-4
+CD_RISC_22,I feel like I am in control.2,Emotional,Llama-4
+CD_RISC_22,I feel like I am in control.3,Emotional,Llama-4
+PWB_1,I like most parts of my personality.,Physical,Llama-4
+PWB_1,I like most parts of my personality.2,Physical,Llama-4
+PWB_1,I like most parts of my personality.3,Physical,Llama-4
+PWB_1,I like most parts of my personality.4,Physical,Llama-4
+PWB_10,I sometimes feel as if I've done all there is to do in life.,Occupational,Llama-4
+PWB_10,I sometimes feel as if I've done all there is to do in life.2,Occupational,Llama-4
+PWB_10,I sometimes feel as if I've done all there is to do in life.3,Occupational,Llama-4
+PWB_10,I sometimes feel as if I've done all there is to do in life.4,Occupational,Llama-4
+PWB_10,I sometimes feel as if I've done all there is to do in life.5,Occupational,Llama-4
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.",Emotional,Llama-4
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.2",Spiritual,Llama-4
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.3",Spiritual,Llama-4
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.4",Emotional,Llama-4
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.5",Spiritual,Llama-4
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.",Emotional,Llama-4
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.2",Emotional,Llama-4
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.3",Social,Llama-4
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.4",Emotional,Llama-4
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.5",Intellectual,Llama-4
+PWB_4,The demands of everyday life often get me down.,Emotional,Llama-4
+PWB_4,The demands of everyday life often get me down.2,Emotional,Llama-4
+PWB_4,The demands of everyday life often get me down.3,Emotional,Llama-4
+PWB_4,The demands of everyday life often get me down.4,Emotional,Llama-4
+PWB_4,The demands of everyday life often get me down.5,Emotional,Llama-4
+PWB_5,In many ways I feel disappointed about my achievements in life.,Occupational,Llama-4
+PWB_5,In many ways I feel disappointed about my achievements in life.2,Occupational,Llama-4
+PWB_5,In many ways I feel disappointed about my achievements in life.3,Occupational,Llama-4
+PWB_5,In many ways I feel disappointed about my achievements in life.4,Occupational,Llama-4
+PWB_5,In many ways I feel disappointed about my achievements in life.5,Intellectual,Llama-4
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.,Social,Llama-4
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.2,Social,Llama-4
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.3,Social,Llama-4
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.4,Social,Llama-4
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.5,Social,Llama-4
+PWB_7,I live life one day at a time and don't really think about the future.,Intellectual,Llama-4
+PWB_7,I live life one day at a time and don't really think about the future.2,Environmental,Llama-4
+PWB_7,I live life one day at a time and don't really think about the future.3,Environmental,Llama-4
+PWB_7,I live life one day at a time and don't really think about the future.4,Environmental,Llama-4
+PWB_7,I live life one day at a time and don't really think about the future.5,Intellectual,Llama-4
+PWB_8,"In general, I feel I am in charge of the situation in which I live.",Emotional,Llama-4
+PWB_8,"In general, I feel I am in charge of the situation in which I live.2",Emotional,Llama-4
+PWB_8,"In general, I feel I am in charge of the situation in which I live.3",Emotional,Llama-4
+PWB_8,"In general, I feel I am in charge of the situation in which I live.4",Emotional,Llama-4
+PWB_8,"In general, I feel I am in charge of the situation in which I live.5",Emotional,Llama-4
+PWB_9,I am good at managing the responsibilities of daily life.,Occupational,Llama-4
+PWB_9,I am good at managing the responsibilities of daily life.2,Occupational,Llama-4
+PWB_9,I am good at managing the responsibilities of daily life.3,Occupational,Llama-4
+PWB_9,I am good at managing the responsibilities of daily life.4,Occupational,Llama-4
+PWB_9,I am good at managing the responsibilities of daily life.5,Occupational,Llama-4
+CD_RISC_22,I feel like I am in control.,Emotional,claude-sonnet-4.5
+CD_RISC_22,I feel like I am in control.2,Emotional,claude-sonnet-4.5
+CD_RISC_22,I feel like I am in control.3,Emotional,claude-sonnet-4.5
+PWB_1,I like most parts of my personality.,Social,claude-sonnet-4.5
+PWB_1,I like most parts of my personality.2,Social,claude-sonnet-4.5
+PWB_1,I like most parts of my personality.3,Social,claude-sonnet-4.5
+PWB_1,I like most parts of my personality.4,Social,claude-sonnet-4.5
+PWB_10,I sometimes feel as if I've done all there is to do in life.,Occupational,claude-sonnet-4.5
+PWB_10,I sometimes feel as if I've done all there is to do in life.2,Occupational,claude-sonnet-4.5
+PWB_10,I sometimes feel as if I've done all there is to do in life.3,Occupational,claude-sonnet-4.5
+PWB_10,I sometimes feel as if I've done all there is to do in life.4,Occupational,claude-sonnet-4.5
+PWB_10,I sometimes feel as if I've done all there is to do in life.5,Occupational,claude-sonnet-4.5
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.",Occupational,claude-sonnet-4.5
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.2",Occupational,claude-sonnet-4.5
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.3",Occupational,claude-sonnet-4.5
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.4",Emotional,claude-sonnet-4.5
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.5",Occupational,claude-sonnet-4.5
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.",Emotional,claude-sonnet-4.5
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.2",Emotional,claude-sonnet-4.5
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.3",Emotional,claude-sonnet-4.5
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.4",Emotional,claude-sonnet-4.5
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.5",Emotional,claude-sonnet-4.5
+PWB_4,The demands of everyday life often get me down.,Emotional,claude-sonnet-4.5
+PWB_4,The demands of everyday life often get me down.2,Emotional,claude-sonnet-4.5
+PWB_4,The demands of everyday life often get me down.3,Emotional,claude-sonnet-4.5
+PWB_4,The demands of everyday life often get me down.4,Emotional,claude-sonnet-4.5
+PWB_4,The demands of everyday life often get me down.5,Occupational,claude-sonnet-4.5
+PWB_5,In many ways I feel disappointed about my achievements in life.,Occupational,claude-sonnet-4.5
+PWB_5,In many ways I feel disappointed about my achievements in life.2,Occupational,claude-sonnet-4.5
+PWB_5,In many ways I feel disappointed about my achievements in life.3,Occupational,claude-sonnet-4.5
+PWB_5,In many ways I feel disappointed about my achievements in life.4,Occupational,claude-sonnet-4.5
+PWB_5,In many ways I feel disappointed about my achievements in life.5,Occupational,claude-sonnet-4.5
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.,Social,claude-sonnet-4.5
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.2,Social,claude-sonnet-4.5
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.3,Social,claude-sonnet-4.5
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.4,Social,claude-sonnet-4.5
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.5,Social,claude-sonnet-4.5
+PWB_7,I live life one day at a time and don't really think about the future.,Financial,claude-sonnet-4.5
+PWB_7,I live life one day at a time and don't really think about the future.2,Intellectual,claude-sonnet-4.5
+PWB_7,I live life one day at a time and don't really think about the future.3,Spiritual,claude-sonnet-4.5
+PWB_7,I live life one day at a time and don't really think about the future.4,Environmental,claude-sonnet-4.5
+PWB_7,I live life one day at a time and don't really think about the future.5,Intellectual,claude-sonnet-4.5
+PWB_8,"In general, I feel I am in charge of the situation in which I live.",Emotional,claude-sonnet-4.5
+PWB_8,"In general, I feel I am in charge of the situation in which I live.2",Emotional,claude-sonnet-4.5
+PWB_8,"In general, I feel I am in charge of the situation in which I live.3",Emotional,claude-sonnet-4.5
+PWB_8,"In general, I feel I am in charge of the situation in which I live.4",Emotional,claude-sonnet-4.5
+PWB_8,"In general, I feel I am in charge of the situation in which I live.5",Intellectual,claude-sonnet-4.5
+PWB_9,I am good at managing the responsibilities of daily life.,Occupational,claude-sonnet-4.5
+PWB_9,I am good at managing the responsibilities of daily life.2,Occupational,claude-sonnet-4.5
+PWB_9,I am good at managing the responsibilities of daily life.3,Occupational,claude-sonnet-4.5
+PWB_9,I am good at managing the responsibilities of daily life.4,Occupational,claude-sonnet-4.5
+PWB_9,I am good at managing the responsibilities of daily life.5,Occupational,claude-sonnet-4.5
+CD_RISC_22,I feel like I am in control.,Emotional,gemini-3.0-pro
+CD_RISC_22,I feel like I am in control.2,Emotional,gemini-3.0-pro
+CD_RISC_22,I feel like I am in control.3,Emotional,gemini-3.0-pro
+PWB_1,I like most parts of my personality.,Social,gemini-3.0-pro
+PWB_1,I like most parts of my personality.2,Physical,gemini-3.0-pro
+PWB_1,I like most parts of my personality.3,Social,gemini-3.0-pro
+PWB_1,I like most parts of my personality.4,Social,gemini-3.0-pro
+PWB_10,I sometimes feel as if I've done all there is to do in life.,Occupational,gemini-3.0-pro
+PWB_10,I sometimes feel as if I've done all there is to do in life.2,Occupational,gemini-3.0-pro
+PWB_10,I sometimes feel as if I've done all there is to do in life.3,Occupational,gemini-3.0-pro
+PWB_10,I sometimes feel as if I've done all there is to do in life.4,Occupational,gemini-3.0-pro
+PWB_10,I sometimes feel as if I've done all there is to do in life.5,Occupational,gemini-3.0-pro
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.",Social,gemini-3.0-pro
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.2",Occupational,gemini-3.0-pro
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.3",Social,gemini-3.0-pro
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.4",Social,gemini-3.0-pro
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.5",Occupational,gemini-3.0-pro
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.",Spiritual,gemini-3.0-pro
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.2",Spiritual,gemini-3.0-pro
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.3",Spiritual,gemini-3.0-pro
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.4",Spiritual,gemini-3.0-pro
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.5",Occupational,gemini-3.0-pro
+PWB_4,The demands of everyday life often get me down.,Emotional,gemini-3.0-pro
+PWB_4,The demands of everyday life often get me down.2,Emotional,gemini-3.0-pro
+PWB_4,The demands of everyday life often get me down.3,Emotional,gemini-3.0-pro
+PWB_4,The demands of everyday life often get me down.4,Emotional,gemini-3.0-pro
+PWB_4,The demands of everyday life often get me down.5,Emotional,gemini-3.0-pro
+PWB_5,In many ways I feel disappointed about my achievements in life.,Occupational,gemini-3.0-pro
+PWB_5,In many ways I feel disappointed about my achievements in life.2,Occupational,gemini-3.0-pro
+PWB_5,In many ways I feel disappointed about my achievements in life.3,Occupational,gemini-3.0-pro
+PWB_5,In many ways I feel disappointed about my achievements in life.4,Occupational,gemini-3.0-pro
+PWB_5,In many ways I feel disappointed about my achievements in life.5,Occupational,gemini-3.0-pro
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.,Emotional,gemini-3.0-pro
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.2,Emotional,gemini-3.0-pro
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.3,Emotional,gemini-3.0-pro
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.4,Social,gemini-3.0-pro
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.5,Emotional,gemini-3.0-pro
+PWB_7,I live life one day at a time and don't really think about the future.,Emotional,gemini-3.0-pro
+PWB_7,I live life one day at a time and don't really think about the future.2,Emotional,gemini-3.0-pro
+PWB_7,I live life one day at a time and don't really think about the future.3,Emotional,gemini-3.0-pro
+PWB_7,I live life one day at a time and don't really think about the future.4,Emotional,gemini-3.0-pro
+PWB_7,I live life one day at a time and don't really think about the future.5,Emotional,gemini-3.0-pro
+PWB_8,"In general, I feel I am in charge of the situation in which I live.",Emotional,gemini-3.0-pro
+PWB_8,"In general, I feel I am in charge of the situation in which I live.2",Emotional,gemini-3.0-pro
+PWB_8,"In general, I feel I am in charge of the situation in which I live.3",Emotional,gemini-3.0-pro
+PWB_8,"In general, I feel I am in charge of the situation in which I live.4",Emotional,gemini-3.0-pro
+PWB_8,"In general, I feel I am in charge of the situation in which I live.5",Emotional,gemini-3.0-pro
+PWB_9,I am good at managing the responsibilities of daily life.,Occupational,gemini-3.0-pro
+PWB_9,I am good at managing the responsibilities of daily life.2,Occupational,gemini-3.0-pro
+PWB_9,I am good at managing the responsibilities of daily life.3,Occupational,gemini-3.0-pro
+PWB_9,I am good at managing the responsibilities of daily life.4,Occupational,gemini-3.0-pro
+PWB_9,I am good at managing the responsibilities of daily life.5,Occupational,gemini-3.0-pro

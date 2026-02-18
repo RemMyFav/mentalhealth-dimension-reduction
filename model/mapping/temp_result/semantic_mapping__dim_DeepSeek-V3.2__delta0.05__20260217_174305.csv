@@ -1,0 +1,146 @@
+qid,dataset,text,dimension_model,dimensions,scores
+CD_RISC_1,CD-RISC,I am able to adapt when changes occur.,DeepSeek-V3.2,"['Intellectual', 'Emotional', 'Occupational']","[0.16608314216136932, 0.14512571692466736, 0.1342075765132904]"
+CD_RISC_2,CD-RISC,I have one close and secure relationship.,DeepSeek-V3.2,['Social'],[0.45805057883262634]
+CD_RISC_3,CD-RISC,Sometimes fate or God helps me.,DeepSeek-V3.2,['Spiritual'],[0.34408649802207947]
+CD_RISC_4,CD-RISC,I can deal with whatever comes my way.,DeepSeek-V3.2,"['Social', 'Environmental', 'Financial', 'Emotional', 'Intellectual']","[0.20953433215618134, 0.20224043726921082, 0.19190488755702972, 0.1794702708721161, 0.16245199739933014]"
+CD_RISC_5,CD-RISC,Past successes give me confidence.,DeepSeek-V3.2,"['Occupational', 'Social', 'Intellectual']","[0.24094676971435547, 0.2324220985174179, 0.2003941684961319]"
+CD_RISC_6,CD-RISC,I try to see the humorous side of things when I am faced with problems.,DeepSeek-V3.2,"['Emotional', 'Intellectual']","[0.2200256586074829, 0.20763367414474487]"
+CD_RISC_7,CD-RISC,Having to cope with stress can make me stronger.,DeepSeek-V3.2,"['Emotional', 'Spiritual']","[0.308810293674469, 0.25897616147994995]"
+CD_RISC_8,CD-RISC,"I tend to bounce back after illness, injury, or other hardships.",DeepSeek-V3.2,['Physical'],[0.30716636776924133]
+CD_RISC_9,CD-RISC,I believe most things happen for a reason.,DeepSeek-V3.2,"['Emotional', 'Spiritual', 'Social']","[0.2021956592798233, 0.19377584755420685, 0.157258078455925]"
+CD_RISC_10,CD-RISC,"I make my best effort, no matter what.",DeepSeek-V3.2,"['Intellectual', 'Occupational']","[0.25112080574035645, 0.21837733685970306]"
+CD_RISC_11,CD-RISC,"I believe I can achieve my goals, even if there are obstacles.",DeepSeek-V3.2,"['Financial', 'Intellectual', 'Spiritual']","[0.3010622560977936, 0.2930722236633301, 0.2721319794654846]"
+CD_RISC_12,CD-RISC,"Even when hopeless, I do not give up.",DeepSeek-V3.2,"['Emotional', 'Financial']","[0.23705148696899414, 0.22929136455059052]"
+CD_RISC_13,CD-RISC,"In times of stress, I know where to find help.",DeepSeek-V3.2,['Emotional'],[0.31816431879997253]
+CD_RISC_14,CD-RISC,"Under pressure, I stay focused and think clearly.",DeepSeek-V3.2,['Intellectual'],[0.30150893330574036]
+CD_RISC_15,CD-RISC,I prefer to take the lead in problem-solving.,DeepSeek-V3.2,['Intellectual'],[0.39480650424957275]
+CD_RISC_16,CD-RISC,I am not easily discouraged by failure.,DeepSeek-V3.2,"['Intellectual', 'Occupational', 'Social']","[0.2469038963317871, 0.2190110981464386, 0.20312602818012238]"
+CD_RISC_17,CD-RISC,I think of myself as a strong person when dealing with life's challenges and difficulties.,DeepSeek-V3.2,"['Emotional', 'Spiritual']","[0.41074302792549133, 0.38693928718566895]"
+CD_RISC_18,CD-RISC,I make unpopular or difficult decisions.,DeepSeek-V3.2,"['Intellectual', 'Social']","[0.20579256117343903, 0.17077073454856873]"
+CD_RISC_19,CD-RISC,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",DeepSeek-V3.2,['Emotional'],[0.569412112236023]
+CD_RISC_20,CD-RISC,I have to act on a hunch.,DeepSeek-V3.2,['Intellectual'],[0.18116812407970428]
+CD_RISC_21,CD-RISC,I have a strong sense of purpose in life.,DeepSeek-V3.2,"['Intellectual', 'Spiritual']","[0.41501525044441223, 0.39166194200515747]"
+CD_RISC_22,CD-RISC,I feel like I am in control.,DeepSeek-V3.2,['Emotional'],[0.227564737200737]
+CD_RISC_23,CD-RISC,I like challenges.,DeepSeek-V3.2,['Intellectual'],[0.20158730447292328]
+CD_RISC_24,CD-RISC,I work to attain goals.,DeepSeek-V3.2,['Occupational'],[0.43827906250953674]
+CD_RISC_25,CD-RISC,I take pride in my achievements.,DeepSeek-V3.2,['Occupational'],[0.3405522406101227]
+PERMA1_1,PERMA,How much of the time do you feel you are making progress towards accomplishing your goals?,DeepSeek-V3.2,['Intellectual'],[0.30983155965805054]
+PERMA1_2,PERMA,How often do you become absorbed in what you are doing?,DeepSeek-V3.2,"['Occupational', 'Physical', 'Intellectual', 'Emotional']","[0.30762413144111633, 0.29473671317100525, 0.28035834431648254, 0.28001853823661804]"
+PERMA1_3,PERMA,How often do you feel joyful?,DeepSeek-V3.2,['Emotional'],[0.38570675253868103]
+PERMA1_4,PERMA,How often do you feel anxious?,DeepSeek-V3.2,['Emotional'],[0.35759738087654114]
+PERMA1_5,PERMA,How often do you achieve the important goals you have set for yourself?,DeepSeek-V3.2,"['Intellectual', 'Financial']","[0.34474265575408936, 0.3155754804611206]"
+PERMA2_1,PERMA,How would you say your health is?,DeepSeek-V3.2,['Physical'],[0.5737334489822388]
+PERMA3_1,PERMA,To what extent do you lead a purposeful and meaningful life?,DeepSeek-V3.2,"['Spiritual', 'Intellectual']","[0.46333038806915283, 0.4193291664123535]"
+PERMA3_2,PERMA,To what extent do you receive help and support from others when you need it?,DeepSeek-V3.2,"['Financial', 'Social']","[0.38602563738822937, 0.3835758566856384]"
+PERMA3_3,PERMA,To what extent do you feel that what you do in your life is valuable and worthwhile?,DeepSeek-V3.2,['Occupational'],[0.49467048048973083]
+PERMA3_4,PERMA,To what extent do you feel excited and interested in things?,DeepSeek-V3.2,"['Intellectual', 'Emotional']","[0.4519125521183014, 0.41835230588912964]"
+PERMA3_5,PERMA,How lonely do you feel in your daily life?,DeepSeek-V3.2,"['Social', 'Emotional']","[0.3854983448982239, 0.3398686647415161]"
+PERMA4_1,PERMA,How satisfied are you with your current physical health?,DeepSeek-V3.2,['Physical'],[0.5766974091529846]
+PERMA5_1,PERMA,How often do you feel positive?,DeepSeek-V3.2,['Emotional'],[0.3289155662059784]
+PERMA5_2,PERMA,How often do you feel angry?,DeepSeek-V3.2,['Emotional'],[0.39490172266960144]
+PERMA5_3,PERMA,How often are you able to handle your responsibilities?,DeepSeek-V3.2,"['Financial', 'Occupational']","[0.2900283932685852, 0.24252209067344666]"
+PERMA5_4,PERMA,How often do you feel sad?,DeepSeek-V3.2,['Emotional'],[0.4141169488430023]
+PERMA5_5,PERMA,How often do you lose track of time while doing something you enjoy?,DeepSeek-V3.2,"['Intellectual', 'Physical']","[0.2726896107196808, 0.2293969839811325]"
+PERMA6_1,PERMA,"Compared to others of your same age and sex, how is your health?",DeepSeek-V3.2,"['Physical', 'Social']","[0.36290842294692993, 0.32202500104904175]"
+PERMA7_1,PERMA,To what extent do you feel you have a sense of direction in your life?,DeepSeek-V3.2,['Emotional'],[0.3759753704071045]
+PERMA7_2,PERMA,How satisfied are you with your personal relationships?,DeepSeek-V3.2,['Social'],[0.49114665389060974]
+PERMA7_3,PERMA,To what extent do you feel loved?,DeepSeek-V3.2,['Emotional'],[0.483406126499176]
+PERMA7_4,PERMA,To what extent do you feel contented?,DeepSeek-V3.2,['Emotional'],[0.41802978515625]
+PERMA8_1,PERMA,"Taking all things together, how happy would you say you are?",DeepSeek-V3.2,"['Occupational', 'Emotional']","[0.33062130212783813, 0.2960847318172455]"
+PSS_1,PSS,"During the past month, what time have you usually gone to bed at night?",DeepSeek-V3.2,"['Emotional', 'Environmental']","[0.10497552901506424, 0.0823039636015892]"
+PSS_2,PSS,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",DeepSeek-V3.2,"['Emotional', 'Environmental']","[0.10713590681552887, 0.05986044928431511]"
+PSS_3,PSS,"During the past month, what time have you usually gotten up in the morning?",DeepSeek-V3.2,"['Emotional', 'Environmental', 'Occupational']","[0.10132831335067749, 0.08663430064916611, 0.06982482224702835]"
+PSS_4,PSS,"During the past month, how many hours of actual sleep did you get at night?",DeepSeek-V3.2,"['Emotional', 'Occupational']","[0.13790638744831085, 0.09545014053583145]"
+PSS_5_1,PSS,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",DeepSeek-V3.2,"['Emotional', 'Environmental', 'Physical']","[0.06079450249671936, 0.05658109858632088, 0.01376306638121605]"
+PSS_5_2,PSS,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",DeepSeek-V3.2,['Emotional'],[0.084379643201828]
+PSS_5_3,PSS,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",DeepSeek-V3.2,['Environmental'],[0.13023634254932404]
+PSS_5_4,PSS,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",DeepSeek-V3.2,"['Environmental', 'Emotional']","[0.14158296585083008, 0.12031040340662003]"
+PSS_5_5,PSS,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",DeepSeek-V3.2,['Emotional'],[0.0743422880768776]
+PSS_5_6,PSS,"During the past month, how often have you had trouble sleeping because you feel too cold?",DeepSeek-V3.2,['Emotional'],[0.1217888817191124]
+PSS_5_7,PSS,"During the past month, how often have you had trouble sleeping because you feel too hot?",DeepSeek-V3.2,['Emotional'],[0.1572168618440628]
+PSS_5_8,PSS,"During the past month, how often have you had trouble sleeping because you have bad dreams?",DeepSeek-V3.2,['Emotional'],[0.12471737712621689]
+PSS_5_9,PSS,"During the past month, how often have you had trouble sleeping because you have pain?",DeepSeek-V3.2,['Emotional'],[0.11452221870422363]
+PSS_5_10,PSS,"During the past month, how often have you had trouble sleeping because of other reasons?",DeepSeek-V3.2,['Emotional'],[0.09758219122886658]
+PSS_6,PSS,"During the past month, how would you rate your sleep quality overall?",DeepSeek-V3.2,"['Physical', 'Social', 'Emotional']","[0.16899624466896057, 0.15400651097297668, 0.12976433336734772]"
+PSS_7,PSS,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",DeepSeek-V3.2,"['Emotional', 'Physical']","[0.07145896553993225, 0.05711891129612923]"
+PSS_8,PSS,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",DeepSeek-V3.2,"['Emotional', 'Social', 'Physical', 'Intellectual']","[0.20418459177017212, 0.1842212975025177, 0.17100724577903748, 0.1543295532464981]"
+PSS_9,PSS,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",DeepSeek-V3.2,['Intellectual'],[0.29706865549087524]
+PSS_10_1,PSS,"During the past month, how often has your bed partner or room mate reported loud snoring?",DeepSeek-V3.2,"['Social', 'Environmental', 'Emotional']","[0.05176103487610817, 0.04189540445804596, 0.037599723786115646]"
+PSS_10_2,PSS,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",DeepSeek-V3.2,"['Emotional', 'Environmental']","[0.11064143478870392, 0.09535900503396988]"
+PSS_10_3,PSS,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",DeepSeek-V3.2,"['Physical', 'Social', 'Emotional']","[0.05845663323998451, 0.03358122333884239, 0.02831355109810829]"
+PSS_10_4,PSS,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",DeepSeek-V3.2,['Emotional'],[0.13625213503837585]
+PSS_10_5,PSS,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",DeepSeek-V3.2,"['Emotional', 'Social', 'Environmental']","[0.1040433794260025, 0.0692053958773613, 0.0550922267138958]"
+PWB_1,PWB,I like most parts of my personality.,DeepSeek-V3.2,"['Social', 'Intellectual', 'Environmental']","[0.2526872456073761, 0.20389977097511292, 0.20323188602924347]"
+PWB_2,PWB,"When I look at the story of my life, I am pleased with how things have turned out so far.",DeepSeek-V3.2,"['Social', 'Emotional', 'Occupational']","[0.26488879323005676, 0.23668941855430603, 0.21993166208267212]"
+PWB_3,PWB,"Some people wander aimlessly through life, but I am not one of them.",DeepSeek-V3.2,"['Social', 'Emotional']","[0.2941212058067322, 0.2760741114616394]"
+PWB_4,PWB,The demands of everyday life often get me down.,DeepSeek-V3.2,"['Financial', 'Emotional', 'Occupational', 'Intellectual']","[0.2878061830997467, 0.27493131160736084, 0.2562950551509857, 0.24656350910663605]"
+PWB_5,PWB,In many ways I feel disappointed about my achievements in life.,DeepSeek-V3.2,"['Occupational', 'Emotional']","[0.3050084710121155, 0.2660198211669922]"
+PWB_6,PWB,Maintaining close relationships has been difficult and frustrating for me.,DeepSeek-V3.2,['Social'],[0.420848548412323]
+PWB_7,PWB,I live life one day at a time and don't really think about the future.,DeepSeek-V3.2,['Emotional'],[0.26096656918525696]
+PWB_8,PWB,"In general, I feel I am in charge of the situation in which I live.",DeepSeek-V3.2,['Emotional'],[0.3450789153575897]
+PWB_9,PWB,I am good at managing the responsibilities of daily life.,DeepSeek-V3.2,"['Occupational', 'Financial']","[0.3786487877368927, 0.3774329721927643]"
+PWB_10,PWB,I sometimes feel as if I've done all there is to do in life.,DeepSeek-V3.2,"['Emotional', 'Occupational']","[0.37115973234176636, 0.35762473940849304]"
+PWB_11,PWB,"For me, life has been a continuous process of learning, changing, and growth.",DeepSeek-V3.2,['Intellectual'],[0.4299905598163605]
+PWB_12,PWB,I think it is important to have new experiences that challenge how I think about myself and the world.,DeepSeek-V3.2,"['Spiritual', 'Intellectual', 'Emotional', 'Social']","[0.37088334560394287, 0.36288681626319885, 0.3427056074142456, 0.334084153175354]"
+PWB_13,PWB,"People would describe me as a giving person, willing to share my time with others.",DeepSeek-V3.2,"['Social', 'Occupational']","[0.3772623836994171, 0.3286626935005188]"
+PWB_14,PWB,I gave up trying to make big improvements or changes in my life a long time ago.,DeepSeek-V3.2,"['Emotional', 'Intellectual', 'Social', 'Financial', 'Occupational']","[0.24935458600521088, 0.23544545471668243, 0.22932584583759308, 0.22764496505260468, 0.20460398495197296]"
+PWB_15,PWB,I tend to be influenced by people with strong opinions.,DeepSeek-V3.2,['Social'],[0.2521258592605591]
+PWB_16,PWB,I have not experienced many warm and trusting relationships with others.,DeepSeek-V3.2,['Social'],[0.5537141561508179]
+PWB_17,PWB,"I have confidence in my own opinions, even if they are different from the way most other people think.",DeepSeek-V3.2,['Social'],[0.26350417733192444]
+PWB_18,PWB,"I judge myself by what I think is important, not by the values of what others think is important.",DeepSeek-V3.2,['Spiritual'],[0.32274672389030457]
+PWS_1,PWS,I am always optimistic about my future.,DeepSeek-V3.2,"['Financial', 'Emotional', 'Intellectual', 'Occupational']","[0.23794931173324585, 0.2120605856180191, 0.20885291695594788, 0.19288864731788635]"
+PWS_2,PWS,There have been times when I felt inferior to most of the people I knew.,DeepSeek-V3.2,"['Social', 'Emotional']","[0.3148466944694519, 0.28765544295310974]"
+PWS_3,PWS,Members of my family come to me for support.,DeepSeek-V3.2,"['Social', 'Financial']","[0.24600917100906372, 0.24555563926696777]"
+PWS_4,PWS,My physical health has restricted me in the past.,DeepSeek-V3.2,['Physical'],[0.4784688651561737]
+PWS_5,PWS,I believe there is a real purpose for my life.,DeepSeek-V3.2,"['Spiritual', 'Financial', 'Intellectual']","[0.35641488432884216, 0.32045677304267883, 0.3113672435283661]"
+PWS_6,PWS,I will always seek out activities that challenge me to think and reason.,DeepSeek-V3.2,['Intellectual'],[0.4394237697124481]
+PWS_7,PWS,I rarely count on good things happening to me.,DeepSeek-V3.2,"['Social', 'Emotional']","[0.2507920563220978, 0.22043271362781525]"
+PWS_8,PWS,"In general, I feel confident about my abilities.",DeepSeek-V3.2,['Intellectual'],[0.3577962815761566]
+PWS_9,PWS,Sometimes I wonder if my family will really be there for me when I am in need.,DeepSeek-V3.2,"['Financial', 'Social', 'Emotional', 'Spiritual']","[0.2343757152557373, 0.22658757865428925, 0.20424219965934753, 0.2010897397994995]"
+PWS_10,PWS,My body seems to resist physical illness very well.,DeepSeek-V3.2,['Physical'],[0.46658334136009216]
+PWS_11,PWS,Life does not hold much future promise for me.,DeepSeek-V3.2,['Financial'],[0.2929894030094147]
+PWS_12,PWS,I avoid activities which require me to concentrate.,DeepSeek-V3.2,['Intellectual'],[0.40486589074134827]
+PWS_13,PWS,I always look on the bright side of things.,DeepSeek-V3.2,"['Emotional', 'Environmental']","[0.23717749118804932, 0.18804968893527985]"
+PWS_14,PWS,I sometimes think I am a worthless individual.,DeepSeek-V3.2,['Occupational'],[0.31693828105926514]
+PWS_15,PWS,My friends know they can always confide in me and ask me for advice.,DeepSeek-V3.2,['Social'],[0.3150582015514374]
+PWS_16,PWS,My physical health is excellent.,DeepSeek-V3.2,['Physical'],[0.6068128943443298]
+PWS_17,PWS,Sometimes I don't understand what life is all about.,DeepSeek-V3.2,"['Social', 'Emotional']","[0.2990618050098419, 0.29012829065322876]"
+PWS_18,PWS,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",DeepSeek-V3.2,['Intellectual'],[0.6093108654022217]
+PWS_19,PWS,"In the past, I have expected the best.",DeepSeek-V3.2,"['Emotional', 'Social']","[0.12902997434139252, 0.10948184132575989]"
+PWS_20,PWS,I am uncertain about my ability to do things well in the future.,DeepSeek-V3.2,"['Intellectual', 'Financial']","[0.34212589263916016, 0.3156396746635437]"
+PWS_21,PWS,My family has been available to support me in the past.,DeepSeek-V3.2,['Financial'],[0.3149707317352295]
+PWS_22,PWS,"Compared to people I know, my past physical health has been excellent.",DeepSeek-V3.2,['Physical'],[0.4992745816707611]
+PWS_23,PWS,I feel a sense of mission about my future.,DeepSeek-V3.2,"['Spiritual', 'Emotional', 'Intellectual', 'Financial']","[0.29383522272109985, 0.2758618891239166, 0.27157777547836304, 0.2707716226577759]"
+PWS_24,PWS,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,DeepSeek-V3.2,"['Intellectual', 'Occupational', 'Financial']","[0.2575267255306244, 0.25511157512664795, 0.23300276696681976]"
+PWS_25,PWS,"In the past, I hardly ever expected things to go my way.",DeepSeek-V3.2,"['Emotional', 'Social']","[0.23363393545150757, 0.22836826741695404]"
+PWS_26,PWS,I will always be secure with who I am.,DeepSeek-V3.2,['Social'],[0.23209881782531738]
+PWS_27,PWS,"In the past, I have not always had friends with whom I could share my joys and sorrows.",DeepSeek-V3.2,['Social'],[0.44119030237197876]
+PWS_28,PWS,I expect to always be physically healthy.,DeepSeek-V3.2,['Physical'],[0.5642917156219482]
+PWS_29,PWS,I have felt in the past that my life was meaningless.,DeepSeek-V3.2,['Emotional'],[0.3762570321559906]
+PWS_30,PWS,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",DeepSeek-V3.2,['Intellectual'],[0.5680669546127319]
+PWS_31,PWS,Things will not work out the way I want them to in the future.,DeepSeek-V3.2,['Financial'],[0.22148668766021729]
+PWS_32,PWS,"In the past, I have felt sure of myself among strangers.",DeepSeek-V3.2,['Social'],[0.39850592613220215]
+PWS_33,PWS,My friends will be there for me when I need help.,DeepSeek-V3.2,['Social'],[0.2002924233675003]
+PWS_34,PWS,I expect my physical health to get worse.,DeepSeek-V3.2,['Physical'],[0.48682138323783875]
+PWS_35,PWS,It seems that my life has always had purpose.,DeepSeek-V3.2,"['Financial', 'Occupational', 'Intellectual', 'Spiritual']","[0.3333788514137268, 0.33198082447052, 0.3183434009552002, 0.2997383177280426]"
+PWS_36,PWS,My life has often seemed void of positive mental stimulation.,DeepSeek-V3.2,"['Emotional', 'Spiritual', 'Intellectual', 'Occupational', 'Social']","[0.33642053604125977, 0.3322203457355499, 0.32055509090423584, 0.3169127106666565, 0.3115098476409912]"
+UCLA_1,UCLA,I am unhappy doing so many things alone,DeepSeek-V3.2,"['Occupational', 'Financial', 'Emotional']","[0.29072901606559753, 0.26632678508758545, 0.2558540105819702]"
+UCLA_2,UCLA,I have nobody to talk to,DeepSeek-V3.2,['Social'],[0.15948523581027985]
+UCLA_3,UCLA,I cannot tolerate being so alone,DeepSeek-V3.2,"['Social', 'Emotional', 'Environmental']","[0.25118687748908997, 0.24671481549739838, 0.20447015762329102]"
+UCLA_4,UCLA,I lack companionship,DeepSeek-V3.2,['Social'],[0.41576769948005676]
+UCLA_5,UCLA,I feel as if nobody really understands me,DeepSeek-V3.2,"['Emotional', 'Spiritual', 'Social', 'Intellectual']","[0.25286176800727844, 0.24387021362781525, 0.23086659610271454, 0.21890686452388763]"
+UCLA_6,UCLA,I find myself waiting for people to call or write,DeepSeek-V3.2,['Social'],[0.2614515423774719]
+UCLA_7,UCLA,There is no one I can turn to,DeepSeek-V3.2,"['Financial', 'Spiritual']","[0.11350120604038239, 0.0953250378370285]"
+UCLA_8,UCLA,I am no longer close to anyone,DeepSeek-V3.2,['Social'],[0.34147506952285767]
+UCLA_9,UCLA,My interests and ideas are not shared by those around me,DeepSeek-V3.2,['Intellectual'],[0.3040952980518341]
+UCLA_10,UCLA,I feel left out,DeepSeek-V3.2,"['Emotional', 'Physical']","[0.2401459515094757, 0.22166451811790466]"
+UCLA_11,UCLA,I feel completely alone,DeepSeek-V3.2,['Emotional'],[0.2997013032436371]
+UCLA_12,UCLA,I am unable to reach out and communicate with those around me,DeepSeek-V3.2,['Social'],[0.2500324249267578]
+UCLA_13,UCLA,My social relationships are superficial,DeepSeek-V3.2,['Social'],[0.527376651763916]
+UCLA_14,UCLA,I feel starved for company,DeepSeek-V3.2,['Financial'],[0.29406026005744934]
+UCLA_15,UCLA,No one really knows me well,DeepSeek-V3.2,"['Social', 'Intellectual']","[0.17634990811347961, 0.1513051986694336]"
+UCLA_16,UCLA,I feel isolated from others,DeepSeek-V3.2,['Social'],[0.39229583740234375]
+UCLA_17,UCLA,I am unhappy being so withdrawn,DeepSeek-V3.2,"['Emotional', 'Occupational']","[0.18838928639888763, 0.14817363023757935]"
+UCLA_18,UCLA,It is difficult for me to make friends,DeepSeek-V3.2,['Social'],[0.4132281541824341]
+UCLA_19,UCLA,I feel shut out and excluded by others,DeepSeek-V3.2,['Social'],[0.3025971055030823]
+UCLA_20,UCLA,People are around me but not with me,DeepSeek-V3.2,['Social'],[0.30995750427246094]
