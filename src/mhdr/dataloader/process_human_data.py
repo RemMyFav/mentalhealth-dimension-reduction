@@ -53,7 +53,6 @@ def build_text2qid_map_from_dfs(
     )
     grouped["n_qids"] = grouped["qids"].map(len)
 
-    # Align counts safely (avoid relying on .values ordering)
     counts = merged.groupby("text_norm").size().rename("source_count").reset_index()
     grouped = grouped.merge(counts, on="text_norm", how="left")
 
@@ -86,44 +85,20 @@ def find_duplicated_questions(
     *,
     text_col: str = "text",
 ) -> pd.DataFrame:
-    """
-    Identify duplicated questions based on normalized text.
-
-    Args:
-        df:
-            pd.DataFrame with at least:
-                - text_col (str)
-
-        text_col:
-            Column containing question text.
-
-    Returns:
-        pd.DataFrame with columns:
-            - text_norm (str)
-            - count (int)
-
-        Only includes text_norm values that appear >= 2 times.
-
-    Notes:
-        - Duplicate detection is based on normalized text.
-        - Does NOT modify original DataFrame.
-    """
+    """Identify duplicated questions based on normalized text (count >= 2)."""
     if text_col not in df.columns:
         raise ValueError(f"Column '{text_col}' not found.")
 
     tmp = df.copy()
     tmp["text_norm"] = tmp[text_col].astype(str).map(normalize_text)
 
-    # Stable across pandas versions: guarantees "count" is numeric
     counts = (
         tmp["text_norm"]
         .value_counts()
         .rename_axis("text_norm")
         .reset_index(name="count")
     )
-
-    duplicated = counts[counts["count"] >= 2].reset_index(drop=True)
-    return duplicated
+    return counts[counts["count"] >= 2].reset_index(drop=True)
 
 
 def build_source_ids(
@@ -137,7 +112,10 @@ def build_source_ids(
     return [f"{prefix}{i:0{zero_pad}d}" for i in range(start, start + n)]
 
 
-def extract_human_dup_with_qid(
+# -----------------------------
+# NEW: extract ALL rows with qid
+# -----------------------------
+def extract_human_all_with_qid(
     df_raw_wide: pd.DataFrame,
     qid_text_dfs: Sequence[pd.DataFrame],
     *,
@@ -148,32 +126,23 @@ def extract_human_dup_with_qid(
     source_zero_pad: int = 2,
 ) -> pd.DataFrame:
     """
-    Extract duplicated questions from a HUMAN survey (wide table) and assign qid.
+    Convert a HUMAN survey (wide table) to tidy rows and assign qid.
 
-    Returns:
-        pd.DataFrame with columns:
-            - qid (str | None)
-            - text (str)
-            - answer (str)
-            - source (str)
-            - text_norm (str)
+    Returns columns:
+      - qid (str | None)
+      - text (str)
+      - answer (str)
+      - source (str)
+      - text_norm (str)
     """
-    # 1) drop meta columns
     wide = drop_unneeded_columns(df_raw_wide, cols=meta_cols_to_drop)
 
-    # 2) build clean text_norm -> qid map
     text2qid_map, _conflict_df = build_text2qid_map_from_dfs(
         qid_text_dfs,
         text_col=text_col_in_map,
         qid_col=qid_col_in_map,
     )
 
-    # 3) find duplicated questions based on the WIDE column names (question texts)
-    q_meta = pd.DataFrame({"text": wide.columns.astype(str)})
-    dup_stats = find_duplicated_questions(q_meta, text_col="text")
-    dup_norms = set(dup_stats["text_norm"].tolist())
-
-    # 4) melt wide -> tidy: (source, text, answer)
     n_resp = wide.shape[0]
     sources = build_source_ids(n_resp, prefix=source_prefix, zero_pad=source_zero_pad)
 
@@ -184,19 +153,110 @@ def extract_human_dup_with_qid(
         id_vars="source", var_name="text", value_name="answer"
     )
 
-    # drop empty answers + standardize
     melted = melted.dropna(subset=["answer"]).copy()
     melted["answer"] = melted["answer"].astype(str).str.strip()
     melted = melted[melted["answer"].ne("")].reset_index(drop=True)
 
-    # 5) assign qid (adds text_norm) then filter to duplicated-question rows
     melted = assign_qid_from_text_map(melted, text2qid_map, text_col="text", new_col="qid")
-    dup_rows = melted[melted["text_norm"].isin(dup_norms)].copy()
 
-    # final columns / order
-    dup_rows = (
-        dup_rows[["qid", "text", "answer", "source", "text_norm"]]
+    out = (
+        melted[["qid", "text", "answer", "source", "text_norm"]]
         .sort_values(["qid", "text", "source"], na_position="last")
         .reset_index(drop=True)
     )
-    return dup_rows
+    return out
+
+
+# -----------------------------
+# DUP helper: get dup norms from wide columns
+# -----------------------------
+def get_dup_norms_from_wide(
+    df_raw_wide: pd.DataFrame,
+    *,
+    meta_cols_to_drop: Optional[list[str]] = None,
+) -> set[str]:
+    """Return duplicated question text_norm values based on WIDE column names."""
+    wide = drop_unneeded_columns(df_raw_wide, cols=meta_cols_to_drop)
+    q_meta = pd.DataFrame({"text": wide.columns.astype(str)})
+    dup_stats = find_duplicated_questions(q_meta, text_col="text")
+    return set(dup_stats["text_norm"].tolist())
+
+
+# -----------------------------
+# DUP rows (kept for compatibility)
+# -----------------------------
+def extract_human_dup_with_qid(
+    df_raw_wide: pd.DataFrame,
+    qid_text_dfs: Sequence[pd.DataFrame],
+    *,
+    meta_cols_to_drop: Optional[list[str]] = None,
+    text_col_in_map: str = "text",
+    qid_col_in_map: str = "qid",
+    source_prefix: str = "Human",
+    source_zero_pad: int = 2,
+) -> pd.DataFrame:
+    """Extract duplicated-question rows only (tidy + qid)."""
+    all_rows = extract_human_all_with_qid(
+        df_raw_wide,
+        qid_text_dfs,
+        meta_cols_to_drop=meta_cols_to_drop,
+        text_col_in_map=text_col_in_map,
+        qid_col_in_map=qid_col_in_map,
+        source_prefix=source_prefix,
+        source_zero_pad=source_zero_pad,
+    )
+    dup_norms = get_dup_norms_from_wide(df_raw_wide, meta_cols_to_drop=meta_cols_to_drop)
+    dup_rows = all_rows[all_rows["text_norm"].isin(dup_norms)].copy()
+    return dup_rows.reset_index(drop=True)
+
+
+def extract_dup_questions(dup_rows: pd.DataFrame) -> pd.DataFrame:
+    """Return unique (qid, text) for duplicated questions."""
+    return (
+        dup_rows[["qid", "text"]]
+        .drop_duplicates()
+        .dropna(subset=["qid"])
+        .sort_values("qid")
+        .reset_index(drop=True)
+    )
+
+
+# -----------------------------
+# remove duplicated questions from ALL rows (by qid only)
+# -----------------------------
+def remove_dup_questions(
+    all_rows: pd.DataFrame,
+    dup_rows: pd.DataFrame,
+    *,
+    qid_col: str = "qid",
+) -> pd.DataFrame:
+    """
+    Remove duplicated questions from a tidy table by qid.
+
+    Assumption:
+        dup_rows contains the duplicated questions (with qid filled).
+
+    Returns:
+        all_rows with duplicated qids removed.
+    """
+
+    if qid_col not in all_rows.columns:
+        raise ValueError(f"Column '{qid_col}' not found in all_rows.")
+    if qid_col not in dup_rows.columns:
+        raise ValueError(f"Column '{qid_col}' not found in dup_rows.")
+
+    # collect duplicated qids
+    dup_qids = (
+        dup_rows[qid_col]
+        .dropna()
+        .astype(str)
+        .unique()
+        .tolist()
+    )
+
+    # remove them from all_rows
+    out = all_rows[
+        ~all_rows[qid_col].astype(str).isin(dup_qids)
+    ].copy()
+
+    return out.reset_index(drop=True)

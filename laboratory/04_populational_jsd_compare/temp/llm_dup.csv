@@ -1,0 +1,391 @@
+qid,text,answer,source
+CD_RISC_1,I am able to adapt when changes occur.,Emotional,ChatGPT-5.2
+CD_RISC_10,"I make my best effort, no matter what.",Intellectual,ChatGPT-5.2
+CD_RISC_11,"I believe I can achieve my goals, even if there are obstacles.",Occupational,ChatGPT-5.2
+CD_RISC_12,"Even when hopeless, I do not give up.",Financial,ChatGPT-5.2
+CD_RISC_13,"In times of stress, I know where to find help.",Emotional,ChatGPT-5.2
+CD_RISC_14,"Under pressure, I stay focused and think clearly.",Intellectual,ChatGPT-5.2
+CD_RISC_15,I prefer to take the lead in problem-solving.,Intellectual,ChatGPT-5.2
+CD_RISC_16,I am not easily discouraged by failure.,Intellectual,ChatGPT-5.2
+CD_RISC_17,I think of myself as a strong person when dealing with life's challenges and difficulties.,Emotional,ChatGPT-5.2
+CD_RISC_18,I make unpopular or difficult decisions.,Financial,ChatGPT-5.2
+CD_RISC_19,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",Emotional,ChatGPT-5.2
+CD_RISC_2,I have one close and secure relationship.,Social,ChatGPT-5.2
+CD_RISC_20,I have to act on a hunch.,Environmental,ChatGPT-5.2
+CD_RISC_25,I take pride in my achievements,Occupational,ChatGPT-5.2
+CD_RISC_3,Sometimes fate or God helps me.,Spiritual,ChatGPT-5.2
+CD_RISC_4,I can deal with whatever comes my way.,Social,ChatGPT-5.2
+CD_RISC_5,Past successes give me confidence.,Social,ChatGPT-5.2
+CD_RISC_6,I try to see the humorous side of things when I am faced with problems.,Intellectual,ChatGPT-5.2
+CD_RISC_7,Having to cope with stress can make me stronger.,Emotional,ChatGPT-5.2
+CD_RISC_8,"I tend to bounce back after illness, injury, or other hardships.",Physical,ChatGPT-5.2
+CD_RISC_9,I believe most things happen for a reason.,Spiritual,ChatGPT-5.2
+PERMA1_1,How much of the time do you feel you are making progress towards accomplishing your goals?,Occupational,ChatGPT-5.2
+PERMA1_2,How often do you become absorbed in what you are doing?,Physical,ChatGPT-5.2
+PERMA1_3,How often do you feel joyful?,Emotional,ChatGPT-5.2
+PERMA1_4,How often do you feel anxious?,Emotional,ChatGPT-5.2
+PERMA1_5,How often do you achieve the important goals you have set for yourself?,Occupational,ChatGPT-5.2
+PERMA2_1,How would you say your health is?,Physical,ChatGPT-5.2
+PERMA3_1,To what extent do you lead a purposeful and meaningful life?,Occupational,ChatGPT-5.2
+PERMA3_2,To what extent do you receive help and support from others when you need it?,Social,ChatGPT-5.2
+PERMA3_3,To what extent do you feel that what you do in your life is valuable and worthwhile?,Occupational,ChatGPT-5.2
+PERMA3_4,To what extent do you feel excited and interested in things?,Intellectual,ChatGPT-5.2
+PERMA3_5,How lonely do you feel in your daily life?,Occupational,ChatGPT-5.2
+PERMA4_1,How satisfied are you with your current physical health?,Physical,ChatGPT-5.2
+PERMA5_1,How often do you feel positive?,Emotional,ChatGPT-5.2
+PERMA5_2,How often do you feel angry?,Emotional,ChatGPT-5.2
+PERMA5_3,How often are you able to handle your responsibilities?,Occupational,ChatGPT-5.2
+PERMA5_4,How often do you feel sad?,Emotional,ChatGPT-5.2
+PERMA5_5,How often do you lose track of time while doing something you enjoy?,Physical,ChatGPT-5.2
+PERMA6_1,"Compared to others of your same age and sex, how is your health?",Physical,ChatGPT-5.2
+PERMA7_1,To what extent do you feel you have a sense of direction in your life?,Spiritual,ChatGPT-5.2
+PERMA7_2,How satisfied are you with your personal relationships?,Social,ChatGPT-5.2
+PERMA7_3,To what extent do you feel loved?,Emotional,ChatGPT-5.2
+PERMA7_4,To what extent do you feel contented?,Emotional,ChatGPT-5.2
+PERMA8_1,"Taking all things together, how happy would you say you are?",Emotional,ChatGPT-5.2
+PSS_1,"During the past month, what time have you usually gone to bed at night?",Environmental,ChatGPT-5.2
+PSS_10_1,"During the past month, how often has your bed partner or room mate reported loud snoring?",Environmental,ChatGPT-5.2
+PSS_10_2,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",Environmental,ChatGPT-5.2
+PSS_10_3,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",Physical,ChatGPT-5.2
+PSS_10_4,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",Environmental,ChatGPT-5.2
+PSS_10_5,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",Environmental,ChatGPT-5.2
+PSS_2,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",Environmental,ChatGPT-5.2
+PSS_3,"During the past month, what time have you usually gotten up in the morning?",Environmental,ChatGPT-5.2
+PSS_4,"During the past month, how many hours of actual sleep did you get at night?",Environmental,ChatGPT-5.2
+PSS_5_1,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",Environmental,ChatGPT-5.2
+PSS_5_10,"During the past month, how often have you had trouble sleeping because of other reasons?",Environmental,ChatGPT-5.2
+PSS_5_2,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",Environmental,ChatGPT-5.2
+PSS_5_3,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",Environmental,ChatGPT-5.2
+PSS_5_4,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",Environmental,ChatGPT-5.2
+PSS_5_5,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",Environmental,ChatGPT-5.2
+PSS_5_6,"During the past month, how often have you had trouble sleeping because you feel too cold?",Emotional,ChatGPT-5.2
+PSS_5_7,"During the past month, how often have you had trouble sleeping because you feel too hot?",Emotional,ChatGPT-5.2
+PSS_5_8,"During the past month, how often have you had trouble sleeping because you have bad dreams?",Environmental,ChatGPT-5.2
+PSS_5_9,"During the past month, how often have you had trouble sleeping because you have pain?",Emotional,ChatGPT-5.2
+PSS_6,"During the past month, how would you rate your sleep quality overall?",Environmental,ChatGPT-5.2
+PSS_7,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",Environmental,ChatGPT-5.2
+PSS_8,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",Environmental,ChatGPT-5.2
+PSS_9,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",Intellectual,ChatGPT-5.2
+PWB_11,"For me, life has been a continuous process of learning, changing, and growth.",Intellectual,ChatGPT-5.2
+PWB_12,I think it is important to have new experiences that challenge how I think about myself and the world.,Intellectual,ChatGPT-5.2
+PWB_13,"People would describe me as a giving person, willing to share my time with others.",Social,ChatGPT-5.2
+PWB_14,I gave up trying to make big improvements or changes in my life a long time ago.,Social,ChatGPT-5.2
+PWB_15,I tend to be influenced by people with strong opinions.,Spiritual,ChatGPT-5.2
+PWB_16,I have not experienced many warm and trusting relationships with others.,Social,ChatGPT-5.2
+PWB_17,"I have confidence in my own opinions, even if they are different from the way most other people think.",Social,ChatGPT-5.2
+PWB_18,"I judge myself by what I think is important, not by the values of what others think is important.",Spiritual,ChatGPT-5.2
+PWS_1,I am always optimistic about my future.,Financial,ChatGPT-5.2
+PWS_2,There have been times when I felt inferior to most of the people I knew.,Social,ChatGPT-5.2
+PWS_3,Members of my family come to me for support.,Social,ChatGPT-5.2
+CD_RISC_1,I am able to adapt when changes occur.,Intellectual,DeepSeek-V3.2
+CD_RISC_10,"I make my best effort, no matter what.",Intellectual,DeepSeek-V3.2
+CD_RISC_11,"I believe I can achieve my goals, even if there are obstacles.",Financial,DeepSeek-V3.2
+CD_RISC_12,"Even when hopeless, I do not give up.",Emotional,DeepSeek-V3.2
+CD_RISC_13,"In times of stress, I know where to find help.",Emotional,DeepSeek-V3.2
+CD_RISC_14,"Under pressure, I stay focused and think clearly.",Intellectual,DeepSeek-V3.2
+CD_RISC_15,I prefer to take the lead in problem-solving.,Intellectual,DeepSeek-V3.2
+CD_RISC_16,I am not easily discouraged by failure.,Intellectual,DeepSeek-V3.2
+CD_RISC_17,I think of myself as a strong person when dealing with life's challenges and difficulties.,Emotional,DeepSeek-V3.2
+CD_RISC_18,I make unpopular or difficult decisions.,Intellectual,DeepSeek-V3.2
+CD_RISC_19,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",Emotional,DeepSeek-V3.2
+CD_RISC_2,I have one close and secure relationship.,Social,DeepSeek-V3.2
+CD_RISC_20,I have to act on a hunch.,Intellectual,DeepSeek-V3.2
+CD_RISC_25,I take pride in my achievements,Occupational,DeepSeek-V3.2
+CD_RISC_3,Sometimes fate or God helps me.,Spiritual,DeepSeek-V3.2
+CD_RISC_4,I can deal with whatever comes my way.,Social,DeepSeek-V3.2
+CD_RISC_5,Past successes give me confidence.,Occupational,DeepSeek-V3.2
+CD_RISC_6,I try to see the humorous side of things when I am faced with problems.,Emotional,DeepSeek-V3.2
+CD_RISC_7,Having to cope with stress can make me stronger.,Emotional,DeepSeek-V3.2
+CD_RISC_8,"I tend to bounce back after illness, injury, or other hardships.",Physical,DeepSeek-V3.2
+CD_RISC_9,I believe most things happen for a reason.,Emotional,DeepSeek-V3.2
+PERMA1_1,How much of the time do you feel you are making progress towards accomplishing your goals?,Intellectual,DeepSeek-V3.2
+PERMA1_2,How often do you become absorbed in what you are doing?,Occupational,DeepSeek-V3.2
+PERMA1_3,How often do you feel joyful?,Emotional,DeepSeek-V3.2
+PERMA1_4,How often do you feel anxious?,Emotional,DeepSeek-V3.2
+PERMA1_5,How often do you achieve the important goals you have set for yourself?,Intellectual,DeepSeek-V3.2
+PERMA2_1,How would you say your health is?,Physical,DeepSeek-V3.2
+PERMA3_1,To what extent do you lead a purposeful and meaningful life?,Spiritual,DeepSeek-V3.2
+PERMA3_2,To what extent do you receive help and support from others when you need it?,Financial,DeepSeek-V3.2
+PERMA3_3,To what extent do you feel that what you do in your life is valuable and worthwhile?,Occupational,DeepSeek-V3.2
+PERMA3_4,To what extent do you feel excited and interested in things?,Intellectual,DeepSeek-V3.2
+PERMA3_5,How lonely do you feel in your daily life?,Social,DeepSeek-V3.2
+PERMA4_1,How satisfied are you with your current physical health?,Physical,DeepSeek-V3.2
+PERMA5_1,How often do you feel positive?,Emotional,DeepSeek-V3.2
+PERMA5_2,How often do you feel angry?,Emotional,DeepSeek-V3.2
+PERMA5_3,How often are you able to handle your responsibilities?,Financial,DeepSeek-V3.2
+PERMA5_4,How often do you feel sad?,Emotional,DeepSeek-V3.2
+PERMA5_5,How often do you lose track of time while doing something you enjoy?,Intellectual,DeepSeek-V3.2
+PERMA6_1,"Compared to others of your same age and sex, how is your health?",Physical,DeepSeek-V3.2
+PERMA7_1,To what extent do you feel you have a sense of direction in your life?,Emotional,DeepSeek-V3.2
+PERMA7_2,How satisfied are you with your personal relationships?,Social,DeepSeek-V3.2
+PERMA7_3,To what extent do you feel loved?,Emotional,DeepSeek-V3.2
+PERMA7_4,To what extent do you feel contented?,Emotional,DeepSeek-V3.2
+PERMA8_1,"Taking all things together, how happy would you say you are?",Occupational,DeepSeek-V3.2
+PSS_1,"During the past month, what time have you usually gone to bed at night?",Emotional,DeepSeek-V3.2
+PSS_10_1,"During the past month, how often has your bed partner or room mate reported loud snoring?",Social,DeepSeek-V3.2
+PSS_10_2,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",Emotional,DeepSeek-V3.2
+PSS_10_3,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",Physical,DeepSeek-V3.2
+PSS_10_4,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",Emotional,DeepSeek-V3.2
+PSS_10_5,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",Emotional,DeepSeek-V3.2
+PSS_2,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",Emotional,DeepSeek-V3.2
+PSS_3,"During the past month, what time have you usually gotten up in the morning?",Emotional,DeepSeek-V3.2
+PSS_4,"During the past month, how many hours of actual sleep did you get at night?",Emotional,DeepSeek-V3.2
+PSS_5_1,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",Emotional,DeepSeek-V3.2
+PSS_5_10,"During the past month, how often have you had trouble sleeping because of other reasons?",Emotional,DeepSeek-V3.2
+PSS_5_2,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",Emotional,DeepSeek-V3.2
+PSS_5_3,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",Environmental,DeepSeek-V3.2
+PSS_5_4,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",Environmental,DeepSeek-V3.2
+PSS_5_5,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",Emotional,DeepSeek-V3.2
+PSS_5_6,"During the past month, how often have you had trouble sleeping because you feel too cold?",Emotional,DeepSeek-V3.2
+PSS_5_7,"During the past month, how often have you had trouble sleeping because you feel too hot?",Emotional,DeepSeek-V3.2
+PSS_5_8,"During the past month, how often have you had trouble sleeping because you have bad dreams?",Emotional,DeepSeek-V3.2
+PSS_5_9,"During the past month, how often have you had trouble sleeping because you have pain?",Emotional,DeepSeek-V3.2
+PSS_6,"During the past month, how would you rate your sleep quality overall?",Physical,DeepSeek-V3.2
+PSS_7,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",Emotional,DeepSeek-V3.2
+PSS_8,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",Emotional,DeepSeek-V3.2
+PSS_9,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",Intellectual,DeepSeek-V3.2
+PWB_11,"For me, life has been a continuous process of learning, changing, and growth.",Intellectual,DeepSeek-V3.2
+PWB_12,I think it is important to have new experiences that challenge how I think about myself and the world.,Spiritual,DeepSeek-V3.2
+PWB_13,"People would describe me as a giving person, willing to share my time with others.",Social,DeepSeek-V3.2
+PWB_14,I gave up trying to make big improvements or changes in my life a long time ago.,Emotional,DeepSeek-V3.2
+PWB_15,I tend to be influenced by people with strong opinions.,Social,DeepSeek-V3.2
+PWB_16,I have not experienced many warm and trusting relationships with others.,Social,DeepSeek-V3.2
+PWB_17,"I have confidence in my own opinions, even if they are different from the way most other people think.",Social,DeepSeek-V3.2
+PWB_18,"I judge myself by what I think is important, not by the values of what others think is important.",Spiritual,DeepSeek-V3.2
+PWS_1,I am always optimistic about my future.,Financial,DeepSeek-V3.2
+PWS_2,There have been times when I felt inferior to most of the people I knew.,Social,DeepSeek-V3.2
+PWS_3,Members of my family come to me for support.,Social,DeepSeek-V3.2
+CD_RISC_1,I am able to adapt when changes occur.,Emotional,Llama-4
+CD_RISC_10,"I make my best effort, no matter what.",Intellectual,Llama-4
+CD_RISC_11,"I believe I can achieve my goals, even if there are obstacles.",Spiritual,Llama-4
+CD_RISC_12,"Even when hopeless, I do not give up.",Emotional,Llama-4
+CD_RISC_13,"In times of stress, I know where to find help.",Emotional,Llama-4
+CD_RISC_14,"Under pressure, I stay focused and think clearly.",Intellectual,Llama-4
+CD_RISC_15,I prefer to take the lead in problem-solving.,Intellectual,Llama-4
+CD_RISC_16,I am not easily discouraged by failure.,Emotional,Llama-4
+CD_RISC_17,I think of myself as a strong person when dealing with life's challenges and difficulties.,Emotional,Llama-4
+CD_RISC_18,I make unpopular or difficult decisions.,Financial,Llama-4
+CD_RISC_19,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",Emotional,Llama-4
+CD_RISC_2,I have one close and secure relationship.,Financial,Llama-4
+CD_RISC_20,I have to act on a hunch.,Intellectual,Llama-4
+CD_RISC_25,I take pride in my achievements,Intellectual,Llama-4
+CD_RISC_3,Sometimes fate or God helps me.,Spiritual,Llama-4
+CD_RISC_4,I can deal with whatever comes my way.,Financial,Llama-4
+CD_RISC_5,Past successes give me confidence.,Financial,Llama-4
+CD_RISC_6,I try to see the humorous side of things when I am faced with problems.,Emotional,Llama-4
+CD_RISC_7,Having to cope with stress can make me stronger.,Emotional,Llama-4
+CD_RISC_8,"I tend to bounce back after illness, injury, or other hardships.",Physical,Llama-4
+CD_RISC_9,I believe most things happen for a reason.,Spiritual,Llama-4
+PERMA1_1,How much of the time do you feel you are making progress towards accomplishing your goals?,Occupational,Llama-4
+PERMA1_2,How often do you become absorbed in what you are doing?,Occupational,Llama-4
+PERMA1_3,How often do you feel joyful?,Emotional,Llama-4
+PERMA1_4,How often do you feel anxious?,Emotional,Llama-4
+PERMA1_5,How often do you achieve the important goals you have set for yourself?,Physical,Llama-4
+PERMA2_1,How would you say your health is?,Physical,Llama-4
+PERMA3_1,To what extent do you lead a purposeful and meaningful life?,Spiritual,Llama-4
+PERMA3_2,To what extent do you receive help and support from others when you need it?,Social,Llama-4
+PERMA3_3,To what extent do you feel that what you do in your life is valuable and worthwhile?,Occupational,Llama-4
+PERMA3_4,To what extent do you feel excited and interested in things?,Intellectual,Llama-4
+PERMA3_5,How lonely do you feel in your daily life?,Emotional,Llama-4
+PERMA4_1,How satisfied are you with your current physical health?,Physical,Llama-4
+PERMA5_1,How often do you feel positive?,Emotional,Llama-4
+PERMA5_2,How often do you feel angry?,Emotional,Llama-4
+PERMA5_3,How often are you able to handle your responsibilities?,Occupational,Llama-4
+PERMA5_4,How often do you feel sad?,Emotional,Llama-4
+PERMA5_5,How often do you lose track of time while doing something you enjoy?,Intellectual,Llama-4
+PERMA6_1,"Compared to others of your same age and sex, how is your health?",Physical,Llama-4
+PERMA7_1,To what extent do you feel you have a sense of direction in your life?,Spiritual,Llama-4
+PERMA7_2,How satisfied are you with your personal relationships?,Social,Llama-4
+PERMA7_3,To what extent do you feel loved?,Emotional,Llama-4
+PERMA7_4,To what extent do you feel contented?,Emotional,Llama-4
+PERMA8_1,"Taking all things together, how happy would you say you are?",Emotional,Llama-4
+PSS_1,"During the past month, what time have you usually gone to bed at night?",Environmental,Llama-4
+PSS_10_1,"During the past month, how often has your bed partner or room mate reported loud snoring?",Environmental,Llama-4
+PSS_10_2,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",Environmental,Llama-4
+PSS_10_3,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",Social,Llama-4
+PSS_10_4,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",Emotional,Llama-4
+PSS_10_5,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",Social,Llama-4
+PSS_2,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",Environmental,Llama-4
+PSS_3,"During the past month, what time have you usually gotten up in the morning?",Environmental,Llama-4
+PSS_4,"During the past month, how many hours of actual sleep did you get at night?",Environmental,Llama-4
+PSS_5_1,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",Environmental,Llama-4
+PSS_5_10,"During the past month, how often have you had trouble sleeping because of other reasons?",Environmental,Llama-4
+PSS_5_2,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",Environmental,Llama-4
+PSS_5_3,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",Environmental,Llama-4
+PSS_5_4,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",Environmental,Llama-4
+PSS_5_5,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",Environmental,Llama-4
+PSS_5_6,"During the past month, how often have you had trouble sleeping because you feel too cold?",Emotional,Llama-4
+PSS_5_7,"During the past month, how often have you had trouble sleeping because you feel too hot?",Emotional,Llama-4
+PSS_5_8,"During the past month, how often have you had trouble sleeping because you have bad dreams?",Emotional,Llama-4
+PSS_5_9,"During the past month, how often have you had trouble sleeping because you have pain?",Emotional,Llama-4
+PSS_6,"During the past month, how would you rate your sleep quality overall?",Physical,Llama-4
+PSS_7,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",Emotional,Llama-4
+PSS_8,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",Social,Llama-4
+PSS_9,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",Intellectual,Llama-4
+PWB_11,"For me, life has been a continuous process of learning, changing, and growth.",Intellectual,Llama-4
+PWB_12,I think it is important to have new experiences that challenge how I think about myself and the world.,Spiritual,Llama-4
+PWB_13,"People would describe me as a giving person, willing to share my time with others.",Spiritual,Llama-4
+PWB_14,I gave up trying to make big improvements or changes in my life a long time ago.,Emotional,Llama-4
+PWB_15,I tend to be influenced by people with strong opinions.,Social,Llama-4
+PWB_16,I have not experienced many warm and trusting relationships with others.,Social,Llama-4
+PWB_17,"I have confidence in my own opinions, even if they are different from the way most other people think.",Social,Llama-4
+PWB_18,"I judge myself by what I think is important, not by the values of what others think is important.",Spiritual,Llama-4
+PWS_1,I am always optimistic about my future.,Financial,Llama-4
+PWS_2,There have been times when I felt inferior to most of the people I knew.,Emotional,Llama-4
+PWS_3,Members of my family come to me for support.,Social,Llama-4
+CD_RISC_1,I am able to adapt when changes occur.,Emotional,claude-sonnet-4.5
+CD_RISC_10,"I make my best effort, no matter what.",Intellectual,claude-sonnet-4.5
+CD_RISC_11,"I believe I can achieve my goals, even if there are obstacles.",Intellectual,claude-sonnet-4.5
+CD_RISC_12,"Even when hopeless, I do not give up.",Emotional,claude-sonnet-4.5
+CD_RISC_13,"In times of stress, I know where to find help.",Emotional,claude-sonnet-4.5
+CD_RISC_14,"Under pressure, I stay focused and think clearly.",Intellectual,claude-sonnet-4.5
+CD_RISC_15,I prefer to take the lead in problem-solving.,Intellectual,claude-sonnet-4.5
+CD_RISC_16,I am not easily discouraged by failure.,Intellectual,claude-sonnet-4.5
+CD_RISC_17,I think of myself as a strong person when dealing with life's challenges and difficulties.,Emotional,claude-sonnet-4.5
+CD_RISC_18,I make unpopular or difficult decisions.,Intellectual,claude-sonnet-4.5
+CD_RISC_19,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",Emotional,claude-sonnet-4.5
+CD_RISC_2,I have one close and secure relationship.,Social,claude-sonnet-4.5
+CD_RISC_20,I have to act on a hunch.,Environmental,claude-sonnet-4.5
+CD_RISC_25,I take pride in my achievements,Occupational,claude-sonnet-4.5
+CD_RISC_3,Sometimes fate or God helps me.,Emotional,claude-sonnet-4.5
+CD_RISC_4,I can deal with whatever comes my way.,Environmental,claude-sonnet-4.5
+CD_RISC_5,Past successes give me confidence.,Occupational,claude-sonnet-4.5
+CD_RISC_6,I try to see the humorous side of things when I am faced with problems.,Emotional,claude-sonnet-4.5
+CD_RISC_7,Having to cope with stress can make me stronger.,Emotional,claude-sonnet-4.5
+CD_RISC_8,"I tend to bounce back after illness, injury, or other hardships.",Physical,claude-sonnet-4.5
+CD_RISC_9,I believe most things happen for a reason.,Emotional,claude-sonnet-4.5
+PERMA1_1,How much of the time do you feel you are making progress towards accomplishing your goals?,Intellectual,claude-sonnet-4.5
+PERMA1_2,How often do you become absorbed in what you are doing?,Occupational,claude-sonnet-4.5
+PERMA1_3,How often do you feel joyful?,Emotional,claude-sonnet-4.5
+PERMA1_4,How often do you feel anxious?,Emotional,claude-sonnet-4.5
+PERMA1_5,How often do you achieve the important goals you have set for yourself?,Intellectual,claude-sonnet-4.5
+PERMA2_1,How would you say your health is?,Physical,claude-sonnet-4.5
+PERMA3_1,To what extent do you lead a purposeful and meaningful life?,Spiritual,claude-sonnet-4.5
+PERMA3_2,To what extent do you receive help and support from others when you need it?,Social,claude-sonnet-4.5
+PERMA3_3,To what extent do you feel that what you do in your life is valuable and worthwhile?,Occupational,claude-sonnet-4.5
+PERMA3_4,To what extent do you feel excited and interested in things?,Emotional,claude-sonnet-4.5
+PERMA3_5,How lonely do you feel in your daily life?,Emotional,claude-sonnet-4.5
+PERMA4_1,How satisfied are you with your current physical health?,Physical,claude-sonnet-4.5
+PERMA5_1,How often do you feel positive?,Emotional,claude-sonnet-4.5
+PERMA5_2,How often do you feel angry?,Emotional,claude-sonnet-4.5
+PERMA5_3,How often are you able to handle your responsibilities?,Occupational,claude-sonnet-4.5
+PERMA5_4,How often do you feel sad?,Emotional,claude-sonnet-4.5
+PERMA5_5,How often do you lose track of time while doing something you enjoy?,Occupational,claude-sonnet-4.5
+PERMA6_1,"Compared to others of your same age and sex, how is your health?",Physical,claude-sonnet-4.5
+PERMA7_1,To what extent do you feel you have a sense of direction in your life?,Spiritual,claude-sonnet-4.5
+PERMA7_2,How satisfied are you with your personal relationships?,Social,claude-sonnet-4.5
+PERMA7_3,To what extent do you feel loved?,Emotional,claude-sonnet-4.5
+PERMA7_4,To what extent do you feel contented?,Emotional,claude-sonnet-4.5
+PERMA8_1,"Taking all things together, how happy would you say you are?",Emotional,claude-sonnet-4.5
+PSS_1,"During the past month, what time have you usually gone to bed at night?",Spiritual,claude-sonnet-4.5
+PSS_10_1,"During the past month, how often has your bed partner or room mate reported loud snoring?",Environmental,claude-sonnet-4.5
+PSS_10_2,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",Environmental,claude-sonnet-4.5
+PSS_10_3,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",Physical,claude-sonnet-4.5
+PSS_10_4,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",Emotional,claude-sonnet-4.5
+PSS_10_5,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",Social,claude-sonnet-4.5
+PSS_2,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",Spiritual,claude-sonnet-4.5
+PSS_3,"During the past month, what time have you usually gotten up in the morning?",Spiritual,claude-sonnet-4.5
+PSS_4,"During the past month, how many hours of actual sleep did you get at night?",Emotional,claude-sonnet-4.5
+PSS_5_1,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",Emotional,claude-sonnet-4.5
+PSS_5_10,"During the past month, how often have you had trouble sleeping because of other reasons?",Emotional,claude-sonnet-4.5
+PSS_5_2,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",Emotional,claude-sonnet-4.5
+PSS_5_3,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",Environmental,claude-sonnet-4.5
+PSS_5_4,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",Emotional,claude-sonnet-4.5
+PSS_5_5,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",Emotional,claude-sonnet-4.5
+PSS_5_6,"During the past month, how often have you had trouble sleeping because you feel too cold?",Emotional,claude-sonnet-4.5
+PSS_5_7,"During the past month, how often have you had trouble sleeping because you feel too hot?",Emotional,claude-sonnet-4.5
+PSS_5_8,"During the past month, how often have you had trouble sleeping because you have bad dreams?",Emotional,claude-sonnet-4.5
+PSS_5_9,"During the past month, how often have you had trouble sleeping because you have pain?",Emotional,claude-sonnet-4.5
+PSS_6,"During the past month, how would you rate your sleep quality overall?",Physical,claude-sonnet-4.5
+PSS_7,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",Emotional,claude-sonnet-4.5
+PSS_8,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",Emotional,claude-sonnet-4.5
+PSS_9,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",Intellectual,claude-sonnet-4.5
+PWB_11,"For me, life has been a continuous process of learning, changing, and growth.",Intellectual,claude-sonnet-4.5
+PWB_12,I think it is important to have new experiences that challenge how I think about myself and the world.,Emotional,claude-sonnet-4.5
+PWB_13,"People would describe me as a giving person, willing to share my time with others.",Social,claude-sonnet-4.5
+PWB_14,I gave up trying to make big improvements or changes in my life a long time ago.,Emotional,claude-sonnet-4.5
+PWB_15,I tend to be influenced by people with strong opinions.,Social,claude-sonnet-4.5
+PWB_16,I have not experienced many warm and trusting relationships with others.,Social,claude-sonnet-4.5
+PWB_17,"I have confidence in my own opinions, even if they are different from the way most other people think.",Social,claude-sonnet-4.5
+PWB_18,"I judge myself by what I think is important, not by the values of what others think is important.",Spiritual,claude-sonnet-4.5
+PWS_1,I am always optimistic about my future.,Financial,claude-sonnet-4.5
+PWS_2,There have been times when I felt inferior to most of the people I knew.,Emotional,claude-sonnet-4.5
+PWS_3,Members of my family come to me for support.,Social,claude-sonnet-4.5
+CD_RISC_1,I am able to adapt when changes occur.,Spiritual,gemini-3.0-pro
+CD_RISC_10,"I make my best effort, no matter what.",Intellectual,gemini-3.0-pro
+CD_RISC_11,"I believe I can achieve my goals, even if there are obstacles.",Spiritual,gemini-3.0-pro
+CD_RISC_12,"Even when hopeless, I do not give up.",Emotional,gemini-3.0-pro
+CD_RISC_13,"In times of stress, I know where to find help.",Emotional,gemini-3.0-pro
+CD_RISC_14,"Under pressure, I stay focused and think clearly.",Emotional,gemini-3.0-pro
+CD_RISC_15,I prefer to take the lead in problem-solving.,Intellectual,gemini-3.0-pro
+CD_RISC_16,I am not easily discouraged by failure.,Emotional,gemini-3.0-pro
+CD_RISC_17,I think of myself as a strong person when dealing with life's challenges and difficulties.,Emotional,gemini-3.0-pro
+CD_RISC_18,I make unpopular or difficult decisions.,Spiritual,gemini-3.0-pro
+CD_RISC_19,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",Emotional,gemini-3.0-pro
+CD_RISC_2,I have one close and secure relationship.,Social,gemini-3.0-pro
+CD_RISC_20,I have to act on a hunch.,Social,gemini-3.0-pro
+CD_RISC_25,I take pride in my achievements,Occupational,gemini-3.0-pro
+CD_RISC_3,Sometimes fate or God helps me.,Spiritual,gemini-3.0-pro
+CD_RISC_4,I can deal with whatever comes my way.,Emotional,gemini-3.0-pro
+CD_RISC_5,Past successes give me confidence.,Occupational,gemini-3.0-pro
+CD_RISC_6,I try to see the humorous side of things when I am faced with problems.,Emotional,gemini-3.0-pro
+CD_RISC_7,Having to cope with stress can make me stronger.,Emotional,gemini-3.0-pro
+CD_RISC_8,"I tend to bounce back after illness, injury, or other hardships.",Emotional,gemini-3.0-pro
+CD_RISC_9,I believe most things happen for a reason.,Spiritual,gemini-3.0-pro
+PERMA1_1,How much of the time do you feel you are making progress towards accomplishing your goals?,Occupational,gemini-3.0-pro
+PERMA1_2,How often do you become absorbed in what you are doing?,Occupational,gemini-3.0-pro
+PERMA1_3,How often do you feel joyful?,Occupational,gemini-3.0-pro
+PERMA1_4,How often do you feel anxious?,Emotional,gemini-3.0-pro
+PERMA1_5,How often do you achieve the important goals you have set for yourself?,Occupational,gemini-3.0-pro
+PERMA2_1,How would you say your health is?,Physical,gemini-3.0-pro
+PERMA3_1,To what extent do you lead a purposeful and meaningful life?,Spiritual,gemini-3.0-pro
+PERMA3_2,To what extent do you receive help and support from others when you need it?,Social,gemini-3.0-pro
+PERMA3_3,To what extent do you feel that what you do in your life is valuable and worthwhile?,Occupational,gemini-3.0-pro
+PERMA3_4,To what extent do you feel excited and interested in things?,Intellectual,gemini-3.0-pro
+PERMA3_5,How lonely do you feel in your daily life?,Emotional,gemini-3.0-pro
+PERMA4_1,How satisfied are you with your current physical health?,Physical,gemini-3.0-pro
+PERMA5_1,How often do you feel positive?,Emotional,gemini-3.0-pro
+PERMA5_2,How often do you feel angry?,Emotional,gemini-3.0-pro
+PERMA5_3,How often are you able to handle your responsibilities?,Emotional,gemini-3.0-pro
+PERMA5_4,How often do you feel sad?,Emotional,gemini-3.0-pro
+PERMA5_5,How often do you lose track of time while doing something you enjoy?,Occupational,gemini-3.0-pro
+PERMA6_1,"Compared to others of your same age and sex, how is your health?",Physical,gemini-3.0-pro
+PERMA7_1,To what extent do you feel you have a sense of direction in your life?,Spiritual,gemini-3.0-pro
+PERMA7_2,How satisfied are you with your personal relationships?,Social,gemini-3.0-pro
+PERMA7_3,To what extent do you feel loved?,Emotional,gemini-3.0-pro
+PERMA7_4,To what extent do you feel contented?,Emotional,gemini-3.0-pro
+PERMA8_1,"Taking all things together, how happy would you say you are?",Occupational,gemini-3.0-pro
+PSS_1,"During the past month, what time have you usually gone to bed at night?",Occupational,gemini-3.0-pro
+PSS_10_1,"During the past month, how often has your bed partner or room mate reported loud snoring?",Social,gemini-3.0-pro
+PSS_10_2,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",Emotional,gemini-3.0-pro
+PSS_10_3,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",Physical,gemini-3.0-pro
+PSS_10_4,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",Emotional,gemini-3.0-pro
+PSS_10_5,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",Emotional,gemini-3.0-pro
+PSS_2,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",Emotional,gemini-3.0-pro
+PSS_3,"During the past month, what time have you usually gotten up in the morning?",Occupational,gemini-3.0-pro
+PSS_4,"During the past month, how many hours of actual sleep did you get at night?",Occupational,gemini-3.0-pro
+PSS_5_1,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",Emotional,gemini-3.0-pro
+PSS_5_10,"During the past month, how often have you had trouble sleeping because of other reasons?",Emotional,gemini-3.0-pro
+PSS_5_2,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",Emotional,gemini-3.0-pro
+PSS_5_3,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",Emotional,gemini-3.0-pro
+PSS_5_4,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",Emotional,gemini-3.0-pro
+PSS_5_5,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",Emotional,gemini-3.0-pro
+PSS_5_6,"During the past month, how often have you had trouble sleeping because you feel too cold?",Emotional,gemini-3.0-pro
+PSS_5_7,"During the past month, how often have you had trouble sleeping because you feel too hot?",Emotional,gemini-3.0-pro
+PSS_5_8,"During the past month, how often have you had trouble sleeping because you have bad dreams?",Emotional,gemini-3.0-pro
+PSS_5_9,"During the past month, how often have you had trouble sleeping because you have pain?",Emotional,gemini-3.0-pro
+PSS_6,"During the past month, how would you rate your sleep quality overall?",Physical,gemini-3.0-pro
+PSS_7,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",Emotional,gemini-3.0-pro
+PSS_8,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",Emotional,gemini-3.0-pro
+PSS_9,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",Emotional,gemini-3.0-pro
+PWB_11,"For me, life has been a continuous process of learning, changing, and growth.",Emotional,gemini-3.0-pro
+PWB_12,I think it is important to have new experiences that challenge how I think about myself and the world.,Spiritual,gemini-3.0-pro
+PWB_13,"People would describe me as a giving person, willing to share my time with others.",Occupational,gemini-3.0-pro
+PWB_14,I gave up trying to make big improvements or changes in my life a long time ago.,Emotional,gemini-3.0-pro
+PWB_15,I tend to be influenced by people with strong opinions.,Spiritual,gemini-3.0-pro
+PWB_16,I have not experienced many warm and trusting relationships with others.,Social,gemini-3.0-pro
+PWB_17,"I have confidence in my own opinions, even if they are different from the way most other people think.",Spiritual,gemini-3.0-pro
+PWB_18,"I judge myself by what I think is important, not by the values of what others think is important.",Spiritual,gemini-3.0-pro
+PWS_1,I am always optimistic about my future.,Financial,gemini-3.0-pro
+PWS_2,There have been times when I felt inferior to most of the people I knew.,Emotional,gemini-3.0-pro
+PWS_3,Members of my family come to me for support.,Social,gemini-3.0-pro

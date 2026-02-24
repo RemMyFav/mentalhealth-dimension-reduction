@@ -1,0 +1,79 @@
+qid,text
+CD_RISC_1,I am able to adapt when changes occur.
+CD_RISC_10,"I make my best effort, no matter what."
+CD_RISC_11,"I believe I can achieve my goals, even if there are obstacles."
+CD_RISC_12,"Even when hopeless, I do not give up."
+CD_RISC_13,"In times of stress, I know where to find help."
+CD_RISC_14,"Under pressure, I stay focused and think clearly."
+CD_RISC_15,I prefer to take the lead in problem-solving.
+CD_RISC_16,I am not easily discouraged by failure.
+CD_RISC_17,I think of myself as a strong person when dealing with life's challenges and difficulties.
+CD_RISC_18,I make unpopular or difficult decisions.
+CD_RISC_19,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger."
+CD_RISC_2,I have one close and secure relationship.
+CD_RISC_20,I have to act on a hunch.
+CD_RISC_25,I take pride in my achievements
+CD_RISC_3,Sometimes fate or God helps me.
+CD_RISC_4,I can deal with whatever comes my way.
+CD_RISC_5,Past successes give me confidence.
+CD_RISC_6,I try to see the humorous side of things when I am faced with problems.
+CD_RISC_7,Having to cope with stress can make me stronger.
+CD_RISC_8,"I tend to bounce back after illness, injury, or other hardships."
+CD_RISC_9,I believe most things happen for a reason.
+PERMA1_1,How much of the time do you feel you are making progress towards accomplishing your goals?
+PERMA1_2,How often do you become absorbed in what you are doing?
+PERMA1_3,How often do you feel joyful?
+PERMA1_4,How often do you feel anxious?
+PERMA1_5,How often do you achieve the important goals you have set for yourself?
+PERMA2_1,How would you say your health is?
+PERMA3_1,To what extent do you lead a purposeful and meaningful life?
+PERMA3_2,To what extent do you receive help and support from others when you need it?
+PERMA3_3,To what extent do you feel that what you do in your life is valuable and worthwhile?
+PERMA3_4,To what extent do you feel excited and interested in things?
+PERMA3_5,How lonely do you feel in your daily life?
+PERMA4_1,How satisfied are you with your current physical health?
+PERMA5_1,How often do you feel positive?
+PERMA5_2,How often do you feel angry?
+PERMA5_3,How often are you able to handle your responsibilities?
+PERMA5_4,How often do you feel sad?
+PERMA5_5,How often do you lose track of time while doing something you enjoy?
+PERMA6_1,"Compared to others of your same age and sex, how is your health?"
+PERMA7_1,To what extent do you feel you have a sense of direction in your life?
+PERMA7_2,How satisfied are you with your personal relationships?
+PERMA7_3,To what extent do you feel loved?
+PERMA7_4,To what extent do you feel contented?
+PERMA8_1,"Taking all things together, how happy would you say you are?"
+PSS_1,"During the past month, what time have you usually gone to bed at night?"
+PSS_10_1,"During the past month, how often has your bed partner or room mate reported loud snoring?"
+PSS_10_2,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?"
+PSS_10_3,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?"
+PSS_10_4,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?"
+PSS_10_5,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?"
+PSS_2,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?"
+PSS_3,"During the past month, what time have you usually gotten up in the morning?"
+PSS_4,"During the past month, how many hours of actual sleep did you get at night?"
+PSS_5_1,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?"
+PSS_5_10,"During the past month, how often have you had trouble sleeping because of other reasons?"
+PSS_5_2,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?"
+PSS_5_3,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?"
+PSS_5_4,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?"
+PSS_5_5,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?"
+PSS_5_6,"During the past month, how often have you had trouble sleeping because you feel too cold?"
+PSS_5_7,"During the past month, how often have you had trouble sleeping because you feel too hot?"
+PSS_5_8,"During the past month, how often have you had trouble sleeping because you have bad dreams?"
+PSS_5_9,"During the past month, how often have you had trouble sleeping because you have pain?"
+PSS_6,"During the past month, how would you rate your sleep quality overall?"
+PSS_7,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?"
+PSS_8,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?"
+PSS_9,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?"
+PWB_11,"For me, life has been a continuous process of learning, changing, and growth."
+PWB_12,I think it is important to have new experiences that challenge how I think about myself and the world.
+PWB_13,"People would describe me as a giving person, willing to share my time with others."
+PWB_14,I gave up trying to make big improvements or changes in my life a long time ago.
+PWB_15,I tend to be influenced by people with strong opinions.
+PWB_16,I have not experienced many warm and trusting relationships with others.
+PWB_17,"I have confidence in my own opinions, even if they are different from the way most other people think."
+PWB_18,"I judge myself by what I think is important, not by the values of what others think is important."
+PWS_1,I am always optimistic about my future.
+PWS_2,There have been times when I felt inferior to most of the people I knew.
+PWS_3,Members of my family come to me for support.

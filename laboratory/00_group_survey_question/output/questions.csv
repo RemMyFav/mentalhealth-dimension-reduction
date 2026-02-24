@@ -1,0 +1,146 @@
+qid,text,dataset
+CD_RISC_1,I am able to adapt when changes occur.,CD-RISC
+CD_RISC_2,I have one close and secure relationship.,CD-RISC
+CD_RISC_3,Sometimes fate or God helps me.,CD-RISC
+CD_RISC_4,I can deal with whatever comes my way.,CD-RISC
+CD_RISC_5,Past successes give me confidence.,CD-RISC
+CD_RISC_6,I try to see the humorous side of things when I am faced with problems.,CD-RISC
+CD_RISC_7,Having to cope with stress can make me stronger.,CD-RISC
+CD_RISC_8,"I tend to bounce back after illness, injury, or other hardships.",CD-RISC
+CD_RISC_9,I believe most things happen for a reason.,CD-RISC
+CD_RISC_10,"I make my best effort, no matter what.",CD-RISC
+CD_RISC_11,"I believe I can achieve my goals, even if there are obstacles.",CD-RISC
+CD_RISC_12,"Even when hopeless, I do not give up.",CD-RISC
+CD_RISC_13,"In times of stress, I know where to find help.",CD-RISC
+CD_RISC_14,"Under pressure, I stay focused and think clearly.",CD-RISC
+CD_RISC_15,I prefer to take the lead in problem-solving.,CD-RISC
+CD_RISC_16,I am not easily discouraged by failure.,CD-RISC
+CD_RISC_17,I think of myself as a strong person when dealing with life's challenges and difficulties.,CD-RISC
+CD_RISC_18,I make unpopular or difficult decisions.,CD-RISC
+CD_RISC_19,"I am able to handle unpleasant or painful feelings like sadness, fear, and anger.",CD-RISC
+CD_RISC_20,I have to act on a hunch.,CD-RISC
+CD_RISC_21,I have a strong sense of purpose in life.,CD-RISC
+CD_RISC_22,I feel like I am in control.,CD-RISC
+CD_RISC_23,I like challenges.,CD-RISC
+CD_RISC_24,I work to attain goals.,CD-RISC
+CD_RISC_25,I take pride in my achievements.,CD-RISC
+PERMA1_1,How much of the time do you feel you are making progress towards accomplishing your goals?,PERMA
+PERMA1_2,How often do you become absorbed in what you are doing?,PERMA
+PERMA1_3,How often do you feel joyful?,PERMA
+PERMA1_4,How often do you feel anxious?,PERMA
+PERMA1_5,How often do you achieve the important goals you have set for yourself?,PERMA
+PERMA2_1,How would you say your health is?,PERMA
+PERMA3_1,To what extent do you lead a purposeful and meaningful life?,PERMA
+PERMA3_2,To what extent do you receive help and support from others when you need it?,PERMA
+PERMA3_3,To what extent do you feel that what you do in your life is valuable and worthwhile?,PERMA
+PERMA3_4,To what extent do you feel excited and interested in things?,PERMA
+PERMA3_5,How lonely do you feel in your daily life?,PERMA
+PERMA4_1,How satisfied are you with your current physical health?,PERMA
+PERMA5_1,How often do you feel positive?,PERMA
+PERMA5_2,How often do you feel angry?,PERMA
+PERMA5_3,How often are you able to handle your responsibilities?,PERMA
+PERMA5_4,How often do you feel sad?,PERMA
+PERMA5_5,How often do you lose track of time while doing something you enjoy?,PERMA
+PERMA6_1,"Compared to others of your same age and sex, how is your health?",PERMA
+PERMA7_1,To what extent do you feel you have a sense of direction in your life?,PERMA
+PERMA7_2,How satisfied are you with your personal relationships?,PERMA
+PERMA7_3,To what extent do you feel loved?,PERMA
+PERMA7_4,To what extent do you feel contented?,PERMA
+PERMA8_1,"Taking all things together, how happy would you say you are?",PERMA
+PSS_1,"During the past month, what time have you usually gone to bed at night?",PSS
+PSS_2,"During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",PSS
+PSS_3,"During the past month, what time have you usually gotten up in the morning?",PSS
+PSS_4,"During the past month, how many hours of actual sleep did you get at night?",PSS
+PSS_5_1,"During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",PSS
+PSS_5_2,"During the past month, how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",PSS
+PSS_5_3,"During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",PSS
+PSS_5_4,"During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",PSS
+PSS_5_5,"During the past month, how often have you had trouble sleeping because you cough or snore loudly?",PSS
+PSS_5_6,"During the past month, how often have you had trouble sleeping because you feel too cold?",PSS
+PSS_5_7,"During the past month, how often have you had trouble sleeping because you feel too hot?",PSS
+PSS_5_8,"During the past month, how often have you had trouble sleeping because you have bad dreams?",PSS
+PSS_5_9,"During the past month, how often have you had trouble sleeping because you have pain?",PSS
+PSS_5_10,"During the past month, how often have you had trouble sleeping because of other reasons?",PSS
+PSS_6,"During the past month, how would you rate your sleep quality overall?",PSS
+PSS_7,"During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",PSS
+PSS_8,"During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",PSS
+PSS_9,"During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",PSS
+PSS_10_1,"During the past month, how often has your bed partner or room mate reported loud snoring?",PSS
+PSS_10_2,"During the past month, how often has your bed partner or room mate reported long pauses between breaths while asleep?",PSS
+PSS_10_3,"During the past month, how often has your bed partner or room mate reported legs twitching or jerking while asleep?",PSS
+PSS_10_4,"During the past month, how often has your bed partner or room mate reported episodes of disorientation or confusion during sleep?",PSS
+PSS_10_5,"During the past month, how often has your bed partner or room mate reported other restlessness while you sleep?",PSS
+PWB_1,I like most parts of my personality.,PWB
+PWB_2,"When I look at the story of my life, I am pleased with how things have turned out so far.",PWB
+PWB_3,"Some people wander aimlessly through life, but I am not one of them.",PWB
+PWB_4,The demands of everyday life often get me down.,PWB
+PWB_5,In many ways I feel disappointed about my achievements in life.,PWB
+PWB_6,Maintaining close relationships has been difficult and frustrating for me.,PWB
+PWB_7,I live life one day at a time and don't really think about the future.,PWB
+PWB_8,"In general, I feel I am in charge of the situation in which I live.",PWB
+PWB_9,I am good at managing the responsibilities of daily life.,PWB
+PWB_10,I sometimes feel as if I've done all there is to do in life.,PWB
+PWB_11,"For me, life has been a continuous process of learning, changing, and growth.",PWB
+PWB_12,I think it is important to have new experiences that challenge how I think about myself and the world.,PWB
+PWB_13,"People would describe me as a giving person, willing to share my time with others.",PWB
+PWB_14,I gave up trying to make big improvements or changes in my life a long time ago.,PWB
+PWB_15,I tend to be influenced by people with strong opinions.,PWB
+PWB_16,I have not experienced many warm and trusting relationships with others.,PWB
+PWB_17,"I have confidence in my own opinions, even if they are different from the way most other people think.",PWB
+PWB_18,"I judge myself by what I think is important, not by the values of what others think is important.",PWB
+PWS_1,I am always optimistic about my future.,PWS
+PWS_2,There have been times when I felt inferior to most of the people I knew.,PWS
+PWS_3,Members of my family come to me for support.,PWS
+PWS_4,My physical health has restricted me in the past.,PWS
+PWS_5,I believe there is a real purpose for my life.,PWS
+PWS_6,I will always seek out activities that challenge me to think and reason.,PWS
+PWS_7,I rarely count on good things happening to me.,PWS
+PWS_8,"In general, I feel confident about my abilities.",PWS
+PWS_9,Sometimes I wonder if my family will really be there for me when I am in need.,PWS
+PWS_10,My body seems to resist physical illness very well.,PWS
+PWS_11,Life does not hold much future promise for me.,PWS
+PWS_12,I avoid activities which require me to concentrate.,PWS
+PWS_13,I always look on the bright side of things.,PWS
+PWS_14,I sometimes think I am a worthless individual.,PWS
+PWS_15,My friends know they can always confide in me and ask me for advice.,PWS
+PWS_16,My physical health is excellent.,PWS
+PWS_17,Sometimes I don't understand what life is all about.,PWS
+PWS_18,"Generally, I feel pleased with the amount of intellectual stimulation I receive in my daily life.",PWS
+PWS_19,"In the past, I have expected the best.",PWS
+PWS_20,I am uncertain about my ability to do things well in the future.,PWS
+PWS_21,My family has been available to support me in the past.,PWS
+PWS_22,"Compared to people I know, my past physical health has been excellent.",PWS
+PWS_23,I feel a sense of mission about my future.,PWS
+PWS_24,The amount of information that I process in a typical day is just about right for me (i.e. not too much and not too little).,PWS
+PWS_25,"In the past, I hardly ever expected things to go my way.",PWS
+PWS_26,I will always be secure with who I am.,PWS
+PWS_27,"In the past, I have not always had friends with whom I could share my joys and sorrows.",PWS
+PWS_28,I expect to always be physically healthy.,PWS
+PWS_29,I have felt in the past that my life was meaningless.,PWS
+PWS_30,"In the past, I have generally found intellectual challenges to be vital to my overall well-being.",PWS
+PWS_31,Things will not work out the way I want them to in the future.,PWS
+PWS_32,"In the past, I have felt sure of myself among strangers.",PWS
+PWS_33,My friends will be there for me when I need help.,PWS
+PWS_34,I expect my physical health to get worse.,PWS
+PWS_35,It seems that my life has always had purpose.,PWS
+PWS_36,My life has often seemed void of positive mental stimulation.,PWS
+UCLA_1,I am unhappy doing so many things alone,UCLA
+UCLA_2,I have nobody to talk to,UCLA
+UCLA_3,I cannot tolerate being so alone,UCLA
+UCLA_4,I lack companionship,UCLA
+UCLA_5,I feel as if nobody really understands me,UCLA
+UCLA_6,I find myself waiting for people to call or write,UCLA
+UCLA_7,There is no one I can turn to,UCLA
+UCLA_8,I am no longer close to anyone,UCLA
+UCLA_9,My interests and ideas are not shared by those around me,UCLA
+UCLA_10,I feel left out,UCLA
+UCLA_11,I feel completely alone,UCLA
+UCLA_12,I am unable to reach out and communicate with those around me,UCLA
+UCLA_13,My social relationships are superficial,UCLA
+UCLA_14,I feel starved for company,UCLA
+UCLA_15,No one really knows me well,UCLA
+UCLA_16,I feel isolated from others,UCLA
+UCLA_17,I am unhappy being so withdrawn,UCLA
+UCLA_18,It is difficult for me to make friends,UCLA
+UCLA_19,I feel shut out and excluded by others,UCLA
+UCLA_20,People are around me but not with me,UCLA

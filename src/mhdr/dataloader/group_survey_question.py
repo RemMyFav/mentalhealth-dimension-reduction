@@ -39,7 +39,7 @@ def load_questions_from_dir(
 
         out = pd.DataFrame({
             "qid": qid_series.astype(str).str.strip(),
-            "text": df[text_col].map(process_text),
+            "text": df[text_col].fillna("").astype(str).str.strip(),
             "dataset": csv_path.stem,
         })
 
@@ -55,30 +55,3 @@ def load_questions_from_dir(
         .reset_index(drop=True)
     )
     return merged
-
-def process_text(text: object) -> str:
-    """
-    Unified text processing pipeline.
-
-    Current behavior:
-        - Strip whitespace
-        - Ensure the string is wrapped in double quotes (")
-        - Escape internal double quotes (CSV-safe)
-
-    Future extensions:
-        - normalization
-        - lowercasing
-        - punctuation cleanup
-        - etc.
-    """
-    s = "" if text is None else str(text)
-    s = s.strip()
-
-    # escape internal quotes
-    s = s.replace('"', '""')
-
-    # ensure wrapped in quotes
-    if not (len(s) >= 2 and s.startswith('"') and s.endswith('"')):
-        s = f'"{s}"'
-
-    return s
