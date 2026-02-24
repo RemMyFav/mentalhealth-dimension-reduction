@@ -1,13 +1,26 @@
+"""Population-wise disagreement evaluation for human vs LLM labels."""
 import numpy as np
 import pandas as pd
 
 
+# -------------------------------------------------
+# Populational Evaluator
+# -------------------------------------------------
+
 class PopulationalEvaluator:
-    """
-    Population-wise disagreement (no repeats):
-      - for each qid: look at labels across sources (humans or LLM models)
-      - compute normalized entropy per qid
-      - downsample sources to k and repeat many times
+    """Evaluate population-wise label disagreement across sources.
+
+    For each question (qid), this evaluator examines labels provided by
+    different sources (humans or LLM models). It computes normalized
+    entropy per question and supports downsampling sources to a fixed
+    number k for repeated evaluation.
+
+    Args:
+        human_df: DataFrame with human labels.
+        llm_df: DataFrame with LLM labels.
+
+    Raises:
+        ValueError: If there are no overlapping qids between human and LLM data.
     """
 
     def __init__(self, human_df: pd.DataFrame, llm_df: pd.DataFrame):
@@ -20,11 +33,20 @@ class PopulationalEvaluator:
 
     # ---------- overlap ----------
     def _get_overlap_qids(self) -> list[str]:
+        """Get question IDs present in both human and LLM datasets."""
         return sorted(set(self.human_df["qid"]) & set(self.llm_df["qid"]))
 
     # ---------- entropy ----------
     @staticmethod
     def _entropy_norm(counts: np.ndarray) -> float:
+        """Compute normalized entropy (0 to 1) for label counts.
+
+        Args:
+            counts: Array of label counts for a single question.
+
+        Returns:
+            Normalized entropy value between 0 and 1.
+        """
         counts = np.asarray(counts, dtype=float)
         s = counts.sum()
         if s <= 0:
@@ -48,6 +70,17 @@ class PopulationalEvaluator:
         source_col: str,
         seed: int | None = None,
     ) -> pd.DataFrame:
+        """Randomly sample k_sources from available sources.
+
+        Args:
+            df: Input DataFrame.
+            k_sources: Number of sources to sample.
+            source_col: Column name for source identifiers.
+            seed: Random seed for reproducibility.
+
+        Returns:
+            DataFrame with only the sampled sources.
+        """
         rng = np.random.default_rng(seed)
         sources = df[source_col].dropna().astype(str).unique().tolist()
 
@@ -69,6 +102,21 @@ class PopulationalEvaluator:
         label_col: str = "answer",
         label_space: list[str] | None = None,
     ) -> pd.DataFrame:
+        """Compute disagreement (entropy) per question.
+
+        Args:
+            df: DataFrame with labels.
+            qid_col: Column for question IDs.
+            source_col: Column for source identifiers.
+            label_col: Column for labels/answers.
+            label_space: Optional list of all possible labels.
+
+        Returns:
+            pd.DataFrame with columns:
+                - qid: Question identifier
+                - n_sources: Number of sources for this question
+                - entropy: Normalized entropy (0=agree, 1=disagree)
+        """
 
         x = df[[qid_col, source_col, label_col]].dropna().copy()
         x[qid_col] = x[qid_col].astype(str)
@@ -120,11 +168,29 @@ class PopulationalEvaluator:
         label_space: list[str] | None = None,
         restrict_to_overlap_qids: bool = True,
     ):
-        """
-        Population-wise entropy:
-          - each run: sample k_sources sources
-          - compute per-qid entropy across sampled sources
-          - overall per run = mean(entropy over qids)
+        """Run repeated disagreement evaluation with source downsampling.
+
+        Each run samples k_sources and computes per-question entropy across
+        them. Returns per-run results, summary statistics, and per-question
+        results across all runs.
+
+        Args:
+            which: "human" or "llm" to select the dataset.
+            k_sources: Number of sources to sample per run.
+            times: Number of repeated runs.
+            seed: Random seed for reproducibility.
+            qid_col: Column for question IDs.
+            source_col: Column for source identifiers.
+            label_col: Column for labels/answers.
+            label_space: Optional list of all possible labels.
+            restrict_to_overlap_qids: If True, only include questions present
+                in both human and LLM datasets.
+
+        Returns:
+            Tuple of (runs_df, summary_df, per_qid_df):
+                - runs_df: Per-run entropy scores
+                - summary_df: Mean, median, p10, p90 across runs
+                - per_qid_df: Per-question entropy for each run
         """
 
         if which not in {"human", "llm"}:
@@ -191,6 +257,21 @@ class PopulationalEvaluator:
         seed: int = 42,
         **kwargs,
     ):
+        """Compare disagreement between human and LLM labels.
+
+        Runs the disagreement evaluation for both human and LLM data
+        and returns results for comparison.
+
+        Args:
+            k_sources: Number of sources to sample per run.
+            times: Number of repeated runs.
+            seed: Random seed for reproducibility.
+            **kwargs: Additional arguments passed to disagreement_many.
+
+        Returns:
+            Tuple of (human_results, llm_results), each being the tuple
+            returned by disagreement_many.
+        """
         h = self.disagreement_many(
             "human",
             k_sources=k_sources,

@@ -1,18 +1,22 @@
-
+"""I/O utilities for loading LLM-generated dimension definitions."""
 from pathlib import Path
 from typing import Dict, List
 import pandas as pd
 
-def load_dimension_sets(csv_path: str) -> Dict[str, List[str]]:
-    """
-    Load dimension definitions and group them by model_name.
 
-    Returns
-    -------
-    Dict[str, List[str]]
-        Key   : model_name (e.g., 'Llama-4')
-        Value : list of dimension definitions
-                ['Emotional: ...', 'Environmental: ...', ...]
+# -------------------------------------------------
+# Load Dimension Sets
+# -------------------------------------------------
+
+def load_dimension_sets(csv_path: str) -> Dict[str, List[str]]:
+    """Load dimension definitions from CSV and group by model name.
+
+    Args:
+        csv_path: Path to CSV file with columns: model_name, dim_name, dim_text.
+
+    Returns:
+        Dict mapping model_name to list of dimension definitions.
+        Each definition has format "dim_name: dim_text".
     """
     df = pd.read_csv(Path(csv_path))
 

@@ -1,3 +1,4 @@
+"""Semantic mapping of questions to wellness dimensions using embeddings."""
 from __future__ import annotations
 
 from dataclasses import dataclass
@@ -14,20 +15,42 @@ from .similarity import cosine_similarity_matrix
 from .selection import select_by_margin
 
 
+# -------------------------------------------------
+# Dimension Set
+# -------------------------------------------------
+
 @dataclass
 class DimensionSet:
-    definitions: List[str]          # e.g. ["Emotional: ...", "Physical: ..."]
-    model_name: str                 # e.g. "ChatGPT-5.2"
-    names: List[str]                # e.g. ["Emotional", "Physical", ...]
-    embeddings: np.ndarray          # shape (M, D)
+    """Container for dimension definitions and their embeddings.
 
+    Attributes:
+        definitions: List of dimension definitions (e.g., "Emotional: ...").
+        model_name: Name of the LLM that generated the definitions.
+        names: List of dimension names (e.g., ["Emotional", "Physical", ...]).
+        embeddings: Embeddings array of shape (M, D).
+    """
+    definitions: List[str]
+    model_name: str
+    names: List[str]
+    embeddings: np.ndarray
+
+
+# -------------------------------------------------
+# Semantic Mapper
+# -------------------------------------------------
 
 class SemanticMapper:
-    """
-    Thin, stateful wrapper for research workflows:
-      - cache question embeddings
-      - swap dimension sets
-      - run mapping for many deltas
+    """Map survey questions to wellness dimensions using semantic similarity.
+
+    This class provides a stateful wrapper for research workflows. It caches
+    question embeddings and allows swapping dimension sets for comparing
+    different LLM-generated definitions.
+
+    Attributes:
+        model: The sentence transformer model for embeddings.
+        dimset: Current dimension set (DimensionSet or None).
+        questions_df: DataFrame containing questions.
+        question_embeddings: Cached embeddings for questions.
     """
 
     def __init__(self, embedding_model: str = "all-MiniLM-L6-v2"):
@@ -43,6 +66,12 @@ class SemanticMapper:
 
     # ---------- Dimensions ----------
     def set_dimensions(self, definitions: List[str], dimension_model_name: str) -> None:
+        """Set dimension definitions and generate embeddings.
+
+        Args:
+            definitions: List of dimension definitions with format "Name: definition".
+            dimension_model_name: Name of the LLM that generated these definitions.
+        """
         names = [d.split(":", 1)[0].strip() for d in definitions]
         emb = embed_texts(self.model, definitions)
         self.dimset = DimensionSet(
@@ -61,6 +90,17 @@ class SemanticMapper:
         qid_col: str = "qid",
         dataset_col: str = "dataset",
     ) -> None:
+        """Set questions DataFrame and generate embeddings.
+
+        Args:
+            df: DataFrame containing survey questions.
+            text_col: Column containing question text.
+            qid_col: Column containing question identifiers.
+            dataset_col: Column containing dataset/source names.
+
+        Raises:
+            ValueError: If text_col is not in the DataFrame.
+        """
         if text_col not in df.columns:
             raise ValueError(f"Missing column: {text_col}")
 
@@ -74,6 +114,27 @@ class SemanticMapper:
 
     # ---------- Mapping ----------
     def map_questions_to_dimensions(self, *, delta: float) -> pd.DataFrame:
+        """Map questions to dimensions based on cosine similarity.
+
+        Uses the margin-based selection to assign questions to one or more
+        dimensions based on similarity scores.
+
+        Args:
+            delta: Margin threshold. A question is assigned to dimensions
+                within delta of the maximum similarity score.
+
+        Returns:
+            pd.DataFrame with columns:
+                - qid: Question identifier
+                - dataset: Source dataset
+                - text: Question text
+                - dimension_model: LLM that generated dimension definitions
+                - dimensions: List of assigned dimension names
+                - scores: List of similarity scores for each assigned dimension
+
+        Raises:
+            ValueError: If dimensions or questions have not been set.
+        """
         if self.dimset is None:
             raise ValueError("Dimensions not set. Call set_dimensions(...) first.")
         if self.questions_df is None or self.question_embeddings is None:
@@ -103,7 +164,8 @@ class SemanticMapper:
         keep_cols += ["dimensions", "scores"]
         return out[keep_cols]
     
-    def extract_top1_from_mapped(self,
+    def extract_top1_from_mapped(
+        self,
         mapped_df: pd.DataFrame,
         *,
         qid_col: str = "qid",
@@ -112,11 +174,22 @@ class SemanticMapper:
         source_col_in: str = "dimension_model",
         source_out_col: str = "source",
     ) -> pd.DataFrame:
-        """
-        Convert multi-label mapping output to single-label (top1) format.
+        """Convert multi-label mapping to single-label (top-1) format.
 
-        Output columns:
-            qid, text, answer, source
+        Args:
+            mapped_df: DataFrame with multi-label mappings.
+            qid_col: Column for question IDs.
+            text_col: Column for question text.
+            dimensions_col: Column containing list of assigned dimensions.
+            source_col_in: Column containing the source model name.
+            source_out_col: Output column name for source.
+
+        Returns:
+            pd.DataFrame with columns:
+                - qid: Question identifier
+                - text: Question text
+                - answer: First (top) dimension
+                - source: Source model name
         """
 
         df = mapped_df.copy()

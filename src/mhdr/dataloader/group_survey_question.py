@@ -1,9 +1,15 @@
+"""Load and consolidate survey questions from multiple CSV files."""
 from __future__ import annotations
 from pathlib import Path
 import pandas as pd
 from typing import Union
 
 PathLike = Union[str, Path]
+
+
+# -------------------------------------------------
+# Load Survey Questions
+# -------------------------------------------------
 
 def load_questions_from_dir(
     preprocess_dir: PathLike = "./input",
@@ -12,11 +18,24 @@ def load_questions_from_dir(
     qid_col: str = "qid",
     source_col: str = "source",
 ) -> pd.DataFrame:
-    """
-    Load all CSVs from preprocess_dir into a single question table.
+    """Load all CSVs from a directory into a single question table.
 
-    Expected columns per CSV: at least [text_col] and one of [qid_col] or [source_col].
-    Output columns: [qid, dataset, text]
+    Args:
+        preprocess_dir: Directory containing CSV files.
+        text_col: Column name for question text in each CSV.
+        qid_col: Column name for question ID in each CSV.
+        source_col: Fallback column for qid if qid_col is missing.
+
+    Returns:
+        pd.DataFrame with columns:
+            - qid: Unique question identifier
+            - text: Question text
+            - dataset: Source filename (without extension)
+
+    Raises:
+        FileNotFoundError: If the input directory does not exist.
+        ValueError: If a CSV is missing required columns.
+        RuntimeError: If no CSV files are found in the directory.
     """
     preprocess_dir = Path(preprocess_dir)
     if not preprocess_dir.exists():
