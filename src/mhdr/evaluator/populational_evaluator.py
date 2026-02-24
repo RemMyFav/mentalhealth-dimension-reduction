@@ -25,20 +25,18 @@ class PopulationalEvaluator:
     # ---------- entropy ----------
     @staticmethod
     def _entropy_norm(counts: np.ndarray) -> float:
-        """
-        Normalized entropy in [0,1] using log2.
-        """
         counts = np.asarray(counts, dtype=float)
         s = counts.sum()
         if s <= 0:
             return np.nan
 
         p = counts / s
-        p = p[p > 0]
+        # entropy with safe mask
+        p_nz = p[p > 0]
+        h = -np.sum(p_nz * np.log2(p_nz))
 
-        h = -np.sum(p * np.log2(p))
-        h_max = np.log2(len(counts)) if len(counts) > 1 else 0.0
-
+        K = len(counts)  # this is len(label_space)
+        h_max = np.log2(K) if K > 1 else 0.0
         return float(h / h_max) if h_max > 0 else 0.0
 
     # ---------- downsample ----------
