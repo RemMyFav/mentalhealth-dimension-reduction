@@ -1,0 +1,1001 @@
+text,dimension_model,dimensions,scores,delta
+I am able to understand the meaning of life.,ChatGPT-5.2,['Spiritual'],[0.44705912470817566],0.05
+I lead a meaningful and purposeful life.,ChatGPT-5.2,"['Occupational', 'Spiritual']","[0.42998629808425903, 0.4120875298976898]",0.05
+I find that my mental health improves and that my life is meaningful.,ChatGPT-5.2,['Spiritual'],[0.4390653669834137],0.05
+I feel fulfilled in my life.,ChatGPT-5.2,"['Occupational', 'Social']","[0.3763155937194824, 0.3290175199508667]",0.05
+I sometimes feel sad or depressed.,ChatGPT-5.2,['Emotional'],[0.3285878896713257],0.05
+"In general, I am not as mentally healthy as other people.",ChatGPT-5.2,"['Physical', 'Environmental']","[0.3272627592086792, 0.28268885612487793]",0.05
+I always have been well with my physical health.,ChatGPT-5.2,['Physical'],[0.5445477366447449],0.05
+I have a good relationship with my parents.,ChatGPT-5.2,['Social'],[0.325560986995697],0.05
+Sometimes I do not understand why people are attracted to me compared to other people.,ChatGPT-5.2,['Social'],[0.30922603607177734],0.05
+I am generally confident about my ability to help people.,ChatGPT-5.2,['Social'],[0.3969954252243042],0.05
+It is important to me that I feel happy and confident in the sphere of my own life.,ChatGPT-5.2,"['Social', 'Occupational']","[0.3872550129890442, 0.3731090724468231]",0.05
+My social interaction does not interfere with my ability to feel and function well.,ChatGPT-5.2,['Social'],[0.41705429553985596],0.05
+My day is fairly balanced.,ChatGPT-5.2,['Occupational'],[0.28392505645751953],0.05
+I do not have any issues with focusing.,ChatGPT-5.2,"['Physical', 'Occupational', 'Intellectual', 'Environmental']","[0.1351357400417328, 0.09588200598955154, 0.09462931752204895, 0.09222690016031265]",0.05
+The amount of information that I process in a typical day is just about right for me.,ChatGPT-5.2,"['Occupational', 'Intellectual']","[0.25718972086906433, 0.21722102165222168]",0.05
+I feel as if I've done everything there is to do in life.,ChatGPT-5.2,['Occupational'],[0.37875044345855713],0.05
+I sometimes feel as if I haven't accomplished much in my life.,ChatGPT-5.2,"['Occupational', 'Intellectual']","[0.34701335430145264, 0.2972405254840851]",0.05
+"When I am in need, my family is there for me.",ChatGPT-5.2,"['Occupational', 'Social', 'Financial']","[0.25323647260665894, 0.24827927350997925, 0.20483200252056122]",0.05
+I am usually happy to be with my family.,ChatGPT-5.2,"['Occupational', 'Social', 'Emotional']","[0.2645163834095001, 0.2424744814634323, 0.23177355527877808]",0.05
+I have not always had friends with whom I could share my joys and sorrows.,ChatGPT-5.2,['Social'],[0.2967836856842041],0.05
+I typically find intellectual challenges to be vital to my overall well-being.,ChatGPT-5.2,['Intellectual'],[0.6171628832817078],0.05
+"In the past, I usually find intellectual challenges to be vital to my overall well-being.",ChatGPT-5.2,['Intellectual'],[0.5981141924858093],0.05
+"In the past, I have found intellectual challenges to be vital to my overall well-being.",ChatGPT-5.2,['Intellectual'],[0.5928232073783875],0.05
+I have found intellectual challenges to be vital to my overall well-being.,ChatGPT-5.2,['Intellectual'],[0.6064833402633667],0.05
+I enjoy taking an intellectual challenge for a number of reasons and enjoy taking time to think about my own self and others.,ChatGPT-5.2,['Intellectual'],[0.5953826904296875],0.05
+I feel sad and lonely being alone,ChatGPT-5.2,"['Emotional', 'Social']","[0.2579119801521301, 0.23963016271591187]",0.05
+"I feel tired, sleepless, and lonely.",ChatGPT-5.2,"['Physical', 'Emotional', 'Environmental']","[0.2499309629201889, 0.21642746031284332, 0.20379094779491425]",0.05
+I try to achieve my goals.,ChatGPT-5.2,"['Occupational', 'Intellectual']","[0.3198156952857971, 0.31325235962867737]",0.05
+In many ways I feel frustrated about my achievements in life.,ChatGPT-5.2,['Intellectual'],[0.3128584623336792],0.05
+The amount of stress I feel in my life is quite normal.,ChatGPT-5.2,['Emotional'],[0.30228298902511597],0.05
+"In the past, I have received the best.",ChatGPT-5.2,"['Spiritual', 'Emotional']","[0.12279157340526581, 0.10779296606779099]",0.05
+I tend to feel insecure about my abilities and I have difficulty being loved by others.,ChatGPT-5.2,['Social'],[0.40413761138916016],0.05
+I feel lonely,ChatGPT-5.2,['Social'],[0.24609465897083282],0.05
+I feel cynical about my skills.,ChatGPT-5.2,['Intellectual'],[0.41269516944885254],0.05
+I have problems in my personal relationships.,ChatGPT-5.2,['Social'],[0.27136117219924927],0.05
+I know my family and friends will always love me and will be there for me if I need them.,ChatGPT-5.2,"['Social', 'Emotional', 'Spiritual']","[0.22415044903755188, 0.17573553323745728, 0.1750723421573639]",0.05
+I find that being alone can make me feel bad.,ChatGPT-5.2,"['Social', 'Emotional']","[0.3055442273616791, 0.2664410173892975]",0.05
+I never feel comfortable sharing my family life with others.,ChatGPT-5.2,['Social'],[0.2829751968383789],0.05
+I am not satisfied with my relationships with my family or friends.,ChatGPT-5.2,['Social'],[0.27238187193870544],0.05
+I try to see the funny side of things.,ChatGPT-5.2,"['Intellectual', 'Emotional', 'Spiritual']","[0.1640191376209259, 0.13783220946788788, 0.11417245119810104]",0.05
+I think most problems that I encounter are related to a person who is self-centered.,ChatGPT-5.2,"['Social', 'Intellectual']","[0.3661215901374817, 0.31860318779945374]",0.05
+I try to see the positive side of things when faced with challenges.,ChatGPT-5.2,"['Spiritual', 'Emotional']","[0.3265376091003418, 0.27972713112831116]",0.05
+I always look on the bright side of things when I am faced with problems.,ChatGPT-5.2,"['Emotional', 'Occupational', 'Intellectual', 'Spiritual']","[0.2670035660266876, 0.23107962310314178, 0.2300666719675064, 0.21931888163089752]",0.05
+I sometimes feel as if I have done all there is to do in life.,ChatGPT-5.2,['Occupational'],[0.37599989771842957],0.05
+"I feel as if I've done all there is to do in life and this is a negative thought, as my own personal experiences have",ChatGPT-5.2,['Occupational'],[0.3495236039161682],0.05
+I think I might be in an 'ok place'.,ChatGPT-5.2,['Environmental'],[0.3871578276157379],0.05
+I feel like I've never accomplished anything.,ChatGPT-5.2,"['Occupational', 'Intellectual']","[0.24444203078746796, 0.20671199262142181]",0.05
+I am able to handle the demands of everyday life.,ChatGPT-5.2,['Occupational'],[0.4095492362976074],0.05
+"I am capable of managing unpleasant or painful feelings like sadness, fear, and anger.",ChatGPT-5.2,['Emotional'],[0.5167677998542786],0.05
+I am comfortable being alone.,ChatGPT-5.2,"['Social', 'Environmental']","[0.3245987594127655, 0.3058464527130127]",0.05
+I believe that life has a purpose.,ChatGPT-5.2,['Occupational'],[0.301430881023407],0.05
+I appreciate the amount of intellectual stimulation I receive in my daily life.,ChatGPT-5.2,['Intellectual'],[0.5569145679473877],0.05
+"Generally, I feel satisfied with my personal life and the amount of intellectual stimulation I receive in my daily life.",ChatGPT-5.2,"['Occupational', 'Intellectual']","[0.4695878028869629, 0.43438416719436646]",0.05
+I believe my life's journey should have a purpose.,ChatGPT-5.2,['Occupational'],[0.4266062080860138],0.05
+I enjoy writing.,ChatGPT-5.2,['Intellectual'],[0.29310065507888794],0.05
+I tend to be anxious and scared.,ChatGPT-5.2,['Emotional'],[0.31090229749679565],0.05
+I am unable to reach out and communicate with those around me.,ChatGPT-5.2,"['Spiritual', 'Social']","[0.2155088186264038, 0.1862158477306366]",0.05
+I try to stay positive and work through difficulties,ChatGPT-5.2,['Occupational'],[0.3772284984588623],0.05
+I work to achieve goals.,ChatGPT-5.2,['Occupational'],[0.4298458695411682],0.05
+I am very successful at work and have a stable income.,ChatGPT-5.2,"['Occupational', 'Financial']","[0.298531711101532, 0.2927573621273041]",0.05
+I am good at managing responsibilities of daily life.,ChatGPT-5.2,['Occupational'],[0.4769192337989807],0.05
+I am lonely.,ChatGPT-5.2,['Social'],[0.2165001779794693],0.05
+I have a desire to have sex with someone.,ChatGPT-5.2,"['Social', 'Occupational', 'Spiritual', 'Environmental']","[0.12910619378089905, 0.09876252710819244, 0.09359066933393478, 0.08997226506471634]",0.05
+I would do better if I could have a friend to talk to.,ChatGPT-5.2,['Social'],[0.17432431876659393],0.05
+Maintaining close relationships has been challenging and frustrating for me.,ChatGPT-5.2,['Social'],[0.32537487149238586],0.05
+I scream at friends after I tell them they can't talk to me.,ChatGPT-5.2,"['Social', 'Emotional']","[0.1476021558046341, 0.10636630654335022]",0.05
+I am healthy in my relationships and relationships can be difficult but I am strong and confident.,ChatGPT-5.2,"['Social', 'Physical']","[0.32474973797798157, 0.27501779794692993]",0.05
+I have been very frank about my shortcomings.,ChatGPT-5.2,['Intellectual'],[0.24778732657432556],0.05
+Maintaining close relationships has been more rewarding than the last time.,ChatGPT-5.2,['Social'],[0.29616042971611023],0.05
+I don't know where my next big project will take me.,ChatGPT-5.2,"['Intellectual', 'Environmental']","[0.16868118941783905, 0.1313980519771576]",0.05
+I have been dealing with depression and anxiety.,ChatGPT-5.2,"['Emotional', 'Environmental']","[0.24673117697238922, 0.1984899938106537]",0.05
+I hope I have a friend who can help me when I feel stressed and need support.,ChatGPT-5.2,['Emotional'],[0.24766315519809723],0.05
+"I hope to have good health, good friends and good chances.",ChatGPT-5.2,"['Physical', 'Social', 'Occupational', 'Spiritual', 'Environmental']","[0.2298896610736847, 0.22694064676761627, 0.22183364629745483, 0.21236760914325714, 0.20449498295783997]",0.05
+I am able to have a productive day without being stressed out by life's issues.,ChatGPT-5.2,"['Occupational', 'Environmental', 'Intellectual']","[0.351727157831192, 0.31712883710861206, 0.30616992712020874]",0.05
+I believe that I can still make the best choices for myself and my life.,ChatGPT-5.2,"['Financial', 'Social', 'Emotional', 'Physical', 'Occupational', 'Spiritual', 'Intellectual']","[0.2479255348443985, 0.23304085433483124, 0.2225027233362198, 0.21557481586933136, 0.21239030361175537, 0.20818541944026947, 0.20448458194732666]",0.05
+I am able to trust others when they tell me how to live my life.,ChatGPT-5.2,['Social'],[0.40899062156677246],0.05
+I believe that my own opinion matters more than other peoples.,ChatGPT-5.2,"['Spiritual', 'Social', 'Intellectual']","[0.23448605835437775, 0.22410430014133453, 0.1886657029390335]",0.05
+"I feel anxious about my emotions, especially when they are related to work or relationships.",ChatGPT-5.2,['Emotional'],[0.4898644983768463],0.05
+I have been happy with my current situation.,ChatGPT-5.2,"['Emotional', 'Occupational']","[0.21387356519699097, 0.1986711025238037]",0.05
+My social relationships are superficial.,ChatGPT-5.2,['Social'],[0.4260762929916382],0.05
+"I have confidence in my social relationships, even if they are superficial.",ChatGPT-5.2,['Social'],[0.4793604612350464],0.05
+"I have many friends, but they are superficial.",ChatGPT-5.2,['Social'],[0.2619277834892273],0.05
+"My friends are helpful, and they are there for me when I need help.",ChatGPT-5.2,"['Social', 'Spiritual']","[0.21917767822742462, 0.1795637607574463]",0.05
+I have plenty of friends who will be there for me when I need help.,ChatGPT-5.2,['Social'],[0.21340680122375488],0.05
+I get help when I need it.,ChatGPT-5.2,"['Intellectual', 'Spiritual', 'Social', 'Emotional', 'Financial', 'Physical']","[0.1672903597354889, 0.16085590422153473, 0.13541986048221588, 0.12952713668346405, 0.12240371108055115, 0.11985597014427185]",0.05
+I have a good attitude about my life.,ChatGPT-5.2,"['Social', 'Occupational', 'Environmental', 'Spiritual']","[0.28251588344573975, 0.2774154543876648, 0.2531869411468506, 0.24073021113872528]",0.05
+I have a high confidence in my own abilities.,ChatGPT-5.2,"['Social', 'Intellectual']","[0.2862701117992401, 0.2816365659236908]",0.05
+"I always say what I think, and people find this fact attractive.",ChatGPT-5.2,"['Physical', 'Social']","[0.18988141417503357, 0.17789076268672943]",0.05
+"I am a compassionate, open-minded individual who feels valued.",ChatGPT-5.2,['Spiritual'],[0.39389893412590027],0.05
+"I have a desire to achieve more, but sometimes find that I don't.",ChatGPT-5.2,"['Intellectual', 'Occupational']","[0.3346131145954132, 0.3065163493156433]",0.05
+"I am happy with my life in general, and enjoy socializing with friends.",ChatGPT-5.2,['Social'],[0.45684006810188293],0.05
+I often take a negative view of people.,ChatGPT-5.2,"['Emotional', 'Spiritual', 'Social']","[0.2661985456943512, 0.2655439078807831, 0.23483522236347198]",0.05
+I find things to be fun and rewarding.,ChatGPT-5.2,"['Intellectual', 'Occupational']","[0.356961190700531, 0.3478611409664154]",0.05
+I understand it is always a struggle to find a purpose in life.,ChatGPT-5.2,['Occupational'],[0.4117022752761841],0.05
+I can tolerate the unknown.,ChatGPT-5.2,['Intellectual'],[0.24939961731433868],0.05
+I can handle whatever comes my way.,ChatGPT-5.2,['Financial'],[0.2681652009487152],0.05
+Stress causes me to be vulnerable in my life.,ChatGPT-5.2,['Emotional'],[0.3709280788898468],0.05
+My positive outlook is largely attributed to exercise.,ChatGPT-5.2,['Physical'],[0.3522423505783081],0.05
+I like to feel that everyone wants to be around me. Having to cope with stress can make me stronger.,ChatGPT-5.2,['Social'],[0.38469213247299194],0.05
+Stress is in my life. Having to cope with stress can make me stronger.,ChatGPT-5.2,['Emotional'],[0.31174448132514954],0.05
+"I think I am worth pursuing, though I sometimes feel discouraged.",ChatGPT-5.2,['Intellectual'],[0.32249879837036133],0.05
+I am aware that I sometimes feel like I am not important in my life.,ChatGPT-5.2,"['Social', 'Occupational', 'Intellectual', 'Emotional']","[0.3172144293785095, 0.3033192455768585, 0.3015841543674469, 0.27662649750709534]",0.05
+I find it challenging to work for something that I love.,ChatGPT-5.2,['Occupational'],[0.43190082907676697],0.05
+I have no idea how long it will take me to get to sleep every night.,ChatGPT-5.2,"['Environmental', 'Physical', 'Occupational', 'Intellectual', 'Spiritual']","[0.062445566058158875, 0.04747708886861801, 0.04244132339954376, 0.024838091805577278, 0.018565870821475983]",0.05
+I am usually tired when I get up in the morning and I usually remember to wear a pair of comfy jeans.,ChatGPT-5.2,['Physical'],[0.18679453432559967],0.05
+I am more calm and calmer than I used to be when it comes to getting a good night's sleep.,ChatGPT-5.2,['Emotional'],[0.32323020696640015],0.05
+Having to deal with stress can make me strong.,ChatGPT-5.2,['Emotional'],[0.32843583822250366],0.05
+I don't like having my family take care of me.,ChatGPT-5.2,"['Social', 'Environmental', 'Financial']","[0.14279377460479736, 0.13918040692806244, 0.09461168944835663]",0.05
+I judge myself to be a happy person.,ChatGPT-5.2,"['Emotional', 'Social', 'Occupational']","[0.30501407384872437, 0.2761843502521515, 0.26879993081092834]",0.05
+I feel unsure about my future.,ChatGPT-5.2,"['Intellectual', 'Financial']","[0.23766662180423737, 0.22550562024116516]",0.05
+I have no friends and no family for support.,ChatGPT-5.2,['Social'],[0.18843819200992584],0.05
+"When I had a problem with my mood, I tried and failed.",ChatGPT-5.2,['Emotional'],[0.26433467864990234],0.05
+I feel isolated from others.,ChatGPT-5.2,['Social'],[0.4002106785774231],0.05
+I am socially awkward.,ChatGPT-5.2,['Social'],[0.3532088100910187],0.05
+I am trying to do something positive in my life.,ChatGPT-5.2,"['Spiritual', 'Intellectual', 'Occupational', 'Social', 'Emotional']","[0.2738686203956604, 0.27027907967567444, 0.25532740354537964, 0.24239176511764526, 0.23962858319282532]",0.05
+I feel good about myself.,ChatGPT-5.2,"['Physical', 'Spiritual']","[0.2974937856197357, 0.2712656557559967]",0.05
+There are times when I feel like the one in the crowd or at a movie theater.,ChatGPT-5.2,"['Environmental', 'Social', 'Emotional']","[0.2118811160326004, 0.21028797328472137, 0.17311570048332214]",0.05
+It has been difficult to make friends with many people.,ChatGPT-5.2,['Social'],[0.34656521677970886],0.05
+I have experienced many life changes and changes in my life.,ChatGPT-5.2,"['Spiritual', 'Emotional', 'Environmental']","[0.3619219660758972, 0.3447732627391815, 0.3222123980522156]",0.05
+My body is strong.,ChatGPT-5.2,['Physical'],[0.40988239645957947],0.05
+I feel happy about my work.,ChatGPT-5.2,['Occupational'],[0.36755040287971497],0.05
+I feel happy.,ChatGPT-5.2,['Emotional'],[0.25418782234191895],0.05
+I feel unable to make friends because I am always alone,ChatGPT-5.2,['Social'],[0.3696464002132416],0.05
+I am experiencing some life-altering problems.,ChatGPT-5.2,['Environmental'],[0.2722741663455963],0.05
+"I am content doing so many things alone - Life is not very exciting for me, but it does not hold much hope.",ChatGPT-5.2,['Occupational'],[0.3159966766834259],0.05
+I am happy doing so many things alone,ChatGPT-5.2,"['Occupational', 'Social', 'Physical', 'Emotional']","[0.22567115724086761, 0.21429851651191711, 0.18667367100715637, 0.18353471159934998]",0.05
+I am lonely doing so much alone,ChatGPT-5.2,"['Social', 'Occupational', 'Environmental', 'Physical']","[0.1963731348514557, 0.16237255930900574, 0.15981034934520721, 0.15913517773151398]",0.05
+I am satisfied with the amount of information I have been able to process so far.,ChatGPT-5.2,"['Occupational', 'Financial', 'Intellectual']","[0.19826462864875793, 0.19745256006717682, 0.16412286460399628]",0.05
+I am often sad.,ChatGPT-5.2,['Emotional'],[0.31305786967277527],0.05
+I always think of the future.,ChatGPT-5.2,"['Financial', 'Intellectual']","[0.25340932607650757, 0.2045634388923645]",0.05
+I live life one day at a time and think about the future a lot.,ChatGPT-5.2,"['Intellectual', 'Spiritual']","[0.2683335244655609, 0.22161395847797394]",0.05
+I am confident in who I am.,ChatGPT-5.2,"['Social', 'Intellectual']","[0.27368399500846863, 0.2268858104944229]",0.05
+I get so many people to know me that the others often don't even know me well.,ChatGPT-5.2,['Social'],[0.24689452350139618],0.05
+I am confident that I am a good person.,ChatGPT-5.2,['Social'],[0.3116816282272339],0.05
+I would rank the past month's sleep quality overall as good overall.,ChatGPT-5.2,['Environmental'],[0.2084076702594757],0.05
+"In general, I think most things happen for a reason.",ChatGPT-5.2,"['Emotional', 'Spiritual']","[0.21101024746894836, 0.17774879932403564]",0.05
+I think that most things happen for a reason.,ChatGPT-5.2,"['Emotional', 'Spiritual', 'Environmental']","[0.18714763224124908, 0.16674570739269257, 0.13755807280540466]",0.05
+I am stressed and feel out of balance.,ChatGPT-5.2,['Emotional'],[0.2863632142543793],0.05
+I expect to be physically healthy in the future.,ChatGPT-5.2,['Physical'],[0.4922176003456116],0.05
+I have an anxiety attack that affects my life.,ChatGPT-5.2,['Emotional'],[0.27834177017211914],0.05
+I am confident that I am in control of my life.,ChatGPT-5.2,"['Social', 'Financial', 'Intellectual', 'Physical', 'Emotional', 'Environmental']","[0.23058921098709106, 0.2203637808561325, 0.20738336443901062, 0.20002368092536926, 0.1861024796962738, 0.18099521100521088]",0.05
+I have a strong sense of purpose in my life.,ChatGPT-5.2,"['Occupational', 'Spiritual']","[0.4278254508972168, 0.3856510818004608]",0.05
+I am able to communicate and express myself.,ChatGPT-5.2,"['Spiritual', 'Emotional', 'Social']","[0.36069971323013306, 0.33946341276168823, 0.32160428166389465]",0.05
+I am satisfied with my life.,ChatGPT-5.2,['Occupational'],[0.40150079131126404],0.05
+I am resilient in the face of difficult situations.,ChatGPT-5.2,['Emotional'],[0.38328981399536133],0.05
+I appreciate positive and positive people in my life.,ChatGPT-5.2,"['Spiritual', 'Social']","[0.3353697955608368, 0.3051985502243042]",0.05
+"I am confident that I can handle unpleasant or painful feelings like sadness, fear, and anger.",ChatGPT-5.2,['Emotional'],[0.48037320375442505],0.05
+I am very grateful for what I have and am satisfied with most parts of my life.,ChatGPT-5.2,['Occupational'],[0.3713811933994293],0.05
+I will always strive to do better in what I do.,ChatGPT-5.2,['Occupational'],[0.3886519968509674],0.05
+I am always optimistic about the things that keep me from feeling depressed.,ChatGPT-5.2,['Emotional'],[0.3306676149368286],0.05
+I am never too old to laugh.,ChatGPT-5.2,"['Intellectual', 'Social']","[0.06671610474586487, 0.032539594918489456]",0.05
+Often I get in trouble for making my own decisions.,ChatGPT-5.2,['Financial'],[0.31547489762306213],0.05
+I am feeling lonely and overwhelmed.,ChatGPT-5.2,"['Emotional', 'Social', 'Occupational', 'Intellectual', 'Environmental']","[0.21382449567317963, 0.19288410246372223, 0.1872842162847519, 0.16880515217781067, 0.16500583291053772]",0.05
+"In the past, I rarely did anything to expect to go my way.",ChatGPT-5.2,"['Spiritual', 'Social', 'Environmental', 'Financial', 'Occupational']","[0.11732783168554306, 0.09107771515846252, 0.0846659392118454, 0.08103997260332108, 0.08072225749492645]",0.05
+I am able to deal with any challenges I encounter.,ChatGPT-5.2,"['Emotional', 'Occupational', 'Intellectual', 'Spiritual']","[0.24602921307086945, 0.2328965663909912, 0.2262950837612152, 0.22476743161678314]",0.05
+"I am a leader, I feel so confident, but I can't handle being so alone.",ChatGPT-5.2,['Social'],[0.35257118940353394],0.05
+I tend to overcome major life challenges with greater stability and peace.,ChatGPT-5.2,"['Emotional', 'Intellectual', 'Social', 'Occupational', 'Spiritual']","[0.3253311812877655, 0.3189537227153778, 0.3044644296169281, 0.285183310508728, 0.28067487478256226]",0.05
+I am very resilient.,ChatGPT-5.2,['Emotional'],[0.29679346084594727],0.05
+I am resilient and will be able to handle any challenge or stress in life.,ChatGPT-5.2,['Emotional'],[0.39026856422424316],0.05
+"I struggle to adjust to new situations, new people, and new environments.",ChatGPT-5.2,"['Environmental', 'Social', 'Emotional']","[0.360152006149292, 0.33506685495376587, 0.32861757278442383]",0.05
+I have always fought for what I believe in.,ChatGPT-5.2,['Spiritual'],[0.2770383656024933],0.05
+I am in control of my life.,ChatGPT-5.2,['Financial'],[0.22534792125225067],0.05
+I find it hard to interact with those around me.,ChatGPT-5.2,"['Social', 'Environmental', 'Spiritual']","[0.22813066840171814, 0.21976448595523834, 0.18265187740325928]",0.05
+Sometimes I am unable to reach out and communicate with those around me,ChatGPT-5.2,"['Social', 'Spiritual']","[0.20698529481887817, 0.20661190152168274]",0.05
+I don't feel like myself.,ChatGPT-5.2,"['Social', 'Spiritual', 'Environmental', 'Emotional']","[0.1559341996908188, 0.12355105578899384, 0.1205548346042633, 0.1080954372882843]",0.05
+Sometimes I feel alone in my life.,ChatGPT-5.2,"['Social', 'Emotional', 'Spiritual']","[0.28123223781585693, 0.25813132524490356, 0.2313331961631775]",0.05
+I feel happy that I can make it in the world.,ChatGPT-5.2,"['Occupational', 'Emotional']","[0.26369938254356384, 0.21699833869934082]",0.05
+I feel a sense of responsibility about my future.,ChatGPT-5.2,['Financial'],[0.349433571100235],0.05
+"When I try to achieve my goals, I may not accomplish what I would like to do.",ChatGPT-5.2,"['Intellectual', 'Financial', 'Occupational', 'Physical']","[0.250193327665329, 0.22988122701644897, 0.226093590259552, 0.21006138622760773]",0.05
+I believe my choices will be beneficial.,ChatGPT-5.2,"['Intellectual', 'Financial', 'Environmental', 'Occupational']","[0.21665729582309723, 0.18140847980976105, 0.18136687576770782, 0.1667979508638382]",0.05
+I'm hopeful that I'll accomplish my dreams.,ChatGPT-5.2,"['Intellectual', 'Occupational']","[0.2284073531627655, 0.18376968801021576]",0.05
+I enjoy taking the time to think about the future.,ChatGPT-5.2,['Intellectual'],[0.3358512222766876],0.05
+I am optimistic in my future self.,ChatGPT-5.2,"['Financial', 'Intellectual', 'Spiritual', 'Physical', 'Occupational', 'Social']","[0.24134987592697144, 0.232183575630188, 0.2269468754529953, 0.20496979355812073, 0.19983737170696259, 0.19611012935638428]",0.05
+I focus on the present and can live life to the fullest without concern for the future.,ChatGPT-5.2,"['Intellectual', 'Occupational']","[0.33310264348983765, 0.28986653685569763]",0.05
+I have a single devoted boyfriend,ChatGPT-5.2,['Social'],[0.19666209816932678],0.05
+I am very content in my current relationship.,ChatGPT-5.2,['Social'],[0.2880544364452362],0.05
+I am happy being so withdrawn.,ChatGPT-5.2,"['Emotional', 'Social', 'Intellectual']","[0.18207445740699768, 0.14778415858745575, 0.1433810293674469]",0.05
+I am not afraid of being disappointed.,ChatGPT-5.2,"['Intellectual', 'Social', 'Emotional']","[0.03602542355656624, 0.00917068962007761, 0.008060770109295845]",0.05
+I am often influenced by others.,ChatGPT-5.2,"['Spiritual', 'Social']","[0.30608296394348145, 0.29435446858406067]",0.05
+I am not often discouraged by failure.,ChatGPT-5.2,['Intellectual'],[0.2622765600681305],0.05
+"I believe I need support from my family members and friends, but it is difficult for me to make friends.",ChatGPT-5.2,['Social'],[0.313487708568573],0.05
+"I have had trouble staying awake while driving, eating meals, or engaging in social activity.",ChatGPT-5.2,"['Physical', 'Environmental']","[0.22775475680828094, 0.2122407853603363]",0.05
+"I am lonely. I cannot connect with my loved ones, and my life is often void of positive mental stimulation.",ChatGPT-5.2,"['Social', 'Spiritual', 'Emotional', 'Environmental']","[0.2697952687740326, 0.2571868300437927, 0.22532548010349274, 0.22194285690784454]",0.05
+I know it can be difficult to cope with failures.,ChatGPT-5.2,"['Emotional', 'Social']","[0.2217891812324524, 0.1718830019235611]",0.05
+I am a strong and resilient person.,ChatGPT-5.2,['Emotional'],[0.35470834374427795],0.05
+I can't communicate in an effective way,ChatGPT-5.2,"['Spiritual', 'Emotional', 'Social', 'Intellectual', 'Environmental']","[0.17315293848514557, 0.17010365426540375, 0.1557997763156891, 0.1511717140674591, 0.13852347433567047]",0.05
+I feel lonely and feel like I am always left alone in my daily life.,ChatGPT-5.2,"['Social', 'Environmental', 'Occupational']","[0.2769011855125427, 0.25989237427711487, 0.22836534678936005]",0.05
+I have no friends or family close by.,ChatGPT-5.2,"['Social', 'Environmental']","[0.19895553588867188, 0.16561777889728546]",0.05
+I am a successful person.,ChatGPT-5.2,"['Occupational', 'Social']","[0.3380621671676636, 0.32389676570892334]",0.05
+I'm still finding my purpose and purpose in life.,ChatGPT-5.2,['Occupational'],[0.3721594512462616],0.05
+I enjoy being a part of my community and socializing.,ChatGPT-5.2,['Social'],[0.4701623022556305],0.05
+I sometimes think I have done enough.,ChatGPT-5.2,"['Financial', 'Intellectual', 'Occupational']","[0.1908133625984192, 0.17292208969593048, 0.1486436277627945]",0.05
+I sometimes think I have done all there is to do in life and I sometimes feel as if I've done all I can in life.,ChatGPT-5.2,['Occupational'],[0.35622715950012207],0.05
+I sometimes feel like I am a failed person.,ChatGPT-5.2,"['Emotional', 'Social', 'Intellectual', 'Occupational']","[0.21756599843502045, 0.19715234637260437, 0.18263240158557892, 0.17963819205760956]",0.05
+I sometimes feel as if I have already done all there is to do in life.,ChatGPT-5.2,"['Occupational', 'Intellectual']","[0.3333110213279724, 0.29596251249313354]",0.05
+I can handle my responsibilities.,ChatGPT-5.2,"['Occupational', 'Financial']","[0.340859979391098, 0.33205556869506836]",0.05
+I feel able to cope with change.,ChatGPT-5.2,['Emotional'],[0.3128906190395355],0.05
+I am able to handle my responsibilities.,ChatGPT-5.2,"['Occupational', 'Financial']","[0.37542688846588135, 0.3380720019340515]",0.05
+I have a feeling of direction in my life.,ChatGPT-5.2,['Spiritual'],[0.37548309564590454],0.05
+I feel as if nobody understands me,ChatGPT-5.2,"['Intellectual', 'Spiritual', 'Social', 'Emotional']","[0.25166139006614685, 0.2306532859802246, 0.21897608041763306, 0.21212799847126007]",0.05
+I am able to understand the meaning of life.,DeepSeek-V3.2,['Spiritual'],[0.4556441605091095],0.05
+I lead a meaningful and purposeful life.,DeepSeek-V3.2,"['Spiritual', 'Intellectual']","[0.4151044487953186, 0.3750370144844055]",0.05
+I find that my mental health improves and that my life is meaningful.,DeepSeek-V3.2,"['Spiritual', 'Intellectual', 'Emotional']","[0.4359857738018036, 0.4318610429763794, 0.4068587124347687]",0.05
+I feel fulfilled in my life.,DeepSeek-V3.2,"['Emotional', 'Occupational']","[0.40813499689102173, 0.3898716866970062]",0.05
+I sometimes feel sad or depressed.,DeepSeek-V3.2,['Emotional'],[0.4138118326663971],0.05
+"In general, I am not as mentally healthy as other people.",DeepSeek-V3.2,['Physical'],[0.35262030363082886],0.05
+I always have been well with my physical health.,DeepSeek-V3.2,['Physical'],[0.5837915539741516],0.05
+I have a good relationship with my parents.,DeepSeek-V3.2,['Social'],[0.4344732463359833],0.05
+Sometimes I do not understand why people are attracted to me compared to other people.,DeepSeek-V3.2,['Social'],[0.38272973895072937],0.05
+I am generally confident about my ability to help people.,DeepSeek-V3.2,"['Social', 'Intellectual']","[0.3720123767852783, 0.34442102909088135]",0.05
+It is important to me that I feel happy and confident in the sphere of my own life.,DeepSeek-V3.2,"['Social', 'Intellectual', 'Emotional', 'Occupational']","[0.4155961275100708, 0.41199955344200134, 0.4064925014972687, 0.3864001929759979]",0.05
+My social interaction does not interfere with my ability to feel and function well.,DeepSeek-V3.2,['Social'],[0.48942831158638],0.05
+My day is fairly balanced.,DeepSeek-V3.2,['Occupational'],[0.21971742808818817],0.05
+I do not have any issues with focusing.,DeepSeek-V3.2,"['Intellectual', 'Physical']","[0.1658119112253189, 0.1240202933549881]",0.05
+The amount of information that I process in a typical day is just about right for me.,DeepSeek-V3.2,"['Occupational', 'Intellectual', 'Financial']","[0.2711349427700043, 0.26402756571769714, 0.23621249198913574]",0.05
+I feel as if I've done everything there is to do in life.,DeepSeek-V3.2,"['Emotional', 'Occupational']","[0.38531649112701416, 0.3724839985370636]",0.05
+I sometimes feel as if I haven't accomplished much in my life.,DeepSeek-V3.2,['Occupational'],[0.4118843078613281],0.05
+"When I am in need, my family is there for me.",DeepSeek-V3.2,['Financial'],[0.3728865385055542],0.05
+I am usually happy to be with my family.,DeepSeek-V3.2,"['Social', 'Emotional', 'Occupational']","[0.3168998658657074, 0.28321605920791626, 0.27628082036972046]",0.05
+I have not always had friends with whom I could share my joys and sorrows.,DeepSeek-V3.2,['Social'],[0.4224819540977478],0.05
+I typically find intellectual challenges to be vital to my overall well-being.,DeepSeek-V3.2,['Intellectual'],[0.60078364610672],0.05
+"In the past, I usually find intellectual challenges to be vital to my overall well-being.",DeepSeek-V3.2,['Intellectual'],[0.5857309699058533],0.05
+"In the past, I have found intellectual challenges to be vital to my overall well-being.",DeepSeek-V3.2,['Intellectual'],[0.5752760767936707],0.05
+I have found intellectual challenges to be vital to my overall well-being.,DeepSeek-V3.2,['Intellectual'],[0.5905944108963013],0.05
+I enjoy taking an intellectual challenge for a number of reasons and enjoy taking time to think about my own self and others.,DeepSeek-V3.2,['Intellectual'],[0.5669487118721008],0.05
+I feel sad and lonely being alone,DeepSeek-V3.2,['Emotional'],[0.3130755126476288],0.05
+"I feel tired, sleepless, and lonely.",DeepSeek-V3.2,"['Physical', 'Emotional']","[0.2686272859573364, 0.22896426916122437]",0.05
+I try to achieve my goals.,DeepSeek-V3.2,"['Financial', 'Intellectual']","[0.35211777687072754, 0.34982794523239136]",0.05
+In many ways I feel frustrated about my achievements in life.,DeepSeek-V3.2,"['Intellectual', 'Occupational', 'Emotional']","[0.3551863431930542, 0.3507295250892639, 0.3310924768447876]",0.05
+The amount of stress I feel in my life is quite normal.,DeepSeek-V3.2,['Emotional'],[0.37660810351371765],0.05
+"In the past, I have received the best.",DeepSeek-V3.2,['Social'],[0.1742006242275238],0.05
+I tend to feel insecure about my abilities and I have difficulty being loved by others.,DeepSeek-V3.2,"['Social', 'Emotional']","[0.35519084334373474, 0.33431437611579895]",0.05
+I feel lonely,DeepSeek-V3.2,"['Social', 'Emotional']","[0.27215689420700073, 0.2396419793367386]",0.05
+I feel cynical about my skills.,DeepSeek-V3.2,['Intellectual'],[0.3986935615539551],0.05
+I have problems in my personal relationships.,DeepSeek-V3.2,['Social'],[0.4274158179759979],0.05
+I know my family and friends will always love me and will be there for me if I need them.,DeepSeek-V3.2,"['Social', 'Emotional', 'Financial']","[0.2696337401866913, 0.23319685459136963, 0.22623716294765472]",0.05
+I find that being alone can make me feel bad.,DeepSeek-V3.2,"['Emotional', 'Social']","[0.34988000988960266, 0.3284960091114044]",0.05
+I never feel comfortable sharing my family life with others.,DeepSeek-V3.2,['Social'],[0.3953282833099365],0.05
+I am not satisfied with my relationships with my family or friends.,DeepSeek-V3.2,['Social'],[0.40024057030677795],0.05
+I try to see the funny side of things.,DeepSeek-V3.2,"['Emotional', 'Intellectual', 'Social']","[0.1677076369524002, 0.15352179110050201, 0.14711466431617737]",0.05
+I think most problems that I encounter are related to a person who is self-centered.,DeepSeek-V3.2,"['Social', 'Emotional', 'Intellectual']","[0.3599916696548462, 0.32742083072662354, 0.31112155318260193]",0.05
+I try to see the positive side of things when faced with challenges.,DeepSeek-V3.2,"['Spiritual', 'Emotional', 'Intellectual']","[0.2832967936992645, 0.28109389543533325, 0.2630792260169983]",0.05
+I always look on the bright side of things when I am faced with problems.,DeepSeek-V3.2,['Emotional'],[0.2809372842311859],0.05
+I sometimes feel as if I have done all there is to do in life.,DeepSeek-V3.2,"['Emotional', 'Occupational']","[0.36383703351020813, 0.35318008065223694]",0.05
+"I feel as if I've done all there is to do in life and this is a negative thought, as my own personal experiences have",DeepSeek-V3.2,"['Emotional', 'Occupational']","[0.3687107563018799, 0.3368675410747528]",0.05
+I think I might be in an 'ok place'.,DeepSeek-V3.2,['Environmental'],[0.33872124552726746],0.05
+I feel like I've never accomplished anything.,DeepSeek-V3.2,['Occupational'],[0.32300376892089844],0.05
+I am able to handle the demands of everyday life.,DeepSeek-V3.2,"['Financial', 'Occupational']","[0.4013359546661377, 0.36208730936050415]",0.05
+"I am capable of managing unpleasant or painful feelings like sadness, fear, and anger.",DeepSeek-V3.2,['Emotional'],[0.5889760851860046],0.05
+I am comfortable being alone.,DeepSeek-V3.2,"['Social', 'Environmental', 'Emotional']","[0.3375018835067749, 0.3107823133468628, 0.29430335760116577]",0.05
+I believe that life has a purpose.,DeepSeek-V3.2,"['Spiritual', 'Intellectual']","[0.2996576428413391, 0.2685338854789734]",0.05
+I appreciate the amount of intellectual stimulation I receive in my daily life.,DeepSeek-V3.2,['Intellectual'],[0.6407515406608582],0.05
+"Generally, I feel satisfied with my personal life and the amount of intellectual stimulation I receive in my daily life.",DeepSeek-V3.2,"['Occupational', 'Intellectual']","[0.5480454564094543, 0.5329527854919434]",0.05
+I believe my life's journey should have a purpose.,DeepSeek-V3.2,"['Spiritual', 'Financial', 'Intellectual', 'Occupational']","[0.36063146591186523, 0.3553028404712677, 0.3388768136501312, 0.3156721293926239]",0.05
+I enjoy writing.,DeepSeek-V3.2,['Intellectual'],[0.25152185559272766],0.05
+I tend to be anxious and scared.,DeepSeek-V3.2,['Emotional'],[0.3455314636230469],0.05
+I am unable to reach out and communicate with those around me.,DeepSeek-V3.2,['Social'],[0.2624581754207611],0.05
+I try to stay positive and work through difficulties,DeepSeek-V3.2,"['Occupational', 'Financial']","[0.3671993315219879, 0.3333924114704132]",0.05
+I work to achieve goals.,DeepSeek-V3.2,"['Occupational', 'Financial']","[0.40410134196281433, 0.3571385145187378]",0.05
+I am very successful at work and have a stable income.,DeepSeek-V3.2,"['Financial', 'Occupational']","[0.37471500039100647, 0.32712942361831665]",0.05
+I am good at managing responsibilities of daily life.,DeepSeek-V3.2,"['Occupational', 'Financial']","[0.3773152232170105, 0.3763054311275482]",0.05
+I am lonely.,DeepSeek-V3.2,['Social'],[0.26960644125938416],0.05
+I have a desire to have sex with someone.,DeepSeek-V3.2,"['Social', 'Emotional']","[0.18556326627731323, 0.15422171354293823]",0.05
+I would do better if I could have a friend to talk to.,DeepSeek-V3.2,['Social'],[0.22407928109169006],0.05
+Maintaining close relationships has been challenging and frustrating for me.,DeepSeek-V3.2,['Social'],[0.43217557668685913],0.05
+I scream at friends after I tell them they can't talk to me.,DeepSeek-V3.2,"['Emotional', 'Social']","[0.17193546891212463, 0.17043951153755188]",0.05
+I am healthy in my relationships and relationships can be difficult but I am strong and confident.,DeepSeek-V3.2,['Social'],[0.38951870799064636],0.05
+I have been very frank about my shortcomings.,DeepSeek-V3.2,"['Social', 'Intellectual']","[0.21277101337909698, 0.20994944870471954]",0.05
+Maintaining close relationships has been more rewarding than the last time.,DeepSeek-V3.2,['Social'],[0.40995413064956665],0.05
+I don't know where my next big project will take me.,DeepSeek-V3.2,"['Intellectual', 'Financial']","[0.15667977929115295, 0.11836331337690353]",0.05
+I have been dealing with depression and anxiety.,DeepSeek-V3.2,['Emotional'],[0.3204175531864166],0.05
+I hope I have a friend who can help me when I feel stressed and need support.,DeepSeek-V3.2,['Emotional'],[0.2046518474817276],0.05
+"I hope to have good health, good friends and good chances.",DeepSeek-V3.2,"['Financial', 'Social', 'Physical', 'Intellectual']","[0.27689775824546814, 0.272095263004303, 0.25483378767967224, 0.22837597131729126]",0.05
+I am able to have a productive day without being stressed out by life's issues.,DeepSeek-V3.2,"['Occupational', 'Intellectual']","[0.3764166831970215, 0.3618634343147278]",0.05
+I believe that I can still make the best choices for myself and my life.,DeepSeek-V3.2,"['Emotional', 'Financial', 'Social', 'Occupational']","[0.28808310627937317, 0.2735784351825714, 0.26663148403167725, 0.2388642132282257]",0.05
+I am able to trust others when they tell me how to live my life.,DeepSeek-V3.2,['Social'],[0.4250846803188324],0.05
+I believe that my own opinion matters more than other peoples.,DeepSeek-V3.2,"['Social', 'Emotional']","[0.2547696530818939, 0.22358602285385132]",0.05
+"I feel anxious about my emotions, especially when they are related to work or relationships.",DeepSeek-V3.2,['Emotional'],[0.540475606918335],0.05
+I have been happy with my current situation.,DeepSeek-V3.2,['Emotional'],[0.27487149834632874],0.05
+My social relationships are superficial.,DeepSeek-V3.2,['Social'],[0.5209277868270874],0.05
+"I have confidence in my social relationships, even if they are superficial.",DeepSeek-V3.2,['Social'],[0.5655604004859924],0.05
+"I have many friends, but they are superficial.",DeepSeek-V3.2,['Social'],[0.3530787229537964],0.05
+"My friends are helpful, and they are there for me when I need help.",DeepSeek-V3.2,['Social'],[0.2570938467979431],0.05
+I have plenty of friends who will be there for me when I need help.,DeepSeek-V3.2,['Social'],[0.24623218178749084],0.05
+I get help when I need it.,DeepSeek-V3.2,"['Financial', 'Intellectual', 'Physical']","[0.22385632991790771, 0.19187261164188385, 0.1856958121061325]",0.05
+I have a good attitude about my life.,DeepSeek-V3.2,"['Social', 'Intellectual', 'Emotional']","[0.3120230734348297, 0.2711430490016937, 0.2673250436782837]",0.05
+I have a high confidence in my own abilities.,DeepSeek-V3.2,"['Intellectual', 'Social']","[0.32153695821762085, 0.2851366698741913]",0.05
+"I always say what I think, and people find this fact attractive.",DeepSeek-V3.2,['Social'],[0.2702854573726654],0.05
+"I am a compassionate, open-minded individual who feels valued.",DeepSeek-V3.2,['Spiritual'],[0.36950019001960754],0.05
+"I have a desire to achieve more, but sometimes find that I don't.",DeepSeek-V3.2,"['Intellectual', 'Occupational']","[0.38126081228256226, 0.34003162384033203]",0.05
+"I am happy with my life in general, and enjoy socializing with friends.",DeepSeek-V3.2,['Social'],[0.5179757475852966],0.05
+I often take a negative view of people.,DeepSeek-V3.2,"['Emotional', 'Social']","[0.3182324767112732, 0.2926638126373291]",0.05
+I find things to be fun and rewarding.,DeepSeek-V3.2,['Intellectual'],[0.4544573128223419],0.05
+I understand it is always a struggle to find a purpose in life.,DeepSeek-V3.2,"['Intellectual', 'Financial', 'Spiritual', 'Social']","[0.35716408491134644, 0.34770551323890686, 0.34746411442756653, 0.32170501351356506]",0.05
+I can tolerate the unknown.,DeepSeek-V3.2,['Intellectual'],[0.2271149456501007],0.05
+I can handle whatever comes my way.,DeepSeek-V3.2,"['Financial', 'Intellectual']","[0.24491652846336365, 0.198417067527771]",0.05
+Stress causes me to be vulnerable in my life.,DeepSeek-V3.2,['Emotional'],[0.4164277911186218],0.05
+My positive outlook is largely attributed to exercise.,DeepSeek-V3.2,"['Occupational', 'Emotional', 'Intellectual']","[0.3482529819011688, 0.31968581676483154, 0.31906619668006897]",0.05
+I like to feel that everyone wants to be around me. Having to cope with stress can make me stronger.,DeepSeek-V3.2,"['Emotional', 'Social']","[0.35241618752479553, 0.33257338404655457]",0.05
+Stress is in my life. Having to cope with stress can make me stronger.,DeepSeek-V3.2,['Emotional'],[0.31107112765312195],0.05
+"I think I am worth pursuing, though I sometimes feel discouraged.",DeepSeek-V3.2,"['Intellectual', 'Occupational']","[0.27878254652023315, 0.2375842183828354]",0.05
+I am aware that I sometimes feel like I am not important in my life.,DeepSeek-V3.2,"['Emotional', 'Intellectual', 'Social']","[0.3685758709907532, 0.3408840298652649, 0.3349396288394928]",0.05
+I find it challenging to work for something that I love.,DeepSeek-V3.2,['Occupational'],[0.4008161127567291],0.05
+I have no idea how long it will take me to get to sleep every night.,DeepSeek-V3.2,"['Physical', 'Emotional']","[0.0785147100687027, 0.05939097702503204]",0.05
+I am usually tired when I get up in the morning and I usually remember to wear a pair of comfy jeans.,DeepSeek-V3.2,['Physical'],[0.16896915435791016],0.05
+I am more calm and calmer than I used to be when it comes to getting a good night's sleep.,DeepSeek-V3.2,['Emotional'],[0.300963431596756],0.05
+Having to deal with stress can make me strong.,DeepSeek-V3.2,['Emotional'],[0.3101048767566681],0.05
+I don't like having my family take care of me.,DeepSeek-V3.2,"['Emotional', 'Financial', 'Social']","[0.20089712738990784, 0.1982923448085785, 0.16642750799655914]",0.05
+I judge myself to be a happy person.,DeepSeek-V3.2,"['Emotional', 'Occupational']","[0.34076637029647827, 0.32960647344589233]",0.05
+I feel unsure about my future.,DeepSeek-V3.2,"['Financial', 'Emotional', 'Intellectual']","[0.2684292197227478, 0.248825341463089, 0.22793619334697723]",0.05
+I have no friends and no family for support.,DeepSeek-V3.2,"['Social', 'Financial']","[0.23377250134944916, 0.22706055641174316]",0.05
+"When I had a problem with my mood, I tried and failed.",DeepSeek-V3.2,['Emotional'],[0.31976598501205444],0.05
+I feel isolated from others.,DeepSeek-V3.2,['Social'],[0.38671448826789856],0.05
+I am socially awkward.,DeepSeek-V3.2,['Social'],[0.42343640327453613],0.05
+I am trying to do something positive in my life.,DeepSeek-V3.2,"['Intellectual', 'Social', 'Emotional', 'Financial', 'Occupational', 'Spiritual']","[0.3103390634059906, 0.30627521872520447, 0.2988198697566986, 0.2971237897872925, 0.2913874387741089, 0.29064249992370605]",0.05
+I feel good about myself.,DeepSeek-V3.2,"['Emotional', 'Physical', 'Spiritual']","[0.3272417485713959, 0.2891886234283447, 0.2870720624923706]",0.05
+There are times when I feel like the one in the crowd or at a movie theater.,DeepSeek-V3.2,"['Social', 'Emotional', 'Environmental']","[0.28225770592689514, 0.2807581126689911, 0.25024211406707764]",0.05
+It has been difficult to make friends with many people.,DeepSeek-V3.2,['Social'],[0.49501654505729675],0.05
+I have experienced many life changes and changes in my life.,DeepSeek-V3.2,['Emotional'],[0.4309382736682892],0.05
+My body is strong.,DeepSeek-V3.2,['Physical'],[0.3547464907169342],0.05
+I feel happy about my work.,DeepSeek-V3.2,['Occupational'],[0.4057048261165619],0.05
+I feel happy.,DeepSeek-V3.2,['Emotional'],[0.3204938769340515],0.05
+I feel unable to make friends because I am always alone,DeepSeek-V3.2,['Social'],[0.4030325412750244],0.05
+I am experiencing some life-altering problems.,DeepSeek-V3.2,['Emotional'],[0.2929861843585968],0.05
+"I am content doing so many things alone - Life is not very exciting for me, but it does not hold much hope.",DeepSeek-V3.2,"['Occupational', 'Intellectual', 'Emotional']","[0.3373500108718872, 0.3152461051940918, 0.3116786777973175]",0.05
+I am happy doing so many things alone,DeepSeek-V3.2,"['Occupational', 'Emotional']","[0.3104514479637146, 0.2765740156173706]",0.05
+I am lonely doing so much alone,DeepSeek-V3.2,"['Occupational', 'Financial', 'Social', 'Physical']","[0.23765955865383148, 0.21825842559337616, 0.21612897515296936, 0.19364486634731293]",0.05
+I am satisfied with the amount of information I have been able to process so far.,DeepSeek-V3.2,"['Occupational', 'Financial']","[0.2707926034927368, 0.2507515549659729]",0.05
+I am often sad.,DeepSeek-V3.2,['Emotional'],[0.3514648675918579],0.05
+I always think of the future.,DeepSeek-V3.2,"['Financial', 'Emotional', 'Intellectual', 'Social', 'Spiritual']","[0.18352419137954712, 0.18263466656208038, 0.17610464990139008, 0.1439266949892044, 0.13471977412700653]",0.05
+I live life one day at a time and think about the future a lot.,DeepSeek-V3.2,"['Emotional', 'Intellectual']","[0.2816064655780792, 0.2749983072280884]",0.05
+I am confident in who I am.,DeepSeek-V3.2,"['Social', 'Intellectual']","[0.27570730447769165, 0.23677822947502136]",0.05
+I get so many people to know me that the others often don't even know me well.,DeepSeek-V3.2,['Social'],[0.35414066910743713],0.05
+I am confident that I am a good person.,DeepSeek-V3.2,['Social'],[0.3347631096839905],0.05
+I would rank the past month's sleep quality overall as good overall.,DeepSeek-V3.2,"['Physical', 'Environmental', 'Social']","[0.1462446004152298, 0.1075638011097908, 0.10143596678972244]",0.05
+"In general, I think most things happen for a reason.",DeepSeek-V3.2,['Emotional'],[0.27370908856391907],0.05
+I think that most things happen for a reason.,DeepSeek-V3.2,"['Emotional', 'Social']","[0.2247215062379837, 0.17615976929664612]",0.05
+I am stressed and feel out of balance.,DeepSeek-V3.2,['Emotional'],[0.2865760326385498],0.05
+I expect to be physically healthy in the future.,DeepSeek-V3.2,['Physical'],[0.5280179977416992],0.05
+I have an anxiety attack that affects my life.,DeepSeek-V3.2,['Emotional'],[0.3541596531867981],0.05
+I am confident that I am in control of my life.,DeepSeek-V3.2,"['Emotional', 'Intellectual', 'Social', 'Financial']","[0.2646661102771759, 0.25940409302711487, 0.22990453243255615, 0.2252180576324463]",0.05
+I have a strong sense of purpose in my life.,DeepSeek-V3.2,"['Intellectual', 'Spiritual']","[0.42598390579223633, 0.392627090215683]",0.05
+I am able to communicate and express myself.,DeepSeek-V3.2,"['Spiritual', 'Emotional', 'Social', 'Occupational', 'Intellectual']","[0.3199934959411621, 0.3180449306964874, 0.3143136203289032, 0.307095468044281, 0.2914787530899048]",0.05
+I am satisfied with my life.,DeepSeek-V3.2,['Occupational'],[0.469332754611969],0.05
+I am resilient in the face of difficult situations.,DeepSeek-V3.2,['Emotional'],[0.309064120054245],0.05
+I appreciate positive and positive people in my life.,DeepSeek-V3.2,['Social'],[0.36768195033073425],0.05
+"I am confident that I can handle unpleasant or painful feelings like sadness, fear, and anger.",DeepSeek-V3.2,['Emotional'],[0.5417277812957764],0.05
+I am very grateful for what I have and am satisfied with most parts of my life.,DeepSeek-V3.2,['Occupational'],[0.4343869984149933],0.05
+I will always strive to do better in what I do.,DeepSeek-V3.2,"['Occupational', 'Intellectual']","[0.3656574487686157, 0.3257940411567688]",0.05
+I am always optimistic about the things that keep me from feeling depressed.,DeepSeek-V3.2,['Emotional'],[0.38709762692451477],0.05
+I am never too old to laugh.,DeepSeek-V3.2,"['Intellectual', 'Social', 'Emotional']","[0.1242290586233139, 0.08063697069883347, 0.07526795566082001]",0.05
+Often I get in trouble for making my own decisions.,DeepSeek-V3.2,"['Emotional', 'Financial', 'Intellectual']","[0.2341405749320984, 0.22111330926418304, 0.21570493280887604]",0.05
+I am feeling lonely and overwhelmed.,DeepSeek-V3.2,"['Occupational', 'Emotional', 'Financial', 'Social']","[0.2738806903362274, 0.27343735098838806, 0.23959437012672424, 0.23300763964653015]",0.05
+"In the past, I rarely did anything to expect to go my way.",DeepSeek-V3.2,['Social'],[0.2206045240163803],0.05
+I am able to deal with any challenges I encounter.,DeepSeek-V3.2,"['Intellectual', 'Emotional', 'Spiritual', 'Occupational']","[0.24322667717933655, 0.20807652175426483, 0.20554384589195251, 0.19453781843185425]",0.05
+"I am a leader, I feel so confident, but I can't handle being so alone.",DeepSeek-V3.2,['Social'],[0.2760103642940521],0.05
+I tend to overcome major life challenges with greater stability and peace.,DeepSeek-V3.2,"['Intellectual', 'Social', 'Emotional', 'Financial']","[0.3362092971801758, 0.3199007213115692, 0.31250518560409546, 0.29767104983329773]",0.05
+I am very resilient.,DeepSeek-V3.2,"['Emotional', 'Intellectual', 'Social', 'Environmental', 'Financial']","[0.19259332120418549, 0.1856161206960678, 0.17510439455509186, 0.17144426703453064, 0.16369108855724335]",0.05
+I am resilient and will be able to handle any challenge or stress in life.,DeepSeek-V3.2,"['Emotional', 'Intellectual']","[0.29062145948410034, 0.24892763793468475]",0.05
+"I struggle to adjust to new situations, new people, and new environments.",DeepSeek-V3.2,"['Emotional', 'Environmental', 'Social']","[0.35622015595436096, 0.327381432056427, 0.3138461709022522]",0.05
+I have always fought for what I believe in.,DeepSeek-V3.2,['Spiritual'],[0.28440603613853455],0.05
+I am in control of my life.,DeepSeek-V3.2,"['Emotional', 'Financial']","[0.2787010073661804, 0.2514888346195221]",0.05
+I find it hard to interact with those around me.,DeepSeek-V3.2,['Social'],[0.350943386554718],0.05
+Sometimes I am unable to reach out and communicate with those around me,DeepSeek-V3.2,['Social'],[0.29595598578453064],0.05
+I don't feel like myself.,DeepSeek-V3.2,['Emotional'],[0.30797430872917175],0.05
+Sometimes I feel alone in my life.,DeepSeek-V3.2,['Emotional'],[0.4091276526451111],0.05
+I feel happy that I can make it in the world.,DeepSeek-V3.2,"['Occupational', 'Emotional', 'Intellectual']","[0.277398943901062, 0.2637176811695099, 0.2593163847923279]",0.05
+I feel a sense of responsibility about my future.,DeepSeek-V3.2,['Financial'],[0.39195066690444946],0.05
+"When I try to achieve my goals, I may not accomplish what I would like to do.",DeepSeek-V3.2,"['Financial', 'Intellectual']","[0.307449072599411, 0.29245802760124207]",0.05
+I believe my choices will be beneficial.,DeepSeek-V3.2,['Intellectual'],[0.26690760254859924],0.05
+I'm hopeful that I'll accomplish my dreams.,DeepSeek-V3.2,['Intellectual'],[0.23960958421230316],0.05
+I enjoy taking the time to think about the future.,DeepSeek-V3.2,['Intellectual'],[0.3007550835609436],0.05
+I am optimistic in my future self.,DeepSeek-V3.2,"['Financial', 'Emotional', 'Intellectual', 'Occupational']","[0.271024227142334, 0.2614937126636505, 0.2522183656692505, 0.2264314889907837]",0.05
+I focus on the present and can live life to the fullest without concern for the future.,DeepSeek-V3.2,"['Financial', 'Emotional', 'Intellectual']","[0.3470774292945862, 0.3247266411781311, 0.3146849274635315]",0.05
+I have a single devoted boyfriend,DeepSeek-V3.2,"['Social', 'Financial']","[0.24274632334709167, 0.2276858538389206]",0.05
+I am very content in my current relationship.,DeepSeek-V3.2,['Social'],[0.3674492835998535],0.05
+I am happy being so withdrawn.,DeepSeek-V3.2,['Emotional'],[0.2389748990535736],0.05
+I am not afraid of being disappointed.,DeepSeek-V3.2,"['Emotional', 'Intellectual']","[0.07948716729879379, 0.06364507228136063]",0.05
+I am often influenced by others.,DeepSeek-V3.2,['Social'],[0.34716811776161194],0.05
+I am not often discouraged by failure.,DeepSeek-V3.2,"['Occupational', 'Intellectual', 'Social', 'Financial', 'Emotional']","[0.23436078429222107, 0.22728535532951355, 0.21115204691886902, 0.20192408561706543, 0.193933367729187]",0.05
+"I believe I need support from my family members and friends, but it is difficult for me to make friends.",DeepSeek-V3.2,['Social'],[0.34187227487564087],0.05
+"I have had trouble staying awake while driving, eating meals, or engaging in social activity.",DeepSeek-V3.2,"['Physical', 'Intellectual', 'Occupational']","[0.20678475499153137, 0.19051119685173035, 0.18514546751976013]",0.05
+"I am lonely. I cannot connect with my loved ones, and my life is often void of positive mental stimulation.",DeepSeek-V3.2,['Social'],[0.3780987858772278],0.05
+I know it can be difficult to cope with failures.,DeepSeek-V3.2,"['Emotional', 'Social', 'Financial']","[0.2322622686624527, 0.22691603004932404, 0.191496804356575]",0.05
+I am a strong and resilient person.,DeepSeek-V3.2,"['Social', 'Emotional', 'Intellectual', 'Spiritual']","[0.24035410583019257, 0.23200975358486176, 0.22658225893974304, 0.21446757018566132]",0.05
+I can't communicate in an effective way,DeepSeek-V3.2,['Social'],[0.21123743057250977],0.05
+I feel lonely and feel like I am always left alone in my daily life.,DeepSeek-V3.2,"['Social', 'Emotional', 'Occupational']","[0.28528892993927, 0.27974793314933777, 0.25464850664138794]",0.05
+I have no friends or family close by.,DeepSeek-V3.2,['Social'],[0.3180151581764221],0.05
+I am a successful person.,DeepSeek-V3.2,['Occupational'],[0.39732828736305237],0.05
+I'm still finding my purpose and purpose in life.,DeepSeek-V3.2,"['Intellectual', 'Emotional', 'Occupational', 'Spiritual']","[0.33117762207984924, 0.3201504945755005, 0.30655208230018616, 0.3036825358867645]",0.05
+I enjoy being a part of my community and socializing.,DeepSeek-V3.2,['Social'],[0.435199499130249],0.05
+I sometimes think I have done enough.,DeepSeek-V3.2,"['Financial', 'Intellectual', 'Occupational']","[0.19768421351909637, 0.18135854601860046, 0.16467182338237762]",0.05
+I sometimes think I have done all there is to do in life and I sometimes feel as if I've done all I can in life.,DeepSeek-V3.2,"['Occupational', 'Emotional']","[0.3508327305316925, 0.3359845280647278]",0.05
+I sometimes feel like I am a failed person.,DeepSeek-V3.2,"['Emotional', 'Occupational', 'Social']","[0.2486242651939392, 0.22295808792114258, 0.20838618278503418]",0.05
+I sometimes feel as if I have already done all there is to do in life.,DeepSeek-V3.2,"['Emotional', 'Intellectual', 'Occupational', 'Financial']","[0.3170170783996582, 0.31228429079055786, 0.30723580718040466, 0.2817068099975586]",0.05
+I can handle my responsibilities.,DeepSeek-V3.2,['Financial'],[0.3697923421859741],0.05
+I feel able to cope with change.,DeepSeek-V3.2,['Emotional'],[0.3311493694782257],0.05
+I am able to handle my responsibilities.,DeepSeek-V3.2,"['Financial', 'Occupational']","[0.3584930896759033, 0.3196712136268616]",0.05
+I have a feeling of direction in my life.,DeepSeek-V3.2,['Emotional'],[0.3276161849498749],0.05
+I feel as if nobody understands me,DeepSeek-V3.2,"['Emotional', 'Intellectual', 'Spiritual', 'Social']","[0.23624449968338013, 0.2211209386587143, 0.21223585307598114, 0.21118289232254028]",0.05
+I am able to understand the meaning of life.,Llama-4,['Spiritual'],[0.4923829436302185],0.05
+I lead a meaningful and purposeful life.,Llama-4,['Spiritual'],[0.48499155044555664],0.05
+I find that my mental health improves and that my life is meaningful.,Llama-4,['Spiritual'],[0.5070931315422058],0.05
+I feel fulfilled in my life.,Llama-4,['Occupational'],[0.40382352471351624],0.05
+I sometimes feel sad or depressed.,Llama-4,['Emotional'],[0.3443544805049896],0.05
+"In general, I am not as mentally healthy as other people.",Llama-4,['Physical'],[0.4346857964992523],0.05
+I always have been well with my physical health.,Llama-4,['Physical'],[0.5952614545822144],0.05
+I have a good relationship with my parents.,Llama-4,"['Social', 'Financial']","[0.35075855255126953, 0.3450450003147125]",0.05
+Sometimes I do not understand why people are attracted to me compared to other people.,Llama-4,['Social'],[0.3278411626815796],0.05
+I am generally confident about my ability to help people.,Llama-4,"['Social', 'Intellectual', 'Financial', 'Emotional', 'Spiritual']","[0.33777374029159546, 0.3229380249977112, 0.31055715680122375, 0.3098357617855072, 0.29814350605010986]",0.05
+It is important to me that I feel happy and confident in the sphere of my own life.,Llama-4,"['Spiritual', 'Intellectual', 'Physical', 'Emotional', 'Occupational']","[0.3865153193473816, 0.3794468641281128, 0.3780367374420166, 0.35262933373451233, 0.3468955159187317]",0.05
+My social interaction does not interfere with my ability to feel and function well.,Llama-4,['Social'],[0.39830493927001953],0.05
+My day is fairly balanced.,Llama-4,"['Spiritual', 'Physical', 'Occupational', 'Environmental']","[0.20744763314723969, 0.2018963098526001, 0.182732954621315, 0.16256512701511383]",0.05
+I do not have any issues with focusing.,Llama-4,"['Physical', 'Intellectual', 'Occupational', 'Financial']","[0.13531583547592163, 0.11031920462846756, 0.10192227363586426, 0.08878267556428909]",0.05
+The amount of information that I process in a typical day is just about right for me.,Llama-4,"['Intellectual', 'Occupational', 'Physical']","[0.25110819935798645, 0.24264603853225708, 0.23564556241035461]",0.05
+I feel as if I've done everything there is to do in life.,Llama-4,['Occupational'],[0.3970102071762085],0.05
+I sometimes feel as if I haven't accomplished much in my life.,Llama-4,['Occupational'],[0.3813329041004181],0.05
+"When I am in need, my family is there for me.",Llama-4,"['Social', 'Occupational', 'Spiritual']","[0.3116408586502075, 0.27911123633384705, 0.2631697356700897]",0.05
+I am usually happy to be with my family.,Llama-4,"['Financial', 'Social']","[0.31401848793029785, 0.2888898253440857]",0.05
+I have not always had friends with whom I could share my joys and sorrows.,Llama-4,['Social'],[0.39846301078796387],0.05
+I typically find intellectual challenges to be vital to my overall well-being.,Llama-4,['Intellectual'],[0.6071886420249939],0.05
+"In the past, I usually find intellectual challenges to be vital to my overall well-being.",Llama-4,['Intellectual'],[0.6019484996795654],0.05
+"In the past, I have found intellectual challenges to be vital to my overall well-being.",Llama-4,['Intellectual'],[0.5944635272026062],0.05
+I have found intellectual challenges to be vital to my overall well-being.,Llama-4,['Intellectual'],[0.6029453277587891],0.05
+I enjoy taking an intellectual challenge for a number of reasons and enjoy taking time to think about my own self and others.,Llama-4,['Intellectual'],[0.6033318042755127],0.05
+I feel sad and lonely being alone,Llama-4,['Emotional'],[0.28002673387527466],0.05
+"I feel tired, sleepless, and lonely.",Llama-4,"['Physical', 'Emotional', 'Spiritual']","[0.22609978914260864, 0.22059041261672974, 0.20197968184947968]",0.05
+I try to achieve my goals.,Llama-4,"['Occupational', 'Intellectual']","[0.3693278431892395, 0.33346933126449585]",0.05
+In many ways I feel frustrated about my achievements in life.,Llama-4,"['Intellectual', 'Emotional', 'Occupational']","[0.3400457203388214, 0.31876713037490845, 0.29176706075668335]",0.05
+The amount of stress I feel in my life is quite normal.,Llama-4,['Emotional'],[0.35420265793800354],0.05
+"In the past, I have received the best.",Llama-4,"['Emotional', 'Social', 'Spiritual']","[0.12465286254882812, 0.10202639549970627, 0.09706705808639526]",0.05
+I tend to feel insecure about my abilities and I have difficulty being loved by others.,Llama-4,['Emotional'],[0.3763425350189209],0.05
+I feel lonely,Llama-4,"['Emotional', 'Occupational', 'Social', 'Spiritual', 'Intellectual']","[0.20073172450065613, 0.19887126982212067, 0.198379248380661, 0.18416623771190643, 0.17156729102134705]",0.05
+I feel cynical about my skills.,Llama-4,['Intellectual'],[0.3844057023525238],0.05
+I have problems in my personal relationships.,Llama-4,['Social'],[0.30525895953178406],0.05
+I know my family and friends will always love me and will be there for me if I need them.,Llama-4,['Social'],[0.27253445982933044],0.05
+I find that being alone can make me feel bad.,Llama-4,"['Emotional', 'Social']","[0.28751757740974426, 0.2395821511745453]",0.05
+I never feel comfortable sharing my family life with others.,Llama-4,['Social'],[0.36063647270202637],0.05
+I am not satisfied with my relationships with my family or friends.,Llama-4,"['Social', 'Financial']","[0.31555408239364624, 0.2689630091190338]",0.05
+I try to see the funny side of things.,Llama-4,"['Emotional', 'Intellectual', 'Social', 'Financial']","[0.13341058790683746, 0.12548014521598816, 0.12154395878314972, 0.10083144158124924]",0.05
+I think most problems that I encounter are related to a person who is self-centered.,Llama-4,"['Emotional', 'Social', 'Intellectual', 'Spiritual']","[0.31757816672325134, 0.30907300114631653, 0.2894934117794037, 0.27902016043663025]",0.05
+I try to see the positive side of things when faced with challenges.,Llama-4,['Emotional'],[0.3532325029373169],0.05
+I always look on the bright side of things when I am faced with problems.,Llama-4,['Emotional'],[0.3137883245944977],0.05
+I sometimes feel as if I have done all there is to do in life.,Llama-4,['Occupational'],[0.39257216453552246],0.05
+"I feel as if I've done all there is to do in life and this is a negative thought, as my own personal experiences have",Llama-4,"['Occupational', 'Spiritual']","[0.3686216473579407, 0.3286695182323456]",0.05
+I think I might be in an 'ok place'.,Llama-4,['Environmental'],[0.30152055621147156],0.05
+I feel like I've never accomplished anything.,Llama-4,"['Occupational', 'Intellectual']","[0.2754189074039459, 0.2532033920288086]",0.05
+I am able to handle the demands of everyday life.,Llama-4,['Emotional'],[0.3902260661125183],0.05
+"I am capable of managing unpleasant or painful feelings like sadness, fear, and anger.",Llama-4,['Emotional'],[0.543080747127533],0.05
+I am comfortable being alone.,Llama-4,"['Social', 'Emotional']","[0.2656784653663635, 0.2355087250471115]",0.05
+I believe that life has a purpose.,Llama-4,"['Spiritual', 'Occupational']","[0.33046674728393555, 0.3245493173599243]",0.05
+I appreciate the amount of intellectual stimulation I receive in my daily life.,Llama-4,['Intellectual'],[0.6476973295211792],0.05
+"Generally, I feel satisfied with my personal life and the amount of intellectual stimulation I receive in my daily life.",Llama-4,['Intellectual'],[0.5342024564743042],0.05
+I believe my life's journey should have a purpose.,Llama-4,['Occupational'],[0.46257174015045166],0.05
+I enjoy writing.,Llama-4,['Intellectual'],[0.2924630045890808],0.05
+I tend to be anxious and scared.,Llama-4,['Emotional'],[0.34722888469696045],0.05
+I am unable to reach out and communicate with those around me.,Llama-4,"['Social', 'Emotional']","[0.23163524270057678, 0.19370783865451813]",0.05
+I try to stay positive and work through difficulties,Llama-4,"['Emotional', 'Occupational', 'Financial']","[0.3589908182621002, 0.345608651638031, 0.31321874260902405]",0.05
+I work to achieve goals.,Llama-4,['Occupational'],[0.4593076705932617],0.05
+I am very successful at work and have a stable income.,Llama-4,['Financial'],[0.3692973554134369],0.05
+I am good at managing responsibilities of daily life.,Llama-4,"['Occupational', 'Intellectual']","[0.40635958313941956, 0.3673822283744812]",0.05
+I am lonely.,Llama-4,"['Social', 'Emotional', 'Spiritual']","[0.21021060645580292, 0.166629821062088, 0.16273951530456543]",0.05
+I have a desire to have sex with someone.,Llama-4,"['Spiritual', 'Intellectual', 'Occupational', 'Social']","[0.1381799876689911, 0.10693749785423279, 0.1063852608203888, 0.1039811447262764]",0.05
+I would do better if I could have a friend to talk to.,Llama-4,['Social'],[0.2164391726255417],0.05
+Maintaining close relationships has been challenging and frustrating for me.,Llama-4,['Social'],[0.33042141795158386],0.05
+I scream at friends after I tell them they can't talk to me.,Llama-4,['Social'],[0.21792460978031158],0.05
+I am healthy in my relationships and relationships can be difficult but I am strong and confident.,Llama-4,"['Financial', 'Emotional', 'Physical', 'Social']","[0.3012164235115051, 0.30005577206611633, 0.29476383328437805, 0.2616613209247589]",0.05
+I have been very frank about my shortcomings.,Llama-4,['Intellectual'],[0.2386421114206314],0.05
+Maintaining close relationships has been more rewarding than the last time.,Llama-4,['Social'],[0.26119956374168396],0.05
+I don't know where my next big project will take me.,Llama-4,"['Environmental', 'Intellectual']","[0.20812386274337769, 0.17579540610313416]",0.05
+I have been dealing with depression and anxiety.,Llama-4,['Emotional'],[0.28839704394340515],0.05
+I hope I have a friend who can help me when I feel stressed and need support.,Llama-4,['Emotional'],[0.28798073530197144],0.05
+"I hope to have good health, good friends and good chances.",Llama-4,"['Physical', 'Financial']","[0.3231675326824188, 0.29850277304649353]",0.05
+I am able to have a productive day without being stressed out by life's issues.,Llama-4,"['Intellectual', 'Occupational']","[0.35518980026245117, 0.35470619797706604]",0.05
+I believe that I can still make the best choices for myself and my life.,Llama-4,"['Emotional', 'Physical', 'Spiritual', 'Intellectual']","[0.32230648398399353, 0.2826402187347412, 0.2754390239715576, 0.2744041085243225]",0.05
+I am able to trust others when they tell me how to live my life.,Llama-4,"['Spiritual', 'Social', 'Emotional']","[0.38539111614227295, 0.38451898097991943, 0.3456665575504303]",0.05
+I believe that my own opinion matters more than other peoples.,Llama-4,"['Social', 'Spiritual']","[0.25869667530059814, 0.2220587432384491]",0.05
+"I feel anxious about my emotions, especially when they are related to work or relationships.",Llama-4,['Emotional'],[0.4776337146759033],0.05
+I have been happy with my current situation.,Llama-4,"['Financial', 'Emotional']","[0.26037126779556274, 0.25159451365470886]",0.05
+My social relationships are superficial.,Llama-4,['Social'],[0.4571177363395691],0.05
+"I have confidence in my social relationships, even if they are superficial.",Llama-4,['Social'],[0.4921339452266693],0.05
+"I have many friends, but they are superficial.",Llama-4,['Social'],[0.35553207993507385],0.05
+"My friends are helpful, and they are there for me when I need help.",Llama-4,['Social'],[0.33143121004104614],0.05
+I have plenty of friends who will be there for me when I need help.,Llama-4,['Social'],[0.30703893303871155],0.05
+I get help when I need it.,Llama-4,"['Emotional', 'Social', 'Occupational', 'Physical']","[0.18575195968151093, 0.18379363417625427, 0.14576375484466553, 0.14264512062072754]",0.05
+I have a good attitude about my life.,Llama-4,"['Intellectual', 'Emotional', 'Spiritual', 'Physical']","[0.30275437235832214, 0.2830039858818054, 0.27766773104667664, 0.27128148078918457]",0.05
+I have a high confidence in my own abilities.,Llama-4,['Intellectual'],[0.29357385635375977],0.05
+"I always say what I think, and people find this fact attractive.",Llama-4,"['Social', 'Physical']","[0.1927364021539688, 0.17322444915771484]",0.05
+"I am a compassionate, open-minded individual who feels valued.",Llama-4,['Spiritual'],[0.43813958764076233],0.05
+"I have a desire to achieve more, but sometimes find that I don't.",Llama-4,"['Intellectual', 'Occupational']","[0.35894936323165894, 0.34702083468437195]",0.05
+"I am happy with my life in general, and enjoy socializing with friends.",Llama-4,['Social'],[0.5095649361610413],0.05
+I often take a negative view of people.,Llama-4,"['Emotional', 'Social']","[0.2855617105960846, 0.2710127830505371]",0.05
+I find things to be fun and rewarding.,Llama-4,"['Intellectual', 'Occupational']","[0.4439316391944885, 0.4302848279476166]",0.05
+I understand it is always a struggle to find a purpose in life.,Llama-4,['Occupational'],[0.42899060249328613],0.05
+I can tolerate the unknown.,Llama-4,['Intellectual'],[0.2039671093225479],0.05
+I can handle whatever comes my way.,Llama-4,"['Financial', 'Emotional', 'Intellectual', 'Spiritual']","[0.20151574909687042, 0.19616565108299255, 0.19259274005889893, 0.18711963295936584]",0.05
+Stress causes me to be vulnerable in my life.,Llama-4,['Emotional'],[0.45779553055763245],0.05
+My positive outlook is largely attributed to exercise.,Llama-4,['Physical'],[0.34856390953063965],0.05
+I like to feel that everyone wants to be around me. Having to cope with stress can make me stronger.,Llama-4,['Emotional'],[0.4002988636493683],0.05
+Stress is in my life. Having to cope with stress can make me stronger.,Llama-4,['Emotional'],[0.3947564661502838],0.05
+"I think I am worth pursuing, though I sometimes feel discouraged.",Llama-4,['Intellectual'],[0.3242322504520416],0.05
+I am aware that I sometimes feel like I am not important in my life.,Llama-4,"['Emotional', 'Intellectual', 'Spiritual', 'Social']","[0.3392261564731598, 0.32753652334213257, 0.31901979446411133, 0.299772709608078]",0.05
+I find it challenging to work for something that I love.,Llama-4,['Occupational'],[0.39028313755989075],0.05
+I have no idea how long it will take me to get to sleep every night.,Llama-4,"['Physical', 'Environmental', 'Intellectual', 'Spiritual', 'Occupational']","[0.059232112020254135, 0.048184432089328766, 0.03783559054136276, 0.030262121930718422, 0.00952721107751131]",0.05
+I am usually tired when I get up in the morning and I usually remember to wear a pair of comfy jeans.,Llama-4,['Physical'],[0.14512775838375092],0.05
+I am more calm and calmer than I used to be when it comes to getting a good night's sleep.,Llama-4,['Emotional'],[0.34085413813591003],0.05
+Having to deal with stress can make me strong.,Llama-4,['Emotional'],[0.40797722339630127],0.05
+I don't like having my family take care of me.,Llama-4,"['Physical', 'Social', 'Financial', 'Environmental']","[0.1834198385477066, 0.1668996810913086, 0.14828377962112427, 0.1364935040473938]",0.05
+I judge myself to be a happy person.,Llama-4,['Emotional'],[0.33232688903808594],0.05
+I feel unsure about my future.,Llama-4,"['Intellectual', 'Financial']","[0.26771560311317444, 0.2559976279735565]",0.05
+I have no friends and no family for support.,Llama-4,['Social'],[0.27090132236480713],0.05
+"When I had a problem with my mood, I tried and failed.",Llama-4,['Emotional'],[0.31192079186439514],0.05
+I feel isolated from others.,Llama-4,['Social'],[0.39119794964790344],0.05
+I am socially awkward.,Llama-4,['Social'],[0.38975656032562256],0.05
+I am trying to do something positive in my life.,Llama-4,"['Intellectual', 'Spiritual', 'Emotional']","[0.3314131498336792, 0.3255239427089691, 0.30284592509269714]",0.05
+I feel good about myself.,Llama-4,"['Physical', 'Spiritual']","[0.3562906086444855, 0.3255022466182709]",0.05
+There are times when I feel like the one in the crowd or at a movie theater.,Llama-4,"['Social', 'Emotional']","[0.2150067836046219, 0.18061892688274384]",0.05
+It has been difficult to make friends with many people.,Llama-4,['Social'],[0.4313400685787201],0.05
+I have experienced many life changes and changes in my life.,Llama-4,"['Emotional', 'Spiritual']","[0.39624935388565063, 0.3949087858200073]",0.05
+My body is strong.,Llama-4,"['Physical', 'Spiritual']","[0.2999323308467865, 0.25141462683677673]",0.05
+I feel happy about my work.,Llama-4,['Occupational'],[0.36834511160850525],0.05
+I feel happy.,Llama-4,['Emotional'],[0.2401953786611557],0.05
+I feel unable to make friends because I am always alone,Llama-4,['Social'],[0.3537577986717224],0.05
+I am experiencing some life-altering problems.,Llama-4,"['Emotional', 'Intellectual', 'Spiritual', 'Environmental']","[0.25465211272239685, 0.24184060096740723, 0.23572641611099243, 0.2241666615009308]",0.05
+"I am content doing so many things alone - Life is not very exciting for me, but it does not hold much hope.",Llama-4,"['Occupational', 'Intellectual']","[0.3573320209980011, 0.3374848961830139]",0.05
+I am happy doing so many things alone,Llama-4,"['Occupational', 'Physical', 'Intellectual']","[0.2618101239204407, 0.24901904165744781, 0.21961358189582825]",0.05
+I am lonely doing so much alone,Llama-4,['Occupational'],[0.22228866815567017],0.05
+I am satisfied with the amount of information I have been able to process so far.,Llama-4,"['Occupational', 'Financial', 'Intellectual']","[0.20430772006511688, 0.1851426213979721, 0.17512188851833344]",0.05
+I am often sad.,Llama-4,['Emotional'],[0.3394978642463684],0.05
+I always think of the future.,Llama-4,"['Financial', 'Intellectual']","[0.22291667759418488, 0.19898496568202972]",0.05
+I live life one day at a time and think about the future a lot.,Llama-4,['Intellectual'],[0.3235211670398712],0.05
+I am confident in who I am.,Llama-4,"['Social', 'Intellectual', 'Spiritual', 'Financial', 'Physical', 'Emotional']","[0.23403947055339813, 0.2296733260154724, 0.21763533353805542, 0.20678672194480896, 0.19788245856761932, 0.19236649572849274]",0.05
+I get so many people to know me that the others often don't even know me well.,Llama-4,['Social'],[0.319888710975647],0.05
+I am confident that I am a good person.,Llama-4,"['Financial', 'Emotional', 'Spiritual', 'Social']","[0.2514130473136902, 0.24376145005226135, 0.2409449815750122, 0.22849063575267792]",0.05
+I would rank the past month's sleep quality overall as good overall.,Llama-4,"['Environmental', 'Physical']","[0.12713544070720673, 0.11254104226827621]",0.05
+"In general, I think most things happen for a reason.",Llama-4,"['Spiritual', 'Emotional']","[0.21482381224632263, 0.2130846381187439]",0.05
+I think that most things happen for a reason.,Llama-4,"['Spiritual', 'Emotional']","[0.20926208794116974, 0.194720059633255]",0.05
+I am stressed and feel out of balance.,Llama-4,['Emotional'],[0.30296197533607483],0.05
+I expect to be physically healthy in the future.,Llama-4,['Physical'],[0.5366404056549072],0.05
+I have an anxiety attack that affects my life.,Llama-4,['Emotional'],[0.3059517443180084],0.05
+I am confident that I am in control of my life.,Llama-4,"['Emotional', 'Intellectual', 'Financial', 'Spiritual', 'Physical']","[0.25012490153312683, 0.2496725469827652, 0.24816425144672394, 0.22817015647888184, 0.21557222306728363]",0.05
+I have a strong sense of purpose in my life.,Llama-4,"['Occupational', 'Spiritual']","[0.46596968173980713, 0.45260801911354065]",0.05
+I am able to communicate and express myself.,Llama-4,"['Spiritual', 'Emotional']","[0.3826228082180023, 0.35365259647369385]",0.05
+I am satisfied with my life.,Llama-4,['Occupational'],[0.419874906539917],0.05
+I am resilient in the face of difficult situations.,Llama-4,['Emotional'],[0.5162979364395142],0.05
+I appreciate positive and positive people in my life.,Llama-4,"['Spiritual', 'Social']","[0.3800233006477356, 0.3307517170906067]",0.05
+"I am confident that I can handle unpleasant or painful feelings like sadness, fear, and anger.",Llama-4,['Emotional'],[0.4843687117099762],0.05
+I am very grateful for what I have and am satisfied with most parts of my life.,Llama-4,['Occupational'],[0.3883574306964874],0.05
+I will always strive to do better in what I do.,Llama-4,"['Occupational', 'Intellectual']","[0.37968340516090393, 0.34607404470443726]",0.05
+I am always optimistic about the things that keep me from feeling depressed.,Llama-4,['Emotional'],[0.37681981921195984],0.05
+I am never too old to laugh.,Llama-4,['Intellectual'],[0.12179253250360489],0.05
+Often I get in trouble for making my own decisions.,Llama-4,"['Financial', 'Intellectual', 'Emotional']","[0.20014533400535583, 0.17368927597999573, 0.16208258271217346]",0.05
+I am feeling lonely and overwhelmed.,Llama-4,"['Emotional', 'Occupational']","[0.26326942443847656, 0.2274089902639389]",0.05
+"In the past, I rarely did anything to expect to go my way.",Llama-4,"['Social', 'Financial', 'Spiritual']","[0.1329621970653534, 0.11630355566740036, 0.08553370088338852]",0.05
+I am able to deal with any challenges I encounter.,Llama-4,['Emotional'],[0.3599424362182617],0.05
+"I am a leader, I feel so confident, but I can't handle being so alone.",Llama-4,"['Emotional', 'Social']","[0.24733048677444458, 0.2266203761100769]",0.05
+I tend to overcome major life challenges with greater stability and peace.,Llama-4,['Emotional'],[0.44677963852882385],0.05
+I am very resilient.,Llama-4,['Emotional'],[0.41635677218437195],0.05
+I am resilient and will be able to handle any challenge or stress in life.,Llama-4,['Emotional'],[0.5307185649871826],0.05
+"I struggle to adjust to new situations, new people, and new environments.",Llama-4,['Emotional'],[0.42896291613578796],0.05
+I have always fought for what I believe in.,Llama-4,['Spiritual'],[0.30811524391174316],0.05
+I am in control of my life.,Llama-4,"['Intellectual', 'Emotional', 'Spiritual']","[0.23086373507976532, 0.22796112298965454, 0.21791860461235046]",0.05
+I find it hard to interact with those around me.,Llama-4,['Social'],[0.3113674223423004],0.05
+Sometimes I am unable to reach out and communicate with those around me,Llama-4,['Social'],[0.23639102280139923],0.05
+I don't feel like myself.,Llama-4,"['Physical', 'Spiritual', 'Emotional']","[0.17573635280132294, 0.17230194807052612, 0.1455887258052826]",0.05
+Sometimes I feel alone in my life.,Llama-4,"['Emotional', 'Social', 'Spiritual']","[0.29089051485061646, 0.26375147700309753, 0.25430139899253845]",0.05
+I feel happy that I can make it in the world.,Llama-4,"['Occupational', 'Emotional', 'Intellectual']","[0.26532241702079773, 0.258139431476593, 0.2314092069864273]",0.05
+I feel a sense of responsibility about my future.,Llama-4,"['Intellectual', 'Financial']","[0.3565077781677246, 0.33757081627845764]",0.05
+"When I try to achieve my goals, I may not accomplish what I would like to do.",Llama-4,"['Occupational', 'Intellectual', 'Physical']","[0.29174280166625977, 0.27732667326927185, 0.25367823243141174]",0.05
+I believe my choices will be beneficial.,Llama-4,['Intellectual'],[0.2816457450389862],0.05
+I'm hopeful that I'll accomplish my dreams.,Llama-4,"['Intellectual', 'Occupational']","[0.2601539194583893, 0.22899006307125092]",0.05
+I enjoy taking the time to think about the future.,Llama-4,['Intellectual'],[0.3285190165042877],0.05
+I am optimistic in my future self.,Llama-4,"['Financial', 'Intellectual', 'Spiritual', 'Physical']","[0.30012768507003784, 0.28129103779792786, 0.2625730037689209, 0.2581591308116913]",0.05
+I focus on the present and can live life to the fullest without concern for the future.,Llama-4,"['Intellectual', 'Spiritual']","[0.37740588188171387, 0.33357518911361694]",0.05
+I have a single devoted boyfriend,Llama-4,"['Social', 'Financial', 'Spiritual']","[0.1351398229598999, 0.11811672151088715, 0.09318049252033234]",0.05
+I am very content in my current relationship.,Llama-4,"['Financial', 'Spiritual', 'Intellectual', 'Social']","[0.2853635847568512, 0.2553330063819885, 0.2469482272863388, 0.24016736447811127]",0.05
+I am happy being so withdrawn.,Llama-4,['Emotional'],[0.21201740205287933],0.05
+I am not afraid of being disappointed.,Llama-4,"['Emotional', 'Financial', 'Intellectual']","[0.04240866377949715, 0.010408435948193073, 0.006868244614452124]",0.05
+I am often influenced by others.,Llama-4,['Social'],[0.41461509466171265],0.05
+I am not often discouraged by failure.,Llama-4,['Emotional'],[0.27957025170326233],0.05
+"I believe I need support from my family members and friends, but it is difficult for me to make friends.",Llama-4,['Social'],[0.40253472328186035],0.05
+"I have had trouble staying awake while driving, eating meals, or engaging in social activity.",Llama-4,"['Physical', 'Intellectual', 'Social', 'Emotional', 'Occupational']","[0.18052516877651215, 0.16234329342842102, 0.14872850477695465, 0.1317129135131836, 0.13078123331069946]",0.05
+"I am lonely. I cannot connect with my loved ones, and my life is often void of positive mental stimulation.",Llama-4,"['Spiritual', 'Social']","[0.3265506327152252, 0.29309141635894775]",0.05
+I know it can be difficult to cope with failures.,Llama-4,['Emotional'],[0.3351069688796997],0.05
+I am a strong and resilient person.,Llama-4,['Emotional'],[0.4653552770614624],0.05
+I can't communicate in an effective way,Llama-4,"['Emotional', 'Social']","[0.18129892647266388, 0.14365039765834808]",0.05
+I feel lonely and feel like I am always left alone in my daily life.,Llama-4,"['Emotional', 'Occupational', 'Social']","[0.26849114894866943, 0.25296518206596375, 0.2363741248846054]",0.05
+I have no friends or family close by.,Llama-4,['Social'],[0.3404655158519745],0.05
+I am a successful person.,Llama-4,"['Occupational', 'Financial', 'Intellectual']","[0.345114529132843, 0.33132505416870117, 0.31396910548210144]",0.05
+I'm still finding my purpose and purpose in life.,Llama-4,['Occupational'],[0.4286525845527649],0.05
+I enjoy being a part of my community and socializing.,Llama-4,['Social'],[0.5340722799301147],0.05
+I sometimes think I have done enough.,Llama-4,"['Occupational', 'Intellectual', 'Emotional', 'Financial']","[0.15219804644584656, 0.12747782468795776, 0.11576653271913528, 0.1115698292851448]",0.05
+I sometimes think I have done all there is to do in life and I sometimes feel as if I've done all I can in life.,Llama-4,"['Occupational', 'Spiritual']","[0.3680453896522522, 0.32167381048202515]",0.05
+I sometimes feel like I am a failed person.,Llama-4,['Emotional'],[0.31859633326530457],0.05
+I sometimes feel as if I have already done all there is to do in life.,Llama-4,"['Occupational', 'Intellectual']","[0.35810986161231995, 0.31544172763824463]",0.05
+I can handle my responsibilities.,Llama-4,"['Occupational', 'Intellectual']","[0.31753242015838623, 0.3100828230381012]",0.05
+I feel able to cope with change.,Llama-4,['Emotional'],[0.3874005675315857],0.05
+I am able to handle my responsibilities.,Llama-4,"['Occupational', 'Intellectual', 'Financial']","[0.33538684248924255, 0.30753418803215027, 0.28953635692596436]",0.05
+I have a feeling of direction in my life.,Llama-4,['Spiritual'],[0.30246368050575256],0.05
+I feel as if nobody understands me,Llama-4,"['Emotional', 'Spiritual', 'Intellectual']","[0.23931828141212463, 0.22573545575141907, 0.19631274044513702]",0.05
+I am able to understand the meaning of life.,claude-sonnet-4.5,['Spiritual'],[0.456128865480423],0.05
+I lead a meaningful and purposeful life.,claude-sonnet-4.5,['Spiritual'],[0.43809542059898376],0.05
+I find that my mental health improves and that my life is meaningful.,claude-sonnet-4.5,"['Spiritual', 'Emotional']","[0.44241398572921753, 0.40832582116127014]",0.05
+I feel fulfilled in my life.,claude-sonnet-4.5,"['Occupational', 'Emotional', 'Social']","[0.3407835364341736, 0.3300938606262207, 0.301251083612442]",0.05
+I sometimes feel sad or depressed.,claude-sonnet-4.5,['Emotional'],[0.3658067584037781],0.05
+"In general, I am not as mentally healthy as other people.",claude-sonnet-4.5,['Physical'],[0.30551639199256897],0.05
+I always have been well with my physical health.,claude-sonnet-4.5,['Physical'],[0.5614305734634399],0.05
+I have a good relationship with my parents.,claude-sonnet-4.5,['Social'],[0.3759612441062927],0.05
+Sometimes I do not understand why people are attracted to me compared to other people.,claude-sonnet-4.5,['Social'],[0.36562514305114746],0.05
+I am generally confident about my ability to help people.,claude-sonnet-4.5,['Social'],[0.41026318073272705],0.05
+It is important to me that I feel happy and confident in the sphere of my own life.,claude-sonnet-4.5,"['Social', 'Emotional', 'Occupational']","[0.40403255820274353, 0.3741542398929596, 0.3685593605041504]",0.05
+My social interaction does not interfere with my ability to feel and function well.,claude-sonnet-4.5,['Social'],[0.4762275815010071],0.05
+My day is fairly balanced.,claude-sonnet-4.5,['Occupational'],[0.3036603331565857],0.05
+I do not have any issues with focusing.,claude-sonnet-4.5,"['Physical', 'Financial', 'Intellectual', 'Occupational']","[0.10966137796640396, 0.09912317991256714, 0.09652116149663925, 0.06511011719703674]",0.05
+The amount of information that I process in a typical day is just about right for me.,claude-sonnet-4.5,"['Occupational', 'Intellectual']","[0.23669640719890594, 0.2187652587890625]",0.05
+I feel as if I've done everything there is to do in life.,claude-sonnet-4.5,['Occupational'],[0.3611918091773987],0.05
+I sometimes feel as if I haven't accomplished much in my life.,claude-sonnet-4.5,['Occupational'],[0.3815196454524994],0.05
+"When I am in need, my family is there for me.",claude-sonnet-4.5,"['Emotional', 'Social', 'Occupational']","[0.26405343413352966, 0.24566435813903809, 0.22683466970920563]",0.05
+I am usually happy to be with my family.,claude-sonnet-4.5,"['Social', 'Emotional', 'Occupational']","[0.27143439650535583, 0.26732122898101807, 0.25639772415161133]",0.05
+I have not always had friends with whom I could share my joys and sorrows.,claude-sonnet-4.5,['Social'],[0.3660908341407776],0.05
+I typically find intellectual challenges to be vital to my overall well-being.,claude-sonnet-4.5,['Intellectual'],[0.6053664684295654],0.05
+"In the past, I usually find intellectual challenges to be vital to my overall well-being.",claude-sonnet-4.5,['Intellectual'],[0.587759256362915],0.05
+"In the past, I have found intellectual challenges to be vital to my overall well-being.",claude-sonnet-4.5,['Intellectual'],[0.5865727663040161],0.05
+I have found intellectual challenges to be vital to my overall well-being.,claude-sonnet-4.5,['Intellectual'],[0.6013345122337341],0.05
+I enjoy taking an intellectual challenge for a number of reasons and enjoy taking time to think about my own self and others.,claude-sonnet-4.5,['Intellectual'],[0.5507954359054565],0.05
+I feel sad and lonely being alone,claude-sonnet-4.5,['Emotional'],[0.33404672145843506],0.05
+"I feel tired, sleepless, and lonely.",claude-sonnet-4.5,"['Emotional', 'Physical', 'Occupational']","[0.22503307461738586, 0.21075104176998138, 0.19603227078914642]",0.05
+I try to achieve my goals.,claude-sonnet-4.5,"['Intellectual', 'Financial']","[0.3358536660671234, 0.2864157259464264]",0.05
+In many ways I feel frustrated about my achievements in life.,claude-sonnet-4.5,"['Occupational', 'Emotional', 'Intellectual']","[0.31904542446136475, 0.30283787846565247, 0.2969512641429901]",0.05
+The amount of stress I feel in my life is quite normal.,claude-sonnet-4.5,['Emotional'],[0.3621375858783722],0.05
+"In the past, I have received the best.",claude-sonnet-4.5,"['Social', 'Emotional']","[0.14140909910202026, 0.11322551220655441]",0.05
+I tend to feel insecure about my abilities and I have difficulty being loved by others.,claude-sonnet-4.5,"['Social', 'Emotional']","[0.38682740926742554, 0.37290292978286743]",0.05
+I feel lonely,claude-sonnet-4.5,"['Social', 'Emotional']","[0.24653787910938263, 0.23951005935668945]",0.05
+I feel cynical about my skills.,claude-sonnet-4.5,['Intellectual'],[0.36207592487335205],0.05
+I have problems in my personal relationships.,claude-sonnet-4.5,['Social'],[0.3905004560947418],0.05
+I know my family and friends will always love me and will be there for me if I need them.,claude-sonnet-4.5,"['Social', 'Emotional']","[0.2637653052806854, 0.220315083861351]",0.05
+I find that being alone can make me feel bad.,claude-sonnet-4.5,['Emotional'],[0.3226936459541321],0.05
+I never feel comfortable sharing my family life with others.,claude-sonnet-4.5,['Social'],[0.31210485100746155],0.05
+I am not satisfied with my relationships with my family or friends.,claude-sonnet-4.5,['Social'],[0.35750681161880493],0.05
+I try to see the funny side of things.,claude-sonnet-4.5,"['Emotional', 'Environmental', 'Intellectual', 'Social']","[0.14406952261924744, 0.10871018469333649, 0.10420304536819458, 0.09548480808734894]",0.05
+I think most problems that I encounter are related to a person who is self-centered.,claude-sonnet-4.5,"['Social', 'Intellectual']","[0.3334832191467285, 0.30375608801841736]",0.05
+I try to see the positive side of things when faced with challenges.,claude-sonnet-4.5,['Emotional'],[0.33908015489578247],0.05
+I always look on the bright side of things when I am faced with problems.,claude-sonnet-4.5,['Emotional'],[0.3023470938205719],0.05
+I sometimes feel as if I have done all there is to do in life.,claude-sonnet-4.5,['Occupational'],[0.34456124901771545],0.05
+"I feel as if I've done all there is to do in life and this is a negative thought, as my own personal experiences have",claude-sonnet-4.5,"['Occupational', 'Emotional', 'Spiritual']","[0.3107511103153229, 0.2786255478858948, 0.27638354897499084]",0.05
+I think I might be in an 'ok place'.,claude-sonnet-4.5,['Environmental'],[0.3375178277492523],0.05
+I feel like I've never accomplished anything.,claude-sonnet-4.5,"['Occupational', 'Emotional']","[0.2673629820346832, 0.22260569036006927]",0.05
+I am able to handle the demands of everyday life.,claude-sonnet-4.5,"['Emotional', 'Occupational']","[0.3981662392616272, 0.3607555627822876]",0.05
+"I am capable of managing unpleasant or painful feelings like sadness, fear, and anger.",claude-sonnet-4.5,['Emotional'],[0.5543897747993469],0.05
+I am comfortable being alone.,claude-sonnet-4.5,"['Social', 'Emotional']","[0.31493857502937317, 0.28745749592781067]",0.05
+I believe that life has a purpose.,claude-sonnet-4.5,"['Spiritual', 'Environmental']","[0.2914798855781555, 0.25154930353164673]",0.05
+I appreciate the amount of intellectual stimulation I receive in my daily life.,claude-sonnet-4.5,['Intellectual'],[0.5628413558006287],0.05
+"Generally, I feel satisfied with my personal life and the amount of intellectual stimulation I receive in my daily life.",claude-sonnet-4.5,"['Occupational', 'Intellectual']","[0.49454063177108765, 0.44639918208122253]",0.05
+I believe my life's journey should have a purpose.,claude-sonnet-4.5,"['Spiritual', 'Occupational']","[0.3733418583869934, 0.3270178437232971]",0.05
+I enjoy writing.,claude-sonnet-4.5,['Intellectual'],[0.2662067413330078],0.05
+I tend to be anxious and scared.,claude-sonnet-4.5,['Emotional'],[0.3313695788383484],0.05
+I am unable to reach out and communicate with those around me.,claude-sonnet-4.5,['Social'],[0.2351006269454956],0.05
+I try to stay positive and work through difficulties,claude-sonnet-4.5,"['Emotional', 'Occupational']","[0.35841530561447144, 0.3251968026161194]",0.05
+I work to achieve goals.,claude-sonnet-4.5,"['Occupational', 'Intellectual']","[0.36754199862480164, 0.3189084529876709]",0.05
+I am very successful at work and have a stable income.,claude-sonnet-4.5,['Financial'],[0.34572896361351013],0.05
+I am good at managing responsibilities of daily life.,claude-sonnet-4.5,['Occupational'],[0.4007028341293335],0.05
+I am lonely.,claude-sonnet-4.5,['Social'],[0.2523191273212433],0.05
+I have a desire to have sex with someone.,claude-sonnet-4.5,"['Social', 'Environmental', 'Spiritual']","[0.1368934065103531, 0.10731945186853409, 0.09085432440042496]",0.05
+I would do better if I could have a friend to talk to.,claude-sonnet-4.5,['Social'],[0.19054314494132996],0.05
+Maintaining close relationships has been challenging and frustrating for me.,claude-sonnet-4.5,['Social'],[0.3605369031429291],0.05
+I scream at friends after I tell them they can't talk to me.,claude-sonnet-4.5,"['Emotional', 'Social']","[0.1641886681318283, 0.13995453715324402]",0.05
+I am healthy in my relationships and relationships can be difficult but I am strong and confident.,claude-sonnet-4.5,['Social'],[0.3864693343639374],0.05
+I have been very frank about my shortcomings.,claude-sonnet-4.5,['Intellectual'],[0.2561706602573395],0.05
+Maintaining close relationships has been more rewarding than the last time.,claude-sonnet-4.5,['Social'],[0.32324349880218506],0.05
+I don't know where my next big project will take me.,claude-sonnet-4.5,"['Environmental', 'Intellectual']","[0.17278394103050232, 0.17135009169578552]",0.05
+I have been dealing with depression and anxiety.,claude-sonnet-4.5,['Emotional'],[0.28041112422943115],0.05
+I hope I have a friend who can help me when I feel stressed and need support.,claude-sonnet-4.5,['Emotional'],[0.29598742723464966],0.05
+"I hope to have good health, good friends and good chances.",claude-sonnet-4.5,"['Social', 'Physical', 'Financial', 'Environmental']","[0.2607252597808838, 0.2452440857887268, 0.2308894395828247, 0.21855124831199646]",0.05
+I am able to have a productive day without being stressed out by life's issues.,claude-sonnet-4.5,['Occupational'],[0.37289199233055115],0.05
+I believe that I can still make the best choices for myself and my life.,claude-sonnet-4.5,['Emotional'],[0.3001900017261505],0.05
+I am able to trust others when they tell me how to live my life.,claude-sonnet-4.5,['Social'],[0.4428187608718872],0.05
+I believe that my own opinion matters more than other peoples.,claude-sonnet-4.5,['Social'],[0.25179627537727356],0.05
+"I feel anxious about my emotions, especially when they are related to work or relationships.",claude-sonnet-4.5,['Emotional'],[0.4701916575431824],0.05
+I have been happy with my current situation.,claude-sonnet-4.5,['Emotional'],[0.2851080894470215],0.05
+My social relationships are superficial.,claude-sonnet-4.5,['Social'],[0.49701958894729614],0.05
+"I have confidence in my social relationships, even if they are superficial.",claude-sonnet-4.5,['Social'],[0.5392070412635803],0.05
+"I have many friends, but they are superficial.",claude-sonnet-4.5,['Social'],[0.3304283320903778],0.05
+"My friends are helpful, and they are there for me when I need help.",claude-sonnet-4.5,['Social'],[0.2917388379573822],0.05
+I have plenty of friends who will be there for me when I need help.,claude-sonnet-4.5,['Social'],[0.26699671149253845],0.05
+I get help when I need it.,claude-sonnet-4.5,"['Emotional', 'Social', 'Intellectual']","[0.18475177884101868, 0.15844754874706268, 0.15469366312026978]",0.05
+I have a good attitude about my life.,claude-sonnet-4.5,"['Social', 'Environmental', 'Occupational']","[0.308792382478714, 0.2894531786441803, 0.2828005254268646]",0.05
+I have a high confidence in my own abilities.,claude-sonnet-4.5,"['Intellectual', 'Social']","[0.28965049982070923, 0.26850733160972595]",0.05
+"I always say what I think, and people find this fact attractive.",claude-sonnet-4.5,['Social'],[0.20899014174938202],0.05
+"I am a compassionate, open-minded individual who feels valued.",claude-sonnet-4.5,['Spiritual'],[0.4026033580303192],0.05
+"I have a desire to achieve more, but sometimes find that I don't.",claude-sonnet-4.5,"['Intellectual', 'Occupational']","[0.3194408416748047, 0.28844669461250305]",0.05
+"I am happy with my life in general, and enjoy socializing with friends.",claude-sonnet-4.5,['Social'],[0.5305016040802002],0.05
+I often take a negative view of people.,claude-sonnet-4.5,"['Emotional', 'Social']","[0.2677341103553772, 0.23025771975517273]",0.05
+I find things to be fun and rewarding.,claude-sonnet-4.5,"['Intellectual', 'Occupational']","[0.33535945415496826, 0.33189836144447327]",0.05
+I understand it is always a struggle to find a purpose in life.,claude-sonnet-4.5,"['Emotional', 'Spiritual']","[0.33851560950279236, 0.3236413598060608]",0.05
+I can tolerate the unknown.,claude-sonnet-4.5,"['Intellectual', 'Emotional']","[0.19758901000022888, 0.1488751918077469]",0.05
+I can handle whatever comes my way.,claude-sonnet-4.5,"['Environmental', 'Emotional', 'Intellectual']","[0.21587087213993073, 0.20997822284698486, 0.1901008039712906]",0.05
+Stress causes me to be vulnerable in my life.,claude-sonnet-4.5,['Emotional'],[0.4431004226207733],0.05
+My positive outlook is largely attributed to exercise.,claude-sonnet-4.5,"['Occupational', 'Emotional', 'Physical']","[0.3050740659236908, 0.2970230281352997, 0.2877193093299866]",0.05
+I like to feel that everyone wants to be around me. Having to cope with stress can make me stronger.,claude-sonnet-4.5,['Emotional'],[0.42759132385253906],0.05
+Stress is in my life. Having to cope with stress can make me stronger.,claude-sonnet-4.5,['Emotional'],[0.40576499700546265],0.05
+"I think I am worth pursuing, though I sometimes feel discouraged.",claude-sonnet-4.5,"['Intellectual', 'Emotional']","[0.2671479284763336, 0.22188317775726318]",0.05
+I am aware that I sometimes feel like I am not important in my life.,claude-sonnet-4.5,"['Emotional', 'Social', 'Intellectual']","[0.33137190341949463, 0.30021700263023376, 0.2877791225910187]",0.05
+I find it challenging to work for something that I love.,claude-sonnet-4.5,"['Occupational', 'Emotional']","[0.3457620441913605, 0.3209667503833771]",0.05
+I have no idea how long it will take me to get to sleep every night.,claude-sonnet-4.5,"['Physical', 'Occupational', 'Spiritual', 'Intellectual']","[0.0410662405192852, 0.038915764540433884, 0.027899764478206635, 0.021671731024980545]",0.05
+I am usually tired when I get up in the morning and I usually remember to wear a pair of comfy jeans.,claude-sonnet-4.5,"['Physical', 'Occupational']","[0.14323770999908447, 0.09538710862398148]",0.05
+I am more calm and calmer than I used to be when it comes to getting a good night's sleep.,claude-sonnet-4.5,['Emotional'],[0.33799561858177185],0.05
+Having to deal with stress can make me strong.,claude-sonnet-4.5,['Emotional'],[0.41429758071899414],0.05
+I don't like having my family take care of me.,claude-sonnet-4.5,"['Environmental', 'Social']","[0.16903959214687347, 0.13504460453987122]",0.05
+I judge myself to be a happy person.,claude-sonnet-4.5,"['Emotional', 'Social', 'Occupational']","[0.2964826822280884, 0.25413796305656433, 0.25067996978759766]",0.05
+I feel unsure about my future.,claude-sonnet-4.5,['Financial'],[0.26954185962677],0.05
+I have no friends and no family for support.,claude-sonnet-4.5,['Social'],[0.22339728474617004],0.05
+"When I had a problem with my mood, I tried and failed.",claude-sonnet-4.5,['Emotional'],[0.3050551414489746],0.05
+I feel isolated from others.,claude-sonnet-4.5,"['Social', 'Emotional']","[0.39026936888694763, 0.3411758840084076]",0.05
+I am socially awkward.,claude-sonnet-4.5,['Social'],[0.39643701910972595],0.05
+I am trying to do something positive in my life.,claude-sonnet-4.5,"['Emotional', 'Social', 'Intellectual', 'Spiritual']","[0.30452561378479004, 0.2760758399963379, 0.26584693789482117, 0.2616907060146332]",0.05
+I feel good about myself.,claude-sonnet-4.5,"['Physical', 'Social', 'Emotional', 'Spiritual', 'Occupational']","[0.26883256435394287, 0.2578325569629669, 0.24637271463871002, 0.2456047087907791, 0.2378811091184616]",0.05
+There are times when I feel like the one in the crowd or at a movie theater.,claude-sonnet-4.5,"['Emotional', 'Social']","[0.20272323489189148, 0.19549459218978882]",0.05
+It has been difficult to make friends with many people.,claude-sonnet-4.5,['Social'],[0.39312320947647095],0.05
+I have experienced many life changes and changes in my life.,claude-sonnet-4.5,['Emotional'],[0.40170422196388245],0.05
+My body is strong.,claude-sonnet-4.5,['Physical'],[0.37986478209495544],0.05
+I feel happy about my work.,claude-sonnet-4.5,['Occupational'],[0.3742985427379608],0.05
+I feel happy.,claude-sonnet-4.5,['Emotional'],[0.2675243318080902],0.05
+I feel unable to make friends because I am always alone,claude-sonnet-4.5,['Social'],[0.4011384844779968],0.05
+I am experiencing some life-altering problems.,claude-sonnet-4.5,"['Emotional', 'Environmental']","[0.25116807222366333, 0.23289981484413147]",0.05
+"I am content doing so many things alone - Life is not very exciting for me, but it does not hold much hope.",claude-sonnet-4.5,"['Occupational', 'Emotional']","[0.33224499225616455, 0.3067499101161957]",0.05
+I am happy doing so many things alone,claude-sonnet-4.5,"['Occupational', 'Emotional']","[0.27586328983306885, 0.2515709698200226]",0.05
+I am lonely doing so much alone,claude-sonnet-4.5,"['Occupational', 'Social', 'Emotional']","[0.2308109700679779, 0.20795539021492004, 0.18153388798236847]",0.05
+I am satisfied with the amount of information I have been able to process so far.,claude-sonnet-4.5,"['Occupational', 'Financial', 'Intellectual', 'Social']","[0.17835742235183716, 0.15772047638893127, 0.15436729788780212, 0.1301836520433426]",0.05
+I am often sad.,claude-sonnet-4.5,['Emotional'],[0.35523316264152527],0.05
+I always think of the future.,claude-sonnet-4.5,['Financial'],[0.24655640125274658],0.05
+I live life one day at a time and think about the future a lot.,claude-sonnet-4.5,['Intellectual'],[0.26809418201446533],0.05
+I am confident in who I am.,claude-sonnet-4.5,['Social'],[0.29455462098121643],0.05
+I get so many people to know me that the others often don't even know me well.,claude-sonnet-4.5,['Social'],[0.3209748864173889],0.05
+I am confident that I am a good person.,claude-sonnet-4.5,['Social'],[0.3457358181476593],0.05
+I would rank the past month's sleep quality overall as good overall.,claude-sonnet-4.5,"['Environmental', 'Physical', 'Spiritual']","[0.09760058671236038, 0.0772566944360733, 0.0637948215007782]",0.05
+"In general, I think most things happen for a reason.",claude-sonnet-4.5,['Emotional'],[0.2051571011543274],0.05
+I think that most things happen for a reason.,claude-sonnet-4.5,"['Emotional', 'Environmental']","[0.18649542331695557, 0.16018834710121155]",0.05
+I am stressed and feel out of balance.,claude-sonnet-4.5,['Emotional'],[0.30841687321662903],0.05
+I expect to be physically healthy in the future.,claude-sonnet-4.5,['Physical'],[0.46359434723854065],0.05
+I have an anxiety attack that affects my life.,claude-sonnet-4.5,['Emotional'],[0.28863346576690674],0.05
+I am confident that I am in control of my life.,claude-sonnet-4.5,"['Social', 'Emotional', 'Intellectual', 'Financial']","[0.2345617562532425, 0.23253948986530304, 0.2207595556974411, 0.1961890608072281]",0.05
+I have a strong sense of purpose in my life.,claude-sonnet-4.5,['Spiritual'],[0.39546999335289],0.05
+I am able to communicate and express myself.,claude-sonnet-4.5,"['Emotional', 'Social', 'Intellectual']","[0.3620395362377167, 0.33140242099761963, 0.33100080490112305]",0.05
+I am satisfied with my life.,claude-sonnet-4.5,['Occupational'],[0.46575039625167847],0.05
+I am resilient in the face of difficult situations.,claude-sonnet-4.5,['Emotional'],[0.5317488312721252],0.05
+I appreciate positive and positive people in my life.,claude-sonnet-4.5,['Social'],[0.3649725019931793],0.05
+"I am confident that I can handle unpleasant or painful feelings like sadness, fear, and anger.",claude-sonnet-4.5,['Emotional'],[0.49509143829345703],0.05
+I am very grateful for what I have and am satisfied with most parts of my life.,claude-sonnet-4.5,['Occupational'],[0.413860023021698],0.05
+I will always strive to do better in what I do.,claude-sonnet-4.5,['Occupational'],[0.3882896602153778],0.05
+I am always optimistic about the things that keep me from feeling depressed.,claude-sonnet-4.5,['Emotional'],[0.3822975754737854],0.05
+I am never too old to laugh.,claude-sonnet-4.5,"['Intellectual', 'Emotional']","[0.07656586170196533, 0.0435250848531723]",0.05
+Often I get in trouble for making my own decisions.,claude-sonnet-4.5,"['Intellectual', 'Financial', 'Environmental']","[0.18105655908584595, 0.1775771826505661, 0.16123218834400177]",0.05
+I am feeling lonely and overwhelmed.,claude-sonnet-4.5,"['Emotional', 'Occupational']","[0.28941068053245544, 0.24703481793403625]",0.05
+"In the past, I rarely did anything to expect to go my way.",claude-sonnet-4.5,"['Social', 'Occupational', 'Financial', 'Spiritual', 'Emotional']","[0.10178525000810623, 0.07414618879556656, 0.066317118704319, 0.05482698976993561, 0.05336468666791916]",0.05
+I am able to deal with any challenges I encounter.,claude-sonnet-4.5,['Emotional'],[0.3200111985206604],0.05
+"I am a leader, I feel so confident, but I can't handle being so alone.",claude-sonnet-4.5,['Social'],[0.3100886344909668],0.05
+I tend to overcome major life challenges with greater stability and peace.,claude-sonnet-4.5,['Emotional'],[0.42979738116264343],0.05
+I am very resilient.,claude-sonnet-4.5,['Emotional'],[0.442965567111969],0.05
+I am resilient and will be able to handle any challenge or stress in life.,claude-sonnet-4.5,['Emotional'],[0.5233599543571472],0.05
+"I struggle to adjust to new situations, new people, and new environments.",claude-sonnet-4.5,['Emotional'],[0.4205103814601898],0.05
+I have always fought for what I believe in.,claude-sonnet-4.5,['Spiritual'],[0.22824008762836456],0.05
+I am in control of my life.,claude-sonnet-4.5,"['Emotional', 'Intellectual']","[0.22010576725006104, 0.20738503336906433]",0.05
+I find it hard to interact with those around me.,claude-sonnet-4.5,['Social'],[0.2684938907623291],0.05
+Sometimes I am unable to reach out and communicate with those around me,claude-sonnet-4.5,['Social'],[0.25873616337776184],0.05
+I don't feel like myself.,claude-sonnet-4.5,"['Emotional', 'Social']","[0.15215909481048584, 0.14242783188819885]",0.05
+Sometimes I feel alone in my life.,claude-sonnet-4.5,['Emotional'],[0.3310777246952057],0.05
+I feel happy that I can make it in the world.,claude-sonnet-4.5,"['Emotional', 'Occupational']","[0.2788981795310974, 0.258330374956131]",0.05
+I feel a sense of responsibility about my future.,claude-sonnet-4.5,['Financial'],[0.3578658998012543],0.05
+"When I try to achieve my goals, I may not accomplish what I would like to do.",claude-sonnet-4.5,"['Intellectual', 'Financial', 'Occupational']","[0.27953025698661804, 0.26130789518356323, 0.2302931249141693]",0.05
+I believe my choices will be beneficial.,claude-sonnet-4.5,"['Environmental', 'Intellectual']","[0.1979469507932663, 0.19458679854869843]",0.05
+I'm hopeful that I'll accomplish my dreams.,claude-sonnet-4.5,['Intellectual'],[0.23631876707077026],0.05
+I enjoy taking the time to think about the future.,claude-sonnet-4.5,['Intellectual'],[0.2659197151660919],0.05
+I am optimistic in my future self.,claude-sonnet-4.5,"['Financial', 'Intellectual', 'Emotional', 'Occupational', 'Social']","[0.2583567798137665, 0.24283011257648468, 0.2334219068288803, 0.22356411814689636, 0.21620045602321625]",0.05
+I focus on the present and can live life to the fullest without concern for the future.,claude-sonnet-4.5,"['Financial', 'Emotional', 'Intellectual', 'Spiritual', 'Environmental']","[0.31366655230522156, 0.30362164974212646, 0.3015483617782593, 0.2683824300765991, 0.2673768401145935]",0.05
+I have a single devoted boyfriend,claude-sonnet-4.5,['Social'],[0.20825600624084473],0.05
+I am very content in my current relationship.,claude-sonnet-4.5,['Social'],[0.3610341250896454],0.05
+I am happy being so withdrawn.,claude-sonnet-4.5,['Emotional'],[0.2591829001903534],0.05
+I am not afraid of being disappointed.,claude-sonnet-4.5,['Emotional'],[0.04819614440202713],0.05
+I am often influenced by others.,claude-sonnet-4.5,['Social'],[0.3475649058818817],0.05
+I am not often discouraged by failure.,claude-sonnet-4.5,"['Emotional', 'Intellectual', 'Occupational']","[0.2522951066493988, 0.22494617104530334, 0.20702993869781494]",0.05
+"I believe I need support from my family members and friends, but it is difficult for me to make friends.",claude-sonnet-4.5,['Social'],[0.3947332501411438],0.05
+"I have had trouble staying awake while driving, eating meals, or engaging in social activity.",claude-sonnet-4.5,"['Physical', 'Social', 'Emotional', 'Occupational']","[0.15347713232040405, 0.1506333202123642, 0.14445661008358002, 0.10662992298603058]",0.05
+"I am lonely. I cannot connect with my loved ones, and my life is often void of positive mental stimulation.",claude-sonnet-4.5,"['Social', 'Emotional']","[0.340603768825531, 0.29963037371635437]",0.05
+I know it can be difficult to cope with failures.,claude-sonnet-4.5,['Emotional'],[0.30386489629745483],0.05
+I am a strong and resilient person.,claude-sonnet-4.5,['Emotional'],[0.4735642373561859],0.05
+I can't communicate in an effective way,claude-sonnet-4.5,"['Social', 'Intellectual', 'Emotional']","[0.20289346575737, 0.19587908685207367, 0.19519169628620148]",0.05
+I feel lonely and feel like I am always left alone in my daily life.,claude-sonnet-4.5,"['Emotional', 'Social', 'Occupational']","[0.30904752016067505, 0.2780894637107849, 0.270806223154068]",0.05
+I have no friends or family close by.,claude-sonnet-4.5,['Social'],[0.24013245105743408],0.05
+I am a successful person.,claude-sonnet-4.5,"['Occupational', 'Social', 'Intellectual']","[0.3317781090736389, 0.3267900347709656, 0.32229480147361755]",0.05
+I'm still finding my purpose and purpose in life.,claude-sonnet-4.5,"['Spiritual', 'Emotional', 'Occupational']","[0.3291884660720825, 0.3286868631839752, 0.29620134830474854]",0.05
+I enjoy being a part of my community and socializing.,claude-sonnet-4.5,['Social'],[0.4798661172389984],0.05
+I sometimes think I have done enough.,claude-sonnet-4.5,"['Occupational', 'Emotional', 'Intellectual', 'Financial']","[0.13095402717590332, 0.12871821224689484, 0.12854820489883423, 0.09453286230564117]",0.05
+I sometimes think I have done all there is to do in life and I sometimes feel as if I've done all I can in life.,claude-sonnet-4.5,['Occupational'],[0.3484276533126831],0.05
+I sometimes feel like I am a failed person.,claude-sonnet-4.5,['Emotional'],[0.27552178502082825],0.05
+I sometimes feel as if I have already done all there is to do in life.,claude-sonnet-4.5,"['Occupational', 'Intellectual']","[0.3066830635070801, 0.25897085666656494]",0.05
+I can handle my responsibilities.,claude-sonnet-4.5,"['Occupational', 'Financial', 'Intellectual', 'Emotional', 'Environmental']","[0.2852191627025604, 0.2664337456226349, 0.24906721711158752, 0.2400161325931549, 0.2393413931131363]",0.05
+I feel able to cope with change.,claude-sonnet-4.5,['Emotional'],[0.39576682448387146],0.05
+I am able to handle my responsibilities.,claude-sonnet-4.5,"['Occupational', 'Financial', 'Emotional', 'Intellectual']","[0.30275440216064453, 0.2963190972805023, 0.2704712450504303, 0.2685599625110626]",0.05
+I have a feeling of direction in my life.,claude-sonnet-4.5,"['Spiritual', 'Emotional', 'Intellectual']","[0.2641524076461792, 0.23952120542526245, 0.22006598114967346]",0.05
+I feel as if nobody understands me,claude-sonnet-4.5,"['Emotional', 'Intellectual']","[0.2622282803058624, 0.22458244860172272]",0.05
+I am able to understand the meaning of life.,gemini-3.0-pro,['Spiritual'],[0.4409681558609009],0.05
+I lead a meaningful and purposeful life.,gemini-3.0-pro,['Spiritual'],[0.49012309312820435],0.05
+I find that my mental health improves and that my life is meaningful.,gemini-3.0-pro,"['Spiritual', 'Emotional', 'Occupational']","[0.44080713391304016, 0.40385890007019043, 0.3969445526599884]",0.05
+I feel fulfilled in my life.,gemini-3.0-pro,"['Occupational', 'Spiritual']","[0.411154180765152, 0.37349599599838257]",0.05
+I sometimes feel sad or depressed.,gemini-3.0-pro,['Emotional'],[0.42792487144470215],0.05
+"In general, I am not as mentally healthy as other people.",gemini-3.0-pro,['Physical'],[0.3570787310600281],0.05
+I always have been well with my physical health.,gemini-3.0-pro,['Physical'],[0.5701374411582947],0.05
+I have a good relationship with my parents.,gemini-3.0-pro,['Social'],[0.3902703821659088],0.05
+Sometimes I do not understand why people are attracted to me compared to other people.,gemini-3.0-pro,"['Social', 'Occupational']","[0.2676337957382202, 0.2206900268793106]",0.05
+I am generally confident about my ability to help people.,gemini-3.0-pro,"['Social', 'Spiritual', 'Intellectual', 'Occupational']","[0.30816298723220825, 0.28975871205329895, 0.28733277320861816, 0.26640239357948303]",0.05
+It is important to me that I feel happy and confident in the sphere of my own life.,gemini-3.0-pro,['Occupational'],[0.41081640124320984],0.05
+My social interaction does not interfere with my ability to feel and function well.,gemini-3.0-pro,['Social'],[0.37852734327316284],0.05
+My day is fairly balanced.,gemini-3.0-pro,['Occupational'],[0.330142617225647],0.05
+I do not have any issues with focusing.,gemini-3.0-pro,"['Emotional', 'Intellectual', 'Financial']","[0.1604439914226532, 0.12987196445465088, 0.1281074732542038]",0.05
+The amount of information that I process in a typical day is just about right for me.,gemini-3.0-pro,"['Occupational', 'Intellectual']","[0.28979936242103577, 0.2517077624797821]",0.05
+I feel as if I've done everything there is to do in life.,gemini-3.0-pro,"['Occupational', 'Emotional']","[0.38584986329078674, 0.34120288491249084]",0.05
+I sometimes feel as if I haven't accomplished much in my life.,gemini-3.0-pro,"['Occupational', 'Emotional']","[0.42498210072517395, 0.3830035626888275]",0.05
+"When I am in need, my family is there for me.",gemini-3.0-pro,"['Social', 'Emotional', 'Spiritual']","[0.3007279932498932, 0.2642222046852112, 0.2549575865268707]",0.05
+I am usually happy to be with my family.,gemini-3.0-pro,"['Occupational', 'Emotional', 'Social']","[0.31181758642196655, 0.2994110584259033, 0.2851766049861908]",0.05
+I have not always had friends with whom I could share my joys and sorrows.,gemini-3.0-pro,['Social'],[0.35556700825691223],0.05
+I typically find intellectual challenges to be vital to my overall well-being.,gemini-3.0-pro,['Intellectual'],[0.5662634372711182],0.05
+"In the past, I usually find intellectual challenges to be vital to my overall well-being.",gemini-3.0-pro,['Intellectual'],[0.5561888813972473],0.05
+"In the past, I have found intellectual challenges to be vital to my overall well-being.",gemini-3.0-pro,['Intellectual'],[0.5567159652709961],0.05
+I have found intellectual challenges to be vital to my overall well-being.,gemini-3.0-pro,['Intellectual'],[0.5673395991325378],0.05
+I enjoy taking an intellectual challenge for a number of reasons and enjoy taking time to think about my own self and others.,gemini-3.0-pro,['Intellectual'],[0.5487528443336487],0.05
+I feel sad and lonely being alone,gemini-3.0-pro,['Emotional'],[0.34031280875205994],0.05
+"I feel tired, sleepless, and lonely.",gemini-3.0-pro,"['Emotional', 'Physical', 'Occupational']","[0.23513029515743256, 0.22356915473937988, 0.21784693002700806]",0.05
+I try to achieve my goals.,gemini-3.0-pro,"['Occupational', 'Spiritual', 'Intellectual']","[0.3521280288696289, 0.32481154799461365, 0.3168565332889557]",0.05
+In many ways I feel frustrated about my achievements in life.,gemini-3.0-pro,"['Occupational', 'Emotional']","[0.3854161500930786, 0.37865039706230164]",0.05
+The amount of stress I feel in my life is quite normal.,gemini-3.0-pro,['Emotional'],[0.531574547290802],0.05
+"In the past, I have received the best.",gemini-3.0-pro,"['Social', 'Occupational', 'Spiritual']","[0.11030520498752594, 0.07461660355329514, 0.06893666088581085]",0.05
+I tend to feel insecure about my abilities and I have difficulty being loved by others.,gemini-3.0-pro,['Emotional'],[0.335658997297287],0.05
+I feel lonely,gemini-3.0-pro,"['Occupational', 'Social', 'Emotional']","[0.23728957772254944, 0.22473053634166718, 0.21593345701694489]",0.05
+I feel cynical about my skills.,gemini-3.0-pro,['Intellectual'],[0.40534722805023193],0.05
+I have problems in my personal relationships.,gemini-3.0-pro,['Social'],[0.322634220123291],0.05
+I know my family and friends will always love me and will be there for me if I need them.,gemini-3.0-pro,"['Social', 'Emotional']","[0.29606151580810547, 0.24756911396980286]",0.05
+I find that being alone can make me feel bad.,gemini-3.0-pro,"['Emotional', 'Social']","[0.3308807611465454, 0.29332780838012695]",0.05
+I never feel comfortable sharing my family life with others.,gemini-3.0-pro,['Social'],[0.35314470529556274],0.05
+I am not satisfied with my relationships with my family or friends.,gemini-3.0-pro,"['Social', 'Emotional']","[0.33059754967689514, 0.28229787945747375]",0.05
+I try to see the funny side of things.,gemini-3.0-pro,"['Intellectual', 'Environmental']","[0.19318892061710358, 0.15159837901592255]",0.05
+I think most problems that I encounter are related to a person who is self-centered.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.3362788259983063, 0.33007121086120605]",0.05
+I try to see the positive side of things when faced with challenges.,gemini-3.0-pro,['Emotional'],[0.393764853477478],0.05
+I always look on the bright side of things when I am faced with problems.,gemini-3.0-pro,['Emotional'],[0.38505789637565613],0.05
+I sometimes feel as if I have done all there is to do in life.,gemini-3.0-pro,"['Occupational', 'Emotional']","[0.37355801463127136, 0.357236385345459]",0.05
+"I feel as if I've done all there is to do in life and this is a negative thought, as my own personal experiences have",gemini-3.0-pro,"['Spiritual', 'Occupational', 'Emotional']","[0.33999523520469666, 0.3383863866329193, 0.3370082974433899]",0.05
+I think I might be in an 'ok place'.,gemini-3.0-pro,['Environmental'],[0.3258396089076996],0.05
+I feel like I've never accomplished anything.,gemini-3.0-pro,"['Occupational', 'Emotional', 'Intellectual']","[0.32780590653419495, 0.28616687655448914, 0.28476178646087646]",0.05
+I am able to handle the demands of everyday life.,gemini-3.0-pro,"['Emotional', 'Occupational']","[0.42883479595184326, 0.4246012270450592]",0.05
+"I am capable of managing unpleasant or painful feelings like sadness, fear, and anger.",gemini-3.0-pro,['Emotional'],[0.5909633040428162],0.05
+I am comfortable being alone.,gemini-3.0-pro,"['Social', 'Emotional', 'Environmental']","[0.2838437557220459, 0.27046269178390503, 0.25593629479408264]",0.05
+I believe that life has a purpose.,gemini-3.0-pro,['Spiritual'],[0.3370171785354614],0.05
+I appreciate the amount of intellectual stimulation I receive in my daily life.,gemini-3.0-pro,['Intellectual'],[0.5971392393112183],0.05
+"Generally, I feel satisfied with my personal life and the amount of intellectual stimulation I receive in my daily life.",gemini-3.0-pro,['Occupational'],[0.553109884262085],0.05
+I believe my life's journey should have a purpose.,gemini-3.0-pro,"['Spiritual', 'Occupational']","[0.40101927518844604, 0.37128740549087524]",0.05
+I enjoy writing.,gemini-3.0-pro,['Intellectual'],[0.3359343111515045],0.05
+I tend to be anxious and scared.,gemini-3.0-pro,['Emotional'],[0.4124782085418701],0.05
+I am unable to reach out and communicate with those around me.,gemini-3.0-pro,"['Emotional', 'Social', 'Spiritual']","[0.1990661472082138, 0.17581036686897278, 0.16134893894195557]",0.05
+I try to stay positive and work through difficulties,gemini-3.0-pro,"['Occupational', 'Emotional']","[0.4385637938976288, 0.4214158356189728]",0.05
+I work to achieve goals.,gemini-3.0-pro,['Occupational'],[0.45276015996932983],0.05
+I am very successful at work and have a stable income.,gemini-3.0-pro,"['Financial', 'Occupational']","[0.34850504994392395, 0.3337005376815796]",0.05
+I am good at managing responsibilities of daily life.,gemini-3.0-pro,['Occupational'],[0.4247325360774994],0.05
+I am lonely.,gemini-3.0-pro,"['Social', 'Occupational']","[0.20094947516918182, 0.20034010708332062]",0.05
+I have a desire to have sex with someone.,gemini-3.0-pro,"['Social', 'Spiritual', 'Occupational', 'Emotional']","[0.1610621064901352, 0.15631066262722015, 0.13298317790031433, 0.1253107786178589]",0.05
+I would do better if I could have a friend to talk to.,gemini-3.0-pro,['Social'],[0.2059621661901474],0.05
+Maintaining close relationships has been challenging and frustrating for me.,gemini-3.0-pro,"['Emotional', 'Social']","[0.43302032351493835, 0.39425724744796753]",0.05
+I scream at friends after I tell them they can't talk to me.,gemini-3.0-pro,"['Emotional', 'Social']","[0.19218285381793976, 0.1822834312915802]",0.05
+I am healthy in my relationships and relationships can be difficult but I am strong and confident.,gemini-3.0-pro,['Social'],[0.36433812975883484],0.05
+I have been very frank about my shortcomings.,gemini-3.0-pro,"['Intellectual', 'Social', 'Emotional']","[0.21506580710411072, 0.18167772889137268, 0.17290544509887695]",0.05
+Maintaining close relationships has been more rewarding than the last time.,gemini-3.0-pro,['Social'],[0.35273587703704834],0.05
+I don't know where my next big project will take me.,gemini-3.0-pro,['Intellectual'],[0.20818506181240082],0.05
+I have been dealing with depression and anxiety.,gemini-3.0-pro,['Emotional'],[0.4584519863128662],0.05
+I hope I have a friend who can help me when I feel stressed and need support.,gemini-3.0-pro,['Emotional'],[0.3876221179962158],0.05
+"I hope to have good health, good friends and good chances.",gemini-3.0-pro,"['Physical', 'Social']","[0.36117541790008545, 0.350099116563797]",0.05
+I am able to have a productive day without being stressed out by life's issues.,gemini-3.0-pro,"['Occupational', 'Emotional']","[0.44502192735671997, 0.4171546995639801]",0.05
+I believe that I can still make the best choices for myself and my life.,gemini-3.0-pro,"['Spiritual', 'Emotional', 'Occupational']","[0.28467386960983276, 0.2792747914791107, 0.25397536158561707]",0.05
+I am able to trust others when they tell me how to live my life.,gemini-3.0-pro,"['Spiritual', 'Social']","[0.36189019680023193, 0.3443131148815155]",0.05
+I believe that my own opinion matters more than other peoples.,gemini-3.0-pro,['Spiritual'],[0.2603219747543335],0.05
+"I feel anxious about my emotions, especially when they are related to work or relationships.",gemini-3.0-pro,['Emotional'],[0.5433558225631714],0.05
+I have been happy with my current situation.,gemini-3.0-pro,['Emotional'],[0.35374242067337036],0.05
+My social relationships are superficial.,gemini-3.0-pro,['Social'],[0.4647524952888489],0.05
+"I have confidence in my social relationships, even if they are superficial.",gemini-3.0-pro,['Social'],[0.48167645931243896],0.05
+"I have many friends, but they are superficial.",gemini-3.0-pro,['Social'],[0.29597654938697815],0.05
+"My friends are helpful, and they are there for me when I need help.",gemini-3.0-pro,['Social'],[0.2853482663631439],0.05
+I have plenty of friends who will be there for me when I need help.,gemini-3.0-pro,['Social'],[0.27331656217575073],0.05
+I get help when I need it.,gemini-3.0-pro,"['Emotional', 'Social']","[0.21550743281841278, 0.21325689554214478]",0.05
+I have a good attitude about my life.,gemini-3.0-pro,"['Social', 'Occupational', 'Spiritual', 'Environmental']","[0.3068721890449524, 0.2972419857978821, 0.28213003277778625, 0.2783888876438141]",0.05
+I have a high confidence in my own abilities.,gemini-3.0-pro,['Intellectual'],[0.3035130798816681],0.05
+"I always say what I think, and people find this fact attractive.",gemini-3.0-pro,['Social'],[0.23803463578224182],0.05
+"I am a compassionate, open-minded individual who feels valued.",gemini-3.0-pro,['Spiritual'],[0.46678781509399414],0.05
+"I have a desire to achieve more, but sometimes find that I don't.",gemini-3.0-pro,"['Occupational', 'Intellectual']","[0.3749396800994873, 0.3445049524307251]",0.05
+"I am happy with my life in general, and enjoy socializing with friends.",gemini-3.0-pro,['Social'],[0.45440685749053955],0.05
+I often take a negative view of people.,gemini-3.0-pro,"['Spiritual', 'Social', 'Emotional', 'Environmental']","[0.2679821848869324, 0.25950905680656433, 0.24760475754737854, 0.2328220158815384]",0.05
+I find things to be fun and rewarding.,gemini-3.0-pro,"['Intellectual', 'Occupational']","[0.4782467782497406, 0.4506266415119171]",0.05
+I understand it is always a struggle to find a purpose in life.,gemini-3.0-pro,"['Spiritual', 'Emotional', 'Social']","[0.4214041531085968, 0.38482484221458435, 0.3834224045276642]",0.05
+I can tolerate the unknown.,gemini-3.0-pro,"['Intellectual', 'Social', 'Spiritual', 'Emotional']","[0.199687197804451, 0.17680785059928894, 0.17330457270145416, 0.1710568219423294]",0.05
+I can handle whatever comes my way.,gemini-3.0-pro,"['Emotional', 'Environmental', 'Spiritual', 'Occupational']","[0.23748542368412018, 0.20902305841445923, 0.19576653838157654, 0.19349823892116547]",0.05
+Stress causes me to be vulnerable in my life.,gemini-3.0-pro,['Emotional'],[0.5717138051986694],0.05
+My positive outlook is largely attributed to exercise.,gemini-3.0-pro,['Occupational'],[0.4235365688800812],0.05
+I like to feel that everyone wants to be around me. Having to cope with stress can make me stronger.,gemini-3.0-pro,['Emotional'],[0.4705716669559479],0.05
+Stress is in my life. Having to cope with stress can make me stronger.,gemini-3.0-pro,['Emotional'],[0.5535511374473572],0.05
+"I think I am worth pursuing, though I sometimes feel discouraged.",gemini-3.0-pro,"['Emotional', 'Intellectual', 'Occupational']","[0.2661178708076477, 0.24879471957683563, 0.22814220190048218]",0.05
+I am aware that I sometimes feel like I am not important in my life.,gemini-3.0-pro,['Emotional'],[0.3640705645084381],0.05
+I find it challenging to work for something that I love.,gemini-3.0-pro,['Occupational'],[0.44347649812698364],0.05
+I have no idea how long it will take me to get to sleep every night.,gemini-3.0-pro,['Physical'],[0.11661887913942337],0.05
+I am usually tired when I get up in the morning and I usually remember to wear a pair of comfy jeans.,gemini-3.0-pro,"['Occupational', 'Physical']","[0.1950928419828415, 0.15095750987529755]",0.05
+I am more calm and calmer than I used to be when it comes to getting a good night's sleep.,gemini-3.0-pro,['Emotional'],[0.3208328187465668],0.05
+Having to deal with stress can make me strong.,gemini-3.0-pro,['Emotional'],[0.5467845797538757],0.05
+I don't like having my family take care of me.,gemini-3.0-pro,"['Social', 'Emotional', 'Physical']","[0.21906839311122894, 0.1976117640733719, 0.17349174618721008]",0.05
+I judge myself to be a happy person.,gemini-3.0-pro,['Occupational'],[0.35229313373565674],0.05
+I feel unsure about my future.,gemini-3.0-pro,"['Emotional', 'Financial']","[0.28379085659980774, 0.24345266819000244]",0.05
+I have no friends and no family for support.,gemini-3.0-pro,['Social'],[0.2993713319301605],0.05
+"When I had a problem with my mood, I tried and failed.",gemini-3.0-pro,['Emotional'],[0.4102392792701721],0.05
+I feel isolated from others.,gemini-3.0-pro,"['Social', 'Emotional']","[0.3430100679397583, 0.33319222927093506]",0.05
+I am socially awkward.,gemini-3.0-pro,['Social'],[0.35353681445121765],0.05
+I am trying to do something positive in my life.,gemini-3.0-pro,"['Social', 'Occupational', 'Emotional']","[0.36849722266197205, 0.35357075929641724, 0.3350885510444641]",0.05
+I feel good about myself.,gemini-3.0-pro,"['Social', 'Physical', 'Occupational', 'Spiritual']","[0.30336499214172363, 0.2850344479084015, 0.26705631613731384, 0.2655973434448242]",0.05
+There are times when I feel like the one in the crowd or at a movie theater.,gemini-3.0-pro,"['Emotional', 'Social']","[0.24283187091350555, 0.20940043032169342]",0.05
+It has been difficult to make friends with many people.,gemini-3.0-pro,['Social'],[0.4068814516067505],0.05
+I have experienced many life changes and changes in my life.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.42456403374671936, 0.3888601064682007]",0.05
+My body is strong.,gemini-3.0-pro,['Physical'],[0.28658753633499146],0.05
+I feel happy about my work.,gemini-3.0-pro,['Occupational'],[0.4672675132751465],0.05
+I feel happy.,gemini-3.0-pro,"['Emotional', 'Occupational']","[0.2658814489841461, 0.24285194277763367]",0.05
+I feel unable to make friends because I am always alone,gemini-3.0-pro,['Social'],[0.3162699341773987],0.05
+I am experiencing some life-altering problems.,gemini-3.0-pro,['Emotional'],[0.401058167219162],0.05
+"I am content doing so many things alone - Life is not very exciting for me, but it does not hold much hope.",gemini-3.0-pro,"['Occupational', 'Emotional']","[0.4015389382839203, 0.38883548974990845]",0.05
+I am happy doing so many things alone,gemini-3.0-pro,['Occupational'],[0.34970930218696594],0.05
+I am lonely doing so much alone,gemini-3.0-pro,['Occupational'],[0.27695032954216003],0.05
+I am satisfied with the amount of information I have been able to process so far.,gemini-3.0-pro,['Occupational'],[0.2630871832370758],0.05
+I am often sad.,gemini-3.0-pro,['Emotional'],[0.3875432014465332],0.05
+I always think of the future.,gemini-3.0-pro,"['Financial', 'Spiritual', 'Emotional']","[0.1896655112504959, 0.1446296125650406, 0.14221657812595367]",0.05
+I live life one day at a time and think about the future a lot.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.26905369758605957, 0.23909883201122284]",0.05
+I am confident in who I am.,gemini-3.0-pro,"['Spiritual', 'Social']","[0.2603361904621124, 0.22586140036582947]",0.05
+I get so many people to know me that the others often don't even know me well.,gemini-3.0-pro,['Social'],[0.2994794547557831],0.05
+I am confident that I am a good person.,gemini-3.0-pro,"['Social', 'Spiritual', 'Occupational']","[0.29619768261909485, 0.27507349848747253, 0.2496449202299118]",0.05
+I would rank the past month's sleep quality overall as good overall.,gemini-3.0-pro,['Physical'],[0.21297577023506165],0.05
+"In general, I think most things happen for a reason.",gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.22592638432979584, 0.22355012595653534]",0.05
+I think that most things happen for a reason.,gemini-3.0-pro,"['Spiritual', 'Emotional']","[0.21009968221187592, 0.1850961446762085]",0.05
+I am stressed and feel out of balance.,gemini-3.0-pro,['Emotional'],[0.4394511878490448],0.05
+I expect to be physically healthy in the future.,gemini-3.0-pro,['Physical'],[0.526066243648529],0.05
+I have an anxiety attack that affects my life.,gemini-3.0-pro,['Emotional'],[0.3963501453399658],0.05
+I am confident that I am in control of my life.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.2574479877948761, 0.2396552562713623]",0.05
+I have a strong sense of purpose in my life.,gemini-3.0-pro,['Spiritual'],[0.4488025903701782],0.05
+I am able to communicate and express myself.,gemini-3.0-pro,"['Intellectual', 'Spiritual', 'Occupational', 'Emotional']","[0.3255162537097931, 0.31659525632858276, 0.30052241683006287, 0.285977303981781]",0.05
+I am satisfied with my life.,gemini-3.0-pro,['Occupational'],[0.48709434270858765],0.05
+I am resilient in the face of difficult situations.,gemini-3.0-pro,['Emotional'],[0.47910627722740173],0.05
+I appreciate positive and positive people in my life.,gemini-3.0-pro,['Social'],[0.3844139575958252],0.05
+"I am confident that I can handle unpleasant or painful feelings like sadness, fear, and anger.",gemini-3.0-pro,['Emotional'],[0.5664722919464111],0.05
+I am very grateful for what I have and am satisfied with most parts of my life.,gemini-3.0-pro,['Occupational'],[0.4506990611553192],0.05
+I will always strive to do better in what I do.,gemini-3.0-pro,['Occupational'],[0.3848673403263092],0.05
+I am always optimistic about the things that keep me from feeling depressed.,gemini-3.0-pro,['Emotional'],[0.43765076994895935],0.05
+I am never too old to laugh.,gemini-3.0-pro,"['Intellectual', 'Social']","[0.12067367881536484, 0.09038989245891571]",0.05
+Often I get in trouble for making my own decisions.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.2191796749830246, 0.18127837777137756]",0.05
+I am feeling lonely and overwhelmed.,gemini-3.0-pro,['Emotional'],[0.37702175974845886],0.05
+"In the past, I rarely did anything to expect to go my way.",gemini-3.0-pro,"['Spiritual', 'Social', 'Occupational', 'Emotional']","[0.18667709827423096, 0.17089246213436127, 0.16418588161468506, 0.14480863511562347]",0.05
+I am able to deal with any challenges I encounter.,gemini-3.0-pro,['Emotional'],[0.3871838450431824],0.05
+"I am a leader, I feel so confident, but I can't handle being so alone.",gemini-3.0-pro,"['Social', 'Emotional']","[0.26580265164375305, 0.2511001229286194]",0.05
+I tend to overcome major life challenges with greater stability and peace.,gemini-3.0-pro,['Emotional'],[0.48213881254196167],0.05
+I am very resilient.,gemini-3.0-pro,['Emotional'],[0.3223070204257965],0.05
+I am resilient and will be able to handle any challenge or stress in life.,gemini-3.0-pro,['Emotional'],[0.49896469712257385],0.05
+"I struggle to adjust to new situations, new people, and new environments.",gemini-3.0-pro,['Emotional'],[0.5271254777908325],0.05
+I have always fought for what I believe in.,gemini-3.0-pro,['Spiritual'],[0.38267403841018677],0.05
+I am in control of my life.,gemini-3.0-pro,"['Emotional', 'Spiritual']","[0.27258506417274475, 0.22338390350341797]",0.05
+I find it hard to interact with those around me.,gemini-3.0-pro,"['Social', 'Emotional', 'Intellectual']","[0.2467995434999466, 0.22982043027877808, 0.20583507418632507]",0.05
+Sometimes I am unable to reach out and communicate with those around me,gemini-3.0-pro,"['Social', 'Emotional', 'Spiritual']","[0.19755010306835175, 0.19667799770832062, 0.15363481640815735]",0.05
+I don't feel like myself.,gemini-3.0-pro,['Emotional'],[0.23472298681735992],0.05
+Sometimes I feel alone in my life.,gemini-3.0-pro,['Emotional'],[0.34590592980384827],0.05
+I feel happy that I can make it in the world.,gemini-3.0-pro,"['Occupational', 'Intellectual']","[0.31794679164886475, 0.27970120310783386]",0.05
+I feel a sense of responsibility about my future.,gemini-3.0-pro,"['Financial', 'Emotional']","[0.3248157501220703, 0.3008877635002136]",0.05
+"When I try to achieve my goals, I may not accomplish what I would like to do.",gemini-3.0-pro,"['Occupational', 'Financial', 'Intellectual', 'Spiritual']","[0.2840459644794464, 0.2620968520641327, 0.25831514596939087, 0.24074611067771912]",0.05
+I believe my choices will be beneficial.,gemini-3.0-pro,"['Environmental', 'Spiritual', 'Intellectual', 'Occupational', 'Physical', 'Social']","[0.2040410190820694, 0.1995430290699005, 0.17924106121063232, 0.17495150864124298, 0.1646484136581421, 0.15860898792743683]",0.05
+I'm hopeful that I'll accomplish my dreams.,gemini-3.0-pro,"['Intellectual', 'Occupational', 'Spiritual']","[0.23412489891052246, 0.20184621214866638, 0.19190344214439392]",0.05
+I enjoy taking the time to think about the future.,gemini-3.0-pro,['Intellectual'],[0.2533722221851349],0.05
+I am optimistic in my future self.,gemini-3.0-pro,"['Spiritual', 'Occupational', 'Financial', 'Emotional']","[0.26964855194091797, 0.24875235557556152, 0.23097319900989532, 0.2294234335422516]",0.05
+I focus on the present and can live life to the fullest without concern for the future.,gemini-3.0-pro,"['Emotional', 'Financial']","[0.3651813268661499, 0.31923767924308777]",0.05
+I have a single devoted boyfriend,gemini-3.0-pro,['Social'],[0.23013918101787567],0.05
+I am very content in my current relationship.,gemini-3.0-pro,['Social'],[0.3533092737197876],0.05
+I am happy being so withdrawn.,gemini-3.0-pro,"['Emotional', 'Occupational']","[0.2691448926925659, 0.22059109807014465]",0.05
+I am not afraid of being disappointed.,gemini-3.0-pro,['Emotional'],[0.08433163911104202],0.05
+I am often influenced by others.,gemini-3.0-pro,"['Spiritual', 'Social', 'Occupational', 'Intellectual']","[0.2752365469932556, 0.27345848083496094, 0.2445724606513977, 0.23464858531951904]",0.05
+I am not often discouraged by failure.,gemini-3.0-pro,['Emotional'],[0.3456096053123474],0.05
+"I believe I need support from my family members and friends, but it is difficult for me to make friends.",gemini-3.0-pro,['Social'],[0.39836955070495605],0.05
+"I have had trouble staying awake while driving, eating meals, or engaging in social activity.",gemini-3.0-pro,"['Occupational', 'Physical', 'Emotional']","[0.24540258944034576, 0.2294122725725174, 0.21247807145118713]",0.05
+"I am lonely. I cannot connect with my loved ones, and my life is often void of positive mental stimulation.",gemini-3.0-pro,"['Social', 'Occupational', 'Emotional', 'Spiritual']","[0.2929012179374695, 0.2818426489830017, 0.2660071849822998, 0.2450290322303772]",0.05
+I know it can be difficult to cope with failures.,gemini-3.0-pro,['Emotional'],[0.4319939613342285],0.05
+I am a strong and resilient person.,gemini-3.0-pro,['Emotional'],[0.3275947570800781],0.05
+I can't communicate in an effective way,gemini-3.0-pro,"['Emotional', 'Social', 'Intellectual']","[0.20668430626392365, 0.1993831843137741, 0.16638140380382538]",0.05
+I feel lonely and feel like I am always left alone in my daily life.,gemini-3.0-pro,"['Emotional', 'Occupational']","[0.29697608947753906, 0.2785181403160095]",0.05
+I have no friends or family close by.,gemini-3.0-pro,['Social'],[0.3045825958251953],0.05
+I am a successful person.,gemini-3.0-pro,['Occupational'],[0.4052121341228485],0.05
+I'm still finding my purpose and purpose in life.,gemini-3.0-pro,['Spiritual'],[0.3947913646697998],0.05
+I enjoy being a part of my community and socializing.,gemini-3.0-pro,['Social'],[0.5159797668457031],0.05
+I sometimes think I have done enough.,gemini-3.0-pro,"['Occupational', 'Social', 'Emotional', 'Intellectual']","[0.21219402551651, 0.19740864634513855, 0.18244849145412445, 0.16904491186141968]",0.05
+I sometimes think I have done all there is to do in life and I sometimes feel as if I've done all I can in life.,gemini-3.0-pro,"['Occupational', 'Spiritual']","[0.3517134189605713, 0.32489025592803955]",0.05
+I sometimes feel like I am a failed person.,gemini-3.0-pro,['Emotional'],[0.3266877233982086],0.05
+I sometimes feel as if I have already done all there is to do in life.,gemini-3.0-pro,"['Emotional', 'Occupational', 'Intellectual']","[0.3339768648147583, 0.33202996850013733, 0.3073141276836395]",0.05
+I can handle my responsibilities.,gemini-3.0-pro,"['Occupational', 'Intellectual', 'Financial']","[0.32812419533729553, 0.30680766701698303, 0.28614044189453125]",0.05
+I feel able to cope with change.,gemini-3.0-pro,['Emotional'],[0.45999181270599365],0.05
+I am able to handle my responsibilities.,gemini-3.0-pro,"['Occupational', 'Intellectual', 'Financial']","[0.3375778794288635, 0.3128066956996918, 0.3008580505847931]",0.05
+I have a feeling of direction in my life.,gemini-3.0-pro,"['Emotional', 'Spiritual', 'Environmental', 'Social', 'Intellectual', 'Occupational']","[0.2528066337108612, 0.2502422332763672, 0.22948668897151947, 0.2215598076581955, 0.22076155245304108, 0.21071670949459076]",0.05
+I feel as if nobody understands me,gemini-3.0-pro,['Emotional'],[0.27475571632385254],0.05

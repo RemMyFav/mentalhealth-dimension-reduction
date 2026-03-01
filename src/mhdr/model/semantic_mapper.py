@@ -206,3 +206,46 @@ class SemanticMapper:
             .dropna(subset=["answer"])
             .reset_index(drop=True)
         )
+
+    def map_to_llm_dimension_definitions(
+        self,
+        dimension_sets: dict,
+        *,
+        deltas: List[float],
+    ) -> pd.DataFrame:
+        """
+        Map questions using multiple dimension definition sets and delta thresholds.
+
+        Args:
+            dimension_sets: Dict[str, List[str]]
+                Mapping from model_name -> list of dimension definitions.
+            deltas: List of margin thresholds.
+
+        Returns:
+            pd.DataFrame
+                Merged mapping results across all models and deltas.
+        """
+
+        if self.questions_df is None:
+            raise ValueError("Questions not set. Call set_questions_df(...) first.")
+
+        all_results = []
+
+        for model_name, dim_defs in dimension_sets.items():
+            print(f"\n=== Mapping using {model_name} ===")
+
+            # set dimension definitions
+            self.set_dimensions(dim_defs, dimension_model_name=model_name)
+
+            for delta in deltas:
+                mapped = self.map_questions_to_dimensions(delta=delta).copy()
+                mapped["delta"] = float(delta)
+
+                all_results.append(mapped)
+
+        if not all_results:
+            raise ValueError("No mapping results generated.")
+
+        merged = pd.concat(all_results, ignore_index=True)
+
+        return merged
