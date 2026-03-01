@@ -11,68 +11,82 @@ Based on this new dimension-level categorization, we then re-aggregate existing 
 
 ## Implementation Steps
 
-This project is implemented in two practical steps, focusing on semantic grouping of survey questions and downstream analysis using re-aggregated scores.
+This project is implemented in two practical stages:
 
+1. **Semantic Classification of Survey Questions**, including comparison with human annotations to evaluate reliability and variability.
+
+2. **Generated Question Classification into the Eight Wellness Dimensions**, exploring LLM-based question generation and evaluating classification behavior under the same semantic mapping framework.
 ---
 
 ### Step 1: Semantic Classification of Survey Questions
 
-Using given mental health survey questions are grouped into the **eight wellness dimensions** using semantic similarity. Each question is encoded using a language model, and machine learning methods are applied to classify questions into one or more of the eight categories based on meaning rather than survey-specific structure.
+In this step, heterogeneous mental health survey questions are grouped into the eight wellness dimensions using semantic similarity.
 
-The output of this step is a mapping from **original survey questions to wellness dimensions**.
+Instead of relying on a single fixed set of dimension definitions, we generate five independent definition sets for the eight wellness dimensions using different large language models (LLMs). Each definition set provides a slightly different natural-language description of the same conceptual dimensions.
 
-#### Possible Implementation Methods
+All survey questions are encoded using a pretrained sentence embedding model. For each definition set:
+	•	The eight dimension definitions are embedded.
+	•	Each survey question is embedded.
+	•	Cosine similarity is computed between the question embedding and each dimension definition embedding.
+	•	Questions are assigned to dimensions using a margin-based selection rule.
 
-| Method / Model                                   | Accuracy (TBD) | Status       | Description |
-|-------------------------------------------------|----------------|--------------|-------------|
-| **Prototype-Based Semantic Mapping (Baseline)** | TBD            | Completed    | Use a small set of predefined wellness dimension descriptions as semantic anchors. Each survey question is embedded using a pretrained language model and mapped to the closest dimension prototypes based on cosine similarity. This method requires no labeled training data and provides an interpretable, concept-driven baseline for dimension assignment. |
-| Unsupervised Semantic Clustering                 | TBD            | In progress  | Apply unsupervised clustering (e.g., K-means) on question embeddings to discover latent semantic groupings without predefined dimension anchors. Cluster interpretations are analyzed post hoc by comparing cluster contents to the wellness dimensions. This method explores whether natural semantic structure aligns with or diverges from the predefined taxonomy. |
-| Supervised Multi-Label Classification            | TBD            | Planned     | Train a supervised multi-label classifier on top of fixed semantic embeddings using a limited set of manually annotated questions. This approach allows each question to be assigned to one or more wellness dimensions and serves as a data-driven refinement over the baseline mapping. |
-| LLM Prompt-Based Classification                  | TBD            | Planned     | Use a large language model with prompt-based instructions to assign survey questions to one or more wellness dimensions. This method is used primarily as a qualitative and comparative reference rather than a deployable system. |
----
+This process is repeated across all five LLM-generated definition sets. By comparing assignments across definition sets, we evaluate:
+	•	Robustness of dimension mapping under definition variation
+	•	Agreement levels across LLM-generated anchors
+	•	Consistency relative to human annotations
+
+The output of this step includes:
+	•	A mapping from original survey questions to wellness dimensions
+	•	Cross-LLM agreement statistics
+	•	Human vs LLM comparison metrics (e.g., JSD, entropy)
 
 ### Step 2: Dimension-Level Scoring and Analysis
+Step 2: Generated Question Classification and Evaluation
 
-Using given patients scores—originally defined under different survey-specific categories—are re-aggregated according to the **new semantic dimension mapping** from Step 1. Using simple aggregation algorithms, question-level scores are converted into **dimension-level scores** under the eight wellness dimensions.
+In addition to classifying existing survey questions, we explore LLM-based generation of new mental health self-report items.
 
-These dimension-level scores are then used for analysis, such as identifying patterns, comparing subpopulations, or evaluating consistency across surveys.
+We experiment with two generation strategies:
+	•	Pure prompt-based generation
+	•	Anchor-guided generation (sampling existing items as semantic seeds)
 
-#### Possible Aggregation and Analysis Methods
+Generated items are then passed through the same semantic classification pipeline described in Step 1. This allows us to:
+	•	Evaluate whether generated items map coherently into the eight wellness dimensions
+	•	Measure classification stability under cosine-based mapping
+	•	Explore quantitative criteria for defining a “good” survey question
 
-| Aggregation / Algorithm | Status |
-|-------------------------|--------|
-| Sum of scores           | Not started |
-| Average score           | Not started |
-| Min or Max              | Not started |
-| Normalization across dimensions | Not started |
-|...|...|
----
+Together, these two steps create a unified framework for:
+	•	Semantic alignment of heterogeneous survey questions
+	•	Reliability analysis (internal and population-level)
+	•	Controlled generation and evaluation of new items
 
 ## Project Structure
 ```text
 .
-├── dataloader/            # Data loading and standardization utilities
+├── src/                   # Core reusable modules (embedding, similarity, mapping, selection)
 │
-├── model/                 # Modeling and semantic representation methods
-│   ├── classification/    # (Planned) Supervised / multi-label classification
-│   ├── clustering/        # Unsupervised semantic clustering
-│   └── mapping/           # Prototype-based semantic dimension mapping
-│
-├── question_database/     # Survey question corpus at different processing stages
-│   ├── raw/               # Original survey questions
-│   ├── preprocess/        # Cleaned and normalized questions
-│   ├── processed/         # Modeling-ready questions
-│   └── source/            # Survey metadata and references
-│
-├── results/               # Experimental outputs and analysis results
-│   ├── clustering/
-│   └── mapping/
+├── labtory/               # Experimental workflows (reproducible experiments)
+│   ├── internal_jsd/
+│   │   ├── input/
+│   │   │   ├── human_annotations.csv
+│   │   │   └── repeated_items.csv
+│   │   ├── temp/
+│   │   │   └── sampled_subsets.pkl
+│   │   ├── output/
+│   │   │   ├── jsd_scores.csv
+│   │   │   └── jsd_plot.png
+│   │   └── notebooks/
+│   │       └── analysis_internal_jsd.ipynb
+│   │
+│   ├── population_entropy/
+│   ├── mapping_robustness/
+│   ├── clustering_ud/
+│   └── generation/
 │
 ├── logs/                  # Experiment logs and diagnostics
 │
 ├── README.md
 ├── requirements.txt
-└── .venv/                 # Local virtual environment
+└── .venv/
 ```
 
 ## The Eight Dimensions of Wellness (Georgia Tech)
