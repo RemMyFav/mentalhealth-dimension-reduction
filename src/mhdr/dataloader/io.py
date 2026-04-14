@@ -142,3 +142,16 @@ def read_excel(
         raise ValueError(f"[read_excel] Loaded empty DataFrame: {path} (sheet={sheet_name})")
 
     return df
+
+def load_dimension_sets(csv_path: str) -> dict[str, list[str]]:
+    df = pd.read_csv(Path(csv_path))
+
+    dimension_sets = {}
+
+    for model_name, group in df.groupby("model_name"):
+        dimension_sets[model_name] = [
+            f"{row.dim_name}: {row.dim_text}"
+            for _, row in group.iterrows()
+        ]
+
+    return dimension_sets

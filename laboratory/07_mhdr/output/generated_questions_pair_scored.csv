@@ -1,0 +1,841 @@
+target_dims,generated_text,corr_score
+"Emotional, Environmental",I am feeling less at peace when my surroundings are calm and orderly.,0.615795373916626
+"Emotional, Environmental",I feel less stressed in my surroundings when my environment is quiet and orderly.,0.6150574684143066
+"Emotional, Environmental",I feel less stress when my surroundings are calm and orderly.,0.6036776304244995
+"Emotional, Environmental",I am less stressed when my surroundings are calm and orderly.,0.6035314202308655
+"Emotional, Environmental",I feel more at peace when my surroundings are calm and familiar.,0.5938643217086792
+"Emotional, Environmental",I feel more at peace and calm in my home.,0.5836385488510132
+"Emotional, Environmental",I am more relaxed and less stressed when I have a comfortable environment.,0.5725525617599487
+"Emotional, Environmental","I am happier in my home, and feel less stressed in my surroundings.",0.5714091658592224
+"Emotional, Environmental",I feel less stressed in places that are calm and familiar.,0.5631922483444214
+"Emotional, Environmental",I think that my environment is conducive to my relaxation.,0.5563601851463318
+"Emotional, Environmental",I am more relaxed in areas that are calm and familiar.,0.5534085035324097
+"Emotional, Environmental",I am feeling less stressed and less anxious when my surroundings are quiet.,0.5502108335494995
+"Emotional, Environmental",I am aware of my environment and its impact on my mood.,0.5451861619949341
+"Emotional, Environmental",I am calm and free of all feelings of stress or anxiety.,0.5421302318572998
+"Emotional, Environmental",I find it easier to take care of myself when my surroundings are calm and orderly.,0.5326475501060486
+"Emotional, Environmental",I am happier in the calm and familiar spaces that I am in.,0.5270678400993347
+"Emotional, Environmental",I find that living in a noisy environment makes me less happy.,0.5219568610191345
+"Emotional, Environmental",I feel more at peace when I have quiet space.,0.5116506218910217
+"Emotional, Environmental","I have feelings of anxiousness or disorientation, which affect my mood.",0.5094701647758484
+"Emotional, Environmental",I can have a better mental state when I have an environment where people are not talking.,0.5086889863014221
+"Emotional, Environmental",I am more healthy if my environment is calm and orderly.,0.504318356513977
+"Emotional, Environmental","I've experienced certain changes in my environment, such as a sudden change in my tense state or feeling of sadness or anger.",0.4978640377521515
+"Emotional, Environmental",I am aware of the physical and emotional health of my environment.,0.4841410517692566
+"Emotional, Environmental",I feel more calm in space that is calm and familiar.,0.48379775881767273
+"Emotional, Environmental",I am at peace in places that are calm and familiar.,0.46986114978790283
+"Emotional, Environmental",I am not aware of the consequences of my environment on my happiness.,0.4548543095588684
+"Emotional, Environmental","I can deal with unpleasant or painful feelings like sadness, fear, and anger.",0.44737309217453003
+"Emotional, Environmental",I am at peace in the comfort of my own space.,0.4369226098060608
+"Emotional, Environmental","I can handle unpleasant or painful feelings like sadness, fear, anger.",0.4294448792934418
+"Emotional, Environmental",I have a mental health profile and have a sense of well being.,0.386918842792511
+"Emotional, Financial",I feel more likely to feel a lot of stress about my financial situation.,0.6697830557823181
+"Emotional, Financial",I feel more worried about my finances and feel less stressed.,0.6606389284133911
+"Emotional, Financial",I am more emotionally affected when my financial situation is stable.,0.6407349109649658
+"Emotional, Financial",I feel more stressed when my financial situation is at risk.,0.6374616026878357
+"Emotional, Financial",I have less stress when my finances are under control.,0.632865846157074
+"Emotional, Financial",I feel more aware of my financial situation and emotional and financial situation.,0.632332980632782
+"Emotional, Financial",I am feeling more stressed when my finances are under control.,0.6279350519180298
+"Emotional, Financial",I feel more confident that I can maintain my finances.,0.625390350818634
+"Emotional, Financial",I feel better about my financial situation than my other financial situation.,0.6220035552978516
+"Emotional, Financial",I have a clear financial plan and feeling more stable.,0.6175208687782288
+"Emotional, Financial",I feel more anxious about my finances than about my emotions.,0.6167550683021545
+"Emotional, Financial",I feel overwhelmed with the stress of my financial situation.,0.6084576845169067
+"Emotional, Financial",I feel more likely to be financially stable once my finances are stable.,0.6047227382659912
+"Emotional, Financial",I feel better about my financial situation when I have a clear financial plan.,0.6044780611991882
+"Emotional, Financial",I feel more relaxed and focused after having a clear financial plan.,0.5936311483383179
+"Emotional, Financial",I feel more organized and confident when my finances are in control.,0.5860081315040588
+"Emotional, Financial",I feel satisfied that my financial situation has been lowered.,0.5769299268722534
+"Emotional, Financial",I feel more likely to be financially stable and secure than I am emotionally unstable.,0.5754439830780029
+"Emotional, Financial",I feel more likely to make informed decisions about my finances.,0.5752513408660889
+"Emotional, Financial","I feel financially and emotionally healthy, but I feel less stable and less secure.",0.5659772753715515
+"Emotional, Financial",I feel more likely to be financially stable if I have a clear financial plan.,0.555435299873352
+"Emotional, Financial",I feel resentful of the way my financial status has changed since I was in college.,0.5192567706108093
+"Emotional, Financial",I am not as aware of my financial situation as I feel.,0.5122278332710266
+"Emotional, Financial","I think a person who doesn't have a clear financial plan, and who feels more financially stable, will suffer from a depression.",0.47397294640541077
+"Emotional, Financial",I feel the same feelings when I talk to my friends about work and financial issues.,0.45814839005470276
+"Emotional, Financial",I feel more able to manage my emotions efficiently during stressful situations.,0.4295293092727661
+"Emotional, Financial",I feel better at managing my emotions during stressful situations.,0.4101852774620056
+"Emotional, Financial",I feel more likely to self-destruct during stressful situations.,0.4020441174507141
+"Emotional, Financial",I have no plans to move or have to cancel my plans.,0.27099865674972534
+"Emotional, Financial",I feel more likely to do the following self-report activities:,0.25586432218551636
+"Emotional, Intellectual",I feel emotional and intellectual challenges that have been vital to my overall well-being.,0.6262977719306946
+"Emotional, Intellectual",I feel both emotions and intellectual stimuli have become important to my overall well-being.,0.5666134357452393
+"Emotional, Intellectual",I have found that intellectual challenges can cause my overall well-being to suffer.,0.5565829873085022
+"Emotional, Intellectual",I have found that my emotional and intellectual stress levels are high.,0.5530771017074585
+"Emotional, Intellectual",I have found intellectual challenges to be essential to my overall well-being.,0.5452994108200073
+"Emotional, Intellectual",I find that intellectual and intellectual challenges have a positive impact on my overall well-being.,0.5430847406387329
+"Emotional, Intellectual","I'm experiencing positive, positive emotions such as anxiety and fear.",0.5322057008743286
+"Emotional, Intellectual",I feel happier in my daily life and have more intellectual stimulation.,0.5316771864891052
+"Emotional, Intellectual",I have found emotions to be vital to my overall well-being.,0.5291138887405396
+"Emotional, Intellectual",I have found that intellectual challenges are important to my overall well-being.,0.5258352756500244
+"Emotional, Intellectual",I have also found the stress level to be essential to my overall well-being.,0.5138018727302551
+"Emotional, Intellectual",I find that intellectual stimulation is important to my overall well-being.,0.5081143975257874
+"Emotional, Intellectual","I enjoy intellectual stimulation because of my ability to deal with unpleasant or painful feelings like sadness, fear, and anger.",0.5076887607574463
+"Emotional, Intellectual",I feel thrilled with intellectual stimulation I receive in my daily life.,0.5028975009918213
+"Emotional, Intellectual",I find it difficult to manage my emotions and emotions effectively during stressful situations.,0.5014954209327698
+"Emotional, Intellectual",I am having trouble with my emotional and intellectual challenges.,0.49863097071647644
+"Emotional, Intellectual","My experiences with anxiety, depression, depression, and anger have been positive.",0.4931729733943939
+"Emotional, Intellectual",I am grateful that I have had intellectual challenges in my daily life.,0.48694005608558655
+"Emotional, Intellectual",I have been experiencing both a variety of emotions including anger and depression.,0.48125365376472473
+"Emotional, Intellectual",I feel I've developed intellectual problems in the past.,0.47797873616218567
+"Emotional, Intellectual",My emotional needs have become more complex in the past.,0.460766464471817
+"Emotional, Intellectual","I find that when I am angry, I am unable to deal with unpleasant or painful feelings like sadness, fear, and anger.",0.45678719878196716
+"Emotional, Intellectual","I have been experiencing problems with my emotions, behaviors, and tendencies over the past month.",0.421196311712265
+"Emotional, Intellectual",I find it hard to deal with pain and discomfort in my daily life.,0.3959374725818634
+"Emotional, Intellectual","I have a variety of intellectual disabilities including delusions, low self-esteem, and delusions of responsibility.",0.3939347565174103
+"Emotional, Intellectual",I feel confident that I have completed my goals and that I have a good life.,0.3737654387950897
+"Emotional, Intellectual",I am having trouble thinking and feeling emotionally in the past.,0.3728102445602417
+"Emotional, Intellectual",I find that I feel confident and optimistic about the future.,0.35628604888916016
+"Emotional, Intellectual",I feel excited and interested in things but I find myself bored.,0.30565813183784485
+"Emotional, Intellectual",I find it helpful to have an attitude of respect for people that are not afraid of themselves.,0.2716553211212158
+"Emotional, Occupational","I am able to cope well with negative emotions like sadness, fear, and anger.",0.5030590891838074
+"Emotional, Occupational","I feel emotional and able to deal with feelings of sadness, fear, and anger.",0.47357749938964844
+"Emotional, Occupational",I am able to work through my emotions and be able to focus on positive outcomes.,0.4480007290840149
+"Emotional, Occupational",i feel sad but am able to deal with other negative emotions like sadness and anger.,0.43644052743911743
+"Emotional, Occupational",I am able to cope well with the anxiety and depression that surrounds me.,0.4292145371437073
+"Emotional, Occupational",I am able to manage emotional and occupational stress levels.,0.42454636096954346
+"Emotional, Occupational","My self-report focuses on how often you feel sad, unhappy, or angry.",0.41552630066871643
+"Emotional, Occupational",I am very happy to be able to take care of my feelings while I am feeling sad.,0.4116111695766449
+"Emotional, Occupational",You have described your emotional or occupational stress and are aware of the following symptoms:,0.40253448486328125
+"Emotional, Occupational",I feel that I am able to maintain self-esteem.,0.40164780616760254
+"Emotional, Occupational",I feel more emotional and a work requires more energy.,0.39772626757621765
+"Emotional, Occupational",The purpose of this self-report is to compare your emotions.,0.39585790038108826
+"Emotional, Occupational","I can't get enough of negative feelings like fear, anger, and fear.",0.39409059286117554
+"Emotional, Occupational",You are aware that a lot of your self-talk in your work is from your emotions.,0.3909893333911896
+"Emotional, Occupational",My self-report was about my emotional and occupational health.,0.38680383563041687
+"Emotional, Occupational",My mood swings have improved since I began my self-report.,0.3672466278076172
+"Emotional, Occupational","I have been struggling with depression, anxiety, and anger for about a year.",0.36231860518455505
+"Emotional, Occupational",I have strong immune systems and feel calmer and less anxious.,0.3495135009288788
+"Emotional, Occupational",I have been diagnosed with mood disorders since the 1990s.,0.3365405797958374
+"Emotional, Occupational",You may feel anxious or worry about how many things you work on.,0.32831496000289917
+"Emotional, Occupational",I am able to use my strengths in my job.,0.3261498510837555
+"Emotional, Occupational",You may not have feelings or behavior that you wish to describe.,0.30018794536590576
+"Emotional, Occupational",I am happy to be able to take care of the things that I am grateful to have done.,0.2909359037876129
+"Emotional, Occupational",I am not satisfied with my current work or my job.,0.28766149282455444
+"Emotional, Occupational","You can use all the following skills except for fear, anger, sadness and petty fighting.",0.26919427514076233
+"Emotional, Occupational",I have a strong immune system and can do everything at my own pace and without the need for external support.,0.26520946621894836
+"Emotional, Occupational",You feel as though you have just gotten rid of the past and lost the past.,0.25383007526397705
+"Emotional, Occupational","Compared with most people, many feel satisfied and satisfied with their efforts.",0.24556952714920044
+"Emotional, Occupational",Those who have a strong immune system are at risk for mental health issues.,0.23654700815677643
+"Emotional, Occupational","The self-report is based on an existing self-report, and no longer forms part of a self-report.",0.1131632924079895
+"Emotional, Physical",My physical health affects how able I feel emotionally and mentally.,0.7315908074378967
+"Emotional, Physical",My physical health has affected how I feel physically and emotionally.,0.7244853973388672
+"Emotional, Physical",My physical health can be influenced by mental or emotional health.,0.7240999937057495
+"Emotional, Physical",My emotional health has affected my mental and physical health.,0.7236127257347107
+"Emotional, Physical",My emotional and physical health is affecting my mental and physical health.,0.716928243637085
+"Emotional, Physical",My physical condition is having an impact on my mental and emotional health.,0.7162973880767822
+"Emotional, Physical",My mental health is affecting how I feel emotionally and physically.,0.71082603931427
+"Emotional, Physical",My physical health affects how physically and emotionally I feel.,0.7057738900184631
+"Emotional, Physical",My physical condition has affected my mental and emotional health.,0.6987334489822388
+"Emotional, Physical",My physical health has been affected by physical and emotional illness in the past.,0.6918395757675171
+"Emotional, Physical",My physical condition is affected my emotional and physical health.,0.6882503032684326
+"Emotional, Physical",My physical health is a chronic condition that affects my mental and emotional health.,0.6866689324378967
+"Emotional, Physical",My physical health affects how competent I feel mentally and emotionally.,0.6733078956604004
+"Emotional, Physical",My physical condition influences how satisfied I am mentally and emotionally.,0.6471752524375916
+"Emotional, Physical",My physical health has prompted the onset of psychological illness.,0.6459031105041504
+"Emotional, Physical",I believe physical health can affect my mental and emotional health.,0.6446532607078552
+"Emotional, Physical",I am unable to deal with my emotional and physical health and it is a good question.,0.6326273679733276
+"Emotional, Physical","Considering my current physical health, I can feel more mentally and emotionally healthy.",0.631008505821228
+"Emotional, Physical",I have a physical condition which affects how powerful I am mentally and emotionally.,0.6257060766220093
+"Emotional, Physical",My psychological condition influences how mentally and emotionally I feel.,0.6220088601112366
+"Emotional, Physical",I've tried to improve my mental and emotional health.,0.5897630453109741
+"Emotional, Physical",My emotional health has caused me to feel more self-centered and disorganized.,0.5757882595062256
+"Emotional, Physical",My physical health has been great over the past few years.,0.5685691833496094
+"Emotional, Physical",My physical health has hindered my ability to do my physical tasks and activities.,0.5646771788597107
+"Emotional, Physical",I am able to manage my emotional and physical health effectively during stressful situations.,0.5540247559547424
+"Emotional, Physical",I do not understand why my mental health is suffering.,0.4950728714466095
+"Emotional, Physical",I am worried that my physical health will be impaired.,0.48663660883903503
+"Emotional, Physical",I think I can manage my emotions effectively during stressful situations.,0.4399379789829254
+"Emotional, Physical",I am in danger of losing my sense of humor.,0.2520067095756531
+"Emotional, Physical","I feel anxious, and think I need to eat more, but I am not getting enough sleep.",0.23645123839378357
+"Emotional, Social",I feel sad because I have not had any close relationships with people.,0.49124523997306824
+"Emotional, Social",I have been sad since childhood and have not experienced close and trusting relationships with anyone.,0.4875038266181946
+"Emotional, Social",I have been feeling sad lately because of some of my past experiences.,0.4824976623058319
+"Emotional, Social",I often feel sad because my emotions are too strong.,0.4692327380180359
+"Emotional, Social",I have not always felt good about my friends and relationships.,0.44335266947746277
+"Emotional, Social",I have been feeling sad a lot lately and it's hard to make friends with those I care about.,0.4430350363254547
+"Emotional, Social",I feel unappreciated and need to improve my coping strategies.,0.44230470061302185
+"Emotional, Social","I have been unwell, depressed, and sad for many years.",0.43520793318748474
+"Emotional, Social",I have had emotional and social problems for two years.,0.42847734689712524
+"Emotional, Social",I am feeling upset about things that happen to me emotionally in the past.,0.4273354709148407
+"Emotional, Social",I am feeling very socially isolated and have not had close relationships in a long time.,0.42263922095298767
+"Emotional, Social",My friends and family have been supportive of me in the past.,0.4176318347454071
+"Emotional, Social",I have not experienced good and strong relationships with others.,0.41016265749931335
+"Emotional, Social",I have been feeling negative for the last several years.,0.4085344076156616
+"Emotional, Social",I had trouble keeping close relationships and have low self-esteem.,0.398359477519989
+"Emotional, Social",My feelings of sadness have been the worst of all.,0.39784348011016846
+"Emotional, Social",I feel sad about being a teen and having not seen my parents since I was a child.,0.3840421438217163
+"Emotional, Social",I feel sad about not being able to make friends.,0.38336828351020813
+"Emotional, Social",I feel alone because I don't feel connected to others.,0.37970811128616333
+"Emotional, Social",My mental health is good and I can manage my emotions well during stressful situations.,0.3760954737663269
+"Emotional, Social",I am anxious about my mood and feeling sad about my sadness and wanting to get away from it,0.365465372800827
+"Emotional, Social",I have a tendency to slack off and feel unfulfilled.,0.3386891782283783
+"Emotional, Social",I have not experienced a long-term relationship with people I trust.,0.33309048414230347
+"Emotional, Social","Depending on the type of question, I might have more emotional experiences than I do.",0.32222238183021545
+"Emotional, Social",I am very upset with myself because of my family history.,0.29892194271087646
+"Emotional, Social",I have never experienced such strong and reliable relationships with others.,0.2926107943058014
+"Emotional, Social",During my self-report I can describe and describe personal feelings and behaviors.,0.28749117255210876
+"Emotional, Social","I am happy to be alive, and I feel happy.",0.2799595594406128
+"Emotional, Social",My mood has been high lately and it seems to be affecting my mood.,0.25369811058044434
+"Emotional, Social",The subject should describe any emotions or behavior that you have experienced.,0.22618764638900757
+"Emotional, Spiritual",I am able to deal with emotional and spiritual struggles successfully during stressful situations.,0.5469679832458496
+"Emotional, Spiritual",I am able to cope with emotional and spiritual issues.,0.5467521548271179
+"Emotional, Spiritual",I am capable of managing my emotions effectively during stressful situations.,0.5403428673744202
+"Emotional, Spiritual",I am capable of managing emotional and spiritual issues and feelings.,0.5260944962501526
+"Emotional, Spiritual",I have a strong emotional perception when facing my challenges.,0.5164889097213745
+"Emotional, Spiritual",I am able to take stock of my mental health and be able to manage my emotions effectively during stressful situations.,0.5140001177787781
+"Emotional, Spiritual",I am able to take time to care about my emotional health.,0.5109461545944214
+"Emotional, Spiritual",My feelings of sadness and anger are a strong influence on my mental health.,0.5015788674354553
+"Emotional, Spiritual",I am able to cope with unnecessarily negative and potentially unhealthy feelings.,0.49203911423683167
+"Emotional, Spiritual",I can identify my emotions in the present and then control them.,0.4852268397808075
+"Emotional, Spiritual",My emotions are centered around my spirituality and self-love.,0.4735311269760132
+"Emotional, Spiritual",I can cope with my emotions when they are overly negative.,0.47292548418045044
+"Emotional, Spiritual",I feel better when my emotional and spiritual feelings are centered on positive thoughts.,0.4646216630935669
+"Emotional, Spiritual",I have been to a psychiatrist and I am not the one to treat my emotions.,0.4562397301197052
+"Emotional, Spiritual",I have a strong personality when facing life's challenges.,0.44343313574790955
+"Emotional, Spiritual",I am well aware of my emotions and are not a passive person.,0.4383017122745514
+"Emotional, Spiritual",I can deal with the fear of loss and anxiety.,0.43738487362861633
+"Emotional, Spiritual",I feel more at peace when dealing with life's challenges and difficulties.,0.4349216818809509
+"Emotional, Spiritual",My mental health levels are a positive reflection of my spiritual beliefs.,0.434509813785553
+"Emotional, Spiritual",I have a strong immune system and I am able to deal with stressful situations.,0.43069350719451904
+"Emotional, Spiritual",I am able to maintain an environment of calm and familiarity.,0.41757795214653015
+"Emotional, Spiritual",My mental health status has improved over the past year.,0.3950144946575165
+"Emotional, Spiritual",I am strong because of the experiences I have had.,0.38378530740737915
+"Emotional, Spiritual",I am very excited to have an emotional self-report.,0.3669261336326599
+"Emotional, Spiritual",My moods have deteriorated since I have had a physical physical exam.,0.3654836118221283
+"Emotional, Spiritual",I am happy and happy to be in the company of others and have people to take care of me.,0.3592017590999603
+"Emotional, Spiritual",I like to listen to other people's thoughts and feelings.,0.34342682361602783
+"Emotional, Spiritual","I have had a difficult time in the past, with bad times.",0.34028342366218567
+"Emotional, Spiritual",I often feel angry and sad because of my lack of friends.,0.33499112725257874
+"Emotional, Spiritual",I feel better when I'm out in the open.,0.3167552053928375
+"Environmental, Financial",I feel stressed out by the situation and therefore can't breathe.,0.3560233414173126
+"Environmental, Financial",I have a very difficult time sleeping because I cannot breathe comfortably.,0.34741902351379395
+"Environmental, Financial","I was stressed out by my own feelings, behaviors, or tendencies.",0.3462027907371521
+"Environmental, Financial",I often have trouble sleeping because I cannot breathe comfortably.,0.3420436680316925
+"Environmental, Financial",I've had problems sleeping because I cannot breathe comfortably.,0.3397938907146454
+"Environmental, Financial",I have had difficulties sleeping because I cannot breathe comfortably.,0.33961743116378784
+"Environmental, Financial",I have difficulty with concentrating and managing my emotions during stressful situations.,0.32688334584236145
+"Environmental, Financial",I have some difficulty managing my emotions during stressful situations.,0.32556790113449097
+"Environmental, Financial",I feel stress at home and the food I don't eat is expensive.,0.3239537477493286
+"Environmental, Financial",I feel stressed because I must work on my mind at night.,0.3228505253791809
+"Environmental, Financial","I am experiencing the following issues: financial stress, mental health and other psychological issues - a psychological self-report.",0.31305697560310364
+"Environmental, Financial",I have an ability to find healthy ways to spend my time.,0.2950608432292938
+"Environmental, Financial",My mental health has been deteriorating for the past month.,0.29063883423805237
+"Environmental, Financial",I've never had trouble sleeping because you cannot breathe comfortably.,0.28211429715156555
+"Environmental, Financial",My parents say I have always been in an unhealthy state of mind.,0.2714537978172302
+"Environmental, Financial",You have been having a problem sleeping over the last month.,0.26639366149902344
+"Environmental, Financial","My depression and anxiety have contributed to my health problems, as well as my desire to continue using alcohol.",0.26564374566078186
+"Environmental, Financial",I have difficulty sleeping because I have to get up to use the bathroom?,0.2609253227710724
+"Environmental, Financial",I have a good understanding of how my health affects my finances.,0.2561684250831604
+"Environmental, Financial",I have been using my brain for a few weeks and I am able to concentrate on my own goals.,0.2513490617275238
+"Environmental, Financial",I am not able to afford the family I have.,0.24206820130348206
+"Environmental, Financial",I am likely to spend more time in my home.,0.2389831840991974
+"Environmental, Financial",I often have to use the bathroom and have to make the most of the time available.,0.23158057034015656
+"Environmental, Financial",My family is a concern and my finances are very high.,0.21640905737876892
+"Environmental, Financial",I have been feeling self-centered since I was a child.,0.21224215626716614
+"Environmental, Financial",I was spending a lot of money on a new house.,0.20304575562477112
+"Environmental, Financial",I am grateful to family and friends who gave me support.,0.17648209631443024
+"Environmental, Financial","The first two self-report items, ""I have a strong immune system,"" describe personal feelings, behaviors, or tendencies.",0.17497767508029938
+"Environmental, Financial",I was at home with the family a couple weeks ago.,0.16268019378185272
+"Environmental, Financial",I have a relationship with a close and secure person.,0.13672859966754913
+"Environmental, Intellectual",I find it difficult to relax when my environment is clean and organized.,0.560123085975647
+"Environmental, Intellectual",I find it easier for me to relax when my living space is clean and organized.,0.5468205809593201
+"Environmental, Intellectual",I find it easier to relax in my living space.,0.5400314927101135
+"Environmental, Intellectual",I am more relaxed when my living space is clean and organized.,0.5355924963951111
+"Environmental, Intellectual",I have good moods and feel more at ease in my living space.,0.5214447379112244
+"Environmental, Intellectual",I feel more relaxed in my surroundings than I will ever be in another environment.,0.5214051008224487
+"Environmental, Intellectual",I find it easier to get rest and relax in my surroundings.,0.5178855657577515
+"Environmental, Intellectual",I feel more at ease in my surroundings which challenge me to think and reason.,0.5056499242782593
+"Environmental, Intellectual",I find that activities which require me to concentrate make it harder for me to relax.,0.502281129360199
+"Environmental, Intellectual",I can deal with stress better when I have the right environment.,0.4993065893650055
+"Environmental, Intellectual",I feel a sense of calmness after my environment gets a little stressful.,0.49290499091148376
+"Environmental, Intellectual",I have mood swings and anxiety and I can feel less at ease in environments which are calm and familiar.,0.4918458163738251
+"Environmental, Intellectual",I feel more comfortable being in a clean and organized environment.,0.4890497922897339
+"Environmental, Intellectual",I feel more at ease in my surroundings that are calm and familiar.,0.4886886477470398
+"Environmental, Intellectual",I am less likely to relax in the evenings or the mornings.,0.47239717841148376
+"Environmental, Intellectual",I enjoy activities which challenge me to think and reason.,0.43964436650276184
+"Environmental, Intellectual",I can relax when I have nothing to worry about.,0.4270598888397217
+"Environmental, Intellectual",I feel at ease when my home is clean and organized.,0.4193713665008545
+"Environmental, Intellectual",I enjoy activities which challenge my thinking and reasoning abilities.,0.4171869158744812
+"Environmental, Intellectual",I am more at peace in my surroundings when I am in a calm and familiar environment.,0.4006496071815491
+"Environmental, Intellectual",I don't feel like I am relaxing because I have been depressed and worried.,0.39441797137260437
+"Environmental, Intellectual",I feel more at ease and less afraid when I feel lonely.,0.39135196805000305
+"Environmental, Intellectual",I do not like things that require me to concentrate.,0.39023423194885254
+"Environmental, Intellectual",I don't like to do activities that cause me to think and reason.,0.38963764905929565
+"Environmental, Intellectual","I enjoy living in a clean, neat and organized home.",0.3721015453338623
+"Environmental, Intellectual",I have more feelings and behaviors than I have thoughts and feelings.,0.3682498335838318
+"Environmental, Intellectual",I feel less stressed when I go to bed early.,0.3547343313694
+"Environmental, Intellectual",I have the most mental health problems in my life.,0.3454873859882355
+"Environmental, Intellectual",I have a sense of well-being and a sense of well-being.,0.32938385009765625
+"Environmental, Intellectual",I use less than the recommended amount of self-report time.,0.16629701852798462
+"Environmental, Occupational",My environment plays an important part in my overall well-being.,0.7101675868034363
+"Environmental, Occupational",My environment plays a vital role in my overall well-being.,0.7069850564002991
+"Environmental, Occupational",My environment is a good environment for me to take care of myself.,0.705562174320221
+"Environmental, Occupational",My environment is a key indicator of my well-being.,0.6908758282661438
+"Environmental, Occupational",My living environment plays a key role in my wellbeing.,0.6847532391548157
+"Environmental, Occupational",My environment plays a huge role in my overall health.,0.6771181225776672
+"Environmental, Occupational",My environment is the most important element of my wellbeing.,0.6685208082199097
+"Environmental, Occupational",I want my environment to be comfortable and I can take care of myself.,0.6540665626525879
+"Environmental, Occupational",My environment has an effect on my mood and happiness.,0.6514602303504944
+"Environmental, Occupational",I feel better when my environment supports my overall well-being.,0.6417083144187927
+"Environmental, Occupational","My environment is a good place to spend a quiet, comfortable day.",0.6391220092773438
+"Environmental, Occupational",I feel more comfortable when my living environment supports my overall well-being.,0.6372236013412476
+"Environmental, Occupational",My environment does a good job of protecting me from stress.,0.637214183807373
+"Environmental, Occupational",My environment and environment both make me feel less comfortable.,0.6363828778266907
+"Environmental, Occupational",My environment has made it easier for me to relax.,0.6339172720909119
+"Environmental, Occupational",My surroundings are an important part of my well-being.,0.6064883470535278
+"Environmental, Occupational",I have improved my mental health by improving my environment.,0.5803344249725342
+"Environmental, Occupational",My surroundings help me to feel more comfortable and relaxed.,0.5650802850723267
+"Environmental, Occupational",I find it easier to take care of myself in a healthy environment.,0.5599935054779053
+"Environmental, Occupational",I am in the mood to be in my own environment.,0.5573312044143677
+"Environmental, Occupational",I need to keep my environment clean to keep myself energized.,0.5525907874107361
+"Environmental, Occupational",I'm trying to decide if my environment can help me focus on my emotions.,0.5509647727012634
+"Environmental, Occupational",My environment is a good source of stimulent and support.,0.549968421459198
+"Environmental, Occupational",I feel more comfortable and more calm in my environment.,0.545868992805481
+"Environmental, Occupational",I enjoy the fact that my surroundings are beautiful and I get to take care of myself.,0.5442468523979187
+"Environmental, Occupational",My environment has changed dramatically over the past few years.,0.5380770564079285
+"Environmental, Occupational",My home environment has a negative impact on my mood and mood.,0.5309244394302368
+"Environmental, Occupational","I do not like my environment for many reasons, including noise or clutter",0.5060740113258362
+"Environmental, Occupational",I want to make sure my surroundings are clean and organized.,0.45059311389923096
+"Environmental, Occupational",I want my living space to be clean and organized.,0.38718485832214355
+"Environmental, Physical",My physical health is not the same as my mental health.,0.57676100730896
+"Environmental, Physical",My physical health can affect my overall mood and well being.,0.5726150870323181
+"Environmental, Physical",I enjoy my physical health but it has made me feel unwell.,0.5584196448326111
+"Environmental, Physical",My mental health depends on the physical aspect of my body,0.5570950508117676
+"Environmental, Physical",My physical health is a good thing but I don't believe that it will change.,0.5461522936820984
+"Environmental, Physical",I am sure my physical health is improving and I work very hard to improve it.,0.5390878319740295
+"Environmental, Physical",My physical health does not have a major impact on how well I function.,0.5331454873085022
+"Environmental, Physical",I don't know if I'm being physically healthy or mentally healthy.,0.5242131352424622
+"Environmental, Physical",My physical health is at a high risk of being debilitating.,0.5167772769927979
+"Environmental, Physical",I do not expect a healthy physical or mental health.,0.5151198506355286
+"Environmental, Physical",I expect to have physical health for the long term.,0.5149200558662415
+"Environmental, Physical",My physical health is a good measure of my physical health.,0.5136452913284302
+"Environmental, Physical",My mental health measures how well I function day to day.,0.5117827653884888
+"Environmental, Physical",My body appears to be healthy daily and my health is in excellent condition.,0.5000786185264587
+"Environmental, Physical",My mental health takes some time to change based on my lifestyle.,0.4997825026512146
+"Environmental, Physical",I have a physical health condition that I feel a little bit worse than before.,0.4928150177001953
+"Environmental, Physical",I have a mental health problem that affects how well I function day to day.,0.4895402193069458
+"Environmental, Physical",I hope that the mental health of my body will improve.,0.48620834946632385
+"Environmental, Physical",I want to be physically healthy but haven't changed my environment.,0.464873731136322
+"Environmental, Physical","I have a sense of fulfillment, but not a measure of physical health.",0.4621955156326294
+"Environmental, Physical",I have a physical health score of at least 2 stars.,0.44678929448127747
+"Environmental, Physical",My mental health will be normal after the first week.,0.43514907360076904
+"Environmental, Physical",I enjoy being physically healthy and enjoying my physical health.,0.4322878420352936
+"Environmental, Physical",I have a health condition that makes it difficult for me to have a proper diet.,0.4068240821361542
+"Environmental, Physical","I have been living with mental health issues, and it is very clear that I have a mental health crisis.",0.3830561339855194
+"Environmental, Physical",I am the only one who believes in the health of others.,0.3728647530078888
+"Environmental, Physical",I don't think I have a strong immune system.,0.34372177720069885
+"Environmental, Physical",I can't understand why I have a hard time coping with the stress of life.,0.3030663728713989
+"Environmental, Physical",I can't stand to feel sick and angry all the time.,0.2973543703556061
+"Environmental, Physical",I have been eating a lot of fruits and vegetables over the past few years.,0.2888970971107483
+"Environmental, Social",I am well aware of my environment and social relationships.,0.4647604823112488
+"Environmental, Social",I feel unsafe and uncertain when people are around me.,0.4647543728351593
+"Environmental, Social",I can't live in the right environment with my social relationships.,0.463514506816864
+"Environmental, Social",I feel safe and comfortable in social relationships with people.,0.4616139829158783
+"Environmental, Social",I have yet to experience any positive emotions or tendencies with others.,0.4399159550666809
+"Environmental, Social",I feel safe when I am around other people and my environment is safe.,0.43609869480133057
+"Environmental, Social",I have not experienced many safe and comfortable relationships with others.,0.4311717450618744
+"Environmental, Social",I feel safe when people around me but not with me.,0.4305017292499542
+"Environmental, Social",I have experienced poor social and environmental relationships with others.,0.4282604455947876
+"Environmental, Social",I have lived in a dysfunctional environment for a very long time.,0.4127315580844879
+"Environmental, Social",I feel like I have no other relationships with other people.,0.4121241867542267
+"Environmental, Social",I have experienced great relationships with people but have not experienced good and trusting relationships with others.,0.4088386595249176
+"Environmental, Social",I have experienced good relationships with people but not with me,0.40036705136299133
+"Environmental, Social",I can't maintain my feelings despite being around others.,0.3994530439376831
+"Environmental, Social","I have many supportive, safe relationships with my loved ones.",0.38896873593330383
+"Environmental, Social",I have a negative perception of people and people around me.,0.3863672912120819
+"Environmental, Social","I am very conscious of my environment, but it makes me feel very fragile.",0.38587960600852966
+"Environmental, Social",I feel safe and comfortable in the spaces around me.,0.3768467307090759
+"Environmental, Social",I've not been able to improve my mental health with my environment.,0.3580319285392761
+"Environmental, Social",I am more interested in my environment and social environment.,0.3487720787525177
+"Environmental, Social",I feel safe when the space around me is predictable and comfortable.,0.34526169300079346
+"Environmental, Social",I have been around my family for over five years.,0.34282758831977844
+"Environmental, Social",I am not able to manage my emotional feelings successfully during stressful situations.,0.3294218182563782
+"Environmental, Social",I have been alone for years and have been abused at times.,0.32383692264556885
+"Environmental, Social",I have some behavioural problems and my environment can change over time.,0.3076324462890625
+"Environmental, Social",I like to be alone and I don't like to be alone.,0.303523451089859
+"Environmental, Social",I have been self-reported to be a safe and healthy person.,0.2931402921676636
+"Environmental, Social",I have a family that is with me but not with me,0.2899641692638397
+"Environmental, Social",I have been taking my mental health care to another level.,0.2884288430213928
+"Environmental, Social",I like to use different media to share personal experiences and situations with others.,0.22438561916351318
+"Environmental, Spiritual",I find my physical surroundings are affecting my mental health.,0.6290575265884399
+"Environmental, Spiritual",I feel the physical effects of my surroundings have a noticeable effect on my mental health.,0.6209028363227844
+"Environmental, Spiritual",I like to see my physical surroundings as an impact on my mental health.,0.6170953512191772
+"Environmental, Spiritual",I feel more comfortable in my surroundings when my mood aligns with my needs.,0.6064878106117249
+"Environmental, Spiritual",I feel more comfortable when my physical surroundings are calm and familiar.,0.6023989915847778
+"Environmental, Spiritual",My physical surroundings are the source of my mental health.,0.5988117456436157
+"Environmental, Spiritual",I have a healthy balance of psychological and physical surroundings.,0.5973493456840515
+"Environmental, Spiritual",I use my physical surroundings and the conditions of my surroundings to affect my mental health.,0.5931901335716248
+"Environmental, Spiritual","I think the environment and surroundings of my family, friends and friends have an influence on my mental health.",0.5920621156692505
+"Environmental, Spiritual",I feel better when my physical surroundings match my needs.,0.5893805027008057
+"Environmental, Spiritual",I feel less at peace when my physical surroundings make it harder for me to relax.,0.5867845416069031
+"Environmental, Spiritual",I feel more comfortable and at peace in the environment.,0.5725512504577637
+"Environmental, Spiritual",I think that my physical surroundings cause me to get sad.,0.5604566931724548
+"Environmental, Spiritual",I am more relaxed in my surroundings than in my physical surroundings.,0.5580302476882935
+"Environmental, Spiritual",I feel less at peace in environments that are calm and familiar.,0.5555132031440735
+"Environmental, Spiritual","I feel happier in a calm and familiar environment than in a chaotic, noisy environment.",0.543479323387146
+"Environmental, Spiritual",I have a mental health issue that affects my physical surroundings.,0.5369977355003357
+"Environmental, Spiritual",I like to live in more calm spaces and environments.,0.5270145535469055
+"Environmental, Spiritual",I feel more at peace in my surroundings when my needs match my needs.,0.525685727596283
+"Environmental, Spiritual",I want to know how my physical and spiritual surroundings affect my mental health.,0.5219752788543701
+"Environmental, Spiritual",I feel at peace in my surroundings that match my needs.,0.5136646032333374
+"Environmental, Spiritual",I want to find out if my surroundings affect my mood or feeling.,0.5100560188293457
+"Environmental, Spiritual","I like the idea that a healthy environment could help me with stress, anxiety, depression, and anxiety.",0.4963342547416687
+"Environmental, Spiritual",I am more comfortable in spaces that are calm and familiar.,0.4717238247394562
+"Environmental, Spiritual",I feel more comfortable living in places that I know and trust.,0.45720526576042175
+"Environmental, Spiritual",I feel less comfortable in the presence of people that occupy my home.,0.4480288624763489
+"Environmental, Spiritual",I use negative self-talk to tell myself a lot about my surroundings.,0.4477657973766327
+"Environmental, Spiritual",I feel at peace in the space that is calm and familiar.,0.4457957446575165
+"Environmental, Spiritual",I have a negative impact on my mood and coping behavior.,0.4265245795249939
+"Environmental, Spiritual","I am in a mental health crisis, I believe that things happen for a reason.",0.3759889602661133
+"Financial, Intellectual",I feel that I am financially motivated to make a wise decision about my future financial situation.,0.5544283390045166
+"Financial, Intellectual",I feel motivated by being aware of my financial situation.,0.5541990995407104
+"Financial, Intellectual",I am feeling more organized and have a clear financial situation.,0.5461864471435547
+"Financial, Intellectual",I feel more satisfied with the results of my financial situation.,0.5447888970375061
+"Financial, Intellectual",I have a feeling of well-being when I have a clear financial situation.,0.5391127467155457
+"Financial, Intellectual",I have a clear financial situation and feel informed about my financial situation.,0.5375087261199951
+"Financial, Intellectual",I can do many things that my financial situation affects.,0.5361910462379456
+"Financial, Intellectual",I have a well-defined goal of living and I have a healthy financial situation.,0.5324217081069946
+"Financial, Intellectual",I can make my financial decisions that support my long-term needs.,0.5232625007629395
+"Financial, Intellectual",I feel less financially secure when I have a clear financial situation.,0.5213652849197388
+"Financial, Intellectual",I am more focused when I have a clear financial plan.,0.5102346539497375
+"Financial, Intellectual",I feel less worried about my finances than I ever have before.,0.5087976455688477
+"Financial, Intellectual",I feel satisfied and motivated to keep my family's finances in order.,0.5041667819023132
+"Financial, Intellectual",I am able to make more income while keeping my financial goals in mind.,0.5039435625076294
+"Financial, Intellectual",I am very happy that I have a clear financial situation.,0.5022497773170471
+"Financial, Intellectual",I feel more conscious and self-reported about my financial situation.,0.49912458658218384
+"Financial, Intellectual",I am financially stable because I manage my emotions effectively.,0.4819275140762329
+"Financial, Intellectual",I am able to make a conscious decision that supports my long-term needs.,0.46981412172317505
+"Financial, Intellectual",I want to be able to manage my finances effectively.,0.465641051530838
+"Financial, Intellectual",I am able to balance current expenses with future goals.,0.448460191488266
+"Financial, Intellectual",I feel less self-centered when I have an uncontrolled amount of money.,0.4407791793346405
+"Financial, Intellectual",I feel more motivated to make decisions for the future.,0.4259655475616455
+"Financial, Intellectual",I have high levels of attention deficit disorder and am well-balanced on my income.,0.38467225432395935
+"Financial, Intellectual",I have depression but I am able to make decisions.,0.37768808007240295
+"Financial, Intellectual",I feel less confident because I fear losing my job.,0.3430252969264984
+"Financial, Intellectual",I am good at managing emotions and feeling good at being more organized.,0.3414103388786316
+"Financial, Intellectual",I feel less dependent upon the world for income than the world could.,0.33899587392807007
+"Financial, Intellectual",I am good at identifying my emotional and mental health challenges.,0.2904004454612732
+"Financial, Intellectual",I am not sure if I have a plan in place.,0.2818540632724762
+"Financial, Intellectual",I have been given a unique and unique self-report self-report.,0.17311584949493408
+"Financial, Occupational",I feel more likely to be financially successful after managing my finances.,0.6283422112464905
+"Financial, Occupational",I am better at managing my finances and have a stable life.,0.6218903660774231
+"Financial, Occupational",I feel more responsible and confident in my financial situation.,0.6163530945777893
+"Financial, Occupational",I am happier and more successful when my finances are under control.,0.6124522686004639
+"Financial, Occupational",I feel better financially and more independent when my finances are in control.,0.6023430824279785
+"Financial, Occupational",I feel more determined to make decisions about my finances.,0.6016075015068054
+"Financial, Occupational","I feel financially secure, and I am able to make decisions about my money.",0.6009291410446167
+"Financial, Occupational",I can have confidence in my finances and feel more comfortable when I look at my finances.,0.5838192701339722
+"Financial, Occupational",I am more financially stable when I have the money.,0.5826329588890076
+"Financial, Occupational",My finances have a positive impact on my personal life.,0.5796430706977844
+"Financial, Occupational",I am able to balance my financial situation with future goals.,0.5743696689605713
+"Financial, Occupational",I have the ability to focus on my health and finances.,0.5732620358467102
+"Financial, Occupational",I am better in my financial situation and better at making wise decisions about my future.,0.570493221282959
+"Financial, Occupational",I am happier and more confident because of my money.,0.5609442591667175
+"Financial, Occupational",I feel financially secure when I have a financial advantage.,0.5570363402366638
+"Financial, Occupational",I can make better financial decisions and make better decisions.,0.549636721611023
+"Financial, Occupational",I feel happy and excited when my finances are under control.,0.5473477244377136
+"Financial, Occupational",I feel financially stable after my financial situation is under control.,0.5432578325271606
+"Financial, Occupational",I'm able to budget effectively and manage my financial responsibilities.,0.5405532717704773
+"Financial, Occupational",My finances are under control and my goals are on track.,0.5377054810523987
+"Financial, Occupational",I feel less stressed and less anxious about my finances.,0.529484212398529
+"Financial, Occupational",I feel more likely to make savings in the future.,0.5075258612632751
+"Financial, Occupational",I am more capable of making decisions that support my long-term needs.,0.501419723033905
+"Financial, Occupational",I can control my finances and pay for household necessities.,0.4883038401603699
+"Financial, Occupational",I feel happy and happy with the health I have.,0.3831394910812378
+"Financial, Occupational",I am confident and able to do a good job.,0.37886303663253784
+"Financial, Occupational",I feel more focused on my career after I leave school.,0.3765344023704529
+"Financial, Occupational",I am more prepared to manage my emotions effectively during stressful situations.,0.3315163552761078
+"Financial, Occupational",I have better self-report mental health in my personal life.,0.2783294916152954
+"Financial, Occupational",I am not as healthy as a lot of people.,0.1885080337524414
+"Financial, Physical",I am feeling more prepared to handle routine financial responsibilities.,0.5353793501853943
+"Financial, Physical",I have a feeling that I am prepared to handle routine financial responsibilities.,0.5329481959342957
+"Financial, Physical",I feel financially balanced and able to make decisions that support my long-term needs.,0.5314497351646423
+"Financial, Physical",I am planning my spending habits that support my long-term needs.,0.513631284236908
+"Financial, Physical",I am able to spend my savings with my long-term needs.,0.5093998312950134
+"Financial, Physical",I am less stressed in the past and am able to spend my money wisely.,0.5005792379379272
+"Financial, Physical",I am ready to deal with financial and physical responsibilities.,0.4979267120361328
+"Financial, Physical",My financial planning allows me to make decisions that support my long-term needs.,0.49496394395828247
+"Financial, Physical",I feel that my financial situation has been limiting me in the past.,0.4915153682231903
+"Financial, Physical",I have an adjusted spending plan that supports my long-term needs.,0.4839452803134918
+"Financial, Physical",I feel more stressed out because I have limited financial resources.,0.4833773672580719
+"Financial, Physical",I have a clear financial plan and are able to budget without feeling overwhelmed.,0.48154136538505554
+"Financial, Physical",I am not sure I am prepared to handle routine financial responsibilities.,0.4779720604419708
+"Financial, Physical",I feel more determined to make better decisions for my long-term needs.,0.47781825065612793
+"Financial, Physical",I am able to plan my spending without feeling overwhelmed.,0.47419729828834534
+"Financial, Physical",I am happy to be able to make savings and a clear financial plan.,0.470262736082077
+"Financial, Physical",I feel like I am having a good financial year.,0.46907445788383484
+"Financial, Physical",I think I am likely mentally healthy because I've been unable to survive financial responsibilities.,0.4453262388706207
+"Financial, Physical",I have limited resources and resources in my financial responsibilities.,0.4448533356189728
+"Financial, Physical",I have been making a plan for my long-term needs.,0.43755677342414856
+"Financial, Physical","My feelings, behaviors, or tendencies have been influenced by financial and physical conditions.",0.42217370867729187
+"Financial, Physical",My budget has allowed me to do more on time.,0.4038141965866089
+"Financial, Physical",I'm planning to withdraw from life and to begin a new life.,0.3858829438686371
+"Financial, Physical",I feel empowered and happy to do what I need to do.,0.34106066823005676
+"Financial, Physical",I feel mentally healthier than when I first started to get on track.,0.3208600878715515
+"Financial, Physical",I feel less prepared to manage my emotions during stressful situations.,0.3183318078517914
+"Financial, Physical",I've had physical and psychological changes in the past.,0.3175910413265228
+"Financial, Physical",I am able to make a plan and have access to my credit cards.,0.31415873765945435
+"Financial, Physical",I am not as well-balanced as I used to be.,0.22816132009029388
+"Financial, Physical",I have been feeling worse than I did in the past.,0.21079978346824646
+"Financial, Social",My financial situation influences how I feel about my finances.,0.6674028635025024
+"Financial, Social",My financial situation affects my feelings about spending and social relationships.,0.655997633934021
+"Financial, Social",I find that my financial situation has affected my choices in daily life.,0.6372615098953247
+"Financial, Social",My financial situation influences what I choose in daily life.,0.6313954591751099
+"Financial, Social",My financial situation influences my decisions in my daily life.,0.6293246746063232
+"Financial, Social",My financial situation is affected by a broader range of people’s social and financial situations.,0.6265459656715393
+"Financial, Social",I find my financial situation influences my choices in daily life.,0.6253759264945984
+"Financial, Social",I feel less stable if my financial situation is in control.,0.6199080944061279
+"Financial, Social",I feel more stable when my financial situation is under control.,0.617037832736969
+"Financial, Social",I am more financially secure when my finances are under control.,0.6160505414009094
+"Financial, Social",I think I am more balanced in my financial situation than my social life.,0.6158065795898438
+"Financial, Social",My financial situation influences what I want to do in my life.,0.6140578985214233
+"Financial, Social",I feel more self-reportable when my financial situation affects my social relationships.,0.6058635115623474
+"Financial, Social",I feel less financially secure when my social relationships are under control.,0.6026563048362732
+"Financial, Social",My financial situation affects my self-report and social relationship.,0.6009583473205566
+"Financial, Social",I feel more self-report if my financial situation influences my social relationships.,0.598781943321228
+"Financial, Social",My finances and social relationships can affect how much I am happy.,0.597374439239502
+"Financial, Social",I am emotionally stable when I have no financial status.,0.5969671010971069
+"Financial, Social",My financial situation is affected by financial decisions that I make.,0.5792891383171082
+"Financial, Social","I think my financial situation is very poor, so I am able to balance my needs.",0.5764639377593994
+"Financial, Social",I feel happier when my financial situation is well managed.,0.5740655064582825
+"Financial, Social",I feel more confident and secure than my financial situation is.,0.5703976154327393
+"Financial, Social",I felt more independent when my finances were under control.,0.5512702465057373
+"Financial, Social",My financial situation is a contributing factor to my mental health problems.,0.542369544506073
+"Financial, Social",I am less financially secure than I have in the past.,0.526154637336731
+"Financial, Social",I want to know how secure I feel when I'm in my financial and social life.,0.5253821611404419
+"Financial, Social",I felt more stable when my social relationships are under control.,0.460007905960083
+"Financial, Social",I do not have a stable relationship with my family.,0.3926588296890259
+"Financial, Social",I feel less stable when my social relationships are superficial.,0.389699250459671
+"Financial, Social",I do not think I have any mental health issues.,0.2675168812274933
+"Financial, Spiritual","I have a healthy balance of my finances, but also have a good balance of my spiritual and financial goals.",0.5380273461341858
+"Financial, Spiritual",I have a healthy and balanced balance of my finances and spirituality.,0.5329660177230835
+"Financial, Spiritual","Financial and Spiritual Self-Report: My mood is better, so is my financial and spiritual well-being.",0.525212824344635
+"Financial, Spiritual",I have a healthy relationship with my finances and spirituality.,0.5240795612335205
+"Financial, Spiritual",I know that I can take care of my finances and my spiritual health.,0.5008397102355957
+"Financial, Spiritual",I have a higher level of financial and spiritual health than the previous self-report.,0.496329665184021
+"Financial, Spiritual",I have a belief in both spirituality and financial health.,0.47998473048210144
+"Financial, Spiritual",The financial and spiritual aspects of your life may have a direct impact on your mood.,0.45869722962379456
+"Financial, Spiritual",Life is often unpredictable and it is hard to balance finances and spiritually.,0.4550529718399048
+"Financial, Spiritual","I know if my finances are stable and what my financial needs are, so I can change my habits.",0.43544334173202515
+"Financial, Spiritual",Financial and Spiritual self-report statements are a self-report.,0.4205065369606018
+"Financial, Spiritual","The more I think of money and spirituality, the happier I will be.",0.4095694422721863
+"Financial, Spiritual",I feel uncertain about what I should do for my finances.,0.4046068489551544
+"Financial, Spiritual",I have learned to love finances and to enjoy the world.,0.4024283289909363
+"Financial, Spiritual",I am feeling emotionally better and have a positive outlook on my life.,0.4021608531475067
+"Financial, Spiritual",A person may not have money and need to balance its financial and spiritual needs.,0.402044415473938
+"Financial, Spiritual",I feel like I can balance my emotional and spiritual lives.,0.3997807800769806
+"Financial, Spiritual",A self-report is a self-report about personal finances and spirituality.,0.3917078375816345
+"Financial, Spiritual",A self-report needs to describe how spiritually healthy you are.,0.3911522924900055
+"Financial, Spiritual",The writer describes how he or she feels financially and spiritually.,0.38044285774230957
+"Financial, Spiritual",My finances have been a major issue in the past year.,0.37824442982673645
+"Financial, Spiritual",I understand my budget and my life is full of surprises.,0.35560184717178345
+"Financial, Spiritual",I'm not sure how to balance my current expenses with future goals.,0.3462907671928406
+"Financial, Spiritual",I'm not sure how financially I've behaved this past month.,0.32266491651535034
+"Financial, Spiritual","I am happy and energetic, and I am willing to go with my gut instincts.",0.28111615777015686
+"Financial, Spiritual","I know how much I miss my family, friends, and future.",0.2800462245941162
+"Financial, Spiritual",I can relate to other people's feelings and behaviors.,0.2791735827922821
+"Financial, Spiritual",I have trouble focusing and focus in my daily life.,0.23938800394535065
+"Financial, Spiritual",I am self-reported and have a strong immune system,0.202350914478302
+"Financial, Spiritual",A self-report needs to be clearly and concisely written and include a clear subject reference.,0.18947477638721466
+"Intellectual, Occupational","I find that intellectual stimulation makes me happy, and I feel fulfilled at work.",0.579546332359314
+"Intellectual, Occupational",I feel happy with the amount of intellectual stimulation I receive.,0.5789631605148315
+"Intellectual, Occupational",I am satisfied with my intellectual stimulation and my work.,0.5763199925422668
+"Intellectual, Occupational","I am happy with my work, studies, and intellectual stimuli.",0.5634536147117615
+"Intellectual, Occupational",I find the amount of intellectual stimulation I receive in my daily life to be essential to my overall well-being.,0.5612799525260925
+"Intellectual, Occupational",I find my intellectual stimulation essential to my overall well-being.,0.5554046630859375
+"Intellectual, Occupational",I find satisfaction with completing the tasks I need to complete each day.,0.5516331195831299
+"Intellectual, Occupational",I found my intellectual stimulation to be vital to my overall well-being.,0.5441036820411682
+"Intellectual, Occupational",I am satisfied with doing the things I need to do every day.,0.5297414660453796
+"Intellectual, Occupational",I feel good in the areas of intellectual stimulation I find helpful.,0.5288351774215698
+"Intellectual, Occupational",I find myself pleased and motivated by the work or study I have taken in the past.,0.5231281518936157
+"Intellectual, Occupational",I feel that intellectual stimulation can be helpful to my overall well-being.,0.5197599530220032
+"Intellectual, Occupational","I am happy, motivated, and motivated by my daily activities.",0.5195855498313904
+"Intellectual, Occupational",I find it hard to get through my routine and enjoy intellectual stimulation.,0.5133254528045654
+"Intellectual, Occupational","I like intellectual stimulation, but I have difficulty focusing on my work.",0.49899300932884216
+"Intellectual, Occupational",I feel pleased and content with what I receive in my daily life.,0.48196324706077576
+"Intellectual, Occupational",I feel confident in my ability to take action in my daily life.,0.48194411396980286
+"Intellectual, Occupational",I feel proud of the things I have accomplished in my daily life.,0.47778841853141785
+"Intellectual, Occupational",I am happy to be able to complete important tasks and gain the recognition that I needed.,0.4774954319000244
+"Intellectual, Occupational","I enjoy being productive, I am motivated to finish what I have worked for the past year, and I enjoy being motivated for the next year.",0.47661516070365906
+"Intellectual, Occupational",I feel proud of what I can do to achieve goals.,0.452169805765152
+"Intellectual, Occupational",I believe that I am not happy with my work or studies.,0.4355708062648773
+"Intellectual, Occupational",I find it important to be able to work effectively in stressful situations.,0.4163818359375
+"Intellectual, Occupational",I found the attention I received in my daily life was a positive one.,0.4151059091091156
+"Intellectual, Occupational","I like to work hard, but sometimes I feel overwhelmed.",0.41059619188308716
+"Intellectual, Occupational",I enjoy the way my brain interprets science and mathematics.,0.37005966901779175
+"Intellectual, Occupational",I think I'm not working or studying and feel like I'm having an intellectual or psychedelic problem.,0.3569388687610626
+"Intellectual, Occupational","Generally, I find it hard to achieve my goals because of their perceived lack of motivation.",0.3564233183860779
+"Intellectual, Occupational",I think my day-to-day schedule is very stressful.,0.3457866609096527
+"Intellectual, Occupational",I find the information I need to make certain decisions.,0.24732695519924164
+"Intellectual, Physical",I think about my physical well-being when I do something.,0.5283358097076416
+"Intellectual, Physical",I feel good about my mental health and physical health.,0.5116245150566101
+"Intellectual, Physical",I feel healthy and satisfied with my physical well-being.,0.5010589361190796
+"Intellectual, Physical",I feel happy that I am able to maintain habits that support my physical well-being.,0.49882784485816956
+"Intellectual, Physical",I feel glad that I have intellectual stimulation and physical well-being.,0.4912019371986389
+"Intellectual, Physical",I feel happy that I feel able to cope with my physical health issues.,0.48536166548728943
+"Intellectual, Physical",I have a healthy lifestyle that is centered around my intellectual stimulation.,0.4692291021347046
+"Intellectual, Physical",My physical health may be more important than my mental health.,0.4563911259174347
+"Intellectual, Physical",I feel healthy if I maintain my physical well-being.,0.4504379332065582
+"Intellectual, Physical","Generally, I feel the physical stimulation I receive in my daily life.",0.4470116198062897
+"Intellectual, Physical",I use a variety of activities to get me to concentrate.,0.42175957560539246
+"Intellectual, Physical",I feel like I have the ability to communicate with my body.,0.4183369576931
+"Intellectual, Physical",I believe that I will feel more self-satisfied and healthier for life.,0.41264259815216064
+"Intellectual, Physical","I find my mental health improvement related to my physical well-being, though I don't think I have a strong immune system.",0.40865224599838257
+"Intellectual, Physical",I have the ability to achieve cognitive and physical development.,0.405070424079895
+"Intellectual, Physical",I think my physical health is worse than my mental health.,0.40442249178886414
+"Intellectual, Physical",I usually spend a lot of time focusing and thinking on problems.,0.40435999631881714
+"Intellectual, Physical",I use a brain to help me focus on my goals.,0.3931726813316345
+"Intellectual, Physical",I try to keep things quiet during my daily life.,0.3916868567466736
+"Intellectual, Physical",I don't take any physical actions which require my physical well-being.,0.3830379247665405
+"Intellectual, Physical","I have learned that if I get into activities that require me to concentrate and I work through it, I am more aware of my ability to concentrate and concentrate",0.37962764501571655
+"Intellectual, Physical","I feel well prepared to participate in physical activities, like a math competition.",0.3790311813354492
+"Intellectual, Physical",I often have to take a lot of time to concentrate.,0.36916857957839966
+"Intellectual, Physical",I have a stress response to various events and situations.,0.36794188618659973
+"Intellectual, Physical",I find it hard to concentrate on something that is hard for me.,0.3678247332572937
+"Intellectual, Physical",I tend to lose track of time while doing something I enjoy.,0.36720842123031616
+"Intellectual, Physical",I feel well prepared for the work I have to do in the workplace.,0.34883826971054077
+"Intellectual, Physical",I have a very high level of self-esteem and confidence.,0.33033308386802673
+"Intellectual, Physical",I feel less stressed and relieved than I did because I pushed myself to do it.,0.3117873966693878
+"Intellectual, Physical",I have been feeling sad for the past few months due to a physical exhaustion,0.28977566957473755
+"Intellectual, Social",I have had intellectual challenges and tendencies that I tend to ignore.,0.4071294963359833
+"Intellectual, Social",I am less likely to suffer from intellectual and social challenges.,0.39553046226501465
+"Intellectual, Social",I find my physical health related to intellectual challenges to be essential to my overall well-being.,0.38749411702156067
+"Intellectual, Social",My self-report reflects social and intellectual challenges to me.,0.3860723376274109
+"Intellectual, Social",I have also found my emotional challenges to be vital to my overall well-being.,0.38446053862571716
+"Intellectual, Social","My personal feelings, behaviors, or tendencies are not shared by those around me",0.38404175639152527
+"Intellectual, Social",My personality is not in the right place at the right time.,0.38348615169525146
+"Intellectual, Social",I think my ideas and behaviors are essential to my overall well-being,0.37943845987319946
+"Intellectual, Social",I enjoy intellectual challenges and am influenced by people with strong opinions.,0.37829679250717163
+"Intellectual, Social",I have a strong immune system and enjoy my social activities.,0.37525475025177
+"Intellectual, Social",I have a tendency to focus on problem-solving and am not in control of my mood,0.3723810315132141
+"Intellectual, Social",I can't be trusted and can't manage my emotions.,0.366148442029953
+"Intellectual, Social",I am active in social life but am not socially engaged,0.3599323034286499
+"Intellectual, Social",I like social issues to be a positive and positive feeling.,0.35972321033477783
+"Intellectual, Social","My self-report describes my emotional, intellectual, and social personality traits.",0.35502320528030396
+"Intellectual, Social",I have tried to be social for the past two years.,0.35178273916244507
+"Intellectual, Social",I am not satisfied with my personal growth and happiness.,0.3475657105445862
+"Intellectual, Social",I am having problems with my intellectual and social development.,0.3335535526275635
+"Intellectual, Social",My mind-body system is not clear and focused on self-help and other related issues.,0.3326476216316223
+"Intellectual, Social",I have a tendency to use social support in stressful situations.,0.32172244787216187
+"Intellectual, Social",I have a tendency to impulsively follow my own decisions.,0.3185867369174957
+"Intellectual, Social",My hobbies and passions are not shared by my family and friends.,0.31611132621765137
+"Intellectual, Social",I find I am not aware of my strengths and vulnerabilities.,0.3013361692428589
+"Intellectual, Social",I am not the ideal person to have a sense of self-worth.,0.28550395369529724
+"Intellectual, Social","I have never had a difficult time with social interactions, especially in interpersonal situations.",0.27860796451568604
+"Intellectual, Social",I like being around people who are unbiased and objective.,0.2704877257347107
+"Intellectual, Social","I am experiencing a number of mental health disorders, including ADHD and ADHD.",0.24912483990192413
+"Intellectual, Social",I am more likely to develop phobias of those around me.,0.24369503557682037
+"Intellectual, Social",I am afraid of my physical body and how I may feel.,0.21231621503829956
+"Intellectual, Social","I enjoy the outdoors, but I can't stand the cold.",0.17509861290454865
+"Intellectual, Spiritual",I believe I find intellectual challenges to be vital to my overall well-being.,0.5456361174583435
+"Intellectual, Spiritual",I feel the need to overcome intellectual challenges to have a purposeful and meaningful life.,0.5447164177894592
+"Intellectual, Spiritual",I believe that intellectual challenges are vital to my overall well-being.,0.5246227383613586
+"Intellectual, Spiritual",I think that intellectual challenges are essential to my overall well-being.,0.5246105790138245
+"Intellectual, Spiritual",I am happy with my current intellectual stimulation and I will seek out activities that challenge my thinking and reasoning.,0.5228750109672546
+"Intellectual, Spiritual",I find it important to have new experiences that challenge my thinking and thinking about myself and the world.,0.5155396461486816
+"Intellectual, Spiritual",I find myself challenged by new experiences that challenge my thinking and reasoning.,0.5100686550140381
+"Intellectual, Spiritual",I feel I have the ability to focus and think in an objective way.,0.49662086367607117
+"Intellectual, Spiritual","I feel confident and motivated, and able to make choices that challenge my thinking.",0.49229896068573
+"Intellectual, Spiritual",I feel relieved that I can successfully deal with intellectual challenges.,0.4899342656135559
+"Intellectual, Spiritual",I want to know what you're able to do with your intellectual and spiritual challenges.,0.48923438787460327
+"Intellectual, Spiritual",I feel excited about activities I find interesting and challenge me to think and reason.,0.4849887192249298
+"Intellectual, Spiritual",I think it is important to have new experiences that challenge me to think and reason.,0.480779230594635
+"Intellectual, Spiritual",I am very confident that my ability to think and reason has evolved.,0.4388154149055481
+"Intellectual, Spiritual",I know that intellectual challenges can be helpful to the human condition.,0.4370461702346802
+"Intellectual, Spiritual",I believe challenges can help me to develop self-help and spiritual behaviors.,0.43680402636528015
+"Intellectual, Spiritual",I know that I want to be an intellectual and spiritual self-report.,0.42960384488105774
+"Intellectual, Spiritual",I feel able to maintain my overall physical and cognitive health.,0.4212309420108795
+"Intellectual, Spiritual",I am a psychologist and I feel confident in my abilities and abilities to make decisions.,0.4202195107936859
+"Intellectual, Spiritual",I think my current goals are not to make me crazy by having a lot of challenges.,0.40095290541648865
+"Intellectual, Spiritual",I feel physically and spiritually stimulated by physical and intellectual stimulation.,0.3968763053417206
+"Intellectual, Spiritual",I have learned that I can stay focused and think clearly.,0.3924037218093872
+"Intellectual, Spiritual",I feel a desire to lead a purposeful and meaningful life.,0.3912579119205475
+"Intellectual, Spiritual","I am looking to change my way of thinking, and I am thinking to myself as well.",0.38860926032066345
+"Intellectual, Spiritual",I have a unique personality style and approach to life.,0.38658007979393005
+"Intellectual, Spiritual",I am grateful to the ways I have developed myself in the past.,0.3793804943561554
+"Intellectual, Spiritual",I feel the same way about what I want to do and what I can achieve and should do.,0.3705129325389862
+"Intellectual, Spiritual",I was happy that I was able to manage my emotions effectively in stressful situations.,0.34930235147476196
+"Intellectual, Spiritual",I do not like to be bored or downtrodden at times.,0.32111871242523193
+"Intellectual, Spiritual",I am not sure what cognitive impairment I have been receiving since I left school.,0.22901000082492828
+"Occupational, Physical",I have a physical health which affects my functioning daily.,0.63722825050354
+"Occupational, Physical",My health affects how well I function daily to day.,0.6215307712554932
+"Occupational, Physical",My physical health affects my ability to function day to day.,0.6212719678878784
+"Occupational, Physical",My physical health affects my daily functioning day to day.,0.6189310550689697
+"Occupational, Physical",My health impacts how well I function day to day.,0.6137690544128418
+"Occupational, Physical",My personal health is a measure of how well I function daily.,0.6105960607528687
+"Occupational, Physical",My health is a major factor in how well I function day to day.,0.5935916900634766
+"Occupational, Physical",My physical health has been good or bad for many years.,0.5896672606468201
+"Occupational, Physical",I am happy that I have a good physical health.,0.5511782169342041
+"Occupational, Physical",I feel a lot more optimistic about my physical health than I did in the past.,0.549486517906189
+"Occupational, Physical",I’m trying to live a life where I can enjoy my physical health.,0.5436201095581055
+"Occupational, Physical",I was told that I needed to be physically healthy based on my physical health.,0.5426393747329712
+"Occupational, Physical",My physical health has changed dramatically over the last year.,0.5392820835113525
+"Occupational, Physical",I feel more energetic and in control of my physical health than my past physical health.,0.5369518995285034
+"Occupational, Physical",My health has influenced my self-development and the way I interact with others.,0.532188892364502
+"Occupational, Physical",I have a physical health condition which is extremely physical.,0.5291556715965271
+"Occupational, Physical",I have been to several medical centers to see how healthy I was.,0.5266392230987549
+"Occupational, Physical",My mental health has a lot to do with my lifestyle.,0.5251966714859009
+"Occupational, Physical",I have the physical health of a person and I expect it.,0.5238134860992432
+"Occupational, Physical",I have a physical health that causes me anxiety and depression.,0.5187243819236755
+"Occupational, Physical",I believe physical health is the most important part of my health.,0.517815351486206
+"Occupational, Physical",I am a self-reporter who has a good physical health.,0.48734909296035767
+"Occupational, Physical",I have been working on my mental health for years.,0.46574288606643677
+"Occupational, Physical",I feel I'm physically better than I should be.,0.45086216926574707
+"Occupational, Physical",My mental health has changed over the past couple of years.,0.4440486431121826
+"Occupational, Physical",I am satisfied with how well I function day to day.,0.4372122287750244
+"Occupational, Physical","I can't perform at my full capacity, and that's why I don't have any physical health.",0.4139646291732788
+"Occupational, Physical",I sat down to write a self-report about how well I function.,0.38302573561668396
+"Occupational, Physical",How well do you feel after you eat a lot of food?,0.2725381851196289
+"Occupational, Physical",I am very good at managing my emotions at work and at home.,0.25749632716178894
+"Occupational, Social",I am very self-aware of my mental health issues.,0.34922221302986145
+"Occupational, Social","I was told that I was a ""good person"" in all parts of my life, but I've struggled to overcome those characteristics.",0.3489168882369995
+"Occupational, Social",People described me as a loving person who wanted to share their time with others.,0.34550002217292786
+"Occupational, Social",I have been around people all my life and sometimes I feel I am alone.,0.3432750403881073
+"Occupational, Social","I think I am happy and happy, but I lack companionship.",0.33583757281303406
+"Occupational, Social","I think I am a good person, willing to share my time with others.",0.33255428075790405
+"Occupational, Social",I feel as if I am doing poorly in my work or school and in my personal life.,0.332512766122818
+"Occupational, Social",People describe me as a person that loves others but I do not like people around me,0.31627851724624634
+"Occupational, Social",People would describe me as being honest and loving and understanding.,0.3109123706817627
+"Occupational, Social",I can't express my feelings or experiences with others.,0.3106766641139984
+"Occupational, Social",I feel self-loathing but I struggle with social relationships.,0.305277943611145
+"Occupational, Social",I have a feeling that I can feel the pain of being alone.,0.29944565892219543
+"Occupational, Social",I feel inferior to most of the people I knew.,0.28378909826278687
+"Occupational, Social",I am feeling unappreciated and cheated on many important things in life.,0.2835291624069214
+"Occupational, Social",I am grateful to have a positive influence on others.,0.27340933680534363
+"Occupational, Social",I have been around people that have been around me and that do not have me,0.27005666494369507
+"Occupational, Social","My personality describes myself, so I am usually comfortable in situations.",0.26989683508872986
+"Occupational, Social",I am happy in a job that I have the pride to go on.,0.26415565609931946
+"Occupational, Social",My mental health score has improved in the past few years.,0.2578648328781128
+"Occupational, Social",My mood swings have been better because of my mental health.,0.25623682141304016
+"Occupational, Social",The survey asked participants to describe the personal behaviors and abilities that they find important in their life.,0.25583598017692566
+"Occupational, Social","I am good at fulfilling tasks, but also I am not able to keep up with my work and study.",0.25264620780944824
+"Occupational, Social",How have you been treating me for the last 3 years?,0.24808093905448914
+"Occupational, Social",I am a self-reporting self-porter who knows what I like and what I don't.,0.24395371973514557
+"Occupational, Social",I am grateful to have someone around me to talk to.,0.23532243072986603
+"Occupational, Social",My family has been close to me for over 8 years.,0.2251686155796051
+"Occupational, Social",I've been very close to people but haven't shown any significant change since the survey.,0.21074531972408295
+"Occupational, Social","If I am having self-harm, how would you describe this?",0.20275411009788513
+"Occupational, Social","My physical health has been poor, but I can't move forward and I have chronic anxiety",0.19204175472259521
+"Occupational, Social",I am having difficulty in concentrating and keeping up with work.,0.19019685685634613
+"Occupational, Spiritual",I do everything I can to have a purposeful and meaningful life.,0.43177273869514465
+"Occupational, Spiritual","Personal feelings, behaviors, or tendencies make you feel great in your life.",0.4244195222854614
+"Occupational, Spiritual",You perform tasks or have goals in life that make you feel good.,0.41940557956695557
+"Occupational, Spiritual",I feel that I work hard and can do my best in life.,0.41317933797836304
+"Occupational, Spiritual",I take time to reflect on how I have been doing in my life.,0.41241493821144104
+"Occupational, Spiritual",I am very good at my work and I am able to focus on my mental health.,0.40679848194122314
+"Occupational, Spiritual",To what extent do you engage in meaningful work in your life?,0.39727360010147095
+"Occupational, Spiritual",Your thoughts and feelings are important to you and your goals are important to you.,0.396896094083786
+"Occupational, Spiritual","My personal feelings, behaviors, or tendencies are self-reported in this self-report.",0.3902517855167389
+"Occupational, Spiritual",I am strong in my work and are productive in my life.,0.38918596506118774
+"Occupational, Spiritual",My ability to maintain a sense of purpose in my life.,0.3889094591140747
+"Occupational, Spiritual",To what extent do you feel a sense of purpose in your life?,0.38528183102607727
+"Occupational, Spiritual",To what extent do you experience self-development and development.,0.3821697533130646
+"Occupational, Spiritual",My thoughts and feelings help to make a life meaningful.,0.3773101568222046
+"Occupational, Spiritual",My self-report measures all the following elements of my personality:,0.3730025589466095
+"Occupational, Spiritual","I enjoy my work, work for my health and work for my family.",0.37034347653388977
+"Occupational, Spiritual",Your occupation contributes to your sense of direction in life.,0.3703429400920868
+"Occupational, Spiritual",I find myself at the forefront of activities I take time to explore.,0.36748191714286804
+"Occupational, Spiritual",To what extent do you follow a clear and meaningful lifestyle?,0.3595428466796875
+"Occupational, Spiritual",Personal opinions and feelings are important to self-report mental health.,0.3537431061267853
+"Occupational, Spiritual",I am self-reporting for my physical and spiritual self-reporting self-report.,0.3492823541164398
+"Occupational, Spiritual",I believe that people who are successful and healthy often have positive impact on their mental and physical health.,0.3441695272922516
+"Occupational, Spiritual",To what extent do you take ownership in your life?,0.3363220989704132
+"Occupational, Spiritual","You are not good at your job or in your religion, but you are capable of helping others.",0.3041990399360657
+"Occupational, Spiritual","The best way to help you determine what is most important to you is to have a clear, specific focus.",0.3033822476863861
+"Occupational, Spiritual",I want to make a positive impact on the world.,0.292114794254303
+"Occupational, Spiritual",Do you feel like you work hard in the long run?,0.27393925189971924
+"Occupational, Spiritual",I am happy in my work but have trouble concentrating.,0.2696186602115631
+"Occupational, Spiritual",A self-reporting self-reporting self-reporting self-reporting self-reporting a self-report,0.2425180971622467
+"Occupational, Spiritual",You should not include a single personality type in your self-report.,0.24061548709869385
+"Physical, Social","My personal health has improved over the past few years, how do you describe your physical health?",0.46471890807151794
+"Physical, Social",I have a feeling that my physical health is not good.,0.461742639541626
+"Physical, Social",My mental health has improved dramatically in the past year.,0.44959065318107605
+"Physical, Social",My mental health was not at its best in the past two years.,0.4456401467323303
+"Physical, Social",My physical health is improved by a change in my lifestyle.,0.4360803961753845
+"Physical, Social",I have been healthy for the past year and the past three years.,0.42689263820648193
+"Physical, Social",I have been taking care of my mental health over the past few months.,0.415469229221344
+"Physical, Social","I am healthy and happy, but I think my past health was good.",0.41493213176727295
+"Physical, Social","Compared to people I know, how is your mental health?",0.41375279426574707
+"Physical, Social",You described how well your mental health was during a recent clinical study.,0.40802860260009766
+"Physical, Social","I am healthy, but I have trouble keeping up with my physical health",0.3975381553173065
+"Physical, Social","I was healthy for the past year, but I haven't been healthy in the past year.",0.39535319805145264
+"Physical, Social","I have been sick, injured, or injured in the past few years.",0.39324086904525757
+"Physical, Social",How does your mental health vary from person to person?,0.38551077246665955
+"Physical, Social",I am physically healthy enough to function at school or university level.,0.37340685725212097
+"Physical, Social","I am feeling depressed and need to take care of myself, but I have not.",0.3617473542690277
+"Physical, Social",I am generally a good person but frequently struggle with depression.,0.36110803484916687
+"Physical, Social",I have been at a mental health center for two months now.,0.34432169795036316
+"Physical, Social",I am having difficulty focusing on my physical and social features.,0.34074535965919495
+"Physical, Social","I have a weak immune system, and I feel a bit more emotional than others.",0.34043702483177185
+"Physical, Social","Compared to people who have the same age and sex, how is your health?",0.3378114402294159
+"Physical, Social",I don't want to focus on physical and social issues,0.313285768032074
+"Physical, Social","I am well rested, I am feeling well, I like most parts of my personality.",0.2956770658493042
+"Physical, Social",I am happy to be alive despite the loss of physical energy.,0.295355886220932
+"Physical, Social",I am very healthy and I am having trouble losing weight.,0.29389408230781555
+"Physical, Social",A self-report that describes the physical and social aspects of your personality,0.2892358899116516
+"Physical, Social","I feel like I am going to fall into a sleepy, sleazy trance or something.",0.25514230132102966
+"Physical, Social",I can't stand stressful situations without showing my feelings.,0.24950063228607178
+"Physical, Social","I am not sure what the disease is, but I do not know the symptoms.",0.14350625872612
+"Physical, Social",I want to know how often my roommate reported legs twitching or jerking while asleep?,0.12405858933925629
+"Physical, Spiritual",My physical health is great and I'm happy to live to see it improve.,0.571118175983429
+"Physical, Spiritual","I am a healthy person, my physical health is excellent.",0.5688644647598267
+"Physical, Spiritual",My body is able to take care of my physical health well.,0.5672821998596191
+"Physical, Spiritual",I have a strong immune system and feel good about my physical health.,0.5472986102104187
+"Physical, Spiritual",I am satisfied with my physical health and believe that my body needs improvement.,0.5446431636810303
+"Physical, Spiritual",My physical health has improved greatly over the past year.,0.5386872887611389
+"Physical, Spiritual","I have physical health, but I expect it to improve.",0.5369513630867004
+"Physical, Spiritual",My physical health has been in the same position for a while now.,0.5344021320343018
+"Physical, Spiritual",I am happy about my physical health and feel it is great.,0.526910126209259
+"Physical, Spiritual",My physical health is not enough to support my physical health.,0.521499752998352
+"Physical, Spiritual",I feel like a well-rounded person in my physical health.,0.5136674642562866
+"Physical, Spiritual",I want to improve my physical health by taking good care of my body.,0.49844232201576233
+"Physical, Spiritual",I like the way I have a lot of health and well-being.,0.4888496994972229
+"Physical, Spiritual",I think I will recover from physical illness very well.,0.4855327606201172
+"Physical, Spiritual",I have been physically and spiritually healthy for 10 years now.,0.4706191122531891
+"Physical, Spiritual",I enjoy being healthy and taking care of my body.,0.46677133440971375
+"Physical, Spiritual",My body is able to cope with the stresses of life.,0.46586042642593384
+"Physical, Spiritual",I worry about my mental health more than I worry about my physical health,0.46069180965423584
+"Physical, Spiritual",My physical health does not seem to be working right.,0.4554547667503357
+"Physical, Spiritual",I take good care of my body and the heart.,0.4538698196411133
+"Physical, Spiritual",I don't know how you feel about physical illness.,0.4423452913761139
+"Physical, Spiritual",I need to keep my body strong enough to take good care of it.,0.41316908597946167
+"Physical, Spiritual",I am unable to care for myself in the same way I have other body parts.,0.40519610047340393
+"Physical, Spiritual",I will be able to communicate my mental health to others.,0.40164950489997864
+"Physical, Spiritual",I know I should have a stronger immune system to avoid catching illnesses.,0.3811069428920746
+"Physical, Spiritual",My body seems to be able to manage my emotions effectively.,0.3526715934276581
+"Physical, Spiritual",I've suffered from mental health disorders and want to change them.,0.2951870858669281
+"Physical, Spiritual",I think I can control my emotions during stressful situations.,0.2722565829753876
+"Physical, Spiritual",I'm living my own life and I'm an apologist.,0.24340496957302094
+"Physical, Spiritual",I have been feeling bad since my first bad fall.,0.21626000106334686
+"Social, Spiritual",I have not experienced good interpersonal relationships with others in the past.,0.5434913039207458
+"Social, Spiritual",I have not experienced much social or spiritual support with others.,0.5006381273269653
+"Social, Spiritual",I have not experienced many happy or peaceful experiences with others.,0.4992660582065582
+"Social, Spiritual",I have not experienced much physical and emotional health with people.,0.47865721583366394
+"Social, Spiritual",I have not felt confident among strangers in my own life.,0.47446122765541077
+"Social, Spiritual",I have not lived in a secure and loving relationship with anyone in the past.,0.47233161330223083
+"Social, Spiritual",I have not been physically present in a social setting for many years.,0.4696328639984131
+"Social, Spiritual",I have not always felt confident and safe among strangers.,0.4566255211830139
+"Social, Spiritual",I have not been well-balanced and emotionally stable in the past.,0.4545103907585144
+"Social, Spiritual",I have not enjoyed many warm and safe relationships with others.,0.4399799406528473
+"Social, Spiritual",I have not always felt sure of myself among strangers.,0.4375598132610321
+"Social, Spiritual",I have a feeling that I am socially and spiritually vulnerable in the past.,0.43396925926208496
+"Social, Spiritual",I have been feeling isolated in society and in the community.,0.43376025557518005
+"Social, Spiritual",I have never experienced any close and secure relationships with others.,0.43114298582077026
+"Social, Spiritual",I have not found friendships with people I could trust.,0.4261634349822998
+"Social, Spiritual","I have not had people, family, friends, or social support.",0.42609113454818726
+"Social, Spiritual",I have been unhappy with myself and have not felt positive about myself.,0.42456111311912537
+"Social, Spiritual",I have been a rough person and have not always had a close and secure relationship with people.,0.421405553817749
+"Social, Spiritual",I have not lived with any close and close friends.,0.4206729829311371
+"Social, Spiritual",I have no specific social or spiritual concerns with friends.,0.4166646897792816
+"Social, Spiritual",I have found that I am less open and trusting than I used to be.,0.4013121426105499
+"Social, Spiritual","My personal feelings, behaviors, and tendencies have not been consistent with my goals and self-worth.",0.3997940421104431
+"Social, Spiritual",I have not learned to accept people and to enjoy life.,0.39714014530181885
+"Social, Spiritual",I have been affected by a variety of emotional issues.,0.37082934379577637
+"Social, Spiritual","My personal thoughts, behaviors, or tendencies are not accounted for in this self-report.",0.3232989013195038
+"Social, Spiritual",I have experienced very poor social skills and have not received the support I need to be a healthy person.,0.31898394227027893
+"Social, Spiritual",I have been close to someone in the past and have enjoyed spending time with them in the past.,0.3147020637989044
+"Social, Spiritual",My self-report is a self-port for social and spiritual,0.3005297780036926
+"Social, Spiritual","I have a strong immune system, feeling good in some things.",0.27246421575546265
+"Social, Spiritual",I have been at the onset of psychosis in the past.,0.27139726281166077
